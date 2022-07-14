@@ -3,7 +3,7 @@
 
 Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of armor up to their Armor Cap determined by what skills they have purchased. If the character is not using Fencing or Stalwart defense, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of armor. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from their armor, the character must possess the appropriate armor item tag.
 
-## Armor and Combat
+### Armor and Combat
 
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
@@ -20,8 +20,6 @@ A character’s Armor Points are determined by the following:
 * The type of armor worn
 * The location of worn armor
 * The Armor Item Tag they possess
-
-
 
 ## Armor Types
 
@@ -49,7 +47,7 @@ Treated animal hide widely used as a cost effective means of protection, while r
 | Shoulders | 4 |
 | Torso | 8 |
 | Legs | 4 |
-| **Max Armor Bonus** | **20** |
+| ***Max Armor Bonus*** | ***20*** |
 
 
 ### Hard Leather
@@ -62,12 +60,7 @@ Hardened, formed leather that retains its shape and offers significantly more pr
 | Shoulders | 6 |
 | Torso | 12 |
 | Legs | 6 |
-| **Max Armor Bonus** | **30** |
-
-
-
-
-
+| ***Max Armor Bonus*** | ***30*** |
 
 ### Chain/Composite
 Concentric, interlocking metal rings that provide a lighter alternative to full platemail armor, and allows for greater flexibility at the cost of sacrificing protection from piercing and crushing weapon blows.
@@ -80,7 +73,7 @@ Concentric, interlocking metal rings that provide a lighter alternative to full 
 | Shoulders | 8 |
 | Torso | 16 |
 | Legs | 8 |
-| **Max Armor Bonus** | **40** |
+| ***Max Armor Bonus*** | ***40*** |
 
 
 ### Plate
@@ -93,7 +86,7 @@ Heavy, durable metal armor that provides superior protection from all manner of 
 | Shoulders | 16 |
 | Torso | 32 |
 | Legs | 16 |
-| **Max Armor Bonus** | **80** |	
+| ***Max Armor Bonus*** | ***80*** |	
 
 
 
