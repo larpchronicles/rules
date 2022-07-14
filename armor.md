@@ -1,47 +1,20 @@
-<!-----
 
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.579 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Wed Jul 13 2022 23:16:31 GMT-0700 (PDT)
-* Source doc: LARP Chronicles - Armor Rules
------>
-
-
-**<span style="text-decoration:underline;"> Armor Mechanics</span>**
+## Armor Mechanics
 
 Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of armor up to their Armor Cap determined by what skills they have purchased. If the character is not using Fencing or Stalwart defense, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of armor. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from their armor, the character must possess the appropriate armor item tag.
 
-**<span style="text-decoration:underline;">Armor and Combat</span>**
+## Armor and Combat
 
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
-Once a character’s Armor Points are below their maximum total, they may recover them through one of three methods:
-
-
-
+Once a character’s Armor Points are below their maximum total, they may recover them through one of three methods:  
 1. The Rapid Refit martial skill, which requires 5 seconds of uninterrupted roleplay to restore a character’s Armor Point total back to its maximum.
 2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character’s armor total back to its maximum.
 3. Using a Repair Kit, a crafted item by Smiths, cuts the roleplay time required to repair armor in half, to 30 seconds.
 
-**<span style="text-decoration:underline;">Armor Point Calculations</span>**
+## Armor Point Calculations
 
-A character’s Armor Points are determined by the following:
-
-
-
+A character’s Armor Points are determined by the following:  
 * Their purchased Armor Cap
 * Their active skills
 * The type of armor worn
@@ -50,99 +23,95 @@ A character’s Armor Points are determined by the following:
 
 
 
-**<span style="text-decoration:underline;">Armor Types:</span>**
+## Armor Types
 
-<span style="text-decoration:underline;">Cloth-</span> Thick, quilted layers designed to blunt the worst of an adversary’s blow and prevent immediately fatal strikes.
+### Cloth
 
-	Required: A three-layer, quilted fabric
+Thick, quilted layers designed to blunt the worst of an adversary’s blow and prevent immediately fatal strikes.  
+**Required** A three-layer, quilted fabric.
 
-	Max Armor Bonus: 10 total points
+| **Cloth Coverage** | **Armor Points** |
+| ----------- | ----------- |
+| Arms | 2 |
+| Shoulders | 2 |
+| Torso | 4 |
+| Legs | 2 |
+| **Max Armor Bonus** | **10** |
 
-
-
-* Arms- 2 points
-* Shoulders- 2 points
-* Torso- 4 points
-* Legs- 2 points
-
-<span style="text-decoration:underline;">Leather-</span> Treated animal hide widely used as a cost effective means of protection, while remaining soft and supple enough to be worked similarly to fabric without loss of the wearer’s mobility.
-
-	Required: Suede, supple leather, faux leather, or leather appearing fabric.
-
-	Max Armor Bonus: 20 total points
+### Leather
+Treated animal hide widely used as a cost effective means of protection, while remaining soft and supple enough to be worked similarly to fabric without loss of the wearer’s mobility.
+**Required**: Suede, supple leather, faux leather, or leather appearing fabric.
 
 
-
-* Arms- 4 points
-* Shoulders- 4 points
-* Torso- 8 points
-* Legs- 4 points
-
-
-
-<span style="text-decoration:underline;">Hard Leather-</span> Hardened, formed leather that retains its shape and offers significantly more protection against piercing and slashing than it’s non-hardened counterpart. Less heavy than traditional metal armor, and more cost effective for adventurers who lack coin.
-
-	Required: At least 4oz hardened veg tan leather, or analog that has the ability to retain its shape under mild pressure.
-
-	Max Armor Bonus: 30 points
+| **Leather Coverage** | **Armor Points** |
+| ----------- | ----------- |
+| Arms | 4 |
+| Shoulders | 4 |
+| Torso | 8 |
+| Legs | 4 |
+| **Max Armor Bonus** | **20** |
 
 
+### Hard Leather
+Hardened, formed leather that retains its shape and offers significantly more protection against piercing and slashing than it’s non-hardened counterpart. Less heavy than traditional metal armor, and more cost-effective for adventurers who lack coin.
+**Required**: At least 4oz hardened veg tan leather, or analog that has the ability to retain its shape under mild pressure.  
 
-* Arms- 6 points
-* Shoulders- 6 points
-* Torso- 12 points
-* Legs- 6 points
+| **Hard Leather Coverage** | **Armor Points** |
+| ----------- | ----------- |
+| Arms | 6 |
+| Shoulders | 6 |
+| Torso | 12 |
+| Legs | 6 |
+| **Max Armor Bonus** | **30** |
 
 
 
 
 
-<span style="text-decoration:underline;">Chain/Composite</span>- Concentric, interlocking metal rings that provide a lighter alternative to full platemail armor, and allows for greater flexibility at the cost of sacrificing protection from piercing and crushing weapon blows.
 
-Required: Chainmail, rigid interlocked or overlapping rings/plates, fabric with simulated/printed chainmail pattern.
+### Chain/Composite
+Concentric, interlocking metal rings that provide a lighter alternative to full platemail armor, and allows for greater flexibility at the cost of sacrificing protection from piercing and crushing weapon blows.
 
-Max Armor Bonus: 40 total points
+**Required**: Chainmail, rigid interlocked or overlapping rings/plates, fabric with simulated/printed chainmail pattern.
 
-
-
-* Arms- 8 points
-* Shoulders- 8 points
-* Torso- 16 points
-* Legs- 8 points
-
-<span style="text-decoration:underline;">Plate:</span> Heavy, durable metal armor that provides superior protection from all manner of enemy attacks.
-
-	Required: Solid formed metal plates, foam, plastic or other material that maintains its shape with firm pressure, preferably with an outward metallic appearance.
-
-	Max Armor Bonus: None.
+| **Chain Coverage** | **Armor Points** |
+| ----------- | ----------- |
+| Arms | 8 |
+| Shoulders | 8 |
+| Torso | 16 |
+| Legs | 8 |
+| **Max Armor Bonus** | **40** |
 
 
+### Plate
+Heavy, durable metal armor that provides superior protection from all manner of enemy attacks.
+**Required:** Solid formed metal plates, foam, plastic or other material that maintains its shape with firm pressure, preferably with an outward metallic appearance.
 
-* Arms- 16 points
-* Shoulders- 16 points
-* Torso- 32 points
-* Legs- 16 points
+| **Plate Coverage** | **Armor Points** |
+| ----------- | ----------- |
+| Arms | 16 |
+| Shoulders | 16 |
+| Torso | 32 |
+| Legs | 16 |
+| **Max Armor Bonus** | **80** |	
 
-**<span style="text-decoration:underline;">Armor Locations</span>**
+
+
+## Armor Locations
 
 While a player may wear armor wherever and however they choose as is thematically appropriate for their character, there are only 4 locations that will count toward a character’s final Armor Point total:
-
-
 
 * Arms- Left and Right
 * Shoulders- Left and Right
 * Legs- Left and Right
-* Torso
+* Torso - Front and Back
 
 If a character only wears half of a paired location (arms, shoulders, legs), they will only get half the given value for that armor. \
 Ex: Verse wears a plate pauldron on only his left shoulder, leaving his right shoulder uncovered. This means it would count as 8 armor instead of the full 16. If he happened to wear a chainshirt that covered his other shoulder, that would give him another 4 points of armor (half of Chainmail 8 for shoulder location.) For a total of 12 Armor from his two shoulders.
 
 
 
-**<span style="text-decoration:underline;">ARMOR LOCATION REFERENCE</span>**
-
-
-
+### ARMOR LOCATION REFERENCE
 <span style="text-decoration:underline;">For example:</span> Spurt the Kobold has purchased enough Armor Training to raise their total Armor Cap to 30 points.
 
 
