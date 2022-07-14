@@ -1,39 +1,8 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 5.959 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-| **Description** |  Docs to Markdown version 1.0β33 |
-* Wed Jul 13 2022 23:41:35 GMT-0700 (PDT)
-* Source doc: LARP Chronicles - Magic Spells
-* Tables are currently converted to HTML tables.
-
-WARNING:
-You have 4 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-| **Description** | *Casting Spells** |
+# Casting Spells
 Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a “spell packet”, a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use your magic.
  
-When casting a spell, first you must have a spell packet in hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. If you are touching the target directly, they have the ability to “refuse your touch cast”, causing you to expend the magic to no effect
-| **Description** | *A note on touch casting**:  Any spell may be touch cast. The target of a touch cast spell may refuse the touch cast, so long as they are capable of movement. Any and every offensive or negative touch cast spell is assumed to automatically be refused unless explicitly accepted by the target. \ |
+When casting a spell, first you must have a spell packet in hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. If you are touching the target directly, they have the ability to “refuse your touch cast”, causing you to expend the magic to no effect  
+**A note on touch casting**:  Any spell may be touch cast. The target of a touch cast spell may refuse the touch cast, so long as they are capable of movement. Any and every offensive or negative touch cast spell is assumed to automatically be refused unless explicitly accepted by the target.  
 You must be careful when casting spells, because if an enemy is within reach, or they have a ranged weapon, you risk your spell being disrupted mid-cast if they manage to strike you with a weapon blow, or if you take damage from any source during the incant. If your spell is disrupted, it is lost and you must complete a rest to recover it.
 
 Some spells require a “X count” to cast where X may be three or five.  This is always intended to be X number of seconds.
