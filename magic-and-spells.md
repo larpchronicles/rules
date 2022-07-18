@@ -176,6 +176,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |   |
 
 #### **Mana Bolt**
+|      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “I conjure a Mana Bolt 5.” |
 | **Description** |  This spell creates a bolt of magic that does 5 magic damage to the target. |
