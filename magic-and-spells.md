@@ -165,7 +165,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Description**  | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. |
 | **Duration**     | 20 seconds | |
-| **Incant**       | “I conjure a blinding light.”
+| **Incant**       | “I conjure a blinding light.” |
 
 #### **Glowing Light**   
 | Spell            | **Glowing Light** |
@@ -298,7 +298,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Description** |  Duration: Rest |
 | **Description** |  Incant: “I conjure an Enchanted Blade.” |
-| **Description** |  This spell will grant the target the ability to strike with magic damage against a single opponent of the target's choice. To use the Enchanted Blade, the target must state “I invoke Enchanted Blade", at which point they will have to choose the opponent that they may use magic damage against. This spell ends when 5 minutes have passed since the invocation, the opponent dies, or if the target rests.  This is a FOEBANE effect. |
+| **Description** |  This spell will grant the target the ability to strike with magic damage against a single opponent of the target's choice. To use the Enchanted Blade, the target must state “I invoke Enchanted Blade", at which point they will have to choose the opponent that they may use magic damage against. This spell ends when 5 minutes have passed since the invocation, the opponent dies, or if the target rests.  This is an AURA effect. |
 
 #### **Entrapment**
 | **Spell**            | **Entrapment** |
@@ -571,7 +571,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | 5 minutes |
 | **Incant**     | “Fiends of the dark nether, I bid this body to serve.” |
-| **Description** |  This spell will animate a freshly dead body to temporarily serve the caster of the spell. The result of this spell is a barely useful animated dead body. While animated, the death count of the body is halted. The animated corpse has no skills, cannot speak, and can only move at a slow walk. The animated corpse may attack with its base weapon damage or with base claws. Once the spell has ended, the death count resumes, and is free to go about its resurrection process. The spirit cannot be rebound by this spell until the next day or until the spirit resurrects and dies again. This is an ANIMATE effect and causes an UNDEAD effect. |
+| **Description** |  This spell will animate a freshly dead body to temporarily serve the caster of the spell. The result of this spell is a barely useful animated dead body. While animated, the death count of the body is halted. The animated corpse has no skills, cannot speak, and can only move at a slow walk. The animated corpse may attack with its base weapon damage or with base claws. Once the spell has ended, the death count resumes, and is free to go about its resurrection process. The spirit cannot be rebound by this spell until the next day or until the spirit resurrects and dies again. This is a VOICE CONTROL effect. |
 
 #### **Cause Weakness**
 | **Spell**            | **Cause Weakness** |
@@ -724,7 +724,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I offer you absolution.” |
 | **Description** |  This spell will do 50 points of damage to an undead creature. |
 * Curse
-| **Duration**     | 5 minutes |
+| **Duration**     | 20 Seconds |
 | **Incant**     | “By the spirits, I curse you.” |
 | **Description** |  This spell will cause the target to take double damage from all sources.  Damage doubling effects cannot be stacked.  This is a CURSE effect. |
 
@@ -867,7 +867,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “By nature, I purify this nourishment.” |
-| **Description** |  This spell will remove any toxins, diseases, and rot from one serving of food and one serving of potable fluid.  This will remove a TOXIN effect. |
+| **Description** |  This spell will remove any active effects from one serving of food and one serving of potable fluid. |
 
 
 
@@ -888,7 +888,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “By nature, I create a Deathbane Weapon.” |
-| **Description** |  This spell requires that the caster reduce their maximum health to half their usual until their next rest. This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add Magic damage to the weapon, fists, or claws for the duration of the spell. |
+| **Description** |  This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add Magic damage to the weapon, fists, or claws for the duration of the spell.  This is an AURA effect. |
 
 #### **Entangle Foot**
 | **Spell**            | **Entangle Foot** |
@@ -930,7 +930,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “By nature, I grant you freedom.” |
-| **Description** |  This spell will release the target from magical, and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, PIN, CONFINE. |
+| **Description** |  This spell will release the target from magical, and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, CONFINE. |
 
 
 
@@ -939,12 +939,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 
 
-#### **Command: Retreat**
-| **Spell**            | **Command: Retreat** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | “By nature, I command you to retreat.” |
-| **Description** |  This spell causes the target to immediately retreat 10 steps, if they can do so safely. The affected target may still attack and defend while By theing. The effect of this spell may not be stacked or extended. This spell is a STAGGER effect. |
+#### **Command: Kneel**
+| **Spell**            | **Command: Kneel**                                                                                                                                                                                                                                |
+|      :---        |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | Instant                                                                                                                                                                                                                                           |
+| **Incant**     | “By nature, I command you to kneel.”                                                                                                                                                                                                              |
+| **Description** | This spell forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this spell may not be stacked or extended.  This spell is a KNEEL effect. |
 
 #### **Command: Stun**
 | **Spell**            | **Command: Stun** |
@@ -1050,7 +1050,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “By nature, I create a Foebane against &lt;creature>.” |
-| **Description** |  This spell requires that the caster sacrifice 5 points of their maximum health until they next rest. This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add +5 base weapon damage to the damage of the weapon, fists, or claws for the duration of the spell. This damage is only effective against the type of creature named by the caster. The weapon will do no damage against any other type of creature until the duration expires.  This is a FOEBANE effect. |
+| **Description** |  This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add +5 base weapon damage to the damage of the weapon, fists, or claws for the duration of the spell. This damage is only effective against the type of creature named by the caster. The weapon will do no damage against any other type of creature until the duration expires.  This is a FOEBANE effect. |
 
 #### **Hold: Enemy**
 | **Spell**            | **Hold: Enemy** |
@@ -1262,7 +1262,7 @@ Solidify Undead
    </td>
    <td>Entangle Arms
 <p>
-Command: Retreat
+Command: Kneel
 <p>
 Command: Stun
    </td>
