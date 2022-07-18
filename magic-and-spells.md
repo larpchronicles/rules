@@ -160,7 +160,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Arcane Rank I
 
-#### __Blinding Light__
+#### **Blinding Light**
 | Spell            | **Blinding Light** |
 |      :---        |       :---         |
 | **Description**  | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. |
@@ -174,7 +174,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | 12 hours | |
 | **Incant**       | “I conjure a glowing light.” |
 | **Description** |   |
-* **Mana Bolt**
+
+#### **Mana Bolt**
 | **Duration**     | Instant |
 | **Incant**     | “I conjure a Mana Bolt 5.” |
 | **Description** |  This spell creates a bolt of magic that does 5 magic damage to the target. |
