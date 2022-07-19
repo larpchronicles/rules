@@ -7,10 +7,10 @@ Item production is the process by which characters are able to craft consumable 
 | _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
 | Alchemy | 3+1 | 2+1 | 1+1 | 1+1 | Foraging |
-| Artificing | 25 | 25 | 25 | 25 | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 | Rune Carving | 2+1 | 1+1 | 3+1 | 1+1 | Wood Carving |
 | Tinkering | 1+1 | 3+1 | 1+1 | 2+1 | Salvaging |
 | Smithing | 1+1 | 1+1 | 2+1 | 3+1 | Mining |
+| Artificing | 25 | 25 | 25 | 25 | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 
 | _**Harvesting Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
