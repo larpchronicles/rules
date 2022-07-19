@@ -152,6 +152,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
   </tr>
 </table>
 
+#### **Spell Name**
+| Spell           | **Spell Name** |
+|:---|:---------------|
+| **Duration**    | Duration       |
+| **Incant**      | “Call”         |
+| **Description** |                |
 
 # SPELLS
 [TOC]
@@ -163,17 +169,16 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 #### **Blinding Light**
 | Spell            | **Blinding Light** |
 |      :---        |       :---         |
-| **Description**  | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. |
 | **Duration**     | 20 seconds | |
 | **Incant**       | “I conjure a blinding light.” |
+| **Description**  | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. |
 
 #### **Glowing Light**   
 | Spell            | **Glowing Light** |
 |      :---        |       :---         |
-| **Description**  | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6” in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
 | **Duration**     | 12 hours | |
 | **Incant**       | “I conjure a glowing light.” |
-| **Description** |   |
+| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6” in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another.   |
 
 #### **Mana Bolt**
 | Spell            | **Mana Bolt** |
