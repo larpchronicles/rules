@@ -1,229 +1,32 @@
 # Crafting
 
-Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are four crafting skills with each one being supported by a material gathering skill.
+Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are four crafting skills with each one being supported by a material harvesting skill.
+
+## Crafting Skill Costs
 
 | _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
-| Alchemy |
-| Artificing |
-| Rune Carving |
-| Tinkering |
-| Smithing |
+| Alchemy | 3+1 | 2+1 | 1+1 | 1+1 | Foraging |
+| Artificing | 25 | 25 | 25 | 25 | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
+| Rune Carving | 2+1 | 1+1 | 3+1 | 1+1 | Wood Carving |
+| Tinkering | 1+1 | 3+1 | 1+1 | 2+1 | Salvaging |
+| Smithing | 1+1 | 1+1 | 2+1 | 3+1 | Mining |
 
 | _**Harvesting Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
 | Foraging | 3+1 | 2+1 | 1+1 | 1+1 | - |
-| Mining |
-| Salvaging |
-| Wood Carving |
+| Mining | 2+1 | 1+1 | 3+1 | 1+1 | - |
+| Salvaging | 1+1 | 3+1 | 1+1 | 2+1 | - |
+| Wood Carving | 2+1 | 1+1 | 3+1 | 1+1 | - |
 
 | _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
-| Alchemy Recycling |
-| Rune Recycling |
-| Smith Recycling |
-| Tinker Recycling |
+| Alchemy Recycling | 15 | 10 | 5 | 5 | 5 Ranks of Alchemy |
+| Rune Recycling | 10 | 5 | 15 | 5 | 5 Ranks of Rune Carving |
+| Smith Recycling | 5 | 5 | 10 | 15 | 5 Ranks of Smithing |
+| Tinker Recycling | 5 | 15 | 5 | 10 | 5 Ranks of Tinkering |
 
-<table>
-  <tr>
-   <td><strong>Production Skill </strong>
-   </td>
-   <td><strong>F</strong>
-   </td>
-   <td><strong>T</strong>
-   </td>
-   <td><strong>R</strong>
-   </td>
-   <td><strong>S</strong>
-   </td>
-   <td><strong>Prereqs</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Foraging
-   </td>
-   <td>3+1
-   </td>
-   <td>2+1
-   </td>
-   <td>1+1
-   </td>
-   <td>1+1
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Wood Carving
-   </td>
-   <td>2+1
-   </td>
-   <td>1+1
-   </td>
-   <td>3+1
-   </td>
-   <td>1+1
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Mining
-   </td>
-   <td>1+1
-   </td>
-   <td>1+1
-   </td>
-   <td>2+1
-   </td>
-   <td>3+1
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Salvaging
-   </td>
-   <td>1+1
-   </td>
-   <td>3+1
-   </td>
-   <td>1+1
-   </td>
-   <td>2+1
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Alchemy
-   </td>
-   <td>3+1
-   </td>
-   <td>2+1
-   </td>
-   <td>1+1
-   </td>
-   <td>1+1
-   </td>
-   <td>Foraging
-   </td>
-  </tr>
-  <tr>
-   <td>Rune Carving
-   </td>
-   <td>2+1
-   </td>
-   <td>1+1
-   </td>
-   <td>3+1
-   </td>
-   <td>1+1
-   </td>
-   <td>Wood Carving
-   </td>
-  </tr>
-  <tr>
-   <td>Smithing
-   </td>
-   <td>1+1
-   </td>
-   <td>1+1
-   </td>
-   <td>2+1
-   </td>
-   <td>3+1
-   </td>
-   <td>Mining
-   </td>
-  </tr>
-  <tr>
-   <td>Tinkering
-   </td>
-   <td>1+1
-   </td>
-   <td>3+1
-   </td>
-   <td>1+1
-   </td>
-   <td>2+1
-   </td>
-   <td>Salvaging
-   </td>
-  </tr>
-  <tr>
-   <td>Alchemy Recycling
-   </td>
-   <td>15
-   </td>
-   <td>10
-   </td>
-   <td>5
-   </td>
-   <td>5
-   </td>
-   <td>5 Ranks Alchemy
-   </td>
-  </tr>
-  <tr>
-   <td>Rune Recycling
-   </td>
-   <td>10
-   </td>
-   <td>5
-   </td>
-   <td>15
-   </td>
-   <td>5
-   </td>
-   <td>5 Ranks Rune Carving
-   </td>
-  </tr>
-  <tr>
-   <td>Smith Recycling
-   </td>
-   <td>5
-   </td>
-   <td>5
-   </td>
-   <td>10
-   </td>
-   <td>15
-   </td>
-   <td>5 Ranks Smithing
-   </td>
-  </tr>
-  <tr>
-   <td>Tinker Recycling
-   </td>
-   <td>5
-   </td>
-   <td>15
-   </td>
-   <td>5
-   </td>
-   <td>10
-   </td>
-   <td>5 Ranks Tinkering
-   </td>
-  </tr>
-  <tr>
-   <td>Artificing
-   </td>
-   <td>25
-   </td>
-   <td>25
-   </td>
-   <td>25
-   </td>
-   <td>25
-   </td>
-   <td>5 Ranks in Each Production Skill
-   </td>
-  </tr>
-</table>
-
-## Material Gathering Skills 
+## Material Harvesting Skills 
 
 #### Foraging
 >This skill is the prerequisite for the Alchemy Skill and is used to gather the materials for it. Foraging represents the character collecting herbs, making powders, and mixing base ingredients for use in Alchemy.
@@ -267,25 +70,51 @@ Item production is the process by which characters are able to craft consumable 
 >Characters can purchase a Workshop from Logistics for 10 Credits. Workshops have a durability of 10, and their durability is decreased each time they are used for an event by a given character. Workshops can be used to make large-scale batches of an item, doubling the total output for a single character. Ex: if you attempt to make 10 Heal Wounds potions, this would normally take you 30 Ranks in Alchemical materials. You could either spend 15 ranks, to make 5 potions which will get doubled by the Workshop, or spend the original 30 and get 20 potions instead.<br/>The Workshop must have a durability removed by Logistics during check-in in order to receive any batch production. More than one character may use a workshop for a given event, but each person who uses it will cost one durability.
 
 
-## Foraging
+## Gathering Skill Products
+### Foraging
+| _**Material Rank**_ | _**Product**_ | 
+| --- | --- |
+| I | Minor Alchemical Catalyst |
+| II | Lesser Alchemical Catalyst |
+| III | Moderate Alchemical Catalyst |
+| IV | Major Alchemical Catalyst |
+| V | Greater Alchemical Catalyst |
+| X | Ultimate Alchemical Catalyst |
 
-Rank I = Minor Alchemical Catalyst
+### Mining
+| _**Material Rank**_ | _**Product**_ | 
+| --- | --- |
+| I | Aluminum Ore |
+| II | Copper Ore |
+| III | Tin Ore |
+| IV | Nickel Ore |
+| V | Iron Ore |
+| X | Titanium Ore |
 
-Rank II  = Lesser Alchemical Catalyst
+### Scavenging
+| _**Material Rank**_ | _**Product**_ | 
+| --- | --- |
+| I | Tiny Scrap Parts |
+| II | Small Scrap Parts |
+| III | Medium Scrap Parts |
+| IV | Large Scrap Parts |
+| V | Huge Scrap Parts |
+| X | Massive Scrap Parts |
 
-Rank III = Moderate Alchemical Catalyst
+### Wood Carving
+| _**Material Rank**_ | _**Product**_ | 
+| --- | --- |
+| I | Rotten Wood |
+| II | Dried Wood |
+| III | Green Wood |
+| IV | Singed Wood |
+| V | Aged Wood |
+| X | Petrified Wood |
 
-Rank IV = Major Alchemical Catalyst
 
-Rank V = Greater Alchemical Catalyst
-
-Rank X = Ultimate Alchemical Catalyst
-
-## Alchemy
+## Alchemy Products
 
 ### Rank I
-
-
 
 #### Ingestible Toxin Catalyst
 >This catalyst will allow the user to convert any Alchemical Toxin to an ingestible form that may be laced into food or drink. The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag, and a Catalyst tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds.
@@ -398,21 +227,7 @@ Rank X = Ultimate Alchemical Catalyst
 #### Gaseous Concoction
    >This is a potion that when ingested will transform the character into a cloud of mist for the next minute. While in this form, the character is unable to move, communicate, cast spells, or activate magic items. This effect can be broken by the spell Reality Anchor. Once the effect ends, the character is silenced for the next 20 seconds as they recover from the effects of this alchemy. It takes 5 seconds to consume the concoction.
 
-## Mining
-
-Rank I = Aluminum Ore
-
-Rank II = Copper Ore
-
-Rank III = Tin Ore
-
-Rank IV = Nickel Ore
-
-Rank V = Iron Ore
-
-Rank X = Titanium Ore
-
-## Smithing
+## Smithing Products
 
 ### Rank I
 
@@ -524,26 +339,8 @@ Rank X = Titanium Ore
    >This creates a master work suit of armor that has a Armor rating of 80, with 10 Bonus Armor, and with 10 Durability.
 
 
-
-## Scavenging
-
-Rank I = Tiny Scrap Parts
-
-Rank II = Small Scrap Parts
-
-Rank III = Medium Scrap Parts
-
-Rank IV = Large Scrap Parts
-
-Rank V = Huge Scrap Parts
-
-Rank X = Massive Scrap Parts
-
-## Tinkering
-
+## Tinkering Products
 ### Rank I
-
-
 
 #### Mining Pickaxe
    >This is a crafted item for use with the Mining skill. The pickaxe will add an additional raw material rank to the character for each rank of Mining skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
@@ -627,22 +424,8 @@ Rank X = Massive Scrap Parts
 #### Unstable Armor Reinforcement
    >This odd device can be applied to a suit of armor, to help protect the wearer. However, the protective properties of this device push the armor past it's breaking point quickly. When putting this item on a suit of Armor, the Armor immediately loses 2 Durability. Furthermore, while this item is in effect, the wearer may expend points of Durability to Resist Physical. Once the Armor reaches 0 Durability, the Armor ceases functioning and the Unstable Armor Reinforcement crumbles. The Unstable Armor Reinforcement also crumbles after a single Rest period.
 
-## Wood Carving
 
-Rank I = Rotten Wood
-
-Rank II = Dried Wood
-
-Rank III = Green Wood
-
-Rank IV = Singed Wood
-
-Rank V = Aged Wood
-
-Rank X = Petrified Wood
-
-## Rune Carving 
-
+## Rune Carving Products
 ### Rank I
 
 #### Glowing Wand Stone 
@@ -715,7 +498,7 @@ Rank X = Petrified Wood
 #### Break Enslavement Rune
    >This rune is designed to cleanse the most powerful of mental magics from the core of another being. The user must touch the target and declare “Break Enslavement.” Any active ENSLAVEMENT effect on the target will immediately end. This item is consumed on use.
 
-## Artificing
+## Artificing Products
 
 >Artificing is a complex and daunting process that only the most dedicated of individuals dedicated to crafting can undertake. Only those with a decent grasp of all four crafting disciplines _(5 Ranks in each Skill)_ can walk the path of the Artificer, and it is this experience that will allow them to combine materials into effects that are greater than the sum of their parts, which many refer to as “Magic Items”. Artificers, like regular crafters, utilize recipes for their creations, though the recipe for a magic item is known as a Formula. All Artificers have access to a Standard Library of Formulas, which they may utilize at any time, given they have the appropriate materials to construct the desired item. Other items are known to exist, which are known as “Uncommon Formulas”, and Artificers may even attempt to invent their own, but these Formulas must first be created or discovered to utilize new and different items.
 
