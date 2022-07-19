@@ -6,18 +6,18 @@ Item production is the process by which characters are able to craft consumable 
 
 | _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
-| Alchemy | 3+1 | 2+1 | 1+1 | 1+1 | Foraging |
-| Rune Carving | 2+1 | 1+1 | 3+1 | 1+1 | Wood Carving |
-| Tinkering | 1+1 | 3+1 | 1+1 | 2+1 | Salvaging |
-| Smithing | 1+1 | 1+1 | 2+1 | 3+1 | Mining |
-| Artificing | 25 | 25 | 25 | 25 | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
+| [Alchemy](#alchemy-products) | 3+1 | 2+1 | 1+1 | 1+1 | Foraging |
+| [Rune Carving](#rune-carving-products) | 2+1 | 1+1 | 3+1 | 1+1 | Wood Carving |
+| [Tinkering](#tinkering-products) | 1+1 | 3+1 | 1+1 | 2+1 | Salvaging |
+| [Smithing](#smithing-products) | 1+1 | 1+1 | 2+1 | 3+1 | Mining |
+| [Artificing](#artificing-products) | 25 | 25 | 25 | 25 | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 
 | _**Harvesting Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
-| Foraging | 3+1 | 2+1 | 1+1 | 1+1 | - |
-| Mining | 2+1 | 1+1 | 3+1 | 1+1 | - |
-| Salvaging | 1+1 | 3+1 | 1+1 | 2+1 | - |
-| Wood Carving | 2+1 | 1+1 | 3+1 | 1+1 | - |
+| [Foraging](#foraging-products) | 3+1 | 2+1 | 1+1 | 1+1 | - |
+| [Mining](#mining-products) | 2+1 | 1+1 | 3+1 | 1+1 | - |
+| [Salvaging](#salvaging-products) | 1+1 | 3+1 | 1+1 | 2+1 | - |
+| [Wood Carving](#wood-carving-products) | 2+1 | 1+1 | 3+1 | 1+1 | - |
 
 | _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Item production is the process by which characters are able to craft consumable 
 
 
 ## Gathering Skill Products
-### Foraging
+### Foraging Products
 | _**Material Rank**_ | _**Product**_ | 
 | --- | --- |
 | I | Minor Alchemical Catalyst |
@@ -81,7 +81,7 @@ Item production is the process by which characters are able to craft consumable 
 | V | Greater Alchemical Catalyst |
 | X | Ultimate Alchemical Catalyst |
 
-### Mining
+### Mining Products
 | _**Material Rank**_ | _**Product**_ | 
 | --- | --- |
 | I | Aluminum Ore |
@@ -91,7 +91,7 @@ Item production is the process by which characters are able to craft consumable 
 | V | Iron Ore |
 | X | Titanium Ore |
 
-### Scavenging
+### Scavenging Products
 | _**Material Rank**_ | _**Product**_ | 
 | --- | --- |
 | I | Tiny Scrap Parts |
@@ -101,7 +101,7 @@ Item production is the process by which characters are able to craft consumable 
 | V | Huge Scrap Parts |
 | X | Massive Scrap Parts |
 
-### Wood Carving
+### Wood Carving Products
 | _**Material Rank**_ | _**Product**_ | 
 | --- | --- |
 | I | Rotten Wood |
