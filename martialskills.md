@@ -1145,18 +1145,18 @@ Requires the Devious Strike VII skill.
 ## **Defenses**
 
 
-_<span style="text-decoration:underline;">Armor Training</span>_
+#### Armor Training
 
 This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. Armor above certain thresholds must be properly phys-repped. This skill is not blocked by resting.
 
-_<span style="text-decoration:underline;">Block Projectile</span>_
+#### Block Projectile
 
-This skill requires either the Shield skill and a shield to be in the character’s hand or the Unarmed Combat skill. The Block Projectile skill allows the character to Resist Physical once for each time that this skill is purchased against physical projectiles such as arrows and thrown weapons used under the Ranged Weapons skill. This skill is expended on use.  This is a RESIST effect. \
+This skill requires either the Shield skill and a shield to be in the character’s hand or the Unarmed Combat skill. The Block Projectile skill allows the character to Resist Physical once for each time that this skill is purchased against physical projectiles such as arrows and thrown weapons used under the Ranged Weapons skill. This skill is expended on use.  This is a RESIST effect. 
 Call: “Resist”
 
 Requires the Unarmed Combat or Shield skill.
 
-_<span style="text-decoration:underline;">Dodge</span>_
+#### Dodge
 
 This skill allows the character to Resist Physical, Spell or Toxin once for each time that this skill is purchased. The character may choose which type of resist to use at the time of use. This skill is expended on use.  This is a RESIST effect.
 
@@ -1164,20 +1164,19 @@ Call: “Resist”
 
 Requires the Murder skill and the Short Weapon skill.
 
-_<span style="text-decoration:underline;">Endurance</span>_
+#### Endurance
 
 This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 60 seconds of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This skill is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
 
 Requires the Critical Strike V skill.
 
-_<span style="text-decoration:underline;">Fencing</span>_
+#### Fencing
 
 This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a single Short Weapon or Long Weapon and has the skill to be able to use that weapon. Armor points gained from Fencing must be repaired before being available. Effects like Command Drop or Disarm do not remove the benefit of Fencing unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.
 
-Requires the Short or Long Weapon skill. \
+Requires the Short or Long Weapon skill. 
 
-
-_<span style="text-decoration:underline;">Intercept </span>_
+#### Intercept
 
 This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect. This skill is expended on use.
 
@@ -1185,14 +1184,14 @@ Call: “Intercept &lt;optional defense>”
 
 Requires the Shield skill.
 
-_<span style="text-decoration:underline;">Parry</span>_
+#### Parry
 
 This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry allows the character to Resist Physical once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. \
 Call: “Resist”
 
 Requires the Critical Strike III skill and one of the following Weapon skills: Unarmed, Short, Long or Two Hand.
 
-_<span style="text-decoration:underline;">Parry Spell</span>_
+#### Parry Spell
 
 This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry Spell allows the character to Resist Spell once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect.
 
@@ -1200,13 +1199,13 @@ Call: “Resist”
 
 Requires the Critical Strike IX skill.
 
-_<span style="text-decoration:underline;">Rapid Refit</span>_
+#### Rapid Refit
 
 This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character’s armor pool is reset to its maximum.
 
 Call: “Refitting Armor 1...2...3...4...5”
 
-_<span style="text-decoration:underline;">Riposte</span>_
+#### Riposte
 
 This skill Requires that a character is wielding a weapon and has the skill required to be able to use that weapon. Riposte Attack allows the character to Reflect Physical once for each time that this skill is purchased. This skill is expended on use. You cannot Reflect an already Reflected effect.  This is a REFLECT effect.
 
@@ -1214,37 +1213,36 @@ Call: “Reflect”
 
 Requires the Short, Long or Two Hand Weapon skill.
 
-_<span style="text-decoration:underline;">Second Wind</span>_
+#### Second Wind
 
 This skill allows the character to instantly restore their health pool to 50% of its total maximum. The character must be conscious to use this skill. This skill is expended on use.
 
 Call: “Second Wind”
 
-_<span style="text-decoration:underline;">Shield Block</span>_
+#### Shield Block
 
 This skill requires that the character is wielding a shield, and has the skill to use a shield. The character may use this skill to resist one physical attack for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. \
 Call: “Resist”
 
 Requires the Shield skill.
 
-_<span style="text-decoration:underline;">Stalwart Defense</span>_
+#### Stalwart Defense
 
 This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a two hand weapon and has the skill to be able to use that weapon. Armor points gained from Stalwart Defense must be repaired before being available. DISARM effects like Command Drop or Disarm do not remove the benefit of Stalwart Defense unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.
 
 Requires the Two Hand Weapon skill.
 
-_<span style="text-decoration:underline;">Toughness</span>_
+#### Toughness
 
+This skill adds 5 points of maximum health to the character for each time that this skill is purchased. This skill is not blocked by resting.
 
-    This skill adds 5 points of maximum health to the character for each time that this skill is purchased. This skill is not blocked by resting.
-
-_<span style="text-decoration:underline;">Unbreakable</span>_
+#### Unbreakable
 
 This skill allows a character using a Shield to plant themselves, and push through incredible odds to come out the other side unscathed. A character with this skill may announce “I am Unbreakable!” and plant their feet. For the duration of the time that their feet remain planted, up to one minute maximum, they may choose to expend any Critical Strikes or Physical Strikes they possess as if they were instead a Resist Physical. If at any point they move their feet, or are forced to move by an outside effect, this ability ends immediately. This skill is expended on use.
 
 Requires the Shield and Critical Strike I skills.
 
-
+<br/>
 <table>
   <tr>
    <td><strong>Skill</strong>
@@ -1473,14 +1471,10 @@ Requires the Shield and Critical Strike I skills.
 </table>
 
 
-<h2></h2>
 
-
-<h2>Damage Calls & Carriers</h2>
-
+## Damage Calls & Carriers
 
 Damage calls are how you communicate the amount of damage being delivered, as well as its type and whether or not it has a flavor modifier or carrier.  You may only use one value for each option.
-
 
 <table>
   <tr>
@@ -1491,18 +1485,13 @@ Damage calls are how you communicate the amount of damage being delivered, as we
   </tr>
 </table>
 
-
 Examples:
-
-
 
 * 5 Normal
 * 2 Magic Flame
 * 23 Silver Death
 
 Suppose you have a normal longsword, a transform with the Magic Aura and Flame Aura abilities, and a Frost coating applied to the weapon. You would swing one of:
-
-
 
 * 5 Magic
 * 5 Normal
@@ -1561,7 +1550,7 @@ Suppose you have a normal longsword, a transform with the Magic Aura and Flame A
 </table>
 
 
-<h2>Spellstrike</h2>
+## Spellstrike
 
 
 Spellstrikes are spells cast upon a target via a physically represented weapon.  Packets do not count, as this would be touch casting.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If you physically parry a Spellstrike, you take the effect of the spell.
