@@ -503,7 +503,7 @@ Rank X = Titanium Ore
 
 
 
-## Scavenging
+## Salvaging
 
 Rank I = Tiny Scrap Parts
 
