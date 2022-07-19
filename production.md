@@ -313,10 +313,8 @@ Rank X = Ultimate Alchemical Catalyst
 
 ### Rank V
 
-#### Oil of Flame_
-   >This substance coats a weapon in a flaming oil for the next 5 minutes. During that time, the weapon will do flame type
-
-      Damage. Applying the oil takes 5 seconds. Example: “5 normal flame”.
+#### Oil of Flame
+   >This substance coats a weapon in a flaming oil for the next 5 minutes. During that time, the weapon will do flame type Damage. Applying the oil takes 5 seconds. Example: “5 normal flame”.
 #### Oil of Frost
    >This substance coats a weapon in a freezing oil for the next 5 minutes. During that time, the weapon will do frost type Damage. Applying the oil takes 5 seconds. Example: “5 normal frost”.
 #### Oil of Shock
