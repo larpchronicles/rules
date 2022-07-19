@@ -9,13 +9,13 @@ Item production is the process by which characters are able to craft consumable 
 | Rune Carving |
 | Tinkering |
 | Smithing |
-| Wood Carving |
 
 | _**Harvesting Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
 | Foraging | 3+1 | 2+1 | 1+1 | 1+1 | - |
 | Mining |
 | Salvaging |
+| Wood Carving |
 
 | _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
