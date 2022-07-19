@@ -1,8 +1,3 @@
-<!-- Yay, no errors, warnings, or alerts! -->
-
-
-[TOC]
-
 # Martial Skills
 
 ## Weapon Skills
