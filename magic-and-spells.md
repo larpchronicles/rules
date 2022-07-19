@@ -152,28 +152,32 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
   </tr>
 </table>
 
+#### **Spell Name**
+| Spell           | **Spell Name** |
+|:---|:---------------|
+| **Duration**    | Duration       |
+| **Incant**      | “Call”         |
+| **Description** |                |
 
 # SPELLS
-[TOC]
 
-## Arcane {#arcane}
+## Arcane
 
 ### Arcane Rank I
 
 #### **Blinding Light**
 | Spell            | **Blinding Light** |
 |      :---        |       :---         |
-| **Description**  | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. |
 | **Duration**     | 20 seconds | |
-| **Incant**       | “I conjure a blinding light.”
+| **Incant**       | “I conjure a blinding light.” |
+| **Description**  | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. |
 
 #### **Glowing Light**   
 | Spell            | **Glowing Light** |
 |      :---        |       :---         |
-| **Description**  | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6” in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
 | **Duration**     | 12 hours | |
 | **Incant**       | “I conjure a glowing light.” |
-| **Description** |   |
+| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6” in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another.   |
 
 #### **Mana Bolt**
 | Spell            | **Mana Bolt** |
@@ -298,7 +302,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Description** |  Duration: Rest |
 | **Description** |  Incant: “I conjure an Enchanted Blade.” |
-| **Description** |  This spell will grant the target the ability to strike with magic damage against a single opponent of the target's choice. To use the Enchanted Blade, the target must state “I invoke Enchanted Blade", at which point they will have to choose the opponent that they may use magic damage against. This spell ends when 5 minutes have passed since the invocation, the opponent dies, or if the target rests.  This is a FOEBANE effect. |
+| **Description** |  This spell will grant the target the ability to strike with magic damage against a single opponent of the target's choice. To use the Enchanted Blade, the target must state “I invoke Enchanted Blade", at which point they will have to choose the opponent that they may use magic damage against. This spell ends when 5 minutes have passed since the invocation, the opponent dies, or if the target rests.  This is an AURA effect. |
 
 #### **Entrapment**
 | **Spell**            | **Entrapment** |
@@ -325,9 +329,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |  This spell grants the target a single Resist Spell. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 ### Arcane Rank VI
-
-
-
 
 #### **Limited Teleport, Self**
 | **Spell**            | **Limited Teleport, Self** |
@@ -385,12 +386,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I create a spell mirror.” |
 | **Description** |  This spell grants the caster a single Spell Reflect. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
-
-
 ### Arcane Rank VIII
-
-
-
 
 #### **Blur Image, Self**
 | **Spell**            | **Blur Image, Self** |
@@ -427,12 +423,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I create a spell mirror.” |
 | **Description** |  This spell grants the target a single Spell Reflect. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
-
-
 ### Arcane Rank IX
-
-
-
 
 #### **Circle of Power**
 | **Spell**            | **Circle of Power** |
@@ -463,12 +454,9 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches.  This is a DESTROY effect. |
 
 
-# Spirit {#spirit}
+## Spirit
 
 ### Spirit Rank I
-
-
-
 
 #### **Control: Minor Undead**
 | **Spell**            | **Control: Minor Undead** |
@@ -512,12 +500,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I turn undead” |
 | **Description** |  This spell will force the target minor undead to attempt to leave the combat area. If there is no path to flee the combat area, the spell immediately ends. A minor undead affected by this spell will not attempt to defend itself or attack as it attempts to flee the combat area. This is a FEAR effect. |
 
-
-
 ### Spirit Rank II
-
-
-
 
 #### **Blood Sacrifice**
 | **Spell**            | **Blood Sacrifice** |
@@ -563,15 +546,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank III
 
-
-
-
 #### **Animate Dead**
 | **Spell**            | **Animate Dead** |
 |      :---        |       :---         |
 | **Duration**     | 5 minutes |
 | **Incant**     | “Fiends of the dark nether, I bid this body to serve.” |
-| **Description** |  This spell will animate a freshly dead body to temporarily serve the caster of the spell. The result of this spell is a barely useful animated dead body. While animated, the death count of the body is halted. The animated corpse has no skills, cannot speak, and can only move at a slow walk. The animated corpse may attack with its base weapon damage or with base claws. Once the spell has ended, the death count resumes, and is free to go about its resurrection process. The spirit cannot be rebound by this spell until the next day or until the spirit resurrects and dies again. This is an ANIMATE effect and causes an UNDEAD effect. |
+| **Description** |  This spell will animate a freshly dead body to temporarily serve the caster of the spell. The result of this spell is a barely useful animated dead body. While animated, the death count of the body is halted. The animated corpse has no skills, cannot speak, and can only move at a slow walk. The animated corpse may attack with its base weapon damage or with base claws. Once the spell has ended, the death count resumes, and is free to go about its resurrection process. The spirit cannot be rebound by this spell until the next day or until the spirit resurrects and dies again. This is a VOICE CONTROL effect. |
 
 #### **Cause Weakness**
 | **Spell**            | **Cause Weakness** |
@@ -601,12 +581,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “Fiends of the dark nether, create necrotic tissue 15.” |
 | **Description** |  This spell will restore 15 health to a target undead. |
 
-
-
 ### Spirit Rank IV
-
-
-
 
 #### **Dull Pain, Self**
 | **Spell**            | **Dull Pain, Self** |
@@ -629,12 +604,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I solidify your body.” |
 | **Description** |  This spell will instantly reform an undead creature that has taken a non-corporeal form, rendering the undead vulnerable to attack.  This is a SOLIDIFY effect. |
 
-
-
 ### Spirit Rank V
-
-
-
 
 #### **Corrupt Body**
 | **Spell**            | **Corrupt Body** |
@@ -675,12 +645,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |  **Incant: **“By the spirits, I revivify this body” |
 | **Description** |  This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect. |
 
-
-
 ### Spirit Rank VI
-
-
-
 
 #### **Destroy Undead**
 | **Spell**            | **Destroy Undead** |
@@ -710,12 +675,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I bolster your constitution.” |
 | **Description** |  This spell grants the caster a single resist Toxin. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
-
-
 ### Spirit Rank VII
-
-
-
 
 #### **Absolution**
 | **Spell**            | **Absolution** |
@@ -724,7 +684,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I offer you absolution.” |
 | **Description** |  This spell will do 50 points of damage to an undead creature. |
 * Curse
-| **Duration**     | 5 minutes |
+| **Duration**     | 20 Seconds |
 | **Incant**     | “By the spirits, I curse you.” |
 | **Description** |  This spell will cause the target to take double damage from all sources.  Damage doubling effects cannot be stacked.  This is a CURSE effect. |
 
@@ -758,9 +718,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank VIII
 
-
-
-
 #### **Limited Phylactery, Self**
 | **Spell**            | **Limited Phylactery, Self** |
 |      :---        |       :---         |
@@ -782,12 +739,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I restore your body.” |
 | **Description** |  This spell will instantly restore a target with a metabolism to their full maximum health pool, and will restore any missing or disabled limbs. |
 
-
-
 ### Spirit Rank IX
-
-
-
 
 #### **Create Undead**
 | **Spell**            | **Create Undead** |
@@ -827,12 +779,9 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 
 
-# Nature {#nature}
+## Nature
 
 ### Nature Rank I
-
-
-
 
 #### **Barkskin, Self**
 | **Spell**            | **Barkskin, Self** |
@@ -867,14 +816,9 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “By nature, I purify this nourishment.” |
-| **Description** |  This spell will remove any toxins, diseases, and rot from one serving of food and one serving of potable fluid.  This will remove a TOXIN effect. |
-
-
+| **Description** |  This spell will remove any active effects from one serving of food and one serving of potable fluid. |
 
 ### Nature Rank II
-
-
-
 
 #### **Barkskin, Other**
 | **Spell**            | **Barkskin, Other** |
@@ -888,7 +832,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “By nature, I create a Deathbane Weapon.” |
-| **Description** |  This spell requires that the caster reduce their maximum health to half their usual until their next rest. This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add Magic damage to the weapon, fists, or claws for the duration of the spell. |
+| **Description** |  This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add Magic damage to the weapon, fists, or claws for the duration of the spell.  This is an AURA effect. |
 
 #### **Entangle Foot**
 | **Spell**            | **Entangle Foot** |
@@ -897,12 +841,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I entangle your foot.” |
 | **Description** |  This spell entangles the target’s right foot to the ground. The character is unable to move their foot, except for pivoting on the ball of their foot. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
-
-
 ### Nature Rank III
-
-
-
 
 #### **Boon of the Armadillo**
 | **Spell**            | **Boon of the Armadillo** |
@@ -930,21 +869,16 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “By nature, I grant you freedom.” |
-| **Description** |  This spell will release the target from magical, and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, PIN, CONFINE. |
-
-
+| **Description** |  This spell will release the target from magical, and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, CONFINE. |
 
 ### Nature Rank IV
 
-
-
-
-#### **Command: Retreat**
-| **Spell**            | **Command: Retreat** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | “By nature, I command you to retreat.” |
-| **Description** |  This spell causes the target to immediately retreat 10 steps, if they can do so safely. The affected target may still attack and defend while By theing. The effect of this spell may not be stacked or extended. This spell is a STAGGER effect. |
+#### **Command: Kneel**
+| **Spell**            | **Command: Kneel**   |
+|      :---        |:-------------|
+| **Duration**     | Instant  |
+| **Incant**     | “By nature, I command you to kneel.”   |
+| **Description** | This spell forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this spell may not be stacked or extended.  This spell is a KNEEL effect. |
 
 #### **Command: Stun**
 | **Spell**            | **Command: Stun** |
@@ -960,12 +894,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I entangle your arms.” |
 | **Description** |  This spell entangles the target’s arms to their side, rendering the arms useless. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
-
-
 ### Nature Rank V
-
-
-
 
 #### **Boon of the Folk**
 | **Spell**            | **Boon of the Folk** |
@@ -1002,12 +931,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I enter a treehome.” |
 | **Description** |  This spell will allow the caster to become absorbed into a physical tree that the caster is touching at the time of casting. While absorbed into the tree, the caster and tree are both protected from any game effects other than Dispel Magic and Reality Anchor. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Treehome and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Treehome. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
 
-
-
 ### Nature Rank VI
-
-
-
 
 #### **Boon of the Forest**
 | **Spell**            | **Boon of the Forest** |
@@ -1037,11 +961,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I grant you stoneskin.” |
 | **Description** |  This spell grants the caster a single reflect physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
 
-
-
 ### Nature Rank VII
-| **Description** |  _Command: Confused_ \ |
-| **Description** | *Duration**: 20 seconds |
+
+#### Command: Confused
+| **Description** |  Command: Confused  |
+|      :---        |       :---         |
+| *Duration**: | 20 seconds |
 | **Incant**     | “By nature, I command you to be confused.” |
 | **Description** |  This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect |
 
@@ -1050,7 +975,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “By nature, I create a Foebane against &lt;creature>.” |
-| **Description** |  This spell requires that the caster sacrifice 5 points of their maximum health until they next rest. This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add +5 base weapon damage to the damage of the weapon, fists, or claws for the duration of the spell. This damage is only effective against the type of creature named by the caster. The weapon will do no damage against any other type of creature until the duration expires.  This is a FOEBANE effect. |
+| **Description** |  This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add +5 base weapon damage to the damage of the weapon, fists, or claws for the duration of the spell. This damage is only effective against the type of creature named by the caster. The weapon will do no damage against any other type of creature until the duration expires.  This is a FOEBANE effect. |
 
 #### **Hold: Enemy**
 | **Spell**            | **Hold: Enemy** |
@@ -1066,12 +991,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I grant you stoneskin.” |
 | **Description** |  This spell grants the target a single Reflect Physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time. A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used.  This is a REFLECT effect. |
 
-
-
 ### Nature Rank VIII
-
-
-
 
 #### **Boon of the Cat**
 | **Spell**            | **Boon of the Cat** |
@@ -1094,12 +1014,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I turn stone to flesh.” |
 | **Description** |  This spell will end the effects of the spell Flesh to Stone, leaving the target at 0 health.  This will remove the STONE effect. |
 
-
-
 ### Nature Rank IX
-
-
-
 
 #### **Boon of the Rabbit**
 | **Spell**            | **Boon of the Rabbit** |
@@ -1262,7 +1177,7 @@ Solidify Undead
    </td>
    <td>Entangle Arms
 <p>
-Command: Retreat
+Command: Kneel
 <p>
 Command: Stun
    </td>
