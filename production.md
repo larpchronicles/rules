@@ -2,6 +2,28 @@
 
 Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are four crafting skills with each one being supported by a material gathering skill.
 
+| _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
+| --- | --- | --- | --- | --- | --- |
+| Alchemy |
+| Artificing |
+| Rune Carving |
+| Tinkering |
+| Smithing |
+| Wood Carving |
+
+| _**Harvesting Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
+| --- | --- | --- | --- | --- | --- |
+| Foraging | 3+1 | 2+1 | 1+1 | 1+1 | - |
+| Mining |
+| Salvaging |
+
+| _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
+| --- | --- | --- | --- | --- | --- |
+| Alchemy Recycling |
+| Rune Recycling |
+| Smith Recycling |
+| Tinker Recycling |
+
 <table>
   <tr>
    <td><strong>Production Skill </strong>
