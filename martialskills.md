@@ -196,7 +196,7 @@
 
 #### One Hand Short and Bow
 
->This skill allows the character to wield a short weapon in one hand, and a bow in the other using the bow only for blocking. Any blocked attack using the bow will require the character to complete a 3 second count to re-string the bow in order to use the weapon at range once again.
+>This skill allows the character to wield a short weapon in one hand, and a bow in the other using the bow only for blocking. Any blocked attack using the bow will require the character to complete a 3 second count to re-string the bow in order to use the weapon at range once again.<br/>Requires the Ranged and Short Weapon skills.
 
 
 ## Weapon Proficiencies
