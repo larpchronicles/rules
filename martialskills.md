@@ -160,49 +160,43 @@
 
 #### Unarmed Combat
 
-This skill allows the character to use two Short Weapon length boffer weapons to represent claws or fists in order to fight in melee combat. The character may block with their Unarmed Combat weapons without taking damage normally.
+>This skill allows the character to use two Short Weapon length boffer weapons to represent claws or fists in order to fight in melee combat. The character may block with their Unarmed Combat weapons without taking damage normally.
 
 #### Short Weapon
 
-The character may use a short one hand weapon between 24” long and less than 36” long in melee combat. Short one hand weapons include short sword, short axe, short hammer, and short club. This skill allows the use of the weapon in either hand, but not the ability to wield a short weapon in both hands at once.
+>The character may use a short one hand weapon between 24” long and less than 36” long in melee combat. Short one hand weapons include short sword, short axe, short hammer, and short club. This skill allows the use of the weapon in either hand, but not the ability to wield a short weapon in both hands at once.
 
 #### Long Weapon 
 
-The character may use a long one hand weapon between 36” long and less than 48” long in melee combat. Long one hand weapons include long sword, rapier, battleaxe, warhammer, warmace, spear, and club. This skill allows the use of the weapon in either hand, but not the ability to wield a long weapon in both hands at once.
+>The character may use a long one hand weapon between 36” long and less than 48” long in melee combat. Long one hand weapons include long sword, rapier, battleaxe, warhammer, warmace, spear, and club. This skill allows the use of the weapon in either hand, but not the ability to wield a long weapon in both hands at once.
 
 #### Two Hand Weapon
 
-The character may use a two hand weapon between 48” long and 72” long in melee combat. Two hand weapons include two hand swords, polearms, staves, and two hand clubs. Two hand weapons require both hands to be on the weapon in order to attack or block in melee combat. If the character blocks an attack with only one hand, the character will take the damage as if they had not blocked the attack at all.
+>The character may use a two hand weapon between 48” long and 72” long in melee combat. Two hand weapons include two hand swords, polearms, staves, and two hand clubs. Two hand weapons require both hands to be on the weapon in order to attack or block in melee combat. If the character blocks an attack with only one hand, the character will take the damage as if they had not blocked the attack at all.
 
 #### Ranged Weapon
 
-This skill allows the character to use a ranged weapon in combat. Ranged weapons include bow, crossbow, and throwing weapons. Ranged weapons cannot be used to block attacks. If the character blocks an attack with a ranged weapon, the character will take the damage as if they had not blocked the attack at all.
+>This skill allows the character to use a ranged weapon in combat. Ranged weapons include bow, crossbow, and throwing weapons. Ranged weapons cannot be used to block attacks. If the character blocks an attack with a ranged weapon, the character will take the damage as if they had not blocked the attack at all.
 
 #### Shield
 
-This skill allows the character to wield a shield used to block attacks. A shield may never be used for striking in combat. As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.  The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36”.  Shields may not be used with two hand weapons, bows, or crossbows. A character may not dual wield shields.
+>This skill allows the character to wield a shield used to block attacks. A shield may never be used for striking in combat. As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.  The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36”.  Shields may not be used with two hand weapons, bows, or crossbows. A character may not dual wield shields.
 
 #### Dual Short Weapon
 
-This skill allows the character to wield two short weapons, one in each hand, while in combat. This skill does not apply other skills or abilities to both weapon hands. 
-
-Requires the Short Weapon skill.
+>This skill allows the character to wield two short weapons, one in each hand, while in combat. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the Short Weapon skill.
 
 #### Dual Long Weapon
 
-This skill allows the character to wield two long weapons, one in each hand, while in combat. Furthermore, a character with this skill may wield a long weapon in one hand and a short in the other, so long as they possess proficiency for both Long and Short weapons. This skill does not apply other skills or abilities to both weapon hands. 
-
-Requires the Long Weapon skill.
+>This skill allows the character to wield two long weapons, one in each hand, while in combat. Furthermore, a character with this skill may wield a long weapon in one hand and a short in the other, so long as they possess proficiency for both Long and Short weapons. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the Long Weapon skill.
 
 #### Two Hand Block
 
-This skill allows the character to block with one hand using a two hand weapon without penalty.
-
-Requires the Two-Hand Weapon skill.
+>This skill allows the character to block with one hand using a two hand weapon without penalty.<br/>Requires the Two-Hand Weapon skill.
 
 #### One Hand Short and Bow
 
-This skill allows the character to wield a short weapon in one hand, and a bow in the other using the bow only for blocking. Any blocked attack using the bow will require the character to complete a 3 second count to re-string the bow in order to use the weapon at range once again.
+>This skill allows the character to wield a short weapon in one hand, and a bow in the other using the bow only for blocking. Any blocked attack using the bow will require the character to complete a 3 second count to re-string the bow in order to use the weapon at range once again.
 
 
 ## Weapon Proficiencies
@@ -322,39 +316,27 @@ The fifth purchase is 27 Skill Points (15+12).
 
 #### Unarmed Combat Proficiency
 
-This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill.
-
-Requires the Unarmed Combat skill.
+>This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. <br/> Requires the Unarmed Combat skill.
 
 #### Short Weapon Proficiency
 
-This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill.
-
-Requires the Short Weapon skill.
+>This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. <br/>Requires the Short Weapon skill.
 
 #### Long Weapon Proficiency
 
-This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill.
-
-Requires the Long Weapon skill.
+>This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill.<br/>Requires the Long Weapon skill.
 
 #### Two Hand Weapon Proficiency
 
-This skill adds +1 base weapon damage to the character’s chosen primary weapon hand, which is chosen at the time of purchasing this skill.
-
-Requires the Two Hand Weapon skill.
+>This skill adds +1 base weapon damage to the character’s chosen primary weapon hand, which is chosen at the time of purchasing this skill.<br/>Requires the Two Hand Weapon skill.
 
 #### Ranged Weapon Proficiency
 
-This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. This skill should be purchased for the throwing arm of the character.
-
-Requires the Ranged Weapon skill.
+>This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. This skill should be purchased for the throwing arm of the character.<br/>Requires the Ranged Weapon skill.
 
 #### Devious Weapon Proficiency
 
-This skill adds +2 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. This damage bonus is only applied to attacks that originate from behind and strike the back of the target. This skill can only be applied to Short Weapons.
-
-Requires the Short Weapon skill.
+>This skill adds +2 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. This damage bonus is only applied to attacks that originate from behind and strike the back of the target. This skill can only be applied to Short Weapons.<br/>Requires the Short Weapon skill.
 
 
 ## Physical Strikes
@@ -452,33 +434,23 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ####  Critical Strike I
 
-This skill allows the character to perform a single attack adding +5 base weapon damage. This skill is expended once used.
-
-Requires any Weapon skill.
+>This skill allows the character to perform a single attack adding +5 base weapon damage. This skill is expended once used.<br/>Requires any Weapon skill.
 
 #### Critical Strike III
 
-This skill allows the character to perform a single attack adding +15 base weapon damage. This skill is expended once used.
-
-Requires the Critical Strike I skill.
+>This skill allows the character to perform a single attack adding +15 base weapon damage. This skill is expended once used.<br/>Requires the Critical Strike I skill.
 
 #### Critical Strike V
 
-This skill allows the character to perform a single attack adding +25 base weapon damage. This skill is expended once used.
-
-Requires the Critical Strike III skill.
+>This skill allows the character to perform a single attack adding +25 base weapon damage. This skill is expended once used.<br/>Requires the Critical Strike III skill.
 
 #### Critical Strike VII
 
-This skill allows the character to perform a single attack adding +35 base weapon damage. This skill is expended once used.
-
-Requires the Critical Strike V skill.
+>This skill allows the character to perform a single attack adding +35 base weapon damage. This skill is expended once used.<br/>Requires the Critical Strike V skill.
 
 #### Critical Strike IX
 
-This skill allows the character to perform a single attack adding +45 base weapon damage. This skill is expended once used.
-
-Requires the Critical Strike VII skill.
+>This skill allows the character to perform a single attack adding +45 base weapon damage. This skill is expended once used.<br/>Requires the Critical Strike VII skill.
 
 
 ## Devious Strikes
@@ -571,33 +543,23 @@ Requires the Critical Strike VII skill.
 
 #### Devious Strike I
 
-This skill allows the character to perform a single attack adding +5 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.
-
-Requires the Short Weapon skill.
+>This skill allows the character to perform a single attack adding +5 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Short Weapon skill.
 
 #### Devious Strike  III
 
-This skill allows the character to perform a single attack adding +15 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.
-
-Requires the Devious Strike I skill.
+>This skill allows the character to perform a single attack adding +15 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike I skill.
 
 #### Devious Strike V
 
-This skill allows the character to perform a single attack adding +25 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.
-
-Requires the Devious Strike III skill.
+>This skill allows the character to perform a single attack adding +25 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike III skill.
 
 #### Devious Strike VII
 
-This skill allows the character to perform a single attack adding +35 base weapon damage. This skill may only be used with a Short WEapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.
-
-Requires the Devious Strike V skill.
+>This skill allows the character to perform a single attack adding +35 base weapon damage. This skill may only be used with a Short WEapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike V skill.
 
 #### Devious Strike IX
 
-This skill allows the character to perform a single attack adding +45 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.
-
-Requires the Devious Strike VII skill.
+>This skill allows the character to perform a single attack adding +45 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike VII skill.
 
 ## Weapon Strikes
 
@@ -1356,100 +1318,63 @@ Requires the Devious Strike VII skill.
 
 #### Armor Training
 
-This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. Armor above certain thresholds must be properly phys-repped. This skill is not blocked by resting.
+>This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. Armor above certain thresholds must be properly phys-repped. This skill is not blocked by resting.
 
 #### Block Projectile
 
-This skill requires either the Shield skill and a shield to be in the character’s hand or the Unarmed Combat skill. The Block Projectile skill allows the character to Resist Physical once for each time that this skill is purchased against physical projectiles such as arrows and thrown weapons used under the Ranged Weapons skill. This skill is expended on use.  This is a RESIST effect. 
-Call: “Resist”
-
-Requires the Unarmed Combat or Shield skill.
+>This skill requires either the Shield skill and a shield to be in the character’s hand or the Unarmed Combat skill. The Block Projectile skill allows the character to Resist Physical once for each time that this skill is purchased against physical projectiles such as arrows and thrown weapons used under the Ranged Weapons skill. This skill is expended on use.  This is a RESIST effect. <br/>Call: “Resist”<br/>Requires the Unarmed Combat or Shield skill.
 
 #### Dodge
 
-This skill allows the character to Resist Physical, Spell or Toxin once for each time that this skill is purchased. The character may choose which type of resist to use at the time of use. This skill is expended on use.  This is a RESIST effect.
-
-Call: “Resist”
-
-Requires the Murder skill and the Short Weapon skill.
+>This skill allows the character to Resist Physical, Spell or Toxin once for each time that this skill is purchased. The character may choose which type of resist to use at the time of use. This skill is expended on use.  This is a RESIST effect.<br/>Call: “Resist”<br/>Requires the Murder skill and the Short Weapon skill.
 
 #### Endurance
 
-This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 60 seconds of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This skill is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
-
-Requires the Critical Strike V skill.
+>This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 60 seconds of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This skill is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.<br/>Requires the Critical Strike V skill.
 
 #### Fencing
 
-This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a single Short Weapon or Long Weapon and has the skill to be able to use that weapon. Armor points gained from Fencing must be repaired before being available. Effects like Command Drop or Disarm do not remove the benefit of Fencing unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.
-
-Requires the Short or Long Weapon skill. 
+>This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a single Short Weapon or Long Weapon and has the skill to be able to use that weapon. Armor points gained from Fencing must be repaired before being available. Effects like Command Drop or Disarm do not remove the benefit of Fencing unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.<br/>Requires the Short or Long Weapon skill. 
 
 #### Intercept
 
-This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect. This skill is expended on use.
-
-Call: “Intercept &lt;optional defense>”
-
-Requires the Shield skill.
+>This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect. This skill is expended on use.<br/>Call: “Intercept &lt;optional defense>”<br/>Requires the Shield skill.
 
 #### Parry
 
-This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry allows the character to Resist Physical once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. \
-Call: “Resist”
-
-Requires the Critical Strike III skill and one of the following Weapon skills: Unarmed, Short, Long or Two Hand.
+>This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry allows the character to Resist Physical once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. <br/>Call: “Resist”<br/>Requires the Critical Strike III skill and one of the following Weapon skills: Unarmed, Short, Long or Two Hand.
 
 #### Parry Spell
 
-This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry Spell allows the character to Resist Spell once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect.
-
-Call: “Resist”
-
-Requires the Critical Strike IX skill.
+>This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry Spell allows the character to Resist Spell once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect.<br/>Call: “Resist”<br/>Requires the Critical Strike IX skill.
 
 #### Rapid Refit
 
-This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character’s armor pool is reset to its maximum.
-
-Call: “Refitting Armor 1...2...3...4...5”
+>This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character’s armor pool is reset to its maximum.<br/>Call: “Refitting Armor 1...2...3...4...5”
 
 #### Riposte
 
-This skill Requires that a character is wielding a weapon and has the skill required to be able to use that weapon. Riposte Attack allows the character to Reflect Physical once for each time that this skill is purchased. This skill is expended on use. You cannot Reflect an already Reflected effect.  This is a REFLECT effect.
-
-Call: “Reflect”
-
-Requires the Short, Long or Two Hand Weapon skill.
+>This skill Requires that a character is wielding a weapon and has the skill required to be able to use that weapon. Riposte Attack allows the character to Reflect Physical once for each time that this skill is purchased. This skill is expended on use. You cannot Reflect an already Reflected effect.  This is a REFLECT effect.<br/>Call: “Reflect”<br/>Requires the Short, Long or Two Hand Weapon skill.
 
 #### Second Wind
 
-This skill allows the character to instantly restore their health pool to 50% of its total maximum. The character must be conscious to use this skill. This skill is expended on use.
-
-Call: “Second Wind”
+>This skill allows the character to instantly restore their health pool to 50% of its total maximum. The character must be conscious to use this skill. This skill is expended on use.<br/>Call: “Second Wind”
 
 #### Shield Block
 
-This skill requires that the character is wielding a shield, and has the skill to use a shield. The character may use this skill to resist one physical attack for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. \
-Call: “Resist”
-
-Requires the Shield skill.
+>This skill requires that the character is wielding a shield, and has the skill to use a shield. The character may use this skill to resist one physical attack for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. <br/>Call: “Resist”<br/>Requires the Shield skill.
 
 #### Stalwart Defense
 
-This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a two hand weapon and has the skill to be able to use that weapon. Armor points gained from Stalwart Defense must be repaired before being available. DISARM effects like Command Drop or Disarm do not remove the benefit of Stalwart Defense unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.
-
-Requires the Two Hand Weapon skill.
+>This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a two hand weapon and has the skill to be able to use that weapon. Armor points gained from Stalwart Defense must be repaired before being available. DISARM effects like Command Drop or Disarm do not remove the benefit of Stalwart Defense unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.<br/>Requires the Two Hand Weapon skill.
 
 #### Toughness
 
-This skill adds 5 points of maximum health to the character for each time that this skill is purchased. This skill is not blocked by resting.
+>This skill adds 5 points of maximum health to the character for each time that this skill is purchased. This skill is not blocked by resting.
 
 #### Unbreakable
 
-This skill allows a character using a Shield to plant themselves, and push through incredible odds to come out the other side unscathed. A character with this skill may announce “I am Unbreakable!” and plant their feet. For the duration of the time that their feet remain planted, up to one minute maximum, they may choose to expend any Critical Strikes or Physical Strikes they possess as if they were instead a Resist Physical. If at any point they move their feet, or are forced to move by an outside effect, this ability ends immediately. This skill is expended on use.
-
-Requires the Shield and Critical Strike I skills.
+>This skill allows a character using a Shield to plant themselves, and push through incredible odds to come out the other side unscathed. A character with this skill may announce “I am Unbreakable!” and plant their feet. For the duration of the time that their feet remain planted, up to one minute maximum, they may choose to expend any Critical Strikes or Physical Strikes they possess as if they were instead a Resist Physical. If at any point they move their feet, or are forced to move by an outside effect, this ability ends immediately. This skill is expended on use.<br/>Call: "I am Unbreakable" <br/>Requires the Shield and Critical Strike I skills.
 
 
 
