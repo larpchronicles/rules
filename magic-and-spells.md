@@ -160,9 +160,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |                |
 
 # SPELLS
-[TOC]
 
-## Arcane {#arcane}
+## Arcane
 
 ### Arcane Rank I
 
@@ -331,9 +330,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Arcane Rank VI
 
-
-
-
 #### **Limited Teleport, Self**
 | **Spell**            | **Limited Teleport, Self** |
 |      :---        |       :---         |
@@ -390,12 +386,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I create a spell mirror.” |
 | **Description** |  This spell grants the caster a single Spell Reflect. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
-
-
 ### Arcane Rank VIII
-
-
-
 
 #### **Blur Image, Self**
 | **Spell**            | **Blur Image, Self** |
@@ -432,12 +423,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I create a spell mirror.” |
 | **Description** |  This spell grants the target a single Spell Reflect. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
-
-
 ### Arcane Rank IX
-
-
-
 
 #### **Circle of Power**
 | **Spell**            | **Circle of Power** |
@@ -468,12 +454,9 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches.  This is a DESTROY effect. |
 
 
-# Spirit {#spirit}
+## Spirit
 
 ### Spirit Rank I
-
-
-
 
 #### **Control: Minor Undead**
 | **Spell**            | **Control: Minor Undead** |
@@ -517,12 +500,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I turn undead” |
 | **Description** |  This spell will force the target minor undead to attempt to leave the combat area. If there is no path to flee the combat area, the spell immediately ends. A minor undead affected by this spell will not attempt to defend itself or attack as it attempts to flee the combat area. This is a FEAR effect. |
 
-
-
 ### Spirit Rank II
-
-
-
 
 #### **Blood Sacrifice**
 | **Spell**            | **Blood Sacrifice** |
@@ -568,9 +546,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank III
 
-
-
-
 #### **Animate Dead**
 | **Spell**            | **Animate Dead** |
 |      :---        |       :---         |
@@ -606,12 +581,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “Fiends of the dark nether, create necrotic tissue 15.” |
 | **Description** |  This spell will restore 15 health to a target undead. |
 
-
-
 ### Spirit Rank IV
-
-
-
 
 #### **Dull Pain, Self**
 | **Spell**            | **Dull Pain, Self** |
@@ -634,12 +604,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I solidify your body.” |
 | **Description** |  This spell will instantly reform an undead creature that has taken a non-corporeal form, rendering the undead vulnerable to attack.  This is a SOLIDIFY effect. |
 
-
-
 ### Spirit Rank V
-
-
-
 
 #### **Corrupt Body**
 | **Spell**            | **Corrupt Body** |
@@ -680,12 +645,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |  **Incant: **“By the spirits, I revivify this body” |
 | **Description** |  This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect. |
 
-
-
 ### Spirit Rank VI
-
-
-
 
 #### **Destroy Undead**
 | **Spell**            | **Destroy Undead** |
@@ -715,12 +675,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I bolster your constitution.” |
 | **Description** |  This spell grants the caster a single resist Toxin. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
-
-
 ### Spirit Rank VII
-
-
-
 
 #### **Absolution**
 | **Spell**            | **Absolution** |
@@ -763,9 +718,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank VIII
 
-
-
-
 #### **Limited Phylactery, Self**
 | **Spell**            | **Limited Phylactery, Self** |
 |      :---        |       :---         |
@@ -787,12 +739,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I restore your body.” |
 | **Description** |  This spell will instantly restore a target with a metabolism to their full maximum health pool, and will restore any missing or disabled limbs. |
 
-
-
 ### Spirit Rank IX
-
-
-
 
 #### **Create Undead**
 | **Spell**            | **Create Undead** |
@@ -832,12 +779,9 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 
 
-# Nature {#nature}
+## Nature
 
 ### Nature Rank I
-
-
-
 
 #### **Barkskin, Self**
 | **Spell**            | **Barkskin, Self** |
@@ -874,12 +818,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I purify this nourishment.” |
 | **Description** |  This spell will remove any active effects from one serving of food and one serving of potable fluid. |
 
-
-
 ### Nature Rank II
-
-
-
 
 #### **Barkskin, Other**
 | **Spell**            | **Barkskin, Other** |
@@ -902,12 +841,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I entangle your foot.” |
 | **Description** |  This spell entangles the target’s right foot to the ground. The character is unable to move their foot, except for pivoting on the ball of their foot. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
-
-
 ### Nature Rank III
-
-
-
 
 #### **Boon of the Armadillo**
 | **Spell**            | **Boon of the Armadillo** |
@@ -937,18 +871,13 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I grant you freedom.” |
 | **Description** |  This spell will release the target from magical, and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, CONFINE. |
 
-
-
 ### Nature Rank IV
 
-
-
-
 #### **Command: Kneel**
-| **Spell**            | **Command: Kneel**                                                                                                                                                                                                                                |
-|      :---        |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**     | Instant                                                                                                                                                                                                                                           |
-| **Incant**     | “By nature, I command you to kneel.”                                                                                                                                                                                                              |
+| **Spell**            | **Command: Kneel**   |
+|      :---        |:-------------|
+| **Duration**     | Instant  |
+| **Incant**     | “By nature, I command you to kneel.”   |
 | **Description** | This spell forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this spell may not be stacked or extended.  This spell is a KNEEL effect. |
 
 #### **Command: Stun**
@@ -965,12 +894,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I entangle your arms.” |
 | **Description** |  This spell entangles the target’s arms to their side, rendering the arms useless. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
-
-
 ### Nature Rank V
-
-
-
 
 #### **Boon of the Folk**
 | **Spell**            | **Boon of the Folk** |
@@ -1007,12 +931,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I enter a treehome.” |
 | **Description** |  This spell will allow the caster to become absorbed into a physical tree that the caster is touching at the time of casting. While absorbed into the tree, the caster and tree are both protected from any game effects other than Dispel Magic and Reality Anchor. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Treehome and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Treehome. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
 
-
-
 ### Nature Rank VI
-
-
-
 
 #### **Boon of the Forest**
 | **Spell**            | **Boon of the Forest** |
@@ -1042,11 +961,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I grant you stoneskin.” |
 | **Description** |  This spell grants the caster a single reflect physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
 
-
-
 ### Nature Rank VII
-| **Description** |  _Command: Confused_ \ |
-| **Description** | *Duration**: 20 seconds |
+
+#### Command: Confused
+| **Description** |  Command: Confused  |
+|      :---        |       :---         |
+| *Duration**: | 20 seconds |
 | **Incant**     | “By nature, I command you to be confused.” |
 | **Description** |  This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect |
 
@@ -1071,12 +991,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I grant you stoneskin.” |
 | **Description** |  This spell grants the target a single Reflect Physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time. A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used.  This is a REFLECT effect. |
 
-
-
 ### Nature Rank VIII
-
-
-
 
 #### **Boon of the Cat**
 | **Spell**            | **Boon of the Cat** |
@@ -1099,12 +1014,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I turn stone to flesh.” |
 | **Description** |  This spell will end the effects of the spell Flesh to Stone, leaving the target at 0 health.  This will remove the STONE effect. |
 
-
-
 ### Nature Rank IX
-
-
-
 
 #### **Boon of the Rabbit**
 | **Spell**            | **Boon of the Rabbit** |
