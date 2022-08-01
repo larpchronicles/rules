@@ -566,7 +566,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “By the spirits, I dull your pain.” |
-| **Description** |  This spell causes the caster to become numb to pain for the duration of this spell. Dull Pain allows the caster to cast spells while being hit and/or damaged. |
+| **Description** |  This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the caster to cast spells while being hit and/or damaged. |
 
 #### **Rot Limb**
 | **Spell**            | **Rot Limb** |
@@ -754,13 +754,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Nature Rank I
 
-#### **Barkskin, Self**
-| **Spell**            | **Barkskin, Self** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “By the flora, I grant you barkskin.” |
-| **Description** |  This spell grants the caster a single resist physical. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
-
 #### **Command: Drop**
 | **Spell**            | **Command: Drop** |
 |      :---        |       :---         |
@@ -843,6 +836,13 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |  This spell will release the target from magical, and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, CONFINE. |
 
 ### Nature Rank IV
+
+#### **Barkskin**
+| **Spell**            | **Barkskin** |
+|      :---        |       :---         |
+| **Duration**     | Rest |
+| **Incant**     | “By the flora, I grant you barkskin.” |
+| **Description** |  This spell grants the target a single Resist Physical. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 #### **Command: Kneel**
 | **Spell**            | **Command: Kneel**   |
