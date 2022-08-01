@@ -918,12 +918,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I entangle your body.” |
 | **Description** |  This spell entangles the target’s entire form in place, rendering the target helpless and unable to move from the neck down. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
-#### **Stone Skin, Self**
-| **Spell**            | **Stone Skin, Self** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “By nature, I grant you stoneskin.” |
-| **Description** |  This spell grants the caster a single reflect physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
 
 ### Nature Rank VII
 
@@ -948,13 +942,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I hold you still.” |
 | **Description** |  This spell renders the target completely unable to move while under the effects of this spell.  This is a CONFINE effect. |
 
-#### **Stone Skin, Other**
-| **Spell**            | **Stone Skin, Other** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “By nature, I grant you stoneskin.” |
-| **Description** |  This spell grants the target a single Reflect Physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time. A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used.  This is a REFLECT effect. |
-
 ### Nature Rank VIII
 
 #### **Boon of the Cat**
@@ -977,6 +964,13 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | Instant |
 | **Incant**     | “By nature, I turn stone to flesh.” |
 | **Description** |  This spell will end the effects of the spell Flesh to Stone, leaving the target at 0 health.  This will remove the STONE effect. |
+
+#### **Stoneskin**
+| **Spell**            | **Stoneskin** |
+|      :---        |       :---         |
+| **Duration**     | Rest |
+| **Incant**     | “By nature, I grant you stoneskin.” |
+| **Description** |  This spell grants the target a single Reflect Physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
 
 ### Nature Rank IX
 
@@ -1202,8 +1196,6 @@ Improved Constitution
 Command: Sleep
 <p>
 Entangle Body
-<p>
-Stone Skin, Self
    </td>
   </tr>
   <tr>
@@ -1260,6 +1252,7 @@ Repair Undead
 Flesh to Stone
 <p>
 Stone to Flesh
+<p>Stoneskin</p>
    </td>
   </tr>
   <tr>
