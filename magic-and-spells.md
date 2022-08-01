@@ -867,13 +867,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Nature Rank V
 
-#### **Boon of the Folk**
-| **Spell**            | **Boon of the Folk** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “By nature, I grant you folk’s boon.” |
-| **Description** |  This spell allows the target to resist one BERSERK, SILENCE, SLEEP, or STUN effect. The character replies “Resist” when using this spell. A character cannot benefit from more than one Boon of the Folk spell at a time. This spell is expended once used. |
-
 #### **Command: Silence**
 | **Spell**            | **Command: Silence** |
 |      :---        |       :---         |
@@ -1176,7 +1169,6 @@ Necrotic Tissue
 <p>
 Revivify
    </td>
-   <td>Boon of the Folk
 <p>
 Command: Silence
 <p>
