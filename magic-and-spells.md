@@ -217,13 +217,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a magic missile 10.” |
 | **Description** |  This spell creates a bolt of magic that does 10 magic damage to the target. |
 
-#### **Magic Short Weapon, Self**
-| **Spell**            | **Magic Short Weapon, Self** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “I conjure a magical short &lt;weapon>” |
-| **Description** |  This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the skill Short Weapon in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The player is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell cannot be used along with Magic Shield. |
-
 
 ### Arcane Rank III
 
@@ -251,12 +244,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Arcane Rank IV
 
-#### **Magic Long Weapon, Self**
-| **Spell**            | **Magic Long Weapon, Self** |
+#### **Conjure Weapon**
+| **Spell**            | **Conjure Weapon** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
-| **Incant**     | “I conjure a magical long &lt;weapon>.” |
-| **Description** |  This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the skill Long Weapon in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The player is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell cannot be used along with Magic Shield. |
+| **Incant**     | “I conjure a magical <weapon>.” |
+| **Description** |  This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the appropriate weapon skill in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell may not be wielded with a conjured shield. |
 
 #### **Magic Missile**
 | **Spell**            | **Magic Missile** |
@@ -265,8 +258,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a magic missile 20.” |
 | **Description** |  This spell creates a bolt of magic that does 20 magic damage to the target. |
 
-#### **Reality Shift, Self**
-| **Spell**            | **Reality Shift, Self** |
+#### **Reality Shift†**
+| **Spell**            | **Reality Shift†** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “With arcane forces, I create a reality shift.” |
@@ -286,8 +279,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a spell ward.” |
 | **Description** |  This spell grants the target a protective enchantment that will reduce spell damage by half for the duration of the effect. This spell does not stack upon itself for additional effect. This spell does not reduce non-damaging effects or effects that do not have a set amount of damage.  This is a REDUCED DAMAGE effect. |
 
-#### **Temporal Shift, Self**
-| **Spell**            | **Temporal Shift, Self** |
+#### **Temporal Shift**
+| **Spell**            | **Temporal Shift†** |
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “With arcane forces, I create a temporal shift. &lt;effect name>” |
@@ -311,12 +304,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the Arcane, I entrap your essence.” |
 | **Description** |  This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
 
-#### **Magic Shield, Self**
-| **Spell**            | **Magic Shield, Self** |
+#### **Conjure Shield**
+| **Spell**            | **Conjure Shield** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “I conjure a magic shield.” |
-| **Description** |  This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the skill Shield in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The player is responsible for providing the rep for the conjured shield. A shield summoned by this spell cannot be used along with Magic Long Weapon, Self, or Magic Short Weapon, Self. |
+| **Description** |  This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the Shield skill in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured shield. A shield summoned by this spell may not be wielded with a conjured weapon. |
 
       
 
@@ -330,8 +323,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Arcane Rank VI
 
-#### **Limited Teleport, Self**
-| **Spell**            | **Limited Teleport, Self** |
+#### **Limited Teleport†**
+| **Spell**            | **Limited Teleport†** |
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “With arcane forces, I move across time and space.” |
@@ -351,8 +344,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I nullify this spell. &lt;named spell>.” |
 | **Description** |  This spell will instantly remove the named spell effect from the character. This spell is considered a kind of dispel magic effect and will affect spells that are affected by a Dispel Magic while on a character. This spell will not affect spells on inanimate objects. |
 
-#### **Personal Dimension, Self**
-| **Spell**            | **Personal Dimension, Self** |
+#### **Personal Dimension**
+| **Spell**            | **Personal Dimension** |
 |      :---        |       :---         |
 | **Duration**     | 1 minute |
 | **Incant**     | “I conjure a personal dimension.” |
@@ -388,8 +381,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Arcane Rank VIII
 
-#### **Blur Image, Self**
-| **Spell**            | **Blur Image, Self** |
+#### **Blur Image†**
+| **Spell**            | **Blur Image†** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “With arcane forces, I blur my image.” |
@@ -718,8 +711,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank VIII
 
-#### **Limited Phylactery, Self**
-| **Spell**            | **Limited Phylactery, Self** |
+#### **Limited Phylactery†**
+| **Spell**            | **Limited Phylactery†** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “Fiends of the dark nether, create a phylactery for my spirit.” |
@@ -827,8 +820,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I grant you barkskin.” |
 | **Description** |  This spell grants a target other than the caster a single resist physical. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
-#### **Deathbane Weapon, Self**
-| **Spell**            | **Deathbane Weapon, Self** |
+#### **Deathbane Weapon†**
+| **Spell**            | **Deathbane Weapon†** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “By nature, I create a Deathbane Weapon.” |
@@ -924,8 +917,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I strengthen your resolve.” |
 | **Description** |  This spell will remove the BERSERK, SILENCE, STUN, SLEEP, and WEAKEN effects from the target. |
 
-#### **Treehome, Self**
-| **Spell**            | **Treehome, Self** |
+#### **Treehome†**
+| **Spell**            | **Treehome†** |
 |      :---        |       :---         |
 | **Duration**     | 1 minute |
 | **Incant**     | “By the flora, I enter a treehome.” |
@@ -970,8 +963,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I command you to be confused.” |
 | **Description** |  This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect |
 
-#### **Foebane Weapon, Self**
-| **Spell**            | **Foebane Weapon, Self** |
+#### **Foebane Weapon†**
+| **Spell**            | **Foebane Weapon†** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “By nature, I create a Foebane against &lt;creature>.” |
@@ -1030,8 +1023,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I dispel magic.” |
 | **Description** |  This spell will remove all spell effects from the target character or item. This spell does not remove effects caused by toxins, or physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
 
-#### **Treewalk, Self**
-| **Spell**            | **Treewalk, Self** |
+#### **Treewalk†**
+| **Spell**            | **Treewalk†** |
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “By the flora, grant me your stride.” |
@@ -1105,7 +1098,7 @@ Identify Magic
 <p>
 Magic Missile
 <p>
-Magic Short Weapon, Self
+Conjure Weapon
    </td>
    <td>Blood Sacrifice
 <p>
@@ -1157,17 +1150,17 @@ Freedom
   <tr>
    <td>IV
    </td>
-   <td>Magic Long Weapon, Self
+   <td>Conjure Weapon
 <p>
 Magic Missile
 <p>
-Reality Shift, Self
+Reality Shift†
 <p>
 Spell Aegis, Self
 <p>
 Spell Ward
 <p>
-Temporal Shift, Self
+Temporal Shift†
    </td>
    <td>Dull Pain, Self
 <p>
@@ -1213,19 +1206,19 @@ Entrapment
 <p>
 Strengthen Resolve
 <p>
-Treehome, Self
+Treehome†
    </td>
   </tr>
   <tr>
    <td>VI
    </td>
-   <td>Limited Teleport, Self
+   <td>Limited Teleport†
 <p>
 Magic Missile
 <p>
 Nullify Spell
 <p>
-Personal Dimension, Self
+Personal Dimension†
    </td>
    <td>Destroy Undead \
 Dull Pain, Other
@@ -1276,7 +1269,7 @@ Stone Skin, Other
   <tr>
    <td>VIII
    </td>
-   <td>Blur Image, Self
+   <td>Blur Image†
 <p>
 Destruction Ward
 <p>
@@ -1286,7 +1279,7 @@ Pocket Dimension
 <p>
 Spell Mirror, Other
    </td>
-   <td>Limited Phylactery, Self
+   <td>Limited Phylactery†
 <p>
 Restore Body
 <p>
@@ -1324,7 +1317,7 @@ Resurrection
 <p>
 Dispel Magic
 <p>
-Treewalk, Self
+Treewalk†
 <p>
 Wrath of Nature, Other
    </td>
