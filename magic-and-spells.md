@@ -639,12 +639,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I cause fear.” |
 | **Description** |  This spell will cause the target to tremble uncontrollably in fear and be unable to attack. The target may still defend and will attempt to leave the area while the fear is in effect.  This is a FEAR effect. |
 
-#### **Improved Constitution**
-| **Spell**            | **Improved Constitution** |
+#### **Toxin Shield**
+| **Spell**            | **Toxin Shield** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “By the spirits, I bolster your constitution.” |
-| **Description** |  This spell grants the caster a single resist Toxin. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
+| **Description** |  This spell grants the caster a single Resist Toxin. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 ### Spirit Rank VII
 
