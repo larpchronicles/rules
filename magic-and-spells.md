@@ -265,12 +265,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I create a reality shift.” |
 | **Description** |  This spell shifts the caster out of the current plane of existence for its duration. While this spell is in effect, the caster is immune to effects other than Dispel Magic, and Reality Anchor. The caster cannot move (or be moved) from the location where this spell is cast, and may not communicate with others in any way. While the spell is active, the character may not use any skills or activate any items. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
 
-#### **Spell Aegis, Self**
-| **Spell**            | **Spell Aegis, Self** |
+#### **Spell Aegis**
+| **Spell**            | **Spell Aegis** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Description** |  **Incant**:** **“With arcane forces, I create a spell aegis.” |
-| **Description** |  This spell grants the caster a single resist spell. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used. |
+| **Description** |  This spell grants the target a single use of the  Resist Spell ability. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used. |
 
 #### **Spell Ward**
 | **Spell**            | **Spell Ward** |
@@ -311,15 +311,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a magic shield.” |
 | **Description** |  This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the Shield skill in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured shield. A shield summoned by this spell may not be wielded with a conjured weapon. |
 
-      
-
-
-#### **Spell Aegis, Other**
-| **Spell**            | **Spell Aegis, Other** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “With arcane forces, I create a spell aegis.” |
-| **Description** |  This spell grants the target a single Resist Spell. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 ### Arcane Rank VI
 
@@ -344,8 +335,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I nullify this spell. &lt;named spell>.” |
 | **Description** |  This spell will instantly remove the named spell effect from the character. This spell is considered a kind of dispel magic effect and will affect spells that are affected by a Dispel Magic while on a character. This spell will not affect spells on inanimate objects. |
 
-#### **Personal Dimension**
-| **Spell**            | **Personal Dimension** |
+#### **Personal Dimension†**
+| **Spell**            | **Personal Dimension†** |
 |      :---        |       :---         |
 | **Duration**     | 1 minute |
 | **Incant**     | “I conjure a personal dimension.” |
@@ -372,12 +363,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I hasten your time.” |
 | **Description** |  This spell will cause timer based effects that have a base duration of 20 seconds or less to instantly reach their expiration on the target. |
 
-#### **Spell Mirror, Self**
-| **Spell**            | **Spell Mirror, Self** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “With arcane forces, I create a spell mirror.” |
-| **Description** |  This spell grants the caster a single Spell Reflect. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
 ### Arcane Rank VIII
 
@@ -409,12 +394,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a pocket dimension.” |
 | **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows game cards to be stored within the container without the need for also carrying the physical representation. Once a game card is removed from the container, the player must provide a physical representation as required by the game card. Once the pocket dimension ends, all game cards are ejected from the container. The game cards must then be taken to a game storage location if no suitable physical representations are available. A Pocket Dimension container is not protected from destruction by the Pocket Dimension spell; should a Pocket Dimension container be destroyed, all items within the container are also destroyed. A pocket dimension may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs, and PCs cannot be stored within the pocket dimension without express permission from the Plot Team. |
 
-#### **Spell Mirror, Other**
-| **Spell**            | **Spell Mirror, Other** |
+#### **Spell Mirror**
+| **Spell**            | **Spell Mirror** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “With arcane forces, I create a spell mirror.” |
-| **Description** |  This spell grants the target a single Spell Reflect. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
+| **Description** |  This spell grants the target a single Reflect Magic. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
 ### Arcane Rank IX
 
@@ -576,8 +561,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank IV
 
-#### **Dull Pain, Self**
-| **Spell**            | **Dull Pain, Self** |
+#### **Dull Pain**
+| **Spell**            | **Dull Pain** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “By the spirits, I dull your pain.” |
@@ -646,13 +631,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | Instant |
 | **Incant**     | “By the spirits, I destroy undead.” |
 | **Description** |  This spell will instantly destroy an undead creature. Some powerful undead creatures may suffer partial damage from this spell instead of being destroyed outright.  This is a DESTROY effect. |
-
-#### **Dull Pain, Other**
-| **Spell**            | **Dull Pain, Other** |
-|      :---        |       :---         |
-| **Duration**     | 20 seconds |
-| **Incant**     | “By the spirits, I dull your pain.” |
-| **Description** |  This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the target to cast spells while being hit and/or damaged. |
 
 #### **Fear**
 | **Spell**            | **Fear** |
