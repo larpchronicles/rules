@@ -114,6 +114,15 @@ Item production is the process by which characters are able to craft consumable 
 
 ## Alchemy Products
 
+### Weapon Coatings
+Weapon coatings are single-use alchemical products that may be applied to weapons. To apply a coating, the user must have the coating in hand, and roleplay pouring or rubbing the coating on the weapon for 5 seconds. Only the character who had possession of the weapon when the coating was applied may use that coating.
+
+For example, Alice applies a Sleep Coating to her long sword then hands the sword to Bob. Bob cannot use that coating.
+
+However, if Charlie presents his sword to Diane, who then applies a Sleep Coating to Charlie's sword, then Charlie (and only Charlie) may use that Sleep Coating.
+
+Once applied, the coating will last until it is used or the wielder rests, whichever comes first.
+
 ### Rank I
 
 #### Ingestible Toxin Catalyst
