@@ -1121,19 +1121,22 @@ Magic Missile
 <p>
 Reality Shift†
 <p>
-Spell Aegis, Self
+Spell Aegis
 <p>
 Spell Ward
 <p>
 Temporal Shift†
    </td>
-   <td>Dull Pain, Self
+   <td>Dull Pain
 <p>
 Rot Limb
 <p>
 Solidify Undead
+<p>
+Toxin Shield
    </td>
    <td>Entangle Arms
+
 <p>
 Command: Kneel
 <p>
@@ -1147,9 +1150,7 @@ Command: Stun
 <p>
 Entrapment
 <p>
-Magic Shield, Self
-<p>
-Spell Aegis, Other
+Conjure Shield
    </td>
    <td>Corrupt Body
 <p>
@@ -1184,12 +1185,9 @@ Nullify Spell
 <p>
 Personal Dimension†
    </td>
-   <td>Destroy Undead \
-Dull Pain, Other
+   <td>Destroy Undead 
 <p>
 Fear
-<p>
-Improved Constitution
    </td>
    <td>Boon of the Forest
 <p>
