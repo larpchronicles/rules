@@ -160,6 +160,21 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |                |
 
 # SPELLS
+## Spells By Level and School
+
+| Level| Arcane| Spirit| Nature| 
+|----|---|---|---|
+| I| Blinding Light<br>Glowing Light<br>Mana Bolt| Turn Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead| Barkskin, Self<br>Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink| 
+| II| Arcane Knockback<br>Disrupt Aether<br>Identify Magic<br>Magic Missile<br>Conjure Weapon| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear| Barkskin, Other<br>Entangle Foot<br>Deathbane Weapon| 
+| III| Channeled Destruction<br>Limited Time Stop<br>Reality Anchor| Animate Dead<br>Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue| Boon of the Armadillo<br>Boon of Nature<br>Boon of the Tiger<br>Freedom| 
+| IV | Conjure Weapon<br>Magic Missile<br>Reality Shift†<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Dull Pain<br>Rot Limb<br>Solidify Undead<br>Toxin Shield | Entangle Arms<br>Command: Kneel<br>Command: Stun |
+| V | Enchanted Blade<br>Entrapment<br>Conjure Shield | Corrupt Body<br>Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify | <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome† |
+| VI | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Personal Dimension† | Destroy Undead <br>Fear | Boon of the Forest<br>Command: Sleep<br>Entangle Body| 
+| VII | Dimensional Lock<br>Haste<br>Spell Mirror, Self| Absolution<br>Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch| Command: Confused<br>Foebane Weapon<br>Hold: Enemy<br>Stone Skin, Other| 
+| VIII | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Pocket Dimension<br>Spell Mirror, Other| Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin |
+| IX | Circle of Power<br>Dispel Magic<br>Doom<br>Focused Destruction | Create Undead<br>Death<br>Dispel Magic<br>Life<br>Resurrection | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other | 
+
+
 
 ## Arcane
 
@@ -217,13 +232,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a magic missile 10.” |
 | **Description** |  This spell creates a bolt of magic that does 10 magic damage to the target. |
 
-#### **Magic Short Weapon, Self**
-| **Spell**            | **Magic Short Weapon, Self** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “I conjure a magical short &lt;weapon>” |
-| **Description** |  This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the skill Short Weapon in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The player is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell cannot be used along with Magic Shield. |
-
 
 ### Arcane Rank III
 
@@ -251,12 +259,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Arcane Rank IV
 
-#### **Magic Long Weapon, Self**
-| **Spell**            | **Magic Long Weapon, Self** |
+#### **Conjure Weapon**
+| **Spell**            | **Conjure Weapon** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
-| **Incant**     | “I conjure a magical long &lt;weapon>.” |
-| **Description** |  This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the skill Long Weapon in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The player is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell cannot be used along with Magic Shield. |
+| **Incant**     | “I conjure a magical <weapon>.” |
+| **Description** |  This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the appropriate weapon skill in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell may not be wielded with a conjured shield. |
 
 #### **Magic Missile**
 | **Spell**            | **Magic Missile** |
@@ -265,19 +273,19 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a magic missile 20.” |
 | **Description** |  This spell creates a bolt of magic that does 20 magic damage to the target. |
 
-#### **Reality Shift, Self**
-| **Spell**            | **Reality Shift, Self** |
+#### **Reality Shift†**
+| **Spell**            | **Reality Shift†** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “With arcane forces, I create a reality shift.” |
 | **Description** |  This spell shifts the caster out of the current plane of existence for its duration. While this spell is in effect, the caster is immune to effects other than Dispel Magic, and Reality Anchor. The caster cannot move (or be moved) from the location where this spell is cast, and may not communicate with others in any way. While the spell is active, the character may not use any skills or activate any items. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
 
-#### **Spell Aegis, Self**
-| **Spell**            | **Spell Aegis, Self** |
+#### **Spell Aegis**
+| **Spell**            | **Spell Aegis** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Description** |  **Incant**:** **“With arcane forces, I create a spell aegis.” |
-| **Description** |  This spell grants the caster a single resist spell. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used. |
+| **Description** |  This spell grants the target a single use of the  Resist Spell ability. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used. |
 
 #### **Spell Ward**
 | **Spell**            | **Spell Ward** |
@@ -286,8 +294,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a spell ward.” |
 | **Description** |  This spell grants the target a protective enchantment that will reduce spell damage by half for the duration of the effect. This spell does not stack upon itself for additional effect. This spell does not reduce non-damaging effects or effects that do not have a set amount of damage.  This is a REDUCED DAMAGE effect. |
 
-#### **Temporal Shift, Self**
-| **Spell**            | **Temporal Shift, Self** |
+#### **Temporal Shift**
+| **Spell**            | **Temporal Shift†** |
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “With arcane forces, I create a temporal shift. &lt;effect name>” |
@@ -311,27 +319,18 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the Arcane, I entrap your essence.” |
 | **Description** |  This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
 
-#### **Magic Shield, Self**
-| **Spell**            | **Magic Shield, Self** |
+#### **Conjure Shield**
+| **Spell**            | **Conjure Shield** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “I conjure a magic shield.” |
-| **Description** |  This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the skill Shield in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The player is responsible for providing the rep for the conjured shield. A shield summoned by this spell cannot be used along with Magic Long Weapon, Self, or Magic Short Weapon, Self. |
+| **Description** |  This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the Shield skill in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured shield. A shield summoned by this spell may not be wielded with a conjured weapon. |
 
-      
-
-
-#### **Spell Aegis, Other**
-| **Spell**            | **Spell Aegis, Other** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “With arcane forces, I create a spell aegis.” |
-| **Description** |  This spell grants the target a single Resist Spell. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 ### Arcane Rank VI
 
-#### **Limited Teleport, Self**
-| **Spell**            | **Limited Teleport, Self** |
+#### **Limited Teleport†**
+| **Spell**            | **Limited Teleport†** |
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “With arcane forces, I move across time and space.” |
@@ -351,8 +350,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I nullify this spell. &lt;named spell>.” |
 | **Description** |  This spell will instantly remove the named spell effect from the character. This spell is considered a kind of dispel magic effect and will affect spells that are affected by a Dispel Magic while on a character. This spell will not affect spells on inanimate objects. |
 
-#### **Personal Dimension, Self**
-| **Spell**            | **Personal Dimension, Self** |
+#### **Personal Dimension†**
+| **Spell**            | **Personal Dimension†** |
 |      :---        |       :---         |
 | **Duration**     | 1 minute |
 | **Incant**     | “I conjure a personal dimension.” |
@@ -379,17 +378,11 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “With arcane forces, I hasten your time.” |
 | **Description** |  This spell will cause timer based effects that have a base duration of 20 seconds or less to instantly reach their expiration on the target. |
 
-#### **Spell Mirror, Self**
-| **Spell**            | **Spell Mirror, Self** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “With arcane forces, I create a spell mirror.” |
-| **Description** |  This spell grants the caster a single Spell Reflect. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
 ### Arcane Rank VIII
 
-#### **Blur Image, Self**
-| **Spell**            | **Blur Image, Self** |
+#### **Blur Image†**
+| **Spell**            | **Blur Image†** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “With arcane forces, I blur my image.” |
@@ -416,12 +409,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “I conjure a pocket dimension.” |
 | **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows game cards to be stored within the container without the need for also carrying the physical representation. Once a game card is removed from the container, the player must provide a physical representation as required by the game card. Once the pocket dimension ends, all game cards are ejected from the container. The game cards must then be taken to a game storage location if no suitable physical representations are available. A Pocket Dimension container is not protected from destruction by the Pocket Dimension spell; should a Pocket Dimension container be destroyed, all items within the container are also destroyed. A pocket dimension may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs, and PCs cannot be stored within the pocket dimension without express permission from the Plot Team. |
 
-#### **Spell Mirror, Other**
-| **Spell**            | **Spell Mirror, Other** |
+#### **Spell Mirror**
+| **Spell**            | **Spell Mirror** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “With arcane forces, I create a spell mirror.” |
-| **Description** |  This spell grants the target a single Spell Reflect. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
+| **Description** |  This spell grants the target a single Reflect Magic. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
 ### Arcane Rank IX
 
@@ -583,12 +576,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank IV
 
-#### **Dull Pain, Self**
-| **Spell**            | **Dull Pain, Self** |
+#### **Dull Pain**
+| **Spell**            | **Dull Pain** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “By the spirits, I dull your pain.” |
-| **Description** |  This spell causes the caster to become numb to pain for the duration of this spell. Dull Pain allows the caster to cast spells while being hit and/or damaged. |
+| **Description** |  This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the caster to cast spells while being hit and/or damaged. |
 
 #### **Rot Limb**
 | **Spell**            | **Rot Limb** |
@@ -654,13 +647,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I destroy undead.” |
 | **Description** |  This spell will instantly destroy an undead creature. Some powerful undead creatures may suffer partial damage from this spell instead of being destroyed outright.  This is a DESTROY effect. |
 
-#### **Dull Pain, Other**
-| **Spell**            | **Dull Pain, Other** |
-|      :---        |       :---         |
-| **Duration**     | 20 seconds |
-| **Incant**     | “By the spirits, I dull your pain.” |
-| **Description** |  This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the target to cast spells while being hit and/or damaged. |
-
 #### **Fear**
 | **Spell**            | **Fear** |
 |      :---        |       :---         |
@@ -668,12 +654,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the spirits, I cause fear.” |
 | **Description** |  This spell will cause the target to tremble uncontrollably in fear and be unable to attack. The target may still defend and will attempt to leave the area while the fear is in effect.  This is a FEAR effect. |
 
-#### **Improved Constitution**
-| **Spell**            | **Improved Constitution** |
+#### **Toxin Shield**
+| **Spell**            | **Toxin Shield** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “By the spirits, I bolster your constitution.” |
-| **Description** |  This spell grants the caster a single resist Toxin. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
+| **Description** |  This spell grants the caster a single Resist Toxin. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 ### Spirit Rank VII
 
@@ -718,8 +704,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank VIII
 
-#### **Limited Phylactery, Self**
-| **Spell**            | **Limited Phylactery, Self** |
+#### **Limited Phylactery†**
+| **Spell**            | **Limited Phylactery†** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “Fiends of the dark nether, create a phylactery for my spirit.” |
@@ -783,13 +769,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Nature Rank I
 
-#### **Barkskin, Self**
-| **Spell**            | **Barkskin, Self** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “By the flora, I grant you barkskin.” |
-| **Description** |  This spell grants the caster a single resist physical. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
-
 #### **Command: Drop**
 | **Spell**            | **Command: Drop** |
 |      :---        |       :---         |
@@ -827,8 +806,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I grant you barkskin.” |
 | **Description** |  This spell grants a target other than the caster a single resist physical. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
-#### **Deathbane Weapon, Self**
-| **Spell**            | **Deathbane Weapon, Self** |
+#### **Deathbane Weapon†**
+| **Spell**            | **Deathbane Weapon†** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | “By nature, I create a Deathbane Weapon.” |
@@ -873,6 +852,13 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Nature Rank IV
 
+#### **Barkskin**
+| **Spell**            | **Barkskin** |
+|      :---        |       :---         |
+| **Duration**     | Rest |
+| **Incant**     | “By the flora, I grant you barkskin.” |
+| **Description** |  This spell grants the target a single Resist Physical. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
+
 #### **Command: Kneel**
 | **Spell**            | **Command: Kneel**   |
 |      :---        |:-------------|
@@ -896,13 +882,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Nature Rank V
 
-#### **Boon of the Folk**
-| **Spell**            | **Boon of the Folk** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “By nature, I grant you folk’s boon.” |
-| **Description** |  This spell allows the target to resist one BERSERK, SILENCE, SLEEP, or STUN effect. The character replies “Resist” when using this spell. A character cannot benefit from more than one Boon of the Folk spell at a time. This spell is expended once used. |
-
 #### **Command: Silence**
 | **Spell**            | **Command: Silence** |
 |      :---        |       :---         |
@@ -924,8 +903,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I strengthen your resolve.” |
 | **Description** |  This spell will remove the BERSERK, SILENCE, STUN, SLEEP, and WEAKEN effects from the target. |
 
-#### **Treehome, Self**
-| **Spell**            | **Treehome, Self** |
+#### **Treehome†**
+| **Spell**            | **Treehome†** |
 |      :---        |       :---         |
 | **Duration**     | 1 minute |
 | **Incant**     | “By the flora, I enter a treehome.” |
@@ -954,12 +933,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By the flora, I entangle your body.” |
 | **Description** |  This spell entangles the target’s entire form in place, rendering the target helpless and unable to move from the neck down. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
-#### **Stone Skin, Self**
-| **Spell**            | **Stone Skin, Self** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “By nature, I grant you stoneskin.” |
-| **Description** |  This spell grants the caster a single reflect physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
 
 ### Nature Rank VII
 
@@ -970,8 +943,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I command you to be confused.” |
 | **Description** |  This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect |
 
-#### **Foebane Weapon, Self**
-| **Spell**            | **Foebane Weapon, Self** |
+#### **Foebane Weapon†**
+| **Spell**            | **Foebane Weapon†** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | “By nature, I create a Foebane against &lt;creature>.” |
@@ -983,13 +956,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | 20 seconds |
 | **Incant**     | “By nature, I hold you still.” |
 | **Description** |  This spell renders the target completely unable to move while under the effects of this spell.  This is a CONFINE effect. |
-
-#### **Stone Skin, Other**
-| **Spell**            | **Stone Skin, Other** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | “By nature, I grant you stoneskin.” |
-| **Description** |  This spell grants the target a single Reflect Physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time. A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used.  This is a REFLECT effect. |
 
 ### Nature Rank VIII
 
@@ -1014,6 +980,13 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I turn stone to flesh.” |
 | **Description** |  This spell will end the effects of the spell Flesh to Stone, leaving the target at 0 health.  This will remove the STONE effect. |
 
+#### **Stoneskin**
+| **Spell**            | **Stoneskin** |
+|      :---        |       :---         |
+| **Duration**     | Rest |
+| **Incant**     | “By nature, I grant you stoneskin.” |
+| **Description** |  This spell grants the target a single Reflect Physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
+
 ### Nature Rank IX
 
 #### **Boon of the Rabbit**
@@ -1030,8 +1003,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | “By nature, I dispel magic.” |
 | **Description** |  This spell will remove all spell effects from the target character or item. This spell does not remove effects caused by toxins, or physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
 
-#### **Treewalk, Self**
-| **Spell**            | **Treewalk, Self** |
+#### **Treewalk†**
+| **Spell**            | **Treewalk†** |
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | “By the flora, grant me your stride.” |
@@ -1043,291 +1016,3 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | Concentration, up to 1 Minute |
 | **Incant**     | “By nature, I grant you a vengeful wrath.” |
 | **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target’s health pool cannot be brought to below 1 point as long as the caster is within arm’s reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
-
-
-
-
-<table>
-  <tr>
-   <td colspan="4" >Spells By Level and School
-   </td>
-  </tr>
-  <tr>
-   <td>Level
-   </td>
-   <td>Arcane
-   </td>
-   <td>Spirit
-   </td>
-   <td>Nature
-   </td>
-  </tr>
-  <tr>
-   <td>I
-   </td>
-   <td>Blinding Light
-<p>
-Glowing Light
-<p>
-Mana Bolt
-   </td>
-   <td>Turn Undead
-<p>
-Transfer Malady
-<p>
-Necrotic Tissue
-<p>
-Heal Wounds
-<p>
-Glowing Light
-<p>
-Control: Minor Undead
-   </td>
-   <td>Barkskin, Self
-<p>
-Command: Drop
-<p>
-Glowing Light
-<p>
-Grasping Grasses
-<p>
-Purify Food and Drink
-   </td>
-  </tr>
-  <tr>
-   <td>II
-   </td>
-   <td>Arcane Knockback
-<p>
-Disrupt Aether
-<p>
-Identify Magic
-<p>
-Magic Missile
-<p>
-Magic Short Weapon, Self
-   </td>
-   <td>Blood Sacrifice
-<p>
-Close Wounds
-<p>
-Cure Blindness
-<p>
-Harm Undead
-<p>
-Healing Touch
-<p>
-Remove Fear
-   </td>
-   <td>Barkskin, Other
-<p>
-Entangle Foot
-<p>
-Deathbane Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>III
-   </td>
-   <td>Channeled Destruction
-<p>
-Limited Time Stop
-<p>
-Reality Anchor
-   </td>
-   <td>Animate Dead
-<p>
-Cause Weakness
-<p>
-Cure Weakness
-<p>
-Heal Wounds
-<p>
-Necrotic Tissue
-   </td>
-   <td>Boon of the Armadillo
-<p>
-Boon of Nature
-<p>
-Boon of the Tiger
-<p>
-Freedom
-   </td>
-  </tr>
-  <tr>
-   <td>IV
-   </td>
-   <td>Magic Long Weapon, Self
-<p>
-Magic Missile
-<p>
-Reality Shift, Self
-<p>
-Spell Aegis, Self
-<p>
-Spell Ward
-<p>
-Temporal Shift, Self
-   </td>
-   <td>Dull Pain, Self
-<p>
-Rot Limb
-<p>
-Solidify Undead
-   </td>
-   <td>Entangle Arms
-<p>
-Command: Kneel
-<p>
-Command: Stun
-   </td>
-  </tr>
-  <tr>
-   <td>V
-   </td>
-   <td>Enchanted Blade
-<p>
-Entrapment
-<p>
-Magic Shield, Self
-<p>
-Spell Aegis, Other
-   </td>
-   <td>Corrupt Body
-<p>
-Cure Body
-<p>
-Entrapment
-<p>
-Heal Wounds
-<p>
-Necrotic Tissue
-<p>
-Revivify
-   </td>
-   <td>Boon of the Folk
-<p>
-Command: Silence
-<p>
-Entrapment
-<p>
-Strengthen Resolve
-<p>
-Treehome, Self
-   </td>
-  </tr>
-  <tr>
-   <td>VI
-   </td>
-   <td>Limited Teleport, Self
-<p>
-Magic Missile
-<p>
-Nullify Spell
-<p>
-Personal Dimension, Self
-   </td>
-   <td>Destroy Undead \
-Dull Pain, Other
-<p>
-Fear
-<p>
-Improved Constitution
-   </td>
-   <td>Boon of the Forest
-<p>
-Command: Sleep
-<p>
-Entangle Body
-<p>
-Stone Skin, Self
-   </td>
-  </tr>
-  <tr>
-   <td>VII
-   </td>
-   <td>Dimensional Lock
-<p>
-Haste
-<p>
-Spell Mirror, Self
-   </td>
-   <td>Absolution
-<p>
-Curse
-<p>
-Heal Wounds
-<p>
-Necrotic Tissue
-<p>
-Preserve Corpse
-<p>
-Vampiric Touch
-   </td>
-   <td>Command: Confused
-<p>
-Foebane Weapon
-<p>
-Hold: Enemy
-<p>
-Stone Skin, Other
-   </td>
-  </tr>
-  <tr>
-   <td>VIII
-   </td>
-   <td>Blur Image, Self
-<p>
-Destruction Ward
-<p>
-Magic Missile
-<p>
-Pocket Dimension
-<p>
-Spell Mirror, Other
-   </td>
-   <td>Limited Phylactery, Self
-<p>
-Restore Body
-<p>
-Repair Undead
-   </td>
-   <td>Boon of the Cat
-<p>
-Flesh to Stone
-<p>
-Stone to Flesh
-   </td>
-  </tr>
-  <tr>
-   <td>IX
-   </td>
-   <td>Circle of Power
-<p>
-Dispel Magic
-<p>
-Doom
-<p>
-Focused Destruction
-   </td>
-   <td>Create Undead
-<p>
-Death
-<p>
-Dispel Magic
-<p>
-Life
-<p>
-Resurrection
-   </td>
-   <td>Boon of the Rabbit
-<p>
-Dispel Magic
-<p>
-Treewalk, Self
-<p>
-Wrath of Nature, Other
-   </td>
-  </tr>
-</table>
-
