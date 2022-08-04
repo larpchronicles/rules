@@ -103,6 +103,17 @@ Yes
   </tr>
 </table>
 
+## Bows and Crossbows
+
+### Crossbows
+The stock must be at least 12" long, and each limb must extend at least 6" from the stock (making the whole thing at least 12" wide).
+
+If you wrap a string around the perimeter of the rep, the area it encloses must be at least 72 sq. in. (A 12" base, 12" height isosceles triangle).
+
+If attached to your arm, you cannot use the bow while holding anything else in that hand, you cannot use the crossbow to block attacks, and you cannot attack with any melee weapons in either hand. If you want to be able to block with a shield, a weapon, or attack with a weapon, you must first remove the crossbow from your arm (or securely fold the limbs to the stock). If you are struck by any weapon, even if it does not strike the bow, you must spend at least 3 seconds roleplaying restringing the bow before you may fire it again.
+
+The rep will be subject to a more rigorous safety inspection than a typical melee rep. It is **strongly** advised that you run your design idea past the staff before you begin construction; we would hate to see someone put a lot of time, effort, and resources into something that won't meet safety expectations.
+
 
 **Crafting Materials**
 
