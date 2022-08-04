@@ -163,7 +163,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Description** |  **Incant**:** **"With arcane forces, I create a spell aegis." |
-| **Description** |  This spell grants the target a single use of the  Resist Spell ability. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used. |
+| **Description** |  This spell grants the target a single use of the  Resist Spell ability. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used. |
 
 #### **Spell Ward**
 | **Spell**            | **Spell Ward** |
@@ -287,7 +287,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | "With arcane forces, I create a spell mirror." |
-| **Description** |  This spell grants the target a single Reflect Magic. The character replies “Reflect” when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
+| **Description** |  This spell grants the target a single Reflect Magic. The character replies "Reflect" when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
 ### Arcane Rank IX
 
@@ -537,7 +537,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | "By the spirits, I bolster your constitution." |
-| **Description** |  This spell grants the caster a single Resist Toxin. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
+| **Description** |  This spell grants the caster a single Resist Toxin. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 ### Spirit Rank VII
 
@@ -739,8 +739,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Spell**            | **Barkskin** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
-| **Incant**     | “By the flora, I grant you barkskin.” |
-| **Description** |  This spell grants the target a single Resist Physical. The character replies “Resist” when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
+| **Incant**     | "By the flora, I grant you barkskin." |
+| **Description** |  This spell grants the target a single Resist Physical. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 #### **Command: Kneel**
 | **Spell**            | **Command: Kneel**   |
@@ -868,8 +868,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Spell**            | **Stoneskin** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
-| **Incant**     | “By nature, I grant you stoneskin.” |
-| **Description** |  This spell grants the target a single Reflect Physical. The character replies “Reflect” when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
+| **Incant**     | "By nature, I grant you stoneskin." |
+| **Description** |  This spell grants the target a single Reflect Physical. The character replies "Reflect" when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
 
 ### Nature Rank IX
 
