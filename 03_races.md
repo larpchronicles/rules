@@ -187,8 +187,7 @@ Socially, these Elves are broken down into various regional Groves, led by an el
 
 ---
 
-## 
-Glimmerling
+## Glimmerling
 
 **Physical Description**:
 
