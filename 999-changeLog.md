@@ -18,7 +18,6 @@
 
 <u>Rune Carving</u>
 * Rune of Chambering can now be set to the DRAINED condition.
-
 <u>Tinkering</u>
 * Portable Wildfire and Grenade are now "Normal Flame" not “Physical Flame”
 * Tinkering's gathering skill renamed to Scrapping to match its components of Scrap Parts.
@@ -51,7 +50,10 @@ This change is to prevent abuse of the spell, and to bring it in line with other
 
 </u>Arcane</u>
 * “Elemental Doom” is now properly titled simply “Doom”
+
+* Arcane Knockback updated to use the STOP THRUST effect. [Pending update.]
 * Arcane Knockback renamed to Arcane Halt and updated to use the STOP THRUST effect. 
+
 * Magic Short Weapon and Magic Long Weapon combined into single Conjure Weapon spell.
 
 <u>Spirit</u>
