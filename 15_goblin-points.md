@@ -100,7 +100,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 *  Supplies for phys-reps donations are rewarded with 10 Goblin Points per $1 USD value, rounded up.  This means if you spend $9.34 on phy-rep supplies, it will count as $10 and you will be given 100 GP.  Not sure what kind of supplies to donate?  Here is a short list of preferred supplies:
     * Ultralight Cores of carbon fiber, kitespar tube, fiberglass tube, or wrapped graphite tube.  Aluminum cores are only used for polearms.  Diameter should be between .414-.610”.
-    * Closed Cell Foam.  This can be pipe foam insulation and pool noodles and is used to pad the “blade” of a boffer.  It should have a wall of at least ⅝” thick.
+    * Closed Cell Foam.  This can be pipe foam insulation and pool noodles and is used to pad the “blade” of a boffer.  It should have a wall of at least 5/8” thick.
     * Open Cell Foam.  Used for boffer tips, this is a less dense foam commonly found in fabric stores as fill for pillows or in hardware stores as pipe foam.
     * Kite Tape or nylon rip stop repair tape.  Preferred vendor - [FunWithWind](https://funwithwind.com/store/ListCategoriesAndProducts2.asp?idCategory=186&idparent=171)
     * [Dap Weldwood Contact Cement](https://www.amazon.com/00271-Weldwood-Original-Contact-Cement/dp/B0006MXRY8/ref=pd_di_sccai_2?pd_rd_w=gdI93&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=NXDNHRFGZV673SHKBQWS&pd_rd_r=377eca45-f83c-4a21-a00f-3b4859ff9ab9&pd_rd_wg=MvJFD&pd_rd_i=B0006MXRY8&psc=1)
