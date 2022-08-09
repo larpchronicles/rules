@@ -7,17 +7,18 @@ Item production is the process by which characters are able to craft consumable 
 | _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
 | [Alchemy](#alchemy-products) | 3+1 | 2+1 | 1+1 | 1+1 | Foraging |
-| [Rune Carving](#rune-carving-products) | 2+1 | 1+1 | 3+1 | 1+1 | Wood Carving |
-| [Tinkering](#tinkering-products) | 1+1 | 3+1 | 1+1 | 2+1 | Salvaging |
+| [Rune Carving](#rune-carving-products) | 2+1 | 1+1 | 3+1 | 1+1 | Logging |
+| [Tinkering](#tinkering-products) | 1+1 | 3+1 | 1+1 | 2+1 | Scrapping |
 | [Smithing](#smithing-products) | 1+1 | 1+1 | 2+1 | 3+1 | Mining |
 | [Artificing](#artificing-products) | 25 | 25 | 25 | 25 | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 
 | _**Harvesting Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
 | [Foraging](#foraging-products) | 3+1 | 2+1 | 1+1 | 1+1 | - |
+| [Logging](#logging-products) | 2+1 | 1+1 | 3+1 | 1+1 | - |
+| [Scrapping](#scrapping-products) | 1+1 | 3+1 | 1+1 | 2+1 | - |
 | [Mining](#mining-products) | 2+1 | 1+1 | 3+1 | 1+1 | - |
-| [Salvaging](#salvaging-products) | 1+1 | 3+1 | 1+1 | 2+1 | - |
-| [Wood Carving](#wood-carving-products) | 2+1 | 1+1 | 3+1 | 1+1 | - |
+
 
 | _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
 | --- | --- | --- | --- | --- | --- |
@@ -34,11 +35,11 @@ Item production is the process by which characters are able to craft consumable 
 #### Mining
 >This skill is the prerequisite for the Smithing Skill and is used to gather the materials for it.  Mining represents the character digging out raw ore, and collecting other sundry items for use with the Smithing skill.
 
-#### Salvaging
->This skill is the prerequisite for the Tinkering Skill and is used to gather the materials for it.  Salvaging represents the character collecting scrap metals, bits of debris, and reclaiming materials from junk yards for use with the Tinkering skill.
+#### Scrapping
+>This skill is the prerequisite for the Tinkering Skill and is used to gather the materials for it.  Scrapping represents the character collecting scrap metals, bits of debris, and reclaiming materials from junk yards for use with the Tinkering skill.
 
-#### Wood Carving
->This skill is the prerequisite for the Rune Carving Skill and is used to gather the materials for it.  Wood carving represents the character collecting pieces of wood and shaping them into basic shapes for wands and rune marks.
+#### Logging
+>This skill is the prerequisite for the Rune Carving Skill and is used to gather the materials for it.  Logging represents the character collecting pieces of wood and shaping them into basic shapes for wands and rune marks.
 
 ## Raw Materials
 
@@ -91,7 +92,7 @@ Item production is the process by which characters are able to craft consumable 
 | V | Iron Ore |
 | X | Titanium Ore |
 
-### Scavenging Products
+### Scrapping Products
 | _**Material Rank**_ | _**Product**_ | 
 | --- | --- |
 | I | Tiny Scrap Parts |
@@ -101,7 +102,7 @@ Item production is the process by which characters are able to craft consumable 
 | V | Huge Scrap Parts |
 | X | Massive Scrap Parts |
 
-### Wood Carving Products
+### Logging Products
 | _**Material Rank**_ | _**Product**_ | 
 | --- | --- |
 | I | Rotten Wood |
@@ -356,9 +357,9 @@ Once applied, the coating will last until it is used or the wielder rests, which
 #### Foraging Trowel
    >This is a crafted item for use with the Foraging skill. The trowel will add an additional raw material rank to the character for each rank of Foraging skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 #### Salvaging Screwdriver
-   >This is a crafted item for use with the Salvaging skill. The screwdriver will add an additional raw material rank to the character for each rank of Tinkering skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
+   >This is a crafted item for use with the Scrapping skill. The screwdriver will add an additional raw material rank to the character for each rank of Tinkering skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 #### Carving Knife
-   >This is a crafted item for use with the Wood Carving skill. The knife will add an additional raw material rank to the character for each rank of Wood Carving skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
+   >This is a crafted item for use with the Logging skill. The knife will add an additional raw material rank to the character for each rank of Logging skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 #### Cooking Utensils
    >This is a crafted item for use with the Cooking skill. The utensils will add an additional High Quality Food created by the cook for each rank of Cooking skill that the character has. Tools have 10 charges.
 #### Lock

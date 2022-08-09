@@ -20,12 +20,19 @@
 * Rune of Chambering can now be set to the DRAINED condition.
 <u>Tinkering</u>
 * Portable Wildfire and Grenade are now "Normal Flame" not “Physical Flame”
+* Tinkering's gathering skill renamed to Scrapping to match its components of Scrap Parts.
+
 <u>Smithing</u>
 * Bola Projectile is now a KNEEL effect.
+
 <u>Artificing</u>
-* Titan’s Iron Boots (pending removal)
+* Titan’s Iron Boots removed.  Will be replaced in next version.
+
 <u>Wood Carving</u>
 * Wood Carving renamed to Logging.
+
+<u>Recycling</u>
+* All Recycling skills are now a single skill that can be used for all crafting products.  The crafting components yielded depends on the production item being broken down.
 
 ### Magic
 * All spells have been alphabetized within their ranks. Because you’re a bunch of nerds.
@@ -43,7 +50,10 @@ This change is to prevent abuse of the spell, and to bring it in line with other
 
 </u>Arcane</u>
 * “Elemental Doom” is now properly titled simply “Doom”
+
 * Arcane Knockback updated to use the STOP THRUST effect. [Pending update.]
+* Arcane Knockback renamed to Arcane Halt and updated to use the STOP THRUST effect. 
+
 * Magic Short Weapon and Magic Long Weapon combined into single Conjure Weapon spell.
 
 <u>Spirit</u>
@@ -52,15 +62,17 @@ This change is to prevent abuse of the spell, and to bring it in line with other
 * Improved Constitution renamed to Toxin Shield.
 * New spell that will reflect toxins.  [Pending name.]
 
-###Martial
+### Martial
 * Trip - Now KNEEL effect
-* Stop Thrust - 20 Seconds
-* Shield Bash - [Pending update for effect.]
+* Stop Thrust - Updated to 20 second duration.  Skill may be purchased with any melee weapon.
+* Shield Bash removed.
 
-##Ritual Magic
+### Ritual Magic
 * Spirit Familiar no longer requires you to strictly allocate SP to it, nor does it cap you at 50% of your total build in Monstrous Abilities.
+* "Monstrous <Ability>" renamed to "Transform Ability <Ability>".
+* Transform Ability: Cast Spells Innately updated to a single scroll that can apply to any school with only one cast.  A Transform may only unlock this ability for one school.
 
-##General
+### General
 * Drain - Now it lasts until fixed.
 * Retreat - All RETREAT effects have been modified due to safety concerns.
 
