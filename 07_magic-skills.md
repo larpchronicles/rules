@@ -13,7 +13,6 @@ Rarely, you may encounter entities that are capable of delivering magic quicker 
 
 ## Mastery Skills
 
----
 A Mastery skill is purchased in order to grant a character access to a school of magic. The skill itself is the prerequisite for purchasing your first Mana Attunement of the given school, and provides a passive benefit that may be used.
 
 |Magic Skill Costs|F|T|R|S|
@@ -35,7 +34,6 @@ This skill allows the character the occasional ability to sense extreme danger, 
 
 ## Mana Attunement
 
----
 In order to cast a spell, you must possess the appropriate Mastery skill, and purchase ranks of Mana Attunement. Each rank of Mana Attunement you purchase in a given school gives you 10 Points of Mana, which may be spent to cast any spell from that school, on a 1:1 basis, where Mana is equivalent to a spell rank. So after your first attunement is purchased, you could cast 10 Rank I spells, or 2 Rank V spells, or any other combination adding up to 10. These spells can be chosen on the fly, allowing for spell casters to be highly flexible. Some may prefer to Memorize their spells in advance, giving them a clearer guide on what they are capable of. If a character chooses to use Memorization, they gain a bonus 10% to their Mana Pool, so someone with a single Mana Attunement who Memorizes would have 11 Mana, or someone with 5 Attunements would have 55 Mana that they could assign to their Memorized spells.
 
 |Attunement Cost|F|T|R|S|Prereqs|

@@ -2,7 +2,6 @@
 
 ## Weapon Reps
 
----
 * All combat reps must be certified as safe. Safety checks for all combat reps may be performed at check-in.  Safety checks MUST be performed EVERY EVENT; they do not carry over from prior events.  A marshal may request to inspect your reps at any time during the event, and, if deemed unsafe, may lose their safety certification.
 * Claws / Bites or Unarmed weapons must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.
 * Real archery reps are restricted.  Gameplay uses packet bow shooter designs.
@@ -36,7 +35,6 @@ A few online storefronts will have ready made things, but please do ask others h
 
 ## Bows and Crossbows
 
----
 ### Crossbows
 The stock must be at least 12" long, and each limb must extend at least 6" from the stock (making the whole thing at least 12" wide).
 
@@ -51,7 +49,6 @@ The rep will be subject to a more rigorous safety inspection than a typical mele
 
 ## Packets
 
----
 * There are no type = color requirements.  However, there is a strong preference for white, as they are far easier to find.
 * Wet, torn, or damaged packets should be discarded rather than returned to the NPC Camp packet bucket.
 * A packet can hit you anywhere and it counts (including clothing). Weapons that strike your head, groin, or a hand holding a weapon do not count.
@@ -67,7 +64,6 @@ The rep will be subject to a more rigorous safety inspection than a typical mele
 
 ## Shields
 
----
 * The longest dimension a shield may have is 36".
 * Everything attached to the shield and its edges (such as foam edging) counts as part of the shield.
 * The maximum allowed surface area of a shield is 531 square inches and is calculated as if the shield were a flattened surface, counting any concavities into the silhouette.

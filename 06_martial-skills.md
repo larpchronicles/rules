@@ -1398,6 +1398,7 @@ Examples:
 * 5 Normal
 * 2 Magic Flame
 * 23 Silver Death
+* 4 Poison Vital
 
 Suppose you have a normal longsword, a transform with the Magic Aura and Flame Aura abilities, and a Frost coating applied to the weapon. You would swing one of:
 
@@ -1408,55 +1409,11 @@ Suppose you have a normal longsword, a transform with the Magic Aura and Flame A
 * 5 Magic Frost
 * 5 Normal Frost
 
-<table>
-  <tr>
-   <td colspan="2" >
-<strong>Damage Types</strong>
-<ul>
-
-<li>Magic
-
-<li>Normal
-
-<li>Poison
-
-<li>Silver
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Damage Flavors</strong>
-<ul>
-
-<li>Flame
-
-<li>Frost
-
-<li>Shock
-
-<li>Stone
-</li>
-</ul>
-   </td>
-   <td><strong>Damage Carriers</strong>
-<ul>
-
-<li>Curse
-
-<li>Death
-
-<li>Drain
-
-<li>Toxin
-
-<li>Vital
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
+| Part of Call    | Options                                  |
+|-----------------|------------------------------------------|
+| Damage Type     | Normal<br>Silver<br>Magic<br>Poison      |
+| Damage Flavor   | Flame<br>Frost<br>Shock<br>Stone         |
+| Damage Carriers | Curse<br>Death<br>Drain<br>Vital<br>etc. |
 
 ## Spellstrike
 

@@ -1,12 +1,7 @@
-#Chronicles Game Rules (v2.4)
+# Chronicles Game Rules (v2.4)
 
----
-##Introduction
+## Introduction
+Pending.
 
----
-    Pending.
-    
-##Game Setting
-
----
-    Pending.
+## Game Setting
+Pending.

@@ -1,9 +1,9 @@
 # Check In Information & General Etiquette
 
-## Check In
 
----
+## Check In Procedure
 Camp opens at 1700 Central (5pm).  Check In commonly includes the following:
+
 * Confirmation of a signed Code of Conduct.
 * Confirmation of a signed Event Liability Waiver.
 * Confirmation of Event Fee Payment.  PayPal / Cash
@@ -21,9 +21,8 @@ Camp opens at 1700 Central (5pm).  Check In commonly includes the following:
 * Weapons safety check.
 * Any questions you have.
 
-## Event Fees & Meal Tickets
 
----
+## Event Fees & Meal Tickets
 Our event fee is $25.00 per event day.  Two day events are $50.00 and three day events are $75.00.
 
 >If you bring a new player, you will both receive $25 off your event fee.  If you bring more than one new person, this discount will apply to your future event fees.
@@ -41,8 +40,6 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
 
     
 ## Camp Site Rules During Check In
-
----
 ### Camp Eastman
 * You may drive on any of the gravel roads, but please do not block them in case someone needs to get past where you stopped.
 * You may drive up to the cabins if the ground is dry.  Please avoid damaging the grounds as much as possible.
@@ -55,7 +52,6 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
     
 # Cabins
 
----
 There are no assigned cabins, but there is a requirement that you allow others to bunk in your cabin if there is space and other areas are not available.
 
 ## Camp Eastman
@@ -80,7 +76,6 @@ There are no assigned cabins, but there is a requirement that you allow others t
 
 # Headband Rules
 
----
 ## Orange Headbands - Non Combatants & Pages
 Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.  Pages may not use combat skills, weapons, or throw packets.
 
@@ -96,7 +91,6 @@ When your character dies and your dying count has expired, after dropping all in
 
 # Hold & Medic Calls
 
----
 If you hear anyone call "Hold" or "Medic" you must immediately stop all activity, movement, and be silent unless directed otherwise.  If you are physically able to, drop to one knee.  **These calls indicate an Out of Game emergency.**
 
 Only the persons who have been identified as a Medic by the Plot Team or Staff should respond to the call of "Medic."  A Medic is an individual with CPR and/or First Aid certification or has a license to practice medicine.
@@ -106,7 +100,6 @@ Please do not call "Hold" or "Medic" unless you or someone else is injured in re
 
 # In Game vs. Out of Game Areas & Combat
 
----
 Out of Game Areas are areas that you are not permitted to engage in combat in.  You may not chase PCs or NPCs into these areas nor use these areas to hide from In Game events, NPCs, etc.
 
 Bathrooms, showers, and Logistics/NPC Camp are considered Out of Game Areas.
@@ -123,7 +116,6 @@ Unless otherwise noted by the Plot Team or Staff, all other areas are considered
 
 # General Etiquette
 
----
 Help ensure we can return to these sites for future events by being respectful of the facilities and cleaning up after yourself.  If you notice a problem anywhere in the facility, please alert a member of the Plot Team or Staff immediately.
 
 Pick up packets at the end of each fight or mod.  If they are wet, torn, or damaged, please throw them away.
@@ -139,13 +131,12 @@ Camp Loud Thunder:  Do not disturb any non-Chronicles campers.  If approached, b
 
 # COVID Precautions
 
----
 We follow guidelines from the CDC and the state of Illinois.  Please get your vaccinations.  If you feel sick, stay home.
 
 Face masks are welcome.  NPC Camp/Logistics will have N95 and KN95 masks available at check in.
 
 ## Covid Tests
-[2022-07-30]
+(As of 2022-07-30)
 
 Currently, we are requiring a negative COVID test result in order to participate in the event.  Tests may be taken as early as two days prior to the event.  NPC Camp/Logistics will have some tests available during check in, however it is strongly suggested that you test prior to driving out.
 

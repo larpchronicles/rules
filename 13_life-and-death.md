@@ -4,19 +4,16 @@
 
 Body is the measurement of a character’s state of health, and is often referred to as “Health Points” or “Hit Points” in many RPG systems. All characters start with 10 Body, and gain more via the Toughness skill. Receiving any amount of Damage reduces your Current Body. You can receive healing effects to increase your Body after taking Damage, but healing may never put you above your Maximum Body.
 
----
 
 ## Alive
 
 Any character with 1 or more Current Body is “**Alive**.”
 
----
 
 ## Unconscious
 
 A character whose Current Body is exactly 0 is considered **Unconscious**. A character who is Unconscious is unable to take any actions that require active thought or movement, and the character is considered helpless. Being **Unconscious **lasts for 5 minutes, at the end of which time the character is returned to consciousness with 1 Body. If a character takes any additional damage while at 0 and **Unconscious**, they proceed to begin **Bleeding Out**.
 
----
 
 ## Bleeding Out (aka Dying)
 
@@ -30,7 +27,6 @@ After 60 seconds of **Bleeding Out**, the character dies and is now **Dead**.
 
 _(Ex: Bob is **Bleeding Out**. Thirty seconds into **Bleeding Out**, Charlie heals Bob for 10 Health Points. Bob is now conscious, able to act again, and has 9 current Health Points.)_
 
----
 
 ## Dead
 
@@ -42,13 +38,11 @@ While **Dead**, a character is not aware of their surroundings, and may not make
 
 During the 5 minutes the character is **Dead**, if they receive a Life spell or Revivify spell, they become **Alive** as per the spell they receive _(ie, Life will restore the character’s Current Body to their Maximum Body, Revivify will restore the character to **Alive** but **Unconscious** at 0 body)_.
 
----
 
 ## Spirits
 
 The spirit of a character is the essence of that person. Spirits are always Out Of Game, and may not interact with or be aware of the In-Game world, and In Game characters may only interact with spirits within a Shrine of Resurrection or while under an effect that explicitly states that they may do so.
 
----
 
 ## Resurrection
 
@@ -56,25 +50,21 @@ A character who has passed their 5 minute **Death** count dissipates, and their 
 
 Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection.
 
----
 
 ## Strain
 
 **Strain** is described as what happens when a spirit is pushed beyond its normal limits. For many, their Spirit will never incur any **Strain**, yet for Adventurers, **Strain** is an all-too-common occurrence. The most common way of acquiring strain is through the process of Resurrection. Whenever a character Resurrects, they gain Two points of **Strain** on their Spirit. While a Spirit has any **Strain**, they are unable to incorporate new experiences, and as such, a character with **Strain** cannot spend any accumulated Skill Points until their **Strain** is reduced to 0. A Spirit recovers from **Strain** by experiencing new things. For every event a Character attends, they reduce any **Strain** on their Spirit by 1, including in an event where they Resurrect. A few points of **Strain** can be carefully managed, but anyone who accrues too many should begin thinking of their own safety first. If at any point a Character should attempt to Resurrect with 10 or more points of **Strain** however, they fail to Resurrect, and are now **Permanently Dead**.
 
----
 
 ## Permanent Death
 
 A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then roll 50% of the accumulated SP of the **Permanently Dead** character into a new Character, plus the base 100 SP for a new character.
 
----
 
 ## Killing Blow
 
 Killing Blow is a 3-count that can be interrupted. When Killing Blowed, the target becomes **Dead**. _Killing Blow 1, Killing Blow 2, Killing Blow 3 &lt;type>_.  The target of a killing blow may refuse it, so long as they are capable of movement.  Any killing blow is assumed to automatically be refused by a target capable of movement, unless explicitly accepted by the target.
 
----
 
 ## Dismemberment & Body Smuggling
 

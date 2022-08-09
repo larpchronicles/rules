@@ -1,6 +1,5 @@
 #Status Effects
 
----
 ## Status Effect Sources
 Sources of the effects below include Monster Abilities, Production, Martial Skills, and Magical Spells.
 
