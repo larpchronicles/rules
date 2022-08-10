@@ -13,7 +13,7 @@ Camp opens at 1700 Central (5pm).  Check In commonly includes the following:
 * Production pick-up.  This includes
     * Printed tags to replace hand-written tags previously turned in.
     * Printed Ritual Scrolls to replace hand-written tags previously turned in.
-    * Production requests sent prior to game to plot@larpchronicles.com
+    * Production requests sent prior to game to `plot@larpchronicles.com`
     * Tag pick-up for any abilities that would generate a tag.
     * Pick-up for transform information where applicable.
 * Tag's punched for Durability.
@@ -29,7 +29,7 @@ Our event fee is $25.00 per event day.  Two day events are $50.00 and three day 
 >
 > Full-Time NPCs do not have to pay an event fee.
 
-Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypal at https://paypal.me/larpchronciles 
+Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypal at https://paypal.me/larpchronicles 
 * If paying with PayPal, especially if you pay early or during Pre-Registration, include your name, character name, and the name of any new players you are bringing.
 
 
