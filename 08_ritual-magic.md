@@ -1,5 +1,8 @@
 # Ritual Magic
 
+## About Ritual Magic
+
+---
 Ritual Magic is the way through which an individual attempts to weave the powers of themselves or greater beings to affect incredible and often long-lasting effects upon the world. A Ritualist is someone who is trained in these magics and in the art of channeling them to achieve their desired goals.
 
 A Ritual is the act through which a Ritualist attempts to conduct these magics, and each Ritualist’s method for enacting a Ritual is different, though there are a few generally agreed upon elements that must be achieved in order for a Ritual to succeed. Firstly, a Ritual must last at least 5 minutes in order for success to be achieved. It has been said that in times of great need a Ritualist can attempt to end the Ritual earlier than this, but they risk Failure at best, horrible Backlash at worst. Secondly, a Ritual must contain a persistent visual or auditory element. Some Ritualists chant, sing, or recite scripture of their Deity. Others may choose to draw or cast Runes, dance, or create art as a focus for their magic. All that matters is that these elements are consistent throughout the Ritual, without long lapses or interruptions. Third, the Ritualist must provide a source of Power other than their own for the ritual, often in the form of Spirit Gems, a number of which must be provided equal to the Rank of the Ritual. Lastly, and most importantly, the Ritualist must have the Ritual Scroll open and accessible to them at all times during the Ritual, even if they do not need to actively gaze upon it. If the Ritual Scroll is not present, or if during the Ritual it is removed or hidden from the Ritualist, the Ritual will fail. These four elements are commonly referred to as the “Fundamental Four Elements” of Rituals, without which a Ritual is all but doomed to failure.
@@ -14,10 +17,9 @@ A Ritual has 4 Possible Outcomes. First is Success. This indicates that the Ritu
 
 Following are the Standard Library, and other Rituals for which the Scroll must be discovered or re-invented.
 
-
-
 ## Standard Library
 
+---
 ### Rank I
 
 #### Elemental Shift
@@ -38,9 +40,9 @@ Following are the Standard Library, and other Rituals for which the Scroll must 
 
 >Once the ritual is complete, the Spirit Familiar will take shape and be with the character at all times. The familiar is an in game spirit that only the character can communicate with, even though the Spirit Familiar is visible to everyone. The Spirit Familiar cannot be affected by physical or spell attacks of any kind, including weapon or packet delivered effects, nor can it be used as a shield to protect the character from them.
 
->The character may then procure further spirit rituals to begin a transformation process where the character casts a base “Spirit Transform to &lt;x>” ritual upon the Spirit Familiar, and subsequently casts empowerment rituals known as Monstrous Ability Rituals, based on the transformation of the Spirit Familiar. These empowering rituals allow the character to invest skill points on Monstrous skills.
+>The character may then procure further spirit rituals to begin a transformation process where the character casts a base “Spirit Transform to &lt;x>” ritual upon the Spirit Familiar, and subsequently casts empowerment rituals known as Transform Ability Rituals, based on the transformation of the Spirit Familiar. These empowering rituals allow the character to invest skill points on Transform skills.
 
->If at any time a character no longer wishes to pursue the path of their current Spirit Familiar, they may elect to have a new Spirit Familiar ritual cast upon them. However, this does not come without cost. The Spirit Familiar’s link to the character’s spirit is strong, and breaking it can be harmful. Upon casting a new Spirit Familiar, all previously unlocked Monstrous Abilities are lost, and the character permanently loses 50 SP. 
+>If at any time a character no longer wishes to pursue the path of their current Spirit Familiar, they may elect to have a new Spirit Familiar ritual cast upon them. However, this does not come without cost. The Spirit Familiar’s link to the character’s spirit is strong, and breaking it can be harmful. Upon casting a new Spirit Familiar, all previously unlocked Transform Abilities are lost, and the character permanently loses 50 SP. 
 
 >This ritual requires that the target character have a pre-approved physical representation of their Spirit Familiar with them in the ritual.
 
@@ -107,9 +109,9 @@ Following are the Standard Library, and other Rituals for which the Scroll must 
 ### Rank V
 
 #### Spirit Familiar Transformation
-This ritual is designed to empower and shape the powers of the target’s Spirit Familiar, which in turn will help guide the target down the Path of Power of the creature they wish to emulate. A Spirit Familiar Transformation scroll will have a specific type of creature listed for the Transformation. After the Ritual has been cast, the Target will be provided a list of available Monstrous Abilities that they can pursue the relevant Monstrous Ability Ritual Scrolls for, and once those have been cast, they will gain access to those as purchasable skills, until such time as their Spirit Familiar is replaced. A Spirit Familiar that has been subject to a Spirit Familiar Transformation cannot receive a different Transformation. If an individual wishes to change their chosen Creature, they must cast a new Spirit Familiar, losing all currently unlocked Monstrous Abilities, and incurring the usual SP loss for changing Spirit Familiars.
+This ritual is designed to empower and shape the powers of the target’s Spirit Familiar, which in turn will help guide the target down the Path of Power of the creature they wish to emulate. A Spirit Familiar Transformation scroll will have a specific type of creature listed for the Transformation. After the Ritual has been cast, the Target will be provided a list of available Transform Abilities that they can pursue the relevant Transform Ability Ritual Scrolls for, and once those have been cast, they will gain access to those as purchasable skills, until such time as their Spirit Familiar is replaced. A Spirit Familiar that has been subject to a Spirit Familiar Transformation cannot receive a different Transformation. If an individual wishes to change their chosen Creature, they must cast a new Spirit Familiar, losing all currently unlocked Transform Abilities, and incurring the usual SP loss for changing Spirit Familiars.
 
-At casting, the player assigns an amount of skill points taken from the character, up to a maximum 50% of the character's total skill points. These skill points are deducted from the character's total skill points and placed into a skill point pool for the Spirit Familiar that may be used to purchase unlocked Monstrous Abilities.
+At casting, the player assigns an amount of skill points taken from the character, up to a maximum 50% of the character's total skill points. These skill points are deducted from the character's total skill points and placed into a skill point pool for the Spirit Familiar that may be used to purchase unlocked Transform Abilities.
 
 
 The player may transfer more skill points from the character to the Spirit Familiar between events, but the Spirit Familiar may never have more than 50% of the character's total maximum skill points. The skill points allocated to the Spirit Familiar cannot be reclaimed by the character unless a new Spirit Familiar or Spirit Forge ritual is cast.

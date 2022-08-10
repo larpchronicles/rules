@@ -88,7 +88,7 @@
    </td>
   </tr>
   <tr>
-   <td>Set/Disarm Trap
+   <td>Trapping
    </td>
    <td>10
    </td>
@@ -102,7 +102,7 @@
    </td>
   </tr>
   <tr>
-   <td>Pick Locks
+   <td>Lockpicking
    </td>
    <td>5+5
    </td>
@@ -213,7 +213,7 @@ Physical Restore Body Effect on the character.<br/>
    >This skill is purchased multiple times. Each time this skill is purchased, the character may escape from magical, or non magical bindings by completing a 3 second count of escaping the bonds. “1 I escape binding...2 I escape binding…” This skill is refreshed each Rest.
 #### Trapping
    >This skill is purchased once. Trapping allows the character the chance to set a trap using the in-game trap tag, trap physical representation, and trap trigger. Setting a trap takes as long as it actually takes to set the trap. Trapping also allows the character to attempt to disarm a set trap using out of game and in-game tools. The character must actually disarm the trigger of the trap, and do so without destroying the trigger. Most disarmed traps can be saved for later use.
-#### Pick Locks
+#### Lockpicking
    >This skill is purchased multiple times. Each skill rank indicates the proficiency of the character in picking locks. To pick a lock, the character must provide their own draw bag and several beads in each of four colors. One color represents success (one bead). One color represents breaking the lock (one bead). One color represents that the character can continue the attempt (several beads), And one color represents resetting the bag (several beads). The base bag has 1 success, 1 break, 4 continue, 1 reset. The character’s skill rank is compared to the rank of the lock. For each rank that the character’s skill is under the lock, add 2 continue and 1 reset. If the character’s skill is equal to, or above the lock there is no change to the bag. The character may draw from the bag every 30 seconds until success, or the lock is broken. Broken locks are jammed and can no longer be picked. A tinkerer must repair the broken lock before the lock can be picked again. This repair is a Rank III skill requiring 3 tinkering materials. Repairing a broken lock takes 1 minute.
 #### Cutpurse
    >This skill is purchased once. Cutpurse skill requires the use of Pick Pocket Tools from Tinkering. The player slips the tool onto the pouch, or pocket, and goes to notify a Game Marshal. The Game Marshal will approach the picked character and retrieve one random game item from the picked character. If there is nothing in the picked pouch, then the larceny has resulted in no reward. The transfer of goods from Game Marshal to thief takes place out of sight from other players.

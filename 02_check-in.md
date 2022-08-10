@@ -1,7 +1,8 @@
 # Check In Information & General Etiquette
 
-
 ## Check In Procedure
+
+---
 Camp opens at 1700 Central (5pm).  Check In commonly includes the following:
 
 * Confirmation of a signed Code of Conduct.
@@ -13,7 +14,7 @@ Camp opens at 1700 Central (5pm).  Check In commonly includes the following:
 * Production pick-up.  This includes
     * Printed tags to replace hand-written tags previously turned in.
     * Printed Ritual Scrolls to replace hand-written tags previously turned in.
-    * Production requests sent prior to game to plot@larpchronicles.com
+    * Production requests sent prior to game to `plot@larpchronicles.com`
     * Tag pick-up for any abilities that would generate a tag.
     * Pick-up for transform information where applicable.
 * Tag's punched for Durability.
@@ -23,13 +24,15 @@ Camp opens at 1700 Central (5pm).  Check In commonly includes the following:
 
 
 ## Event Fees & Meal Tickets
+
+---
 Our event fee is $25.00 per event day.  Two day events are $50.00 and three day events are $75.00.
 
 >If you bring a new player, you will both receive $25 off your event fee.  If you bring more than one new person, this discount will apply to your future event fees.
 >
 > Full-Time NPCs do not have to pay an event fee.
 
-Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypal at https://paypal.me/larpchronciles 
+Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypal at https://paypal.me/larpchronicles 
 * If paying with PayPal, especially if you pay early or during Pre-Registration, include your name, character name, and the name of any new players you are bringing.
 
 
@@ -40,6 +43,8 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
 
     
 ## Camp Site Rules During Check In
+
+---
 ### Camp Eastman
 * You may drive on any of the gravel roads, but please do not block them in case someone needs to get past where you stopped.
 * You may drive up to the cabins if the ground is dry.  Please avoid damaging the grounds as much as possible.
@@ -50,11 +55,12 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
 * Camp Masters with carts will be present to provide assistance to anyone that would like it.
     * If you need assistance and you are unable to locate a Camp Master, please drop by NPC Camp / Logistics and let Chronicles Staff know so that we can get help for you.
     
-# Cabins
+## Cabins
 
+---
 There are no assigned cabins, but there is a requirement that you allow others to bunk in your cabin if there is space and other areas are not available.
 
-## Camp Eastman
+### Camp Eastman
 * Four cabins have two bunk beds and either a couch or a futon-style bench that can accommodate a fifth person.
 * Four cabins have one bunk bed.
 * The Lodge has a loft area with several sleeping mats or space for cots.  This building is limited to eleven people.
@@ -64,24 +70,25 @@ There are no assigned cabins, but there is a requirement that you allow others t
 * Silver Tomahawk is for Plot Team and Full-Time NPCs only, but may be used if all other areas are full.
 * Tenting is allowed if preferred.
 
-## Camp Loud Thunder
+### Camp Loud Thunder
 * The Lodge sleeps up to forty people.
 * Pyesa Cabin and Thunder Cabin are reserved for Plot Team, Full-Time NPCs, and mods.  If the Lodge is full, Pyesa Cabin may be used.
 * Tenting is not allowed in the areas we have rented.
 
-## Off-Site Sleeping Options
+### Off-Site Sleeping Options
 * There are not any nearby hotels to Camp Eastman.
 * There is one nearby hotel to Loud Thunder.
 
 
-# Headband Rules
+## Headband Rules
 
-## Orange Headbands - Non Combatants & Pages
+---
+### Orange Headbands - Non Combatants & Pages
 Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.  Pages may not use combat skills, weapons, or throw packets.
 
 **You may not ever physically strike a Page.**  If you engage in combat with a page, you may point your weapon or packet and say, "Page, I kill you."  They cannot participate in combat.  They are treated as if they have 1 health point/body.
 
-## White Headbands - Out of Game
+### White Headbands - Out of Game
 Once you arrive on site, you are entering an In Game Area.  If you are not in game as your character yet, you must have a white headband on.  If you do not have a white headband, you may request one from the Plot Team or Staff.  If there are none available, you may signify your out of game status by holding a hand to your forehead or touching the top of your head with a held item.  This gesture is accepted as an out of character signal and frequently used by NPCs when not in game.
 
 If you are in game, you should not react or speak to anyone that is wearing a white headband without first going out of game yourself.  It is generally seen as poor etiquette to break the environment for others.
@@ -89,8 +96,9 @@ If you are in game, you should not react or speak to anyone that is wearing a wh
 When your character dies and your dying count has expired, after dropping all in game items, you should put on a white headband and go to Logistics/NPC Camp to register your death.  Your spirit cannot interact in any manner with others.
 
 
-# Hold & Medic Calls
+## Hold & Medic Calls
 
+---
 If you hear anyone call "Hold" or "Medic" you must immediately stop all activity, movement, and be silent unless directed otherwise.  If you are physically able to, drop to one knee.  **These calls indicate an Out of Game emergency.**
 
 Only the persons who have been identified as a Medic by the Plot Team or Staff should respond to the call of "Medic."  A Medic is an individual with CPR and/or First Aid certification or has a license to practice medicine.
@@ -98,8 +106,9 @@ Only the persons who have been identified as a Medic by the Plot Team or Staff s
 Please do not call "Hold" or "Medic" unless you or someone else is injured in real life.
 
 
-# In Game vs. Out of Game Areas & Combat
+## In Game vs. Out of Game Areas & Combat
 
+---
 Out of Game Areas are areas that you are not permitted to engage in combat in.  You may not chase PCs or NPCs into these areas nor use these areas to hide from In Game events, NPCs, etc.
 
 Bathrooms, showers, and Logistics/NPC Camp are considered Out of Game Areas.
@@ -114,8 +123,9 @@ Bathrooms, showers, and Logistics/NPC Camp are considered Out of Game Areas.
 Unless otherwise noted by the Plot Team or Staff, all other areas are considered In Game.
 
 
-# General Etiquette
+## General Etiquette
 
+---
 Help ensure we can return to these sites for future events by being respectful of the facilities and cleaning up after yourself.  If you notice a problem anywhere in the facility, please alert a member of the Plot Team or Staff immediately.
 
 Pick up packets at the end of each fight or mod.  If they are wet, torn, or damaged, please throw them away.
@@ -129,13 +139,14 @@ Do not bash specific groups or people.  It is okay to complain about circumstanc
 Camp Loud Thunder:  Do not disturb any non-Chronicles campers.  If approached, be respectful and direct them to Plot Team or Staff.
 
 
-# COVID Precautions
+## COVID Precautions
 
+---
 We follow guidelines from the CDC and the state of Illinois.  Please get your vaccinations.  If you feel sick, stay home.
 
 Face masks are welcome.  NPC Camp/Logistics will have N95 and KN95 masks available at check in.
 
-## Covid Tests
+### Covid Tests
 (As of 2022-07-30)
 
 Currently, we are requiring a negative COVID test result in order to participate in the event.  Tests may be taken as early as two days prior to the event.  NPC Camp/Logistics will have some tests available during check in, however it is strongly suggested that you test prior to driving out.

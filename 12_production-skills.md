@@ -4,28 +4,25 @@ Item production is the process by which characters are able to craft consumable 
 
 ## Crafting Skill Costs
 
-| _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
-| --- | --- | --- | --- | --- | --- |
-| [Alchemy](#alchemy-products) | 3+1 | 2+1 | 1+1 | 1+1 | Foraging |
-| [Rune Carving](#rune-carving-products) | 2+1 | 1+1 | 3+1 | 1+1 | Logging |
-| [Tinkering](#tinkering-products) | 1+1 | 3+1 | 1+1 | 2+1 | Scrapping |
-| [Smithing](#smithing-products) | 1+1 | 1+1 | 2+1 | 3+1 | Mining |
-| [Artificing](#artificing-products) | 25 | 25 | 25 | 25 | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
+| _**Production Skill**_                 | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_                                                 |
+|----------------------------------------|---------|---------|---------|---------|---------------------------------------------------------------|
+| [Alchemy](#alchemy-products)           | 3+1     | 2+1     | 1+1     | 1+1     | Foraging                                                      |
+| [Rune Carving](#rune-carving-products) | 2+1     | 1+1     | 3+1     | 1+1     | Logging                                                       |
+| [Tinkering](#tinkering-products)       | 1+1     | 3+1     | 1+1     | 2+1     | Scrapping                                                     |
+| [Smithing](#smithing-products)         | 1+1     | 1+1     | 2+1     | 3+1     | Mining                                                        |
+| [Artificing](#artificing-products)     | 25      | 25      | 25      | 25      | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 
-| _**Harvesting Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
-| --- | --- | --- | --- | --- | --- |
-| [Foraging](#foraging-products) | 3+1 | 2+1 | 1+1 | 1+1 | - |
-| [Logging](#logging-products) | 2+1 | 1+1 | 3+1 | 1+1 | - |
-| [Scrapping](#scrapping-products) | 1+1 | 3+1 | 1+1 | 2+1 | - |
-| [Mining](#mining-products) | 2+1 | 1+1 | 3+1 | 1+1 | - |
+| _**Harvesting Skill**_           | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
+|----------------------------------|---------|---------|---------|---------|---------------|
+| [Foraging](#foraging-products)   | 3+1     | 2+1     | 1+1     | 1+1     | -             |
+| [Logging](#logging-products)     | 2+1     | 1+1     | 3+1     | 1+1     | -             |
+| [Scrapping](#scrapping-products) | 1+1     | 3+1     | 1+1     | 2+1     | -             |
+| [Mining](#mining-products)       | 2+1     | 1+1     | 3+1     | 1+1     | -             |
 
 
 | _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
-| --- | --- | --- | --- | --- | --- |
-| Alchemy Recycling | 15 | 10 | 5 | 5 | 5 Ranks of Alchemy |
-| Rune Recycling | 10 | 5 | 15 | 5 | 5 Ranks of Rune Carving |
-| Smith Recycling | 5 | 5 | 10 | 15 | 5 Ranks of Smithing |
-| Tinker Recycling | 5 | 15 | 5 | 10 | 5 Ranks of Tinkering |
+|-----------------------|---------|---------|---------|---------|---------------|
+| Recycling             | 10      | 10      | 10      | 10      |               |
 
 ## Material Harvesting Skills 
 
@@ -59,7 +56,7 @@ Item production is the process by which characters are able to craft consumable 
 
 ## Recycling Items
 
->An item that has been reduced to 0 Durability, destroyed by a spell or skill, or an item that a player no longer wishes to use, may be Recycled by a player with the correct skill. An item that is Recycled will return 1/3rd of the ranks in materials used to construct it, rounded down. These materials can either be claimed for future use, or utilized immediately in the construction of a new item. Each type of Recycling requires 5 ranks in the chosen Production type.
+>An item that has been reduced to 0 Durability, destroyed by a spell or skill, or an item that a player no longer wishes to use, may be Recycled by a player with the skill. An item that is Recycled will return 1/3rd of the ranks in materials used to construct it, rounded down. These materials can either be claimed for future use, or utilized immediately in the construction of a new item.
 
 ## Artificing
 
@@ -73,44 +70,44 @@ Item production is the process by which characters are able to craft consumable 
 
 ## Gathering Skill Products
 ### Foraging Products
-| _**Material Rank**_ | _**Product**_ | 
-| --- | --- |
-| I | Minor Alchemical Catalyst |
-| II | Lesser Alchemical Catalyst |
-| III | Moderate Alchemical Catalyst |
-| IV | Major Alchemical Catalyst |
-| V | Greater Alchemical Catalyst |
-| X | Ultimate Alchemical Catalyst |
+| _**Material Rank**_ | _**Product**_                | 
+|---------------------|------------------------------|
+| I                   | Minor Alchemical Catalyst    |
+| II                  | Lesser Alchemical Catalyst   |
+| III                 | Moderate Alchemical Catalyst |
+| IV                  | Major Alchemical Catalyst    |
+| V                   | Greater Alchemical Catalyst  |
+| X                   | Ultimate Alchemical Catalyst |
 
 ### Mining Products
 | _**Material Rank**_ | _**Product**_ | 
-| --- | --- |
-| I | Aluminum Ore |
-| II | Copper Ore |
-| III | Tin Ore |
-| IV | Nickel Ore |
-| V | Iron Ore |
-| X | Titanium Ore |
+|---------------------|---------------|
+| I                   | Aluminum Ore  |
+| II                  | Copper Ore    |
+| III                 | Tin Ore       |
+| IV                  | Nickel Ore    |
+| V                   | Iron Ore      |
+| X                   | Titanium Ore  |
 
 ### Scrapping Products
-| _**Material Rank**_ | _**Product**_ | 
-| --- | --- |
-| I | Tiny Scrap Parts |
-| II | Small Scrap Parts |
-| III | Medium Scrap Parts |
-| IV | Large Scrap Parts |
-| V | Huge Scrap Parts |
-| X | Massive Scrap Parts |
+| _**Material Rank**_ | _**Product**_       | 
+|---------------------|---------------------|
+| I                   | Tiny Scrap Parts    |
+| II                  | Small Scrap Parts   |
+| III                 | Medium Scrap Parts  |
+| IV                  | Large Scrap Parts   |
+| V                   | Huge Scrap Parts    |
+| X                   | Massive Scrap Parts |
 
 ### Logging Products
-| _**Material Rank**_ | _**Product**_ | 
-| --- | --- |
-| I | Rotten Wood |
-| II | Dried Wood |
-| III | Green Wood |
-| IV | Singed Wood |
-| V | Aged Wood |
-| X | Petrified Wood |
+| _**Material Rank**_ | _**Product**_  | 
+|---------------------|----------------|
+| I                   | Rotten Wood    |
+| II                  | Dried Wood     |
+| III                 | Green Wood     |
+| IV                  | Singed Wood    |
+| V                   | Aged Wood      |
+| X                   | Petrified Wood |
 
 
 ## Alchemy Products
@@ -522,9 +519,9 @@ Once applied, the coating will last until it is used or the wielder rests, which
 
 ### Rank I
 
-#### Titan’s Iron Boots
-   >Boots infused with immense weight allow the wearer to resist effects that push them from their chosen course, but in exchange, the boots restrict the wearer’s movement speed. The Wearer may Resist Knockback 2 times per day, but cannot run while wearing.<br/>
-   >Requires: 5 Smithing Materials, 5 Rune Carving Materials, 1 Spirit Gem.
+#### ?
+>?
+>?
 
 ### Rank II
 
@@ -567,15 +564,11 @@ Once applied, the coating will last until it is used or the wielder rests, which
 
 ### Rank VI
 
-
-
 #### Cards of Collusion
    >The Player may use this special deck of cards to spread the power of their Gambling skill to multiple participants. For each rank of Gambling the user possesses, a single participant in the game may benefit from the skill, including themself. All normal Gambling requirements apply, including the need for actual currency or valuable items to be bet. The cards actively prevent any participant from cheating. (This is a good-faith effect, assuming no players are abusing this or metagaming.) This is a Passive effect.<br/>
    >30 Alchemy Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems, Pixie Dust
 
 ### Rank VII
-
-
 
 #### Blade of Beginner’s Luck
    >Enhanced with the Luck of a 5-Leaf Clover, this specially treated blade finds unlikely avenues and helps the wearer strike true where otherwise their blow may have been turned aside. The wielder does +5 Bonus Damage on all uses of any Critical Strike skill while wielding this Blade. But Luck is Fickle, and harder to come by as one grows older, as such, only an individual with 250 total SP or less may benefit from this weapon. This is a Passive effect.<br/>
@@ -621,9 +614,6 @@ Once applied, the coating will last until it is used or the wielder rests, which
 #### Cat’s Eye Dice
    >These  polished gemstone dice are infused with the ability to harness the luck of Gambling to help an unlucky Gambler in their moment of need. Twice per day, when starting a round of Gambling, the user may invoke the power of these dice to bless the upcoming round. The person who wins the round of Gambling gains a single use of the Endurance skill. Should the user win the round, they gain a use of Endurance, and a use of Second Wind. These benefits last until used or a day passes. A single individual may not stack multiple instances of benefits from this item. The item cannot be used unless you possess ranks in Gambling.<br/>
    >10 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 3 Spirit Gems
-
-
-
 
 ### Rank IV
 

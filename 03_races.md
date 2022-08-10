@@ -1,7 +1,7 @@
 # Races
 
 ## Brood
-
+---
 **Physical Description**:
 
 Brood may appear with iridescent brown complexions with varied color markings, carapaces, and large claws.
@@ -40,6 +40,7 @@ Overall, other races regard the Brood as a terrifying race capable of great dest
 
 ## Dwarf
 
+---
 **Physical Description**:
 
 Dwarves appear with complexions ranging from pale to ebony and are commonly recognized by their full-beards and great, bushy eyebrows.
@@ -71,6 +72,7 @@ This race once ruled a wide part of Evren with many villages filled with fantast
 
 ## Elf
 
+---
 **Average Age of Adulthood**: 50 Years.
 
 
@@ -180,6 +182,7 @@ Socially, these Elves are broken down into various regional Groves, led by an el
 
 ## Glimmerling
 
+---
 **Physical Description**:
 
 Glimmerlings appear with a variety of complexions.  They are sometimes recognized by horns, antennae, wings, pointed ears, large noses, additional eyes, tails, etc.
@@ -206,6 +209,7 @@ Most people view the Glimmerlings with no difference to how they view the fairie
 
 ## Goblin
 
+---
 **Physical Description**:
 
 Goblins appear with green complexions, pointed ears, and long, pointed noses that may have large warts.  Most Goblins are bald, but it is common to see them in gaudy wigs.
@@ -234,6 +238,7 @@ In ages long since past, Goblins were subjugated and enslaved by Orcs on the hee
 
 ## Kindred
 
+---
 **Physical Description**:
 
 Individuals appear with a variety of complexions, markings, and body parts.  They are recognized most commonly by appearing as a distinct humanoid-animal hybrid.
@@ -259,6 +264,7 @@ A fairly rare sight in Evren, the Kindred are the most diverse of the races in t
 
 ## Kobold
 
+---
 **Physical Description**:
 
 Kobolds appear as reptilian humanoids with red or blue scaled complexions, black nostrils, blackened eye sockets, and an elongated, flattened snout akin to caiman or crocodiles.
@@ -291,6 +297,7 @@ ___
 
 ## Orc
 
+---
 **Physical Description**:
 
 Orcs appear with green complexions and are recognized by their protruding lower teeth.
@@ -320,6 +327,7 @@ The basis of this culture does not hinge much on codes of honor or only fighting
 
 ## Halfling
 
+---
 **Physical Description**:
 
 Halflings have complexions that may range from fair to ebony, slightly pointed ears, and are often recognized by hair feet, hairy forearms, and long sideburns.
@@ -348,6 +356,7 @@ The values held by the majority of Halflings are the home, the belly, and the mi
 
 ## Human
 
+---
 **Physical Description**:
 
 Humans may appear with complexions ranging from pale to ebony and may have varied markings or identifiers based on their region or culture.
@@ -375,6 +384,7 @@ Outside opinions of Humans are perhaps not as gilded, as many other races would 
 ___
 ## Unbound
 
+---
 **Physical Description**:
 
 Unbound appear with complexions of blue, red, orange, brown, or grey with bright streaks, lines, or cracks of glowing power.  These lines typically appear as white or as more luminous colors of their complexions.
@@ -405,6 +415,7 @@ The Unbound that may be found alone are typically those that have established th
 
 ## Unforgiven
 
+---
 **Physical Description**:
 
 Unforgiven appear with a red complexion with smoky black shadowing, black horns that sprout from the skull or face, and a thin barbed tail.

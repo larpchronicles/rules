@@ -1,6 +1,6 @@
-#Changelog
+# Changelog
 
-##v2.4 - [2022-08-07]
+## v2.4 - [2022-08-07]
 
 ### Production
 <u>Alchemy</u>
@@ -17,6 +17,7 @@
 
 <u>Rune Carving</u>
 * Rune of Chambering can now be set to the DRAINED condition.
+
 <u>Tinkering</u>
 * Portable Wildfire and Grenade are now "Normal Flame" not “Physical Flame”
 * Tinkering's gathering skill renamed to Scrapping to match its components of Scrap Parts.
@@ -34,7 +35,7 @@
 * All Recycling skills are now a single skill that can be used for all crafting products.  The crafting components yielded depends on the production item being broken down.
 
 ### Magic
-* All spells have been alphabetized within their ranks. Because you’re a bunch of nerds.
+* All spells have been alphabetized within their ranks.
 * All defensive “Self/Other” spells are now merged into one spell.
 * All defensive Resist spells are now Rank 4.
 * All defensive Reflect spells are now Rank 8.
@@ -43,23 +44,19 @@
 * Treewalk is now based on steps rather than duration. If you cannot reach another tree, you must return to the tree of origin and are immediately set to DEAD and begin your death count.
 This change is to prevent abuse of the spell, and to bring it in line with other “teleport” style abilities.
 * Charm is now Command: Stun
-* Foebane Weapon no longer requires max body loss
+* Foebane Weapon no longer requires max body loss.
 * Command: Retreat has been replaced with Command: Kneel
 * Purify Food & Drink now removes ANY active effects.
 
 </u>Arcane</u>
 * “Elemental Doom” is now properly titled simply “Doom”
-
-* Arcane Knockback updated to use the STOP THRUST effect. [Pending update.]
-* Arcane Knockback renamed to Arcane Halt and updated to use the STOP THRUST effect. 
-
+* Arcane Knockback renamed to Halt and updated to use the STOP THRUST effect.
 * Magic Short Weapon and Magic Long Weapon combined into single Conjure Weapon spell.
 
 <u>Spirit</u>
 * Cure/Cause Contagion have both been removed.
 * Curse now lasts 20 seconds.
 * Improved Constitution renamed to Toxin Shield.
-* New spell that will reflect toxins.  [Pending name.]
 
 ### Martial
 * Trip - Now KNEEL effect
@@ -74,4 +71,3 @@ This change is to prevent abuse of the spell, and to bring it in line with other
 ### General
 * Drain - Now it lasts until fixed.
 * Retreat - All RETREAT effects have been modified due to safety concerns.
-

@@ -1,24 +1,26 @@
-#Combat Rules
+# Combat Rules
 
-##Appropriate Strike Zones
+## Appropriate Strike Zones
+
+---
 	Pending.
 
-##Armor: Immunities
+## Armor: Immunities
 
 ---
 In the event that you are hit by an ability that you are immune to, your armor does not take the damage.
 
-##Armor: Receiving Damage
+## Armor: Receiving Damage
 
 ---
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
-##Bows: Blocking
+## Bows: Blocking
 
 ---
 Bows may be used to block attacks.  Bows may also be used to block attacks while wielding a Short Weapon, if the Short Weapon & Bow skill is purchased.  If used to block an attack, you must spend a 3 second count to restring the bow before you can use it again.  
 
-##Casting Spells
+## Casting Spells
 
 ---
 Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use your magic.
@@ -29,7 +31,7 @@ You must be careful when casting spells, because if an enemy is within reach, or
 
 Some spells require a "X count" to cast where X may be three or five.  This is always intended to be X number of seconds.
 
-##Damage Calls, Types, Flavors, & Carriers
+## Damage Calls, Types, Flavors, & Carriers
 
 ---
 Casting Damage calls are how you communicate the amount of damage being delivered, as well as its type and whether or not it has a flavor modifier or carrier.  You may only use one value for each option.
@@ -53,37 +55,37 @@ Suppose you have a normal longsword, a transform with the Magic Aura and Flame A
 * 5 Normal Frost
 
 | Damage Types | Damage Flavors | Damage Carriers |
-| --- | --- | ---|
-|Magic|Flame|Curse|
-|Normal|Frost|Death|
-|Poison|Shock|Drain|
-|Silver|Stone|Vital|
+|--------------|----------------|-----------------|
+| Magic        | Flame          | Curse           |
+| Normal       | Frost          | Death           |
+| Poison       | Shock          | Drain           |
+| Silver       | Stone          | Vital           |
 
-##Charging
+## Charging
 
 ---
     Pending.
 
-##Headbands:  Non-Combatants & Pages
+## Headbands:  Non-Combatants & Pages
 
 ---
 People wearing orange headbands are referred to as Pages.  Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.
 
 **You may not ever physically strike a Page.**  Pages may not use combat skills, weapons, or throw packets.  If you engage in combat with a page, you may point your weapon or packet and say, "Page, I kill you."  They are treated as if they have 1 health point/body.
 
-##Killing Blows
+## Killing Blows
 
 ---
 Killing Blow is a 3-count that can be interrupted. When Killing Blowed, the target becomes Dead. Killing Blow 1, Killing Blow 2, Killing Blow 3 <type>.
 
 The target of a killing blow may refuse it, so long as they are capable of movement.  Any killing blow is assumed to automatically be refused by a target capable of movement, unless explicitly accepted by the target.
 
-##Light Touch
+## Light Touch
 
 ---
     Pending.
 
-##Magic Deliverance, Voice Radius, and Aether
+## Magic Deliverance, Voice Radius, and Aether
 
 ---
 Rarely, you may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such.
@@ -92,7 +94,7 @@ Similarly, some entities may deliver a spell via "Voice Radius," at which time a
 
 Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If you are struck by an Aether spell, no resistances can prevent the effect, and you are affected by it immediately.
 
-##Shields
+## Shields
 
 ---
 The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36".
@@ -105,34 +107,34 @@ Limitations:
 * A character may not dual wield shields.
 * Shields are not capable of blocking spell packets or toxins without the use of an ability.
 
-##Speed of Combat
+## Speed of Combat
 
 ---
     Pending.
 
-##Spell Packets
+## Spell Packets
 
 ---
 Anything in your possession being struck by a spell causes you to take the effect of the spell, even if it is an illegal strike zone.  If illegal strike zones are being targeted repeatedly, inform Plot or a member of Staff immediately.
 
 
-###Spellstrikes
+### Spellstrikes
 
 ---
 Spellstrikes are spells cast upon a target via a physically represented weapon.  Packets do not count, as this would be touch casting.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If you physically parry a Spellstrike, you take the effect of the spell.
 	
-###Touch Casting
+### Touch Casting
 
 ---
 If you are touching the target directly, they have the ability to "refuse your touch cast", causing you to expend the magic to no effect.  Any spell may be touch cast. The target of a touch cast spell may refuse the touch cast, so long as they are capable of movement. Any and every offensive or negative touch cast spell is assumed to automatically be refused unless explicitly accepted by the target.
 
 
-###Turtling
+### Turtling
 
 ---
-Pending.
+    Pending.
 
-##Weapons Safety Check
+## Weapons Safety Check
 
 ---
-Pending.
+    Pending.

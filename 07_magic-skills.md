@@ -1,25 +1,15 @@
-# Casting Spells
-Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a “spell packet”, a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use your magic.
- 
-When casting a spell, first you must have a spell packet in hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. If you are touching the target directly, they have the ability to “refuse your touch cast”, causing you to expend the magic to no effect  
-**A note on touch casting**:  Any spell may be touch cast. The target of a touch cast spell may refuse the touch cast, so long as they are capable of movement. Any and every offensive or negative touch cast spell is assumed to automatically be refused unless explicitly accepted by the target.  
-You must be careful when casting spells, because if an enemy is within reach, or they have a ranged weapon, you risk your spell being disrupted mid-cast if they manage to strike you with a weapon blow, or if you take damage from any source during the incant. If your spell is disrupted, it is lost and you must complete a rest to recover it.
-
-Some spells require a “X count” to cast where X may be three or five.  This is always intended to be X number of seconds.
-
-Rarely, you may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such. Similarly, some entities may deliver a spell via “Voice Radius,” at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they’d been struck by the spell directly. Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If you are struck by an Aether spell, no resistances can prevent the effect, and you are affected by it immediately.
-
 # Magic Skills
 
 ## Mastery Skills
 
+---
 A Mastery skill is purchased in order to grant a character access to a school of magic. The skill itself is the prerequisite for purchasing your first Mana Attunement of the given school, and provides a passive benefit that may be used.
 
-|Magic Skill Costs|F|T|R|S|
-|---|---|---|---|---|
-|Arcane Mastery|5|5|5|3|
-|Spirit Mastery|5|5|5|3|
-|Nature Mastery|5|5|5|3|
+| Magic Skill Costs | F   | T   | R   | S   |
+|-------------------|-----|-----|-----|-----|
+| Arcane Mastery    | 5   | 5   | 5   | 3   |
+| Spirit Mastery    | 5   | 5   | 5   | 3   |
+| Nature Mastery    | 5   | 5   | 5   | 3   |
 
 ### Arcane Mastery
 This skill allows the character to spend one minute of concentration to attune themselves to the flow of Evren’s Aether in order to detect magic by simply touching an item or person. Once the character has achieved attunement, the character may continue to detect magic until their concentration is broken. This detect magic ability will reveal the presence of magic on an item, or person, and the type of magic that is present. There does exist some magic able to fool even these extraordinary senses. 
@@ -34,34 +24,37 @@ This skill allows the character the occasional ability to sense extreme danger, 
 
 ## Mana Attunement
 
+---
 In order to cast a spell, you must possess the appropriate Mastery skill, and purchase ranks of Mana Attunement. Each rank of Mana Attunement you purchase in a given school gives you 10 Points of Mana, which may be spent to cast any spell from that school, on a 1:1 basis, where Mana is equivalent to a spell rank. So after your first attunement is purchased, you could cast 10 Rank I spells, or 2 Rank V spells, or any other combination adding up to 10. These spells can be chosen on the fly, allowing for spell casters to be highly flexible. Some may prefer to Memorize their spells in advance, giving them a clearer guide on what they are capable of. If a character chooses to use Memorization, they gain a bonus 10% to their Mana Pool, so someone with a single Mana Attunement who Memorizes would have 11 Mana, or someone with 5 Attunements would have 55 Mana that they could assign to their Memorized spells.
 
-|Attunement Cost|F|T|R|S|Prereqs|
-|:---|:---:|:---:|:---:|:---:|:---:|
-|Primary Attunement|10+2|6+1|8+1.5|4+.5|Relevant Mastery|
-|Secondary Attunement|20+4|12+2|16+3|8+1|Relevant Mastery|
-|Tertiary Attunement|30+6|18+3|24+4.5|12.+1.5|Relevant Mastery|
+| Attunement Cost      |  F   |  T   |   R    |    S    |     Prereqs      |
+|:---------------------|:----:|:----:|:------:|:-------:|:----------------:|
+| Primary Attunement   | 10+2 | 6+1  | 8+1.5  |  4+.5   | Relevant Mastery |
+| Secondary Attunement | 20+4 | 12+2 |  16+3  |   8+1   | Relevant Mastery |
+| Tertiary Attunement  | 30+6 | 18+3 | 24+4.5 | 12.+1.5 | Relevant Mastery |
 
 
-# SPELLS
 ## Spells By Level and School
 
-| Level| Arcane| Spirit| Nature| 
-|----|---|---|---|
-| I| Blinding Light<br>Glowing Light<br>Mana Bolt| Turn Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead| Barkskin, Self<br>Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink| 
-| II| Arcane Knockback<br>Disrupt Aether<br>Identify Magic<br>Magic Missile<br>Conjure Weapon| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear| Barkskin, Other<br>Entangle Foot<br>Deathbane Weapon| 
-| III| Channeled Destruction<br>Limited Time Stop<br>Reality Anchor| Animate Dead<br>Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue| Boon of the Armadillo<br>Boon of Nature<br>Boon of the Tiger<br>Freedom| 
-| IV | Conjure Weapon<br>Magic Missile<br>Reality Shift†<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Dull Pain<br>Rot Limb<br>Solidify Undead<br>Toxin Shield | Entangle Arms<br>Command: Kneel<br>Command: Stun |
-| V | Enchanted Blade<br>Entrapment<br>Conjure Shield | Corrupt Body<br>Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify | <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome† |
-| VI | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Personal Dimension† | Destroy Undead <br>Fear | Boon of the Forest<br>Command: Sleep<br>Entangle Body| 
-| VII | Dimensional Lock<br>Haste<br>Spell Mirror, Self| Absolution<br>Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch| Command: Confused<br>Foebane Weapon<br>Hold: Enemy<br>Stone Skin, Other| 
-| VIII | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Pocket Dimension<br>Spell Mirror, Other| Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin |
-| IX | Circle of Power<br>Dispel Magic<br>Doom<br>Focused Destruction | Create Undead<br>Death<br>Dispel Magic<br>Life<br>Resurrection | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other | 
+---
+
+| Level | Arcane                                                                                            | Spirit                                                                                                     | Nature                                                                                        | 
+|-------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| I     | Blinding Light<br>Glowing Light<br>Mana Bolt                                                      | Turn Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead | Barkskin, Self<br>Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
+| II    | Disrupt Aether<br>Halt<br>Identify Magic<br>Magic Missile<br>Conjure Weapon                       | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear           | Barkskin, Other<br>Entangle Foot<br>Deathbane Weapon                                          | 
+| III   | Channeled Destruction<br>Limited Time Stop<br>Reality Anchor                                      | Animate Dead<br>Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                          | Boon of the Armadillo<br>Boon of Nature<br>Boon of the Tiger<br>Freedom                       | 
+| IV    | Conjure Weapon<br>Magic Missile<br>Reality Shift†<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Dull Pain<br>Rot Limb<br>Solidify Undead<br>Toxin Shield                                                   | Entangle Arms<br>Command: Kneel<br>Command: Stun                                              |
+| V     | Enchanted Blade<br>Entrapment<br>Conjure Shield                                                   | Corrupt Body<br>Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                      | <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome†                         |
+| VI    | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Personal Dimension†                        | Destroy Undead <br>Fear                                                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                                         | 
+| VII   | Dimensional Lock<br>Haste<br>Spell Mirror, Self                                                   | Absolution<br>Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                 | Command: Confused<br>Foebane Weapon<br>Hold: Enemy<br>Stone Skin, Other                       | 
+| VIII  | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Pocket Dimension<br>Spell Mirror, Other       | Limited Phylactery†<br>Restore Body<br>Repair Undead                                                       | Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin                              |
+| IX    | Circle of Power<br>Dispel Magic<br>Doom<br>Focused Destruction                                    | Create Undead<br>Death<br>Dispel Magic<br>Life<br>Resurrection                                             | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other                     | 
 
 
 
 ## Arcane
 
+---
 ### Arcane Rank I
 
 #### **Blinding Light**
@@ -88,19 +81,20 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Arcane Rank II
 
-#### **Arcane Knockback**
-| **Spell**            | **Arcane Knockback** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "With arcane forces, I knock you back." |
-| **Description** |  This spell forces the target to be pushed back 5 steps, if they can do so safely. The affected target may still attack and defend while retreating. A target under the effect of Arcane Knockback cannot be affected by Arcane knockback until the prior instance of the spell has ended. This is a STAGGER effect. |
-
 #### **Disrupt Aether**
 | **Spell**            | **Disrupt Aether** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | "With arcane forces I disrupt your aether." |
 | **Description** |  This spell will prevent the target from activating spells from wands, tattoos, or using the effects of any possessed magic items.  This is an INERT effect. |
+
+#### **Halt**
+| **Spell**       | **Halt**                                                                                                                         |
+|:----------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**    | Instant                                                                                                                          |
+| **Incant**      | "With arcane forces, I halt you."                                                                                                |
+| **Description** | This spell prevents the target from advancing into combat until the spell has ended or is removed. This is a STOP THRUST effect. |
+
 
 #### **Identify Magic**
 | **Spell**            | **Identify Magic** |
@@ -328,6 +322,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ## Spirit
 
+---
 ### Spirit Rank I
 
 #### **Control: Minor Undead**
@@ -659,6 +654,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ## Nature
 
+---
 ### Nature Rank I
 
 #### **Command: Drop**

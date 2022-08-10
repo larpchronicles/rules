@@ -2,19 +2,18 @@
 
 ## Goblin Points - What Are They?
 
-
-
+---
 Goblin Point (GP) is a type of Out-Of-Character (OOC) currency in Chronicles.  They can be obtained by donation of time, such as event clean-up and NPC shifts or donation of items, such as packets, props, or supplies from the Chronicles Wishlist.  GP can be spent on a variety of things such as crafting materials, death forgiveness, and even Skill Point catch up for missed events.
 
 
 ## How Do I Get Goblin Points?
 
-
+---
 Goblin Points are awarded from plot and/or staff for contributions, donations, and assistance given.  They have a rough equivalent of 10 GP per $1 USD of value; however, you may not purchase them with direct cash donations.  There are special circumstances where this rate is increased.  You should always check with the plot team and/or staff about any special chapter needs!
 
 ## Getting the Most Out of Goblin Points
 
-
+---
 From time to time, the chapter may need some things more than others.  When this is true, specific listings will be tagged as “Needed” or “Critically Needed.”  These tags mean that the normal GP awarded for them is increased.
 
 * **“Needed” Items.** These are items that if we do not receive or maintain on a semi-regular basis would impact the game quality significantly. Examples include: Packets, weapons, and tabards.
@@ -48,7 +47,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 ## Donations of Time
 
-
+---
 
 **1 GP per - <u>Packet Creation during NPC Shift</u>**
 
@@ -83,7 +82,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 ## Item Donations
 
-
+---
 **10 GP - <u>Packet Supplies</u> (per $1)**
 
 * Donations of packet supplies are valued at 10GP to $1 spent, rounded up.  This means if you spend $9.34 on packet supplies, it will count as $10 and you will be given 100 GP.  Do you have packets already made?  Check out <u>Packet Donation</u> below!  Packet supplies should conform to the following:
@@ -117,7 +116,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 ## What Can I Spend Goblin Points On?
 
-
+---
 Goblin Points can be spent on a variety of options that may change over time to grow and add on new options!
 
 #### **Purchase Options**
