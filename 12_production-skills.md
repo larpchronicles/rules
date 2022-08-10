@@ -59,7 +59,7 @@ Item production is the process by which characters are able to craft consumable 
 
 ## Recycling Items
 
->An item that has been reduced to 0 Durability, destroyed by a spell or skill, or an item that a player no longer wishes to use, may be Recycled by a player with the correct skill. An item that is Recycled will return ⅓ of the ranks in materials used to construct it, rounded down. These materials can either be claimed for future use, or utilized immediately in the construction of a new item. Each type of Recycling requires 5 ranks in the chosen Production type.
+>An item that has been reduced to 0 Durability, destroyed by a spell or skill, or an item that a player no longer wishes to use, may be Recycled by a player with the correct skill. An item that is Recycled will return 1/3rd of the ranks in materials used to construct it, rounded down. These materials can either be claimed for future use, or utilized immediately in the construction of a new item. Each type of Recycling requires 5 ranks in the chosen Production type.
 
 ## Artificing
 

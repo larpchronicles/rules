@@ -1,6 +1,5 @@
 # Races
 
----
 ## Brood
 
 **Physical Description**:
@@ -39,7 +38,6 @@ Overall, other races regard the Brood as a terrifying race capable of great dest
 
 **Makeup Suggestions and Guidelines**:  All Brood player characters must use a different colored paint to add markings and may not only have brown or black paint.  The design and color of these markings is player choice.  Physical representations for the carapace should be present and may be colored brown or black and given an iridescent coating.
 
----
 ## Dwarf
 
 **Physical Description**:
@@ -70,7 +68,6 @@ This race once ruled a wide part of Evren with many villages filled with fantast
 
 **Makeup Suggestions and Guidelines**:  Both male and female Dwarves appear with beards.
 
----
 
 ## Elf
 
@@ -92,7 +89,6 @@ This race once ruled a wide part of Evren with many villages filled with fantast
 *Lore-Master*: _The longevity of the Elves means there are few stories that haven’t reached their ears_. Once per day, an Elf can attempt to recall something specific about an Evren area.  This must be done with Plot.
 
 
----
 
 
 ### Dark Elf
@@ -112,7 +108,6 @@ A Dark Elf with no such House affiliation is akin to an unknown.  In more polite
 **Makeup Suggestions and Guidelines**:  If a paler complexion is desired, it is recommended to use a lighter makeup foundation rather than to rely on white paint.  For the red eye markings, how they are added is player discretion and may be as simple as smudges, red eye-liner, lines, red eyeshadow, or no red markings at all.
 
 
----
 
 ### High Elf
 
@@ -127,7 +122,6 @@ High Elves are one of the most common Elves found in Evren.  Being more abundant
 The High Elves are typically perceived by others to be snobbish or elitist.  The reality of this is that they probably are.  Most, if accused of being elitist, would more than likely assert this as truth, as to deny it, in their views, would be akin to the delusion that High Elves are not superior to other Elves that, while Elf-shaped, are far too primitive and barbaric.
 
 
----
 
 ### Moon Elf
 
@@ -150,7 +144,6 @@ Their temperaments are varied, though most present themselves as stoic individua
 **Makeup Suggestions and Guidelines**:  Silver markings are largely up to the player.  Some examples of this may be flecks, lines, or the only visible color of the complexion.
 
 
----
 
 ### Sun Elf
 
@@ -167,7 +160,6 @@ The golden complexion of Sun Elves began long ago with a misguided belief that a
 **Makeup Suggestions and Guidelines**:  Achieving the golden complexion of a Sun Elf can typically be done with Mehron products.  It is not suggested to apply glitter due to the possibility of it getting in the eyes.
 
 
----
 
 ### Wild Elf
 
@@ -185,10 +177,8 @@ Socially, these Elves are broken down into various regional Groves, led by an el
 
 **Makeup Suggestions and Guidelines**:  Markings and tattoos can be done in any style desired by the player and in any color.
 
----
 
-## 
-Glimmerling
+## Glimmerling
 
 **Physical Description**:
 
@@ -214,7 +204,6 @@ Most people view the Glimmerlings with no difference to how they view the fairie
 
 **Makeup Suggestions and Guidelines**: Physical representations of any unique characteristics should be done.
 
----
 ## Goblin
 
 **Physical Description**:
@@ -243,7 +232,6 @@ In ages long since past, Goblins were subjugated and enslaved by Orcs on the hee
 
 **Makeup Suggestions and Guidelines**: Achieving pointed ears that slope back or downward can be done by wearing Elf ears backwards.
 
----
 ## Kindred
 
 **Physical Description**:
@@ -268,7 +256,6 @@ A fairly rare sight in Evren, the Kindred are the most diverse of the races in t
 
 **Makeup Suggestions and Guidelines**:  Facepaint and physical representations should be present and match the animal-type for your specific Kindred.
 
----
 
 ## Kobold
 
@@ -330,7 +317,6 @@ The basis of this culture does not hinge much on codes of honor or only fighting
 
 **Makeup Suggestions and Guidelines**:  Protruding lower teeth should be physically represented in addition to a green complexion.
 
----
 
 ## Halfling
 
@@ -360,7 +346,6 @@ The values held by the majority of Halflings are the home, the belly, and the mi
 
 **Makeup Suggestions and Guidelines**: Sideburns and excess hair can appear on all Halflings and should be physically represented in some visible manner.
 
----
 ## Human
 
 **Physical Description**:
@@ -418,7 +403,6 @@ The Unbound that may be found alone are typically those that have established th
 
 **Makeup Suggestions and Guidelines**: To make glowing lines of power, it’s suggested to use white paint and either line it with a thin black line or put a thin line of color through the middle of the white in order to create a colored line that appears to glow.  Facepaint aside from the glowing lines should match the elemental type of your character.  Ie:  Fire should be red or red-orange tones and hues, electricity should be grey, but may be blue, water should be blue, and stone should be earthy browns or rocky grey. 
 
----
 ## Unforgiven
 
 **Physical Description**:

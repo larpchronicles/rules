@@ -3,20 +3,17 @@
 ## Goblin Points - What Are They?
 
 
----
 
 Goblin Point (GP) is a type of Out-Of-Character (OOC) currency in Chronicles.  They can be obtained by donation of time, such as event clean-up and NPC shifts or donation of items, such as packets, props, or supplies from the Chronicles Wishlist.  GP can be spent on a variety of things such as crafting materials, death forgiveness, and even Skill Point catch up for missed events.
 
 
 ## How Do I Get Goblin Points?
 
----
 
 Goblin Points are awarded from plot and/or staff for contributions, donations, and assistance given.  They have a rough equivalent of 10 GP per $1 USD of value; however, you may not purchase them with direct cash donations.  There are special circumstances where this rate is increased.  You should always check with the plot team and/or staff about any special chapter needs!
 
 ## Getting the Most Out of Goblin Points
 
----
 
 From time to time, the chapter may need some things more than others.  When this is true, specific listings will be tagged as “Needed” or “Critically Needed.”  These tags mean that the normal GP awarded for them is increased.
 
@@ -52,7 +49,6 @@ From time to time, the chapter may need some things more than others.  When this
 ## Donations of Time
 
 
----
 
 **1 GP per - <u>Packet Creation during NPC Shift</u>**
 
@@ -87,7 +83,6 @@ From time to time, the chapter may need some things more than others.  When this
 
 ## Item Donations
 
----
 
 **10 GP - <u>Packet Supplies</u> (per $1)**
 
@@ -100,7 +95,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 *  Supplies for phys-reps donations are rewarded with 10 Goblin Points per $1 USD value, rounded up.  This means if you spend $9.34 on phy-rep supplies, it will count as $10 and you will be given 100 GP.  Not sure what kind of supplies to donate?  Here is a short list of preferred supplies:
     * Ultralight Cores of carbon fiber, kitespar tube, fiberglass tube, or wrapped graphite tube.  Aluminum cores are only used for polearms.  Diameter should be between .414-.610”.
-    * Closed Cell Foam.  This can be pipe foam insulation and pool noodles and is used to pad the “blade” of a boffer.  It should have a wall of at least ⅝” thick.
+    * Closed Cell Foam.  This can be pipe foam insulation and pool noodles and is used to pad the “blade” of a boffer.  It should have a wall of at least 5/8” thick.
     * Open Cell Foam.  Used for boffer tips, this is a less dense foam commonly found in fabric stores as fill for pillows or in hardware stores as pipe foam.
     * Kite Tape or nylon rip stop repair tape.  Preferred vendor - [FunWithWind](https://funwithwind.com/store/ListCategoriesAndProducts2.asp?idCategory=186&idparent=171)
     * [Dap Weldwood Contact Cement](https://www.amazon.com/00271-Weldwood-Original-Contact-Cement/dp/B0006MXRY8/ref=pd_di_sccai_2?pd_rd_w=gdI93&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=NXDNHRFGZV673SHKBQWS&pd_rd_r=377eca45-f83c-4a21-a00f-3b4859ff9ab9&pd_rd_wg=MvJFD&pd_rd_i=B0006MXRY8&psc=1)
@@ -122,13 +117,11 @@ From time to time, the chapter may need some things more than others.  When this
 
 ## What Can I Spend Goblin Points On?
 
----
 
 Goblin Points can be spent on a variety of options that may change over time to grow and add on new options!
 
 #### **Purchase Options**
 
----
 
 **<u>100 Goblin Point Rewards</u>**
 
