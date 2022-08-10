@@ -1,7 +1,8 @@
-#Armor Rules
+# Armor Rules
 
 ## Armor Mechanics
 
+---
 Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of armor up to their Armor Cap determined by what skills they have purchased. If the character is not using Fencing or Stalwart defense, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of armor. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from their armor, the character must possess the appropriate armor item tag.
 
 ### Armor and Combat
@@ -15,6 +16,7 @@ Once a character’s Armor Points are below their maximum total, they may recove
 
 ## Armor Point Calculations
 
+---
 A character’s Armor Points are determined by the following:  
 * Their purchased Armor Cap
 * Their active skills
@@ -24,6 +26,7 @@ A character’s Armor Points are determined by the following:
 
 ## Armor Types
 
+---
 ### Cloth
 
 Thick, quilted layers designed to blunt the worst of an adversary’s blow and prevent immediately fatal strikes.  
@@ -92,6 +95,7 @@ Heavy, durable metal armor that provides superior protection from all manner of 
 
 ## Armor Locations
 
+---
 While a player may wear armor wherever and however they choose as is thematically appropriate for their character, there are only 4 locations that will count toward a character’s final Armor Point total:
 
 * Arms- Left and Right

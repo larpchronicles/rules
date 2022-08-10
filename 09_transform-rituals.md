@@ -1,5 +1,8 @@
-# Monstrous Ability Rituals
+# Transform Ability Rituals
 
+## Transform Ability Ritual Ranks
+
+---
 * Ranks Correspond to the following Ritual Rank
     * Basic: Rank I
         * Active: 2+3
@@ -20,45 +23,47 @@
         * Active 20+20
         * Passive 40
 
-| Name:          | SkillName:       |
+| Name:        | SkillName:     |
 |--------------|----------------|
-| Type:         | Active/Passive |
+| Type:        | Active/Passive |
 | Cost:        | ? + ?          |
 | Description: | Insert here    |
 
+## Transform Abilities
 
+---
 ### Basic - Rank I
 
-#### Monstrous Innate Spell
-| Name: :        | Monstrous Innate Spell |
+#### Transform Ability: Innate Spell
+| Name: :        | Transform Ability: Innate Spell |
 |--------------|------------------------|
 | Type::        | Active                 |
 | Cost:        | 2 + 3                  |
 | Description: | User gains the ability to once per rest deliver any spell as “Magic &lt;Spell Name: >”.           |
 
-#### Monstrous Claws 
-| Name:          | Monstrous Claws     |
-|--------------|---------------------|
-| Type:         | Passive             |
-| Cost:        | 5 (Single Purchase) |
-| Description: | Monstrous claws function as Unarmed, may be used to qualify for any skills that require Unarmed as a prerequisite, gain the benefit of Unarmed Proficiency, and may be used for any skills that require Unarmed to utilize. Like Unarmed, Claws may be wielded in only one hand, leaving the other hand empty or to use a different item.        |
+#### Transform Ability: Claws 
+| Name:          | Transform Ability: Claws                                                                                                                                                                                                                                                                                                                 |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Type:         | Passive                                                                                                                                                                                                                                                                                                                         |
+| Cost:        | 5 (Single Purchase)                                                                                                                                                                                                                                                                                                             |
+| Description: | Claws function as Unarmed, may be used to qualify for any skills that require Unarmed as a prerequisite, gain the benefit of Unarmed Proficiency, and may be used for any skills that require Unarmed to utilize. Like Unarmed, Claws may be wielded in only one hand, leaving the other hand empty or to use a different item. |
 
-#### Monstrous Minor Healing
-| Name:          | Monstrous Minor Healing   |
+#### Transform Ability: Minor Healing
+| Name:          | Transform Ability: Minor Healing   |
 |--------------|------|
 | Type:         | Active  |
 | Cost:        | 2 + 3    |
 | Description: | The User may heal themselves by incanting “10 Healing”. This is usable once per rest. |
 
-#### Monstrous Minor Spell
-| Name:          | Monstrous Minor Spell |
+#### Transform Ability: Minor Spell
+| Name:          | Transform Ability: Minor Spell |
 |--------------|-----------------------|
 | Type:         | Active     |
 | Cost:        | 2 + 3                  |
 | Description: | User gains 1/Rest use of a spell, of rank I-IV. Spell is dictated by the transform and scroll.           |
 
-#### Monstrous Minor Physical Strike
-| Name:          | Monstrous Minor Physical Strike   |
+#### Transform Ability: Minor Physical Strike
+| Name:          | Transform Ability: Minor Physical Strike   |
 |--------------|----------|
 | Type:         | Active  |
 | Cost:        | 2 + 3       |
@@ -66,44 +71,44 @@
 
 ### Expert - Rank III
 
-#### Monstrous Body
-| Name:          | Monstrous Body |
+#### Transform Ability: Body
+| Name:          | Transform Ability: Body |
 |--------------|----------------|
 | Type:         | Passive        |
 | Cost:        | 3 + 5          |
 | Description: | Per Toughness. |
 
 
-#### Monstrous Resist Magic
-| Name:          | Monstrous Resist Magic               |
+#### Transform Ability: Resist Magic
+| Name:          | Transform Ability: Resist Magic               |
 |--------------|--------------------------------------|
 | Type:         | Active                               |
 | Cost:        | 3 + 5                                |
 | Description: | User may Resist Magic once per rest. |
 
-#### Monstrous Resist Physical
-| Name:          | Monstrous Resist Physical               |
+#### Transform Ability: Resist Physical
+| Name:          | Transform Ability: Resist Physical               |
 |--------------|-----------------------------------------|
 | Type:         | Active                                  |
 | Cost:        | 3 + 5                                   |
 | Description: | User may Resist Physical once per rest. |
 
-#### Monstrous Gaseous Form
-| Name:          | Monstrous Gaseous Form |
+#### Transform Ability: Gaseous Form
+| Name:          | Transform Ability: Gaseous Form |
 |--------------|------------------------|
 | Type:         | Active                 |
 | Cost:        | 3 + 5                  |
 | Description: | User can go Gaseous on a three count, gaining the effects of Gaseous Form for up to 5 minutes. User reforms on a three count. “One I go Gaseous…” and “One I Reform…”            |
 
-#### Monstrous Greater Spell
-| Name:          | Monstrous Greater Spell |
+#### Transform Ability: Greater Spell
+| Name:          | Transform Ability: Greater Spell |
 |--------------|-------------------------|
 | Type:         | Active                  |
 | Cost:        | 3 + 5                   |
 | Description: | User gains 1/Rest use of a spell, of rank IV-VIII. Spell is dictated by the transform and scroll.             |
 
-#### Monstrous Greater Physical Strike
-| Name:          | Monstrous Greater Physical Strike  |
+#### Transform Ability: Greater Physical Strike
+| Name:          | Transform Ability: Greater Physical Strike  |
 |--------------|-------------|
 | Type:         | Active |
 | Cost:        | 3 + 5  |
@@ -111,49 +116,49 @@
 
 ### Advanced - Rank V
 
-#### Monstrous Strength
-| Name:          | Monstrous Strength                          |
+#### Transform Ability: Strength
+| Name:          | Transform Ability: Strength                          |
 |--------------|---------------------------------------------|
 | Type:         | Passive                                     |
 | Cost:        | 5 + 10                                      |
 | Description: | User gains +1 Bonus Weapon Damage per rank. |
 
-#### Monstrous Dodge
-| Name:          | Monstrous Dodge |
+#### Transform Ability: Dodge
+| Name:          | Transform Ability: Dodge |
 |--------------|-----------------|
 | Type:         | Active          |
 | Cost:        | 5 + 10          |
 | Description: | Per Dodge       |
 
-#### Monstrous Phylactery
-| Name:          | Monstrous Phylactery |
+#### Transform Ability: Phylactery
+| Name:          | Transform Ability: Phylactery |
 |--------------|----------------------|
 | Type:         | Active               |
 | Cost:        | 15 (Single Purchase)                   |
 | Description: | User gains benefits of “Limited Phylactery, Self”. This is not Fiendish in nature, and the User is not considered undead, unless already undead. Incant for this ability is “By my Will, create a phylactery for my spirit.” This is limited to one purchase, usable once per rest.          |
 
-#### Monstrous Magic Striker
-| Name:          | Monstrous Magic Striker |
+#### Transform Ability: Magic Striker
+| Name:          | Transform Ability: Magic Striker |
 |--------------|-------------------------|
 | Type:         | Passive                 |
 | Cost:        | 15 (Single Purchase)    |
 | Description: | Magic carrier, applies to any weapon, or unarmed, that is wielded.             |
 
-#### Monstrous &lt;Elemental> Striker
-| Name:          | Monstrous &lt;Elemental> Striker |
+#### Transform Ability: &lt;Elemental> Striker
+| Name:          | Transform Ability: &lt;Elemental> Striker |
 |--------------|--------|
 | Type:         | Passive |
 | Cost:        | 15 (Single Purchase)  |
 | Description: | Frost/Flame/Shock/Stone Striker carrier, applies to any weapon, or unarmed, that is wielded. |
 
-#### Monstrous Major Spell
-| Name:          | Monstrous Major Spell       |
+#### Transform Ability: Major Spell
+| Name:          | Transform Ability: Major Spell       |
 |--------------|----------------|
 | Type:         | Active |
 | Cost:        | 5 + 10          |
 | Description: | User gains 1/Rest use of a spell, of rank IX. Spell is dictated by the transform and scroll.    |
 
-#### Monstrous Major Physical Strike
+#### Transform Ability: Major Physical Strike
 | Name:          | SkillName:       |
 |--------------|----------------|
 | Type:         | Active/Passive |
@@ -162,22 +167,22 @@
 
 ### High - Rank VII
 
-#### Monstrous Dull Pain
-| Name:          | Monstrous Dull Pain       |
+#### Transform Ability: Dull Pain
+| Name:          | Transform Ability: Dull Pain       |
 |--------------|----------------|
 | Type:         | Passive |
 | Cost:        | 20 (Single Purchase)          |
 | Description: | User is not subject to spellcasting disruption upon taking damage.    |
 
-#### Monstrous Healed by &lt;Element>
-| Name:          | Monstrous Healed by &lt;Element>       |
+#### Transform Ability: Healed by &lt;Element>
+| Name:          | Transform Ability: Healed by &lt;Element>       |
 |--------------|----------------|
 | Type:         | Passive |
 | Cost:        | 20 (Single Purchase)          |
 | Description: | When the User would be subject to damage by designated element, they are instead healed. User must announce “Appears to heal me.”    |
 
-#### Monstrous Body Weaponry
-| Name:          | Monstrous Body Weaponry       |
+#### Transform Ability: Body Weaponry
+| Name:          | Transform Ability: Body Weaponry       |
 |--------------|----------------|
 | Type:         | Passive |
 | Cost:        | 20 (Single Purchase)          |
@@ -185,43 +190,43 @@
 
 ### Master - Rank IX
 
-#### Monstrous Rift Self
-| Name:          | Monstrous Rift Self       |
+#### Transform Ability: Rift Self
+| Name:          | Transform Ability: Rift Self       |
 |--------------|----------------|
 | Type:         | Active |
 | Cost:        | 20 + 10          |
 | Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. This is a self-only ability.    |
 
-#### Monstrous Voice Radius Spell
-| Name:          | Monstrous Voice Radius Spell       |
+#### Transform Ability: Voice Radius Spell
+| Name:          | Transform Ability: Voice Radius Spell       |
 |--------------|----------------|
 | Type:         | Active |
 | Cost:        | 20 + 10          |
 | Description: | User can deliver a single spell as Voice Radius Spell &lt;Spell Name: >    |
 
-#### Monstrous Cast &lt;School> Spells Innately
-| Name:          | Monstrous Cast &lt;School> Spells Innately   |
+#### Transform Ability: Cast &lt;School> Spells Innately
+| Name:          | Transform Ability: Cast &lt;School> Spells Innately   |
 |--------------|--------------|
 | Type:         | Passive |
 | Cost:        | 30           |
 | Description: | User gains the ability to deliver all spells from a single school of magic as “Magic &lt;Spell Name: >”, the school is chosen upon selecting this ability. This may be purchased up to three times.  |
 
-#### Monstrous Regeneration
-| Name:          | Monstrous Regeneration       |
+#### Transform Ability: Regeneration
+| Name:          | Transform Ability: Regeneration       |
 |--------------|----------------|
 | Type:         | Passive |
 | Cost:        | 30 (Single Purchase)          |
 | Description: | Regeneration allows the user to spend one minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.    |
 
-#### Monstrous Voice Control &lt;Entity>
-| Name:          | Monstrous Voice Control &lt;Entity>       |
+#### Transform Ability: Voice Control &lt;Entity>
+| Name:          | Transform Ability: Voice Control &lt;Entity>       |
 |--------------|----------------|
 | Type:         | Passive |
 | Cost:        | 30 (Single Purchase)          |
 | Description: | This ability allows the user to voice control lesser members of their species, type, or specific targets, as specified by plot.    |
 
-#### Monstrous Weapon Mastery
-| Name:          | Monstrous Weapon Mastery       |
+#### Transform Ability: Weapon Mastery
+| Name:          | Transform Ability: Weapon Mastery       |
 |--------------|----------------|
 | Type:         | Passive |
 | Cost:        | 30 (Single Purchase)          |
@@ -229,22 +234,22 @@
 
 ### Grand - Rank X
 
-#### Monstrous Aether Spell
-| Name:          | Monstrous Aether Spell       |
+#### Transform Ability: Aether Spell
+| Name:          | Transform Ability: Aether Spell       |
 |--------------|----------------|
 | Type:         | Active |
 | Cost:        | 20 + 20          |
 | Description: | User can deliver a single spell as Aether &lt;Spell Name: >. This cannot be stacked with Voice Radius.    |
 
-#### Monstrous Plot Ability
+#### Transform Ability: Plot Ability
 | Name:          | SkillName:     |
 |--------------|----------------|
 | Type:         | Active/Passive |
 | Cost:        | (40 for Passive, 20 + 20 for Active)  |
 | Description: | Ability Unique to the specific Transform.    |
 
-#### Monstrous Rift Group
-| Name:          |Monstrous Rift Group       |
+#### Transform Ability: Rift Group
+| Name:          |Transform Ability: Rift Group       |
 |--------------|----------------|
 | Type:         | Active |
 | Cost:        | 20 + 20          |

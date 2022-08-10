@@ -1,6 +1,8 @@
 # Combat Rules
 
 ## Appropriate Strike Zones
+
+---
 	Pending.
 
 ## Armor: Immunities
@@ -130,9 +132,9 @@ If you are touching the target directly, they have the ability to "refuse your t
 ### Turtling
 
 ---
-Pending.
+    Pending.
 
 ## Weapons Safety Check
 
 ---
-Pending.
+    Pending.

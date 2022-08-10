@@ -1,6 +1,8 @@
 # Martial Skills
 
 ## Weapon Skills
+
+---
 | Skill Point Cost     |  F  |  T  |  R  |  S  | Prereqs                     |
 |:---------------------|:---:|:---:|:---:|:---:|-----------------------------|
 | Unarmed Combat       |  3  |  6  |  3  |  6  ||     |
@@ -26,9 +28,9 @@
 
 >The character may use a long one hand weapon between 36” long and less than 48” long in melee combat. Long one hand weapons include long sword, rapier, battleaxe, warhammer, warmace, spear, and club. This skill allows the use of the weapon in either hand, but not the ability to wield a long weapon in both hands at once.
 
-#### Two Hand Weapon
+#### Two-Handed Weapon
 
->The character may use a two hand weapon between 48” long and 72” long in melee combat. Two hand weapons include two hand swords, polearms, staves, and two hand clubs. Two hand weapons require both hands to be on the weapon in order to attack or block in melee combat. If the character blocks an attack with only one hand, the character will take the damage as if they had not blocked the attack at all.
+>The character may use a two-handed weapon between 48” long and 72” long in melee combat. Two-Handed weapons include two-handed swords, polearms, staves, and two-handed clubs. Two-handed weapons require both hands to be on the weapon in order to attack or block in melee combat. If the character blocks an attack with only one hand, the character will take the damage as if they had not blocked the attack at all.
 
 #### Ranged Weapon
 
@@ -36,7 +38,7 @@
 
 #### Shield
 
->This skill allows the character to wield a shield used to block attacks. A shield may never be used for striking in combat. As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.  The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36”.  Shields may not be used with two hand weapons, bows, or crossbows. A character may not dual wield shields.
+>This skill allows the character to wield a shield used to block attacks. A shield may never be used for striking in combat. As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.  The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36”.  Shields may not be used with two-handed weapons, bows, or crossbows. A character may not dual wield shields.
 
 #### Dual Short Weapon
 
@@ -46,9 +48,9 @@
 
 >This skill allows the character to wield two long weapons, one in each hand, while in combat. Furthermore, a character with this skill may wield a long weapon in one hand and a short in the other, so long as they possess proficiency for both Long and Short weapons. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the Long Weapon skill.
 
-#### Two Hand Block
+#### Two-Handed Block
 
->This skill allows the character to block with one hand using a two hand weapon without penalty.<br/>Requires the Two-Hand Weapon skill.
+>This skill allows the character to block with one hand using a two-handed weapon without penalty.<br/>Requires the Two-Hand Weapon skill.
 
 #### One Hand Short and Bow
 
@@ -57,6 +59,7 @@
 
 ## Weapon Proficiencies
 
+---
 <table>
   <tr>
    <td><strong>Skill Point Cost</strong>
@@ -115,7 +118,7 @@
    </td>
   </tr>
   <tr>
-   <td>Two Hand Weapon Proficiency
+   <td>Two-Handed Weapon Proficiency
    </td>
    <td>15+3
    </td>
@@ -125,7 +128,7 @@
    </td>
    <td>20+10
    </td>
-   <td>Two Hand Weapon
+   <td>Two-Handed Weapon
    </td>
   </tr>
   <tr>
@@ -182,9 +185,9 @@ The fifth purchase is 27 Skill Points (15+12).
 
 >This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill.<br/>Requires the Long Weapon skill.
 
-#### Two Hand Weapon Proficiency
+#### Two-Handed Weapon Proficiency
 
->This skill adds +1 base weapon damage to the character’s chosen primary weapon hand, which is chosen at the time of purchasing this skill.<br/>Requires the Two Hand Weapon skill.
+>This skill adds +1 base weapon damage to the character’s chosen primary weapon hand, which is chosen at the time of purchasing this skill.<br/>Requires the Two-Handed Weapon skill.
 
 #### Ranged Weapon Proficiency
 
@@ -197,9 +200,12 @@ The fifth purchase is 27 Skill Points (15+12).
 
 ## Physical Strikes
 
+---
 Physical strikes are weapon delivered combat effects used by characters. A physical strike is delivered once using a weapon attack, and must strike the target character successfully without being blocked in order to be a successful attack. Physical strikes are considered used whether the attack was successful or not. Physical strikes that are blocked by shields or weapons, have been blocked and are considered unsuccessful attacks. Unsuccessful physical strikes and physical strikes that have been resisted can be regained by the character resting. Physical strike effects are not magical in nature; therefore, they cannot be removed by the Dispel Magic spell or any removal skill that is limited to effects of magical origin only.
 
 ## Critical Strikes
+
+---
 <table>
   <tr>
    <td><strong>Skill Point Cost</strong>
@@ -226,7 +232,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>10+10
    </td>
-   <td>Unarmed Combat, or Short Weapon, or Long Weapon, or Two Hand Weapon, or Ranged Weapon 
+   <td>Unarmed Combat, or Short Weapon, or Long Weapon, or Two-Handed Weapon, or Ranged Weapon 
    </td>
   </tr>
   <tr>
@@ -310,6 +316,8 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 
 ## Devious Strikes
+
+---
 <table>
   <tr>
    <td><strong>Skill</strong>
@@ -418,6 +426,8 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 >This skill allows the character to perform a single attack adding +45 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike VII skill.
 
 ## Weapon Strikes
+
+---
 <table>
   <tr>
    <td><strong>Skill</strong>
@@ -444,7 +454,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>10+10
    </td>
-   <td>Unarmed, Long, Two Hand or Ranged Weapon, and Critical Strike V
+   <td>Unarmed, Long, Two-Handed or Ranged Weapon, and Critical Strike V
    </td>
   </tr>
   <tr>
@@ -500,7 +510,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>20+10
    </td>
-   <td>Two Hand Weapon
+   <td>Two-Handed Weapon
    </td>
   </tr>
   <tr>
@@ -588,20 +598,6 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
   </tr>
   <tr>
-   <td>Shield Bash
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>20+10
-   </td>
-   <td>Unarmed, Short, Long Weapon, and Shield
-   </td>
-  </tr>
-  <tr>
    <td>Slay
    </td>
    <td>3+3
@@ -612,7 +608,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>20+10
    </td>
-   <td>Long, Unarmed, Two Hand or Ranged Weapon, and Critical Strike IX
+   <td>Long, Unarmed, Two-Handed or Ranged Weapon, and Critical Strike IX
    </td>
   </tr>
   <tr>
@@ -640,7 +636,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>3+3
    </td>
-   <td>Two Hand Weapon
+   <td>Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon
    </td>
   </tr>
   <tr>
@@ -654,7 +650,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>20+10
    </td>
-   <td>Two Hand or Ranged Weapon, and Critical Strike III
+   <td>Two-Handed or Ranged Weapon, and Critical Strike III
    </td>
   </tr>
   <tr>
@@ -668,7 +664,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>20+10
    </td>
-   <td>Two Hand or Ranged Weapon, and Critical Strike V
+   <td>Two-Handed or Ranged Weapon, and Critical Strike V
    </td>
   </tr>
   <tr>
@@ -682,7 +678,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>20+10
    </td>
-   <td>Two Hand Weapon, and Critical Strike VII
+   <td>Two-Handed Weapon, and Critical Strike VII
    </td>
   </tr>
   <tr>
@@ -724,7 +720,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>10+10
    </td>
-   <td>Two Hand or Ranged Weapon, and Slay
+   <td>Two-Handed or Ranged Weapon, and Slay
    </td>
   </tr>
   <tr>
@@ -792,12 +788,12 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Requirement** | Requires the Short or Ranged Weapon skill.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 #### **Intimidation**
-| Strike          | **Intimidation**                                                                                                                                                                                                                                                                                                                                                                      |
-|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                            |
-| **Incant**      | “Physical Fear”                                                                                                                                                                                                                                                                                                                                                                       |
-| **Description** | This is a Two Hand Weapon only strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 20 seconds. The fear effect of Intimidation can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a FEAR effect.         |
-| **Requirement** | Requires the Two Hand Weapon skill.                                                                                                                                                                                                                                                                                                                                                   |
+| Strike          | **Intimidation**                                                                                                                                                                                                                                                                                                                                                                |
+|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                      |
+| **Incant**      | “Physical Fear”                                                                                                                                                                                                                                                                                                                                                                 |
+| **Description** | This is a Two-Handed Weapon only strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 20 seconds. The fear effect of Intimidation can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a FEAR effect. |
+| **Requirement** | Requires the Two-Handed Weapon skill.                                                                                                                                                                                                                                                                                                                                           |
 
 #### **Marked for Death**
 | Strike          | **Marked for Death**                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -847,21 +843,13 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Description** | This is a Ranged Weapon only strike that binds the target’s right foot to the ground for 20 seconds. This effect can be affected by the Freedom spell. This skill is expended on use.  This is an ENTANGLE effect.             |
 | **Requirement** | Requires the Ranged Weapon skill.                                                                                                                                                                                              |
 
-#### **Shield Bash**
-| Strike          | **Shield Bash**                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**    | Instant                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Incant**      | “Physical Retreat”                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Description** | This is a strike that can only be used by a character while wielding a shield even though this strike is not delivered using a shield. This strike is delivered via the character’s weapon normally. The affected target must retreat 10 steps, if they can do so safely. The affected target may still attack and defend while retreating. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a STAGGER effect. |
-| **Requirement** | Requires the Shield skill and either the Short or Long Weapon skill.                                                                                                                                                                                                                                                                                                                                                                                           |
-
 #### **Slay**
 | Strike          | **Slay**                                                                                                                                       |
 |:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                        |
 | **Incant**      | “Physical Doom”                                                                                                                                |
 | **Description** | This is a strike that will reduce the target’s body to -1,  and armor pools to 0 points. This skill is expended on use. This is a DOOM effect. |
-| **Requirement** | Requires the Critical Strike IX skill, along with at least one of the following weapon skills: Unarmed, Two Hand, Long or Ranged.              |
+| **Requirement** | Requires the Critical Strike IX skill, along with at least one of the following weapon skills: Unarmed, Two-Handed, Long or Ranged.            |
 
 #### **Split Projectile**
 | Strike          | **Split Projectile**                                                                                                                                                                                                                                                                                                                                                                     |
@@ -872,36 +860,36 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Requirement** | Requires the Ranged Weapon skill.                                                                                                                                                                                                                                                                                                                                                        |
 
 #### **Stop Thrust**
-| Strike          | **Stop Thrustt**                                                                                                                                                                                             |
-|:----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**    | 20 Seconds                                                                                                                                                                                                   |
-| **Incant**      | “Physical Stop Thrust”                                                                                                                                                                                       |
-| **Description** | This is a Two Hand Weapon only strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a HALT effect. |
-| **Requirement** | Requires the Two Hand Weapon skill.                                                                                                                                                                          |
+| Strike          | **Stop Thrust**                                                                                                                                                                                                  |
+|:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**    | 20 Seconds                                                                                                                                                                                                       |
+| **Incant**      | “Physical Stop Thrust”                                                                                                                                                                                           |
+| **Description** | This is a melee weapon only strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a STOP THRUST effect. |
+| **Requirement** | Requires Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon skill.                                                                                                                                  |
 
 #### **Sunder Armor**
-| Strike          | **Sunder Armor**                                                                                                                                                                                                        |
-|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**    | Instant                                                                                                                                                                                                                 |
-| **Incant**      | “Physical Sunder Armor”                                                                                                                                                                                                 |
-| **Description** | This is a Ranged WEapon or Two Hand Weapon only strike that instantly reduces the target’s armor pool to 0 and destroys the armor that is worn by the target. This skill is expended on use.  This is a DESTROY effect. |
-| **Requirement** | Requires the Two Hand or Ranged Weapon skill and the Critical Strike III skill.                                                                                                                                         |
+| Strike          | **Sunder Armor**                                                                                                                                                                                                          |
+|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**    | Instant                                                                                                                                                                                                                   |
+| **Incant**      | “Physical Sunder Armor”                                                                                                                                                                                                   |
+| **Description** | This is a Ranged Weapon or Two-Handed Weapon only strike that instantly reduces the target’s armor pool to 0 and destroys the armor that is worn by the target. This skill is expended on use.  This is a DESTROY effect. |
+| **Requirement** | Requires the Two-Handed or Ranged Weapon skill and the Critical Strike III skill.                                                                                                                                         |
 
 #### **Sunder Shield**
-| Strike          | **Sunder Shield**                                                                                                                                                                                                                                                                  |
-|:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**    | Instant                                                                                                                                                                                                                                                                            |
-| **Incant**      | “Physical Sunder Shield”                                                                                                                                                                                                                                                           |
-| **Description** | This is a Ranged Weapon or Two Hand Weapon only strike that instantly destroys the target’s shield. This skill is expended on use. This skill still follows the usual physical strike rules requiring striking the target’s body and not being blocked.  This is a DESTROY effect. |
-| **Requirement** | Requires the Two Hand or Ranged Weapon skill and the Critical Strike V skill.                                                                                                                                                                                                      |
+| Strike          | **Sunder Shield**                                                                                                                                                                                                                                                                    |
+|:----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**    | Instant                                                                                                                                                                                                                                                                              |
+| **Incant**      | “Physical Sunder Shield”                                                                                                                                                                                                                                                             |
+| **Description** | This is a Ranged Weapon or Two-Handed Weapon only strike that instantly destroys the target’s shield. This skill is expended on use. This skill still follows the usual physical strike rules requiring striking the target’s body and not being blocked.  This is a DESTROY effect. |
+| **Requirement** | Requires the Two-Handed or Ranged Weapon skill and the Critical Strike V skill.                                                                                                                                                                                                      |
 
 #### **Sunder Weapon**
-| Strike          | **Sunder Weapon**                                                                                                                                                                                                                                                 |
-|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**    | Instant                                                                                                                                                                                                                                                           |
-| **Incant**      | “Physical Sunder Weapon”                                                                                                                                                                                                                                          |
-| **Description** | This is a Two Hand Weapon only strike that instantly destroys the target’s weapon. This skill is expended on use. This skill still follows the usual physical strike rules requiring striking the target’s body and not being blocked.  This is a DESTROY effect. |
-| **Requirement** | Requires the Two Hand Weapon skill and the Critical Strike VII skill.                                                                                                                                                                                             |
+| Strike          | **Sunder Weapon**                                                                                                                                                                                                                                                   |
+|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**    | Instant                                                                                                                                                                                                                                                             |
+| **Incant**      | “Physical Sunder Weapon”                                                                                                                                                                                                                                            |
+| **Description** | This is a Two-Handed Weapon only strike that instantly destroys the target’s weapon. This skill is expended on use. This skill still follows the usual physical strike rules requiring striking the target’s body and not being blocked.  This is a DESTROY effect. |
+| **Requirement** | Requires the Two-Handed Weapon skill and the Critical Strike VII skill.                                                                                                                                                                                             |
 
 #### **Throat Punch**
 | Strike          | **Throat Punch**                                                                                                                                                                                                                                                                                                                                                                     |
@@ -920,12 +908,12 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Requirement** | Requires the Unarmed Combat skill.                                                                                                                                                                                                                                                                                                                       |
 
 #### **Vital Blow**
-| Strike          | **Vital Blow**                                                                                                                                                                                                                                                                                                                                                                                                          |
-|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**    | Instant                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Incant**      | “30 [Type] Vital”                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Description** | This is a Two Hand Weapon or Ranged Weapon only strike that does 30 points of Vital &lt;type> damage. Vital damage cannot be blocked by weapons or shields. Vital Blow's damage can be increased using Critical Strikes, but is not modified by Weapon Proficiencies or any other source. The target of a Vital Blow must still be able to be affected by the type of damage being done. This skill is expended on use. |
-| **Requirement** | Requires either the Two Hand or Ranged Weapon skill, and the Slay skill.                                                                                                                                                                                                                                                                                                                                                |
+| Strike          | **Vital Blow**                                                                                                                                                                                                                                                                                                                                                                                                            |
+|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**    | Instant                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Incant**      | “30 [Type] Vital”                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Description** | This is a Two-Handed Weapon or Ranged Weapon only strike that does 30 points of Vital &lt;type> damage. Vital damage cannot be blocked by weapons or shields. Vital Blow's damage can be increased using Critical Strikes, but is not modified by Weapon Proficiencies or any other source. The target of a Vital Blow must still be able to be affected by the type of damage being done. This skill is expended on use. |
+| **Requirement** | Requires either the Two-Handed or Ranged Weapon skill, and the Slay skill.                                                                                                                                                                                                                                                                                                                                                |
 
 #### **Volley**
 | Strike          | **Volley**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -944,6 +932,8 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Requirement** | Requires the Unarmed Combat or Short Weapon skill.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ## **Defenses**
+
+---
 <table>
   <tr>
    <td><strong>Skill</strong>
@@ -1054,7 +1044,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>20+10
    </td>
-   <td>Unarmed Combat, or Short Weapon, or Long Weapon, or Two Hand Weapon, and Critical Strike III
+   <td>Unarmed Combat, or Short Weapon, or Long Weapon, or Two-Handed Weapon, and Critical Strike III
    </td>
   </tr>
   <tr>
@@ -1096,7 +1086,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>20+10
    </td>
-   <td>Short Weapon,or Long Weapon, or Two Hand Weapon  
+   <td>Short Weapon,or Long Weapon, or Two-Handed Weapon  
    </td>
   </tr>
   <tr>
@@ -1138,7 +1128,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
    </td>
    <td>20+10
    </td>
-   <td>Two Hand Weapon
+   <td>Two-Handed Weapon
    </td>
   </tr>
   <tr>
@@ -1197,7 +1187,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 #### Parry
 
->This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry allows the character to Resist Physical once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. <br/>Call: “Resist”<br/>Requires the Critical Strike III skill and one of the following Weapon skills: Unarmed, Short, Long or Two Hand.
+>This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry allows the character to Resist Physical once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. <br/>Call: “Resist”<br/>Requires the Critical Strike III skill and one of the following Weapon skills: Unarmed, Short, Long or Two-Handed.
 
 #### Parry Spell
 
@@ -1209,7 +1199,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 #### Riposte
 
->This skill Requires that a character is wielding a weapon and has the skill required to be able to use that weapon. Riposte Attack allows the character to Reflect Physical once for each time that this skill is purchased. This skill is expended on use. You cannot Reflect an already Reflected effect.  This is a REFLECT effect.<br/>Call: “Reflect”<br/>Requires the Short, Long or Two Hand Weapon skill.
+>This skill Requires that a character is wielding a weapon and has the skill required to be able to use that weapon. Riposte Attack allows the character to Reflect Physical once for each time that this skill is purchased. This skill is expended on use. You cannot Reflect an already Reflected effect.  This is a REFLECT effect.<br/>Call: “Reflect”<br/>Requires the Short, Long or Two-Handed Weapon skill.
 
 #### Second Wind
 
@@ -1221,7 +1211,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 #### Stalwart Defense
 
->This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a two hand weapon and has the skill to be able to use that weapon. Armor points gained from Stalwart Defense must be repaired before being available. DISARM effects like Command Drop or Disarm do not remove the benefit of Stalwart Defense unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.<br/>Requires the Two Hand Weapon skill.
+>This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a two-handed weapon and has the skill to be able to use that weapon. Armor points gained from Stalwart Defense must be repaired before being available. DISARM effects like Command Drop or Disarm do not remove the benefit of Stalwart Defense unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.<br/>Requires the Two-Handed Weapon skill.
 
 #### Toughness
 
@@ -1230,47 +1220,3 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 #### Unbreakable
 
 >This skill allows a character using a Shield to plant themselves, and push through incredible odds to come out the other side unscathed. A character with this skill may announce “I am Unbreakable!” and plant their feet. For the duration of the time that their feet remain planted, up to one minute maximum, they may choose to expend any Critical Strikes or Physical Strikes they possess as if they were instead a Resist Physical. If at any point they move their feet, or are forced to move by an outside effect, this ability ends immediately. This skill is expended on use.<br/>Call: "I am Unbreakable" <br/>Requires the Shield and Critical Strike I skills.
-
-
-
-
-
-## Damage Calls & Carriers
-
-Damage calls are how you communicate the amount of damage being delivered, as well as its type and whether it has a flavor modifier or carrier.  You may only use one value for each option.
-
-<table>
-  <tr>
-   <td><strong>Damage Call Structure </strong>
-   </td>
-   <td># &lt;Type> [Flavor/Carrier(optional)]
-   </td>
-  </tr>
-</table>
-
-Examples:
-
-* 5 Normal
-* 2 Magic Flame
-* 23 Silver Death
-* 4 Poison Vital
-
-Suppose you have a normal longsword, a transform with the Magic Aura and Flame Aura abilities, and a Frost coating applied to the weapon. You would swing one of:
-
-* 5 Magic
-* 5 Normal
-* 5 Magic Flame
-* 5 Normal Flame
-* 5 Magic Frost
-* 5 Normal Frost
-
-| Part of Call    | Options                                  |
-|-----------------|------------------------------------------|
-| Damage Type     | Normal<br>Silver<br>Magic<br>Poison      |
-| Damage Flavor   | Flame<br>Frost<br>Shock<br>Stone         |
-| Damage Carriers | Curse<br>Death<br>Drain<br>Vital<br>etc. |
-
-## Spellstrike
-
-
-Spellstrikes are spells cast upon a target via a physically represented weapon.  Packets do not count, as this would be touch casting.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If you physically parry a Spellstrike, you take the effect of the spell.

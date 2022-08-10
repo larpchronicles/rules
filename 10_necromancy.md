@@ -2,10 +2,12 @@
 
 ## Definition:
 
+---
 Necromancy is referred to as a branch of Spirit Magic primarily focused on the creation, preservation, and manipulation of undead creatures. This includes any spell where the incant begins with _“Fiends of the Dark Nether…”_, and creates, animates, heals, or controls undead specifically.
 
 ## Synopsis:
 
+---
 * Animate undead without making yourself vulnerable to Dark Fiends.
 * Only works on permanently dead bodies that have also been specially prepared.
 * Corpses may be animated repeatedly, by different casters, though they need to be prepared and possibly repaired between animations.
@@ -13,6 +15,7 @@ Necromancy is referred to as a branch of Spirit Magic primarily focused on the c
 
 ## Historical Necromancy and Its Current Function:
 
+---
 The current understanding of Necromancy and its associated magics is that each invocation of a Necromantic spell leaves the caster’s spirit open and vulnerable to corruption by these Fiends, as the caster is borrowing their power to complete the spell.
 
 Over time, this can lead to the necromancer losing themselves as their Spirit degrades, becoming vulnerable to being completely possessed by a Dark Fiend seeking to escape their imprisonment from within the Dark Nether.
@@ -22,6 +25,7 @@ As the caster is relying on powers outside of their own mana to assist in the co
 
 ## New Necromancy and Its Function:
 
+---
 The focus of this new research has been to eliminate the need for a necromancer to call upon external forces, such as Fiends of the Nether, when animating a body thus eliminating the risk of corruption. Rather than borrowing the power of a Fiend to possess and animate a target, the caster themself acts as a puppeteer of a spiritless corpse by infusing the target with their own mana to act as a replacement for the departed Spirit.
 
 This means that “Traditional”_(aka, Fiendish)_ Necromantic practices still exist, but this method can allow for a caster to perform some spells of similar function without the risk to their person or others.
@@ -48,6 +52,7 @@ While this style of Necromancy may be seen as less powerful on the surface, it d
 
 ## Reanimation Process:
 
+---
 In order for a body to be suitable for reanimation, it has been mentioned it must undergo several steps to be suitable for use following an individual’s final death:
 
 
@@ -88,6 +93,7 @@ The animation will last for approximately two hours after reanimation or the dur
 
 ## Spells and Legality:
 
+---
 **_<u>ALL forms of Necromancy, undead, and reanimated bodies are still illegal within Varos’ city boundaries, regardless of a Necromancer’s Guild of Varos license, and will be punished in accordance with Kingdom Law.</u>_**
 
 All spells with the incantations that include “Fiends of the Dark Nether” are still highly dangerous to the caster and considered ILLEGAL. Any caught using such spells will be punished according to Kingdom Law.
@@ -95,7 +101,7 @@ All spells with the incantations that include “Fiends of the Dark Nether” ar
 
 ## Out of Game Information:
 
-
+---
 ### NPCs:
 
 To help alleviate strain on the Plot Team, Players who wish to reanimate a body will need to provide their own NPC. Players will <u>not</u> be given a stat card for their reanimated body until the NPC is present, and the reanimation timer will “begin” upon the Player and NPC leaving the Necromancer’s Guild. (Time spent waiting to begin a mod will not count toward this timer)

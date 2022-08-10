@@ -2,21 +2,22 @@
 
 ## Weapon Reps
 
+---
 * All combat reps must be certified as safe. Safety checks for all combat reps may be performed at check-in.  Safety checks MUST be performed EVERY EVENT; they do not carry over from prior events.  A marshal may request to inspect your reps at any time during the event, and, if deemed unsafe, may lose their safety certification.
 * Claws / Bites or Unarmed weapons must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.
 * Real archery reps are restricted.  Gameplay uses packet bow shooter designs.
 
 
-| WEAPON | BLADE LENGTH | HANDLE LENGTH | TOTAL LENGTH | HEAD REQUIRED |
-|:--- | :---: | :---: | :---: | :---: |
-|Short Sword / Claws|18" - 24"| 5"-14"|24"-<36"|No|
-|Short Blunt / Axe|18" - 24"| 5"-14"|24"-<36"|Yes|
-|Long Sword / Bites|25"-36"|5"-14"|36"-48"|No|
-|Long Blunt / Axe|25"-36"|5"-14"|36"-48"|Yes|
-|Two-Handed Sword|40"-48"|5"-30"|>48"-62"|No|
-|Two-Handed Blunt|40"-48"|5"-30"|>48"-62"|Yes|
-|Spear (One-Handed)|20"-45"|5"-30"|48"-<60"|No|
-|Polearm|40"-48"|5"-30"|60"-72"|Yes|
+| WEAPON              | BLADE LENGTH | HANDLE LENGTH | TOTAL LENGTH | HEAD REQUIRED |
+|:--------------------|:------------:|:-------------:|:------------:|:-------------:|
+| Short Sword / Claws |  18" - 24"   |    5"-14"     |   24"-<36"   |      No       |
+| Short Blunt / Axe   |  18" - 24"   |    5"-14"     |   24"-<36"   |      Yes      |
+| Long Sword / Bites  |   25"-36"    |    5"-14"     |   36"-48"    |      No       |
+| Long Blunt / Axe    |   25"-36"    |    5"-14"     |   36"-48"    |      Yes      |
+| Two-Handed Sword    |   40"-48"    |    5"-30"     |   >48"-62"   |      No       |
+| Two-Handed Blunt    |   40"-48"    |    5"-30"     |   >48"-62"   |      Yes      |
+| Spear (One-Handed)  |   20"-45"    |    5"-30"     |   48"-<60"   |      No       |
+| Polearm             |   40"-48"    |    5"-30"     |   60"-72"    |      Yes      |
 
 
 ### Weapon Crafting Materials
@@ -35,6 +36,7 @@ A few online storefronts will have ready made things, but please do ask others h
 
 ## Bows and Crossbows
 
+---
 ### Crossbows
 The stock must be at least 12" long, and each limb must extend at least 6" from the stock (making the whole thing at least 12" wide).
 
@@ -45,10 +47,9 @@ If attached to your arm, you cannot use the bow while holding anything else in t
 The rep will be subject to a more rigorous safety inspection than a typical melee rep. It is **strongly** advised that you run your design idea past the staff before you begin construction; we would hate to see someone put a lot of time, effort, and resources into something that won't meet safety expectations.
 
 
-
-
 ## Packets
 
+---
 * There are no type = color requirements.  However, there is a strong preference for white, as they are far easier to find.
 * Wet, torn, or damaged packets should be discarded rather than returned to the NPC Camp packet bucket.
 * A packet can hit you anywhere and it counts (including clothing). Weapons that strike your head, groin, or a hand holding a weapon do not count.
@@ -64,6 +65,7 @@ The rep will be subject to a more rigorous safety inspection than a typical mele
 
 ## Shields
 
+---
 * The longest dimension a shield may have is 36".
 * Everything attached to the shield and its edges (such as foam edging) counts as part of the shield.
 * The maximum allowed surface area of a shield is 531 square inches and is calculated as if the shield were a flattened surface, counting any concavities into the silhouette.
