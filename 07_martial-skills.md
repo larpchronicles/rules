@@ -428,337 +428,37 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 ## Weapon Strikes
 
 ---
-<table>
-  <tr>
-   <td><strong>Skill</strong>
-   </td>
-   <td><strong>F</strong>
-   </td>
-   <td><strong>T</strong>
-   </td>
-   <td><strong>R</strong>
-   </td>
-   <td><strong>S</strong>
-   </td>
-   <td><strong>Prereqs</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Disable Limb
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>Unarmed, Long, Two-Handed or Ranged Weapon, and Critical Strike V
-   </td>
-  </tr>
-  <tr>
-   <td>Disarm
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>Unarmed Combat, and Critical Strike I
-   </td>
-  </tr>
-  <tr>
-   <td>Eye Gouge
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>Unarmed Combat or Ranged Weapon, and Critical Strike I
-   </td>
-  </tr>
-  <tr>
-   <td>Hamstring
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+3
-   </td>
-   <td>20+10
-   </td>
-   <td>Short Weapon, or Ranged Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>Intimidation
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>Two-Handed Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>Marked for Death
-   </td>
-   <td>20+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>Short Weapon, and Murder
-   </td>
-  </tr>
-  <tr>
-   <td>Moment of Opportunity
-   </td>
-   <td>20+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>20+10
-   </td>
-   <td>Short Weapon, and Devious Strike V
-   </td>
-  </tr>
-  <tr>
-   <td>Murder
-   </td>
-   <td>20+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>20+10
-   </td>
-   <td>Short Weapon, and Devious Strike IX
-   </td>
-  </tr>
-  <tr>
-   <td>Nerve Strike
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>Unarmed Combat, and Critical Strike III
-   </td>
-  </tr>
-  <tr>
-   <td>Open Artery
-   </td>
-   <td>20+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>20+10
-   </td>
-   <td>Short Weapon, and Devious Strike III
-   </td>
-  </tr>
-  <tr>
-   <td>Pinning Projectile
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+3
-   </td>
-   <td>20+10
-   </td>
-   <td>Ranged Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>Slay
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>20+10
-   </td>
-   <td>Long, Unarmed, Two-Handed or Ranged Weapon, and Critical Strike IX
-   </td>
-  </tr>
-  <tr>
-   <td>Split Projectile
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+3
-   </td>
-   <td>20+10
-   </td>
-   <td>Ranged Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>Stop Thrust
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>Sunder Armor
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>Two-Handed or Ranged Weapon, and Critical Strike III
-   </td>
-  </tr>
-  <tr>
-   <td>Sunder Shield
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>Two-Handed or Ranged Weapon, and Critical Strike V
-   </td>
-  </tr>
-  <tr>
-   <td>Sunder Weapon
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>Two-Handed Weapon, and Critical Strike VII
-   </td>
-  </tr>
-  <tr>
-   <td>Throat Punch
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+3
-   </td>
-   <td>10+10
-   </td>
-   <td>Unarmed Combat
-   </td>
-  </tr>
-  <tr>
-   <td>Trip
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>Unarmed Combat
-   </td>
-  </tr>
-  <tr>
-   <td>Vital Blow
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>Two-Handed or Ranged Weapon, and Slay
-   </td>
-  </tr>
-  <tr>
-   <td>Volley
-   </td>
-   <td>3+3
-   </td>
-   <td>10+10
-   </td>
-   <td>3+5
-   </td>
-   <td>20+10
-   </td>
-   <td>Ranged Weapon, and Critical Strike V
-   </td>
-  </tr>
-  <tr>
-   <td>Waylay
-   </td>
-   <td>20+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>Unarmed Combat, or Short Weapon
-   </td>
-  </tr>
-</table>
-<br/>
+| <b>Skill</b>          | <b>F</b> | <b>T</b> | <b>R</b> | <b>S</b> | <b>Prereqs</b>                                                     |
+|:----------------------|:--------:|:--------:|:--------:|:--------:|:-------------------------------------------------------------------|
+| Disable Limb          |   3+3    |   3+5    |   3+5    |  10+10   | Unarmed, Long, Two-Handed or Ranged Weapon, and Critical Strike V  |
+| Disarm                |   3+3    |   3+5    |   3+5    |  10+10   | Unarmed Combat, and Critical Strike I                              |
+| Eye Gouge             |   3+3    |   3+5    |   3+5    |  10+10   | Unarmed Combat or Ranged Weapon, and Critical Strike I             |
+| Hamstring             |   3+3    |   3+5    |   3+3    |  20+10   | Short Weapon, or Ranged Weapon                                     |
+| Intimidation          |   3+3    |   3+5    |  10+10   |  20+10   | Two-Handed Weapon                                                  |
+| Marked for Death      |  20+10   |  20+10   |   3+3    |   3+5    | Short Weapon, and Murder                                           |
+| Moment of Opportunity |  20+10   |  20+10   |   3+3    |  20+10   | Short Weapon, and Devious Strike V                                 |
+| Murder                |  20+10   |  20+10   |   3+3    |  20+10   | Short Weapon, and Devious Strike IX                                |
+| Nerve Strike          |   3+3    |   3+5    |   3+5    |  10+10   | Unarmed Combat, and Critical Strike III                            |
+| Open Artery           |  20+10   |  20+10   |   3+3    |  20+10   | Short Weapon, and Devious Strike III                               |
+| Pinning Projectile    |   3+3    |   3+5    |   3+3    |  20+10   | Ranged Weapon                                                      |
+| Slay                  |   3+3    |   3+5    |   3+5    |  20+10   | Long, Unarmed, Two-Handed or Ranged Weapon, and Critical Strike IX |
+| Split Projectile      |   3+3    |   3+5    |   3+3    |  20+10   | Ranged Weapon                                                      |
+| Stop Thrust           |   3+3    |   3+3    |   3+3    |   3+3    | Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon    |
+| Sunder Armor          |   3+3    |   3+5    |  10+10   |  20+10   | Two-Handed or Ranged Weapon, and Critical Strike III               |
+| Sunder Shield         |   3+3    |   3+5    |  10+10   |  20+10   | Two-Handed or Ranged Weapon, and Critical Strike V                 |
+| Sunder Weapon         |   3+3    |   3+5    |  10+10   |  20+10   | Two-Handed Weapon, and Critical Strike VII                         |
+| Throat Punch          |   3+3    |   3+5    |   3+3    |  10+10   | Unarmed Combat                                                     |
+| Trip                  |   3+3    |   3+5    |   3+5    |  10+10   | Unarmed Combat                                                     |
+| Vital Blow            |   3+3    |   3+5    |   3+5    |  10+10   | Two-Handed or Ranged Weapon, and Slay                              |
+| Volley                |   3+3    |  10+10   |   3+5    |  20+10   | Ranged Weapon, and Critical Strike V                               |
+| Waylay                |  20+10   |  20+10   |   3+3    |   3+5    | Unarmed Combat, or Short Weapon                                    |
+
 
 #### **Disable Limb**
 | Strike          | **Disable Limb**                                                                                                                                                                                                                                                                    | 
 |:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                          |
-| **Incant**      | “Physical Disable [Limb]”                                                                                                                                                                                                                                                           |
+| **Call**      | “Physical Disable [Limb]”                                                                                                                                                                                                                                                           |
 | **Description** | This skill causes the target to lose control of the named limb for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. Weapons and/or shields held in the hand of a disabled limb cannot be used to attack or block. This skill is expended on use. |
 | **Requirement** | Requires the Critical Strike V Skill and one of the following weapon skills: Unarmed, Long, Two-Hand or Ranged.                                                                                                                                                                     |
 
@@ -766,7 +466,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Disarm**                                                                                                                                                                                                                                                                                                                                                                                     | 
 |:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 5 Seconds                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Incant**      | “Physical Drop [Weapon]”                                                                                                                                                                                                                                                                                                                                                                       |
+| **Call**      | “Physical Drop [Weapon]”                                                                                                                                                                                                                                                                                                                                                                       |
 | **Description** | This skill causes the target to drop any one weapon in their hand for 5 seconds. The weapon is not to be thrown or tossed aside. The choice of which weapon that is to be dropped is left up to the target should the target be wielding two weapons. This skill is not effective against Shields and Unarmed Combat hands and claws. This skill is expended on use.  This is a DISARM effect. |
 | **Requirement** | Requires the Unarmed Combat and Critical Strike I skills.                                                                                                                                                                                                                                                                                                                                      |
 
@@ -774,7 +474,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Eye Gouge**                                                                                                                                                                                                                                                                                                                                                                               |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Incant**      | “Physical Blindness”                                                                                                                                                                                                                                                                                                                                                                        |
+| **Call**      | “Physical Blindness”                                                                                                                                                                                                                                                                                                                                                                        |
 | **Description** | This skill is an Unarmed Combat or Ranged Weapon only strike that renders the target blind and unable to attack targets not in melee range of the blind character for 20 seconds. This effect may be affected by the Transfer Malady, Cure Body, or Cure Blindness spells. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a BLIND effect. |
 | **Requirement** | Requires the Unarmed Combat or Ranged Weapon skills, and the Critical Strike I skill.                                                                                                                                                                                                                                                                                                       |
 
@@ -783,7 +483,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Hamstring**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Incant**      | “Physical Slow”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Call**      | “Physical Slow”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Description** | This is a Short Weapon, or Ranged Weapon only strike from behind that must be delivered from the rear of the target and strike the rear of the target. Hamstring renders the target unable to move faster than a normal walking speed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. Hamstring can also be removed by healing the affected character. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a SLOW effect. |
 | **Requirement** | Requires the Short or Ranged Weapon skill.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
@@ -791,7 +491,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Intimidation**                                                                                                                                                                                                                                                                                                                                                                |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                      |
-| **Incant**      | “Physical Fear”                                                                                                                                                                                                                                                                                                                                                                 |
+| **Call**      | “Physical Fear”                                                                                                                                                                                                                                                                                                                                                                 |
 | **Description** | This is a Two-Handed Weapon only strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 20 seconds. The fear effect of Intimidation can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a FEAR effect. |
 | **Requirement** | Requires the Two-Handed Weapon skill.                                                                                                                                                                                                                                                                                                                                           |
 
@@ -799,7 +499,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Marked for Death**                                                                                                                                                                                                                                                                                                                                                                                                        |
 |:----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Incant**      | “Your defense shall do you no good”                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Call**      | “Your defense shall do you no good”                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Description** | This is a Short Weapon only skill that allows the character to treat a designated target as if they were attacking them from behind, regardless of facing, for 20 seconds. During that time, Devious Weapon Proficiencies, Devious Strikes, Waylay and Murder all will work on the target regardless of position. This skill may not be used on the same target more than once every minute. This skill is expended on use. |
 | **Requirement** | Requires the Short Weapon and Murder skills.                                                                                                                                                                                                                                                                                                                                                                                |
 
@@ -807,7 +507,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Moment of Opportunity**                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |:----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Incant**      | “Physical Curse”                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Call**      | “Physical Curse”                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Description** | This is a Short Weapon only strike from behind that must be delivered from the rear of the target and strike the rear of the target. This strike renders the opponent especially vulnerable to all damage for 20 Seconds, taking double damage from all sources. Damage doubling effects cannot be stacked to create a situation where damage is increased x4, x8, x16, etc. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a CURSE effect. |
 | **Requirement** | Requires the Short Weapon and Devious Strike V skills.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
@@ -815,7 +515,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Murder**                                                                                                                                                                                                                                                                               |
 |:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                                                                                                                                                                  |
-| **Incant**      | “Physical Doom”                                                                                                                                                                                                                                                                          |
+| **Call**      | “Physical Doom”                                                                                                                                                                                                                                                                          |
 | **Description** | This is a Short Weapon only strike from behind that must be delivered from the rear of the target and strike the rear of the target. A target affected by Murder will have their body reduced to -1,  and armor pools to 0 points. This skill is expended on use. This is a DOOM effect. |
 | **Requirement** | Requires the Short Weapon and Devious Strike IX skills.                                                                                                                                                                                                                                  |
 
@@ -823,7 +523,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Nerve Strike**                                                                                                                                                                                                                                                                           |
 |:----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                 |
-| **Incant**      | “Physical Stun”                                                                                                                                                                                                                                                                            |
+| **Call**      | “Physical Stun”                                                                                                                                                                                                                                                                            |
 | **Description** | This skill is an Unarmed Combat only strike that renders the target stunned, and helpless for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a STUN effect. |
 | **Requirement** | Requires the Unarmed Combat and Critical Strike I skills.                                                                                                                                                                                                                                  |
 
@@ -831,7 +531,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Open Artery**                                                                                                                                                                                                                                                                                                                                                                                          |
 |:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Incant**      | “Physical Bleed”                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Call**      | “Physical Bleed”                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Description** | This is a Short Weapon only strike from behind that must be delivered from the rear of the target and strike the rear of the target. Bleed Strike causes the opponent to be unable to be healed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a BLEED effect. |
 | **Requirement** | Requires the Short Weapon and Devious Strike III skills.                                                                                                                                                                                                                                                                                                                                                 |
 
@@ -839,7 +539,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Pinning Projectile**                                                                                                                                                                                                         |
 |:----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                     |
-| **Incant**      | “Physical Entangle Foot”                                                                                                                                                                                                       |
+| **Call**      | “Physical Entangle Foot”                                                                                                                                                                                                       |
 | **Description** | This is a Ranged Weapon only strike that binds the target’s right foot to the ground for 20 seconds. This effect can be affected by the Freedom spell. This skill is expended on use.  This is an ENTANGLE effect.             |
 | **Requirement** | Requires the Ranged Weapon skill.                                                                                                                                                                                              |
 
@@ -847,7 +547,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Slay**                                                                                                                                       |
 |:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                        |
-| **Incant**      | “Physical Doom”                                                                                                                                |
+| **Call**      | “Physical Doom”                                                                                                                                |
 | **Description** | This is a strike that will reduce the target’s body to -1,  and armor pools to 0 points. This skill is expended on use. This is a DOOM effect. |
 | **Requirement** | Requires the Critical Strike IX skill, along with at least one of the following weapon skills: Unarmed, Two-Handed, Long or Ranged.            |
 
@@ -855,7 +555,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Split Projectile**                                                                                                                                                                                                                                                                                                                                                                     |
 |:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Incant**      | “N/A”                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Call**      | “N/A”                                                                                                                                                                                                                                                                                                                                                                                    |
 | **Description** | This is a Ranged Weapon only skill that allows the character to throw two projectiles at one time as a base damage attack. Split Projectile uses up two uses of ammunition during the attack. This skill can be used in conjunction with any other Critical Strike, Devious Strike, or Weapon Strike skill. Doing so requires two uses of the other skill, and will expend both of them. |
 | **Requirement** | Requires the Ranged Weapon skill.                                                                                                                                                                                                                                                                                                                                                        |
 
@@ -863,7 +563,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Stop Thrust**                                                                                                                                                                                                  |
 |:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                       |
-| **Incant**      | “Physical Stop Thrust”                                                                                                                                                                                           |
+| **Call**      | “Physical Stop Thrust”                                                                                                                                                                                           |
 | **Description** | This is a melee weapon only strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a STOP THRUST effect. |
 | **Requirement** | Requires Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon skill.                                                                                                                                  |
 
@@ -871,7 +571,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Sunder Armor**                                                                                                                                                                                                          |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                                                                                                   |
-| **Incant**      | “Physical Sunder Armor”                                                                                                                                                                                                   |
+| **Call**      | “Physical Sunder Armor”                                                                                                                                                                                                   |
 | **Description** | This is a Ranged Weapon or Two-Handed Weapon only strike that instantly reduces the target’s armor pool to 0 and destroys the armor that is worn by the target. This skill is expended on use.  This is a DESTROY effect. |
 | **Requirement** | Requires the Two-Handed or Ranged Weapon skill and the Critical Strike III skill.                                                                                                                                         |
 
@@ -879,7 +579,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Sunder Shield**                                                                                                                                                                                                                                                                    |
 |:----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                                                                                                                                                              |
-| **Incant**      | “Physical Sunder Shield”                                                                                                                                                                                                                                                             |
+| **Call**        | “Physical Sunder Shield”                                                                                                                                                                                                                                                             |
 | **Description** | This is a Ranged Weapon or Two-Handed Weapon only strike that instantly destroys the target’s shield. This skill is expended on use. This skill still follows the usual physical strike rules requiring striking the target’s body and not being blocked.  This is a DESTROY effect. |
 | **Requirement** | Requires the Two-Handed or Ranged Weapon skill and the Critical Strike V skill.                                                                                                                                                                                                      |
 
@@ -887,7 +587,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Sunder Weapon**                                                                                                                                                                                                                                                   |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                                                                                                                                             |
-| **Incant**      | “Physical Sunder Weapon”                                                                                                                                                                                                                                            |
+| **Call**      | “Physical Sunder Weapon”                                                                                                                                                                                                                                            |
 | **Description** | This is a Two-Handed Weapon only strike that instantly destroys the target’s weapon. This skill is expended on use. This skill still follows the usual physical strike rules requiring striking the target’s body and not being blocked.  This is a DESTROY effect. |
 | **Requirement** | Requires the Two-Handed Weapon skill and the Critical Strike VII skill.                                                                                                                                                                                             |
 
@@ -895,7 +595,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Throat Punch**                                                                                                                                                                                                                                                                                                                                                                     |
 |:----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                           |
-| **Incant**      | “Physical Silence”                                                                                                                                                                                                                                                                                                                                                                   |
+| **Call**      | “Physical Silence”                                                                                                                                                                                                                                                                                                                                                                   |
 | **Description** | This is an Unarmed Combat only strike that will silence an opponent for 20 seconds. A silenced opponent may not speak in game, but may still make game system calls that are not in game speech. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a SILENCE effect. |
 | **Requirement** | Requires the Unarmed Combat skill.                                                                                                                                                                                                                                                                                                                                                   |
 
@@ -903,7 +603,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Trip**                                                                                                                                                                                                                                                                                                                                                 |
 |:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                               |
-| **Incant**      | “Incant”                                                                                                                                                                                                                                                                                                                                                 |
+| **Call**      | “Physical Kneel”                                                                                                                                                                                                                                                                                                                                         |
 | **Description** | This skill is an Unarmed Combat only strike that forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a KNEEL effect. |
 | **Requirement** | Requires the Unarmed Combat skill.                                                                                                                                                                                                                                                                                                                       |
 
@@ -911,7 +611,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Vital Blow**                                                                                                                                                                                                                                                                                                                                                                                                            |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Incant**      | “30 [Type] Vital”                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Call**      | “30 [Type] Vital”                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Description** | This is a Two-Handed Weapon or Ranged Weapon only strike that does 30 points of Vital &lt;type> damage. Vital damage cannot be blocked by weapons or shields. Vital Blow's damage can be increased using Critical Strikes, but is not modified by Weapon Proficiencies or any other source. The target of a Vital Blow must still be able to be affected by the type of damage being done. This skill is expended on use. |
 | **Requirement** | Requires either the Two-Handed or Ranged Weapon skill, and the Slay skill.                                                                                                                                                                                                                                                                                                                                                |
 
@@ -919,7 +619,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Volley**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |:----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Incant**      | “N/A”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Call**      | “N/A”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Description** | This is a Ranged Weapon only skill that allows the character to throw three consecutive projectiles that cannot be blocked by weapons or shields. This skill can be combined with a Critical Strike. The character takes their base damage, potentially combined with their crit strike, and can throw three instances of that total value divided in half, rounded down, as Vital. Only one Critical Strike is consumed for the full Volley. If any of the three shots are interrupted, or the user uses a different skill, Volley ends and any remaining shots are lost.  This skill is expended on use. <br/>Ex: Base Value of 5, Using Crit Strike VII, “20 Normal Vital, 20 Normal Vital, 20 Normal Vital” |
 | **Requirement** | Requires the Ranged Weapon and Critical Strike V skills.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
@@ -927,7 +627,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | Strike          | **Waylay**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Incant**      | “Physical Waylay”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Call**      | “Physical Waylay”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Description** | This skill is an Unarmed Combat and Short Weapon only strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character’s weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying “Refresh Waylay”. This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed. This skill is expended on use.  This is a SLEEP effect. |
 | **Requirement** | Requires the Unarmed Combat or Short Weapon skill.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
