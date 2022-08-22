@@ -34,11 +34,11 @@ Current Members:
 ---
 Filenames are prefixed with a number that is used to keep the ruleset in order and allow for easy insertion of new sections.
 ```
-##-camelCaseName.md
+##_document-name.md
 ```
 Example:
 ```
-01-introduction.md
+02-check-in.md
 ```
 
 ## Rule Doc Formatting Guidelines
