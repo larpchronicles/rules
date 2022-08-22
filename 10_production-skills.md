@@ -191,7 +191,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 #### Heal Wounds Toxin
    >This is a small globe filled with a healing toxin. The character will throw a packet to indicate throwing a globe at the target. This globe explodes, covering the target with the toxins that immediately begin to heal their wounds. The call for this is “Toxin Heal Wounds 5”
 #### Drowsy Coating
-   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Sleep” at the end. Ex: “5 Poison Sleep” This coating will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This lasts until used or until you complete a rest. A weapon can only have one coating applied at a time. \
+   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Sleep” at the end. Ex: “5 Poison Sleep” This coating will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This lasts until used or until you complete a rest. A weapon can only have one coating applied at a time.
 
 
 ### Rank VII
