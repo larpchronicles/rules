@@ -38,17 +38,17 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ---
 
-| Level | Arcane                                                                                            | Spirit                                                                                                     | Nature                                                                                        | 
-|-------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| I     | Blinding Light<br>Glowing Light<br>Mana Bolt                                                      | Turn Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
-| II    | Disrupt Aether<br>Halt<br>Identify Magic<br>Magic Missile                     | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear           | Entangle Foot<br>Deathbane Weapon                                          | 
-| III   | Channeled Destruction<br>Limited Time Stop<br>Reality Anchor                                      | Animate Dead<br>Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                          | Boon of the Armadillo<br>Boon of Nature<br>Boon of the Tiger<br>Freedom                       | 
-| IV    | Conjure Weapon<br>Magic Missile<br>Reality Shift†<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Rot Limb<br>Solidify Undead<br>Toxin Shield                                                   | Barkskin<br>Entangle Arms<br>Command: Kneel<br>Command: Stun                                              |
-| V     | Enchanted Blade<br>Entrapment<br>Conjure Shield                                                   | Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                      | <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome†                         |
-| VI    | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Personal Dimension†                        | Dull Pain<br>Destroy Undead <br>Fear                                                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                                         | 
-| VII   | Dimensional Lock<br>Haste                                                  | Absolution<br>Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                 | Command: Confused<br>Foebane Weapon<br>Hold: Enemy                      | 
-| VIII  | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Pocket Dimension<br>Spell Mirror       | Limited Phylactery†<br>Restore Body<br>Repair Undead                                                       | Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin                              |
-| IX    | Circle of Power<br>Dispel Magic<br>Doom<br>Focused Destruction                                    | Create Undead<br>Death<br>Dispel Magic<br>Life<br>Resurrection                                             | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other                 | 
+| Level | Arcane | Spirit| Nature | 
+|---|---|---|---|
+| I     | Blinding Light<br>Glowing Light<br>Mana Bolt | Turn Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
+| II    | Disrupt Aether<br>Halt<br>Identify Magic<br>Magic Missile| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear| Entangle Foot| 
+| III   | Channeled Destruction<br>Limited Time Stop<br>Reality Anchor| Animate Dead<br>Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue | Boon of the Armadillo<br>Boon of Nature<br>Boon of the Tiger<br>Freedom | 
+| IV    | Conjure Weapon<br>Magic Missile<br>Reality Shift†<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Rot Limb<br>Solidify Undead<br>Toxin Shield| Barkskin<br>Entangle Arms<br>Command: Kneel<br>Command: Stun|
+| V     | Enchanted Blade<br>Entrapment<br>Conjure Shield| Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify| <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome†|
+| VI    | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Personal Dimension†| Dull Pain<br>Destroy Undead <br>Fear| Boon of the Forest<br>Command: Sleep<br>Entangle Body| 
+| VII   | Dimensional Lock<br>Focused Destruction<br>Haste| Absolution<br>Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch| Command: Confused<br>Hold: Enemy| 
+| VIII  | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Pocket Dimension<br>Spell Mirror| Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin|
+| IX    | Circle of Power<br>Dispel Magic<br>Doom| Create Undead<br>Death<br>Dispel Magic<br>Life<br>Resurrection| Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other| 
 
 
 
@@ -244,6 +244,14 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | "I conjure a dimension lock." |
 | **Description** |  This spell prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Tree Stride, and Rune of Recall.  This is a TELEPORT BLOCK effect. |
 
+#### **Focused Destruction**
+| **Spell**            | **Focused Destruction** |
+|      :---        |       :---         |
+| **Duration**     | Instant |
+| **Incant**     | "With arcane forces, I destroy your &lt;item>." |
+| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches.  This is a DESTROY effect. |
+
+
 #### **Haste**
 | **Spell**            | **Haste** |
 |      :---        |       :---         |
@@ -255,11 +263,11 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 ### Arcane Rank VIII
 
 #### **Blur Image†**
-| **Spell**            | **Blur Image†** |
+| **Spell**            | **Blur Image†**|
 |      :---        |       :---         |
 | **Duration**     | Rest |
-| **Incant**     | "With arcane forces, I blur my image." |
-| **Description** |  This spell will allow the character to resist a single spell, physical, or toxin attack or effect once. This spell is expended upon use. The player will respond with "Resist". A character cannot have more than one instance of this spell active at a time.  This is a RESIST effect. |
+| **Incant**     | "With arcane forces, I blur my image."|
+| **Description** | This spell will allow the character to resist a single Spell, Physical, or Toxin attack or effect once. This spell is expended upon use. The player will respond with "Resist". A character cannot have more than one instance of this spell active at a time.  This is a RESIST effect. |
 
 #### **Destruction Ward**
 | **Spell**            | **Destruction Ward** |
@@ -311,13 +319,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | Instant |
 | **Incant**     | "I set your Doom upon you." |
 | **Description** |  This spell immediately reduces the target’s body to -1, armor pools to 0, and they immediately begin Bleeding Out.  This is a DOOM effect. |
-
-#### **Focused Destruction**
-| **Spell**            | **Focused Destruction** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "With arcane forces, I destroy your &lt;item>." |
-| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches.  This is a DESTROY effect. |
 
 
 ## Spirit
@@ -688,20 +689,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Nature Rank II
 
-#### **Barkskin, Other**
-| **Spell**            | **Barkskin, Other** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | "By the flora, I grant you barkskin." |
-| **Description** |  This spell grants a target other than the caster a single resist physical. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
-
-#### **Deathbane Weapon†**
-| **Spell**            | **Deathbane Weapon†** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | "By nature, I create a Deathbane Weapon." |
-| **Description** |  This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add Magic damage to the weapon, fists, or claws for the duration of the spell.  This is an AURA effect. |
-
 #### **Entangle Foot**
 | **Spell**            | **Entangle Foot** |
 |      :---        |       :---         |
@@ -834,13 +821,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | *Duration**: | 20 seconds |
 | **Incant**     | "By nature, I command you to be confused." |
 | **Description** |  This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect |
-
-#### **Foebane Weapon†**
-| **Spell**            | **Foebane Weapon†** |
-|      :---        |       :---         |
-| **Duration**     | 20 seconds |
-| **Incant**     | "By nature, I create a Foebane against &lt;creature>." |
-| **Description** |  This spell coats the caster’s weapons, fists, or claws in the vital blood of the caster, turning the weapons, fists, or claws into a magically blessed weapons, fists, or claws that will add +5 base weapon damage to the damage of the weapon, fists, or claws for the duration of the spell. This damage is only effective against the type of creature named by the caster. The weapon will do no damage against any other type of creature until the duration expires.  This is a FOEBANE effect. |
 
 #### **Hold: Enemy**
 | **Spell**            | **Hold: Enemy** |
