@@ -14,6 +14,7 @@
 ## Production
 <u>Alchemy</u>
 * Webbing Dart/Toxin removed.
+* Changed Draining Coating to Weakness Coating.
 
 <u>Smithing</u>
 * Bola Projectile changed to Bola, which is a packet-delivered item that may be used by anyone.

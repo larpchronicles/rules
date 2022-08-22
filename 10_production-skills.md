@@ -181,7 +181,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
    >This substance coats a weapon in a silver infused oil for the next 5 minutes. During that time, the weapon will do silver type damage instead of its usual type. Applying the oil takes 5 seconds. Example: “5 silver”.
 #### Blinding Toxin
    >This is a small globe with a light-creating toxin. The character will throw a packet to indicate throwing a globe at the target. This globe will explode in a flash, causing the target to suffer from blindness for the next 20 seconds. The attack call for this is “Toxin Blindness”.
-#### Draining Coating
+#### Weakness Coating
    >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Weakness” at the end. Ex: “5 Poison Weakness” A target affected by this has their total weapon damage reduced to half of their normal maximum for 20 seconds.This lasts until used or until you complete a long rest. A weapon can only have one coating applied at a time.
 
 ### Rank VI
