@@ -50,10 +50,10 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
 * You may drive up to the cabins if the ground is dry.  Please avoid damaging the grounds as much as possible.
 * Once you have unloaded your vehicle, please immediately move it to the parking lot.
 
-### Camp Loud Thunder
-* Do not stop on the roads or drive up to any cabins.  Camp Staff have stated that all belongings must be moved from the parking lot to your cabin.
-* Camp Masters with carts will be present to provide assistance to anyone that would like it.
-    * If you need assistance and you are unable to locate a Camp Master, please drop by NPC Camp / Logistics and let Chronicles Staff know so that we can get help for you.
+### Camp Illinek
+* Vehicles are restricted to paved or gravel roads and may not be left unattended unless in a parking lot.  Do not drive on the grass or into campsite areas unless instructed to do so by a Camp Caretaker.
+* During checkout, after packing up, please help clean and sanitize surfaces, bathrooms, and common areas.  Please take all trash to the dumpsters.
+
     
 ## Cabins
 
@@ -70,15 +70,10 @@ There are no assigned cabins, but there is a requirement that you allow others t
 * Silver Tomahawk is for Plot Team and Full-Time NPCs only, but may be used if all other areas are full.
 * Tenting is allowed if preferred.
 
-### Camp Loud Thunder
-* The Lodge sleeps up to forty people.
-* Pyesa Cabin and Thunder Cabin are reserved for Plot Team, Full-Time NPCs, and mods.  If the Lodge is full, Pyesa Cabin may be used.
-* Tenting is not allowed in the areas we have rented.
-
-### Off-Site Sleeping Options
-* There are not any nearby hotels to Camp Eastman.
-* There is one nearby hotel to Loud Thunder.
-
+### Camp Illinek
+* CampMaster Lodge has eight twin beds.
+* The Sailing Center has sixteen bunk beds and four twin beds.
+* There is space to set up a cot, air mattress, or sleeping mat.  As the number of beds is limited, if you have a cot, mattress, or mat available, it is suggested to bring it.
 
 ## Headband Rules
 
@@ -136,8 +131,6 @@ Smoking in the cabins is prohibited.  You must field strip your cigarettes.  If 
 
 Do not bash specific groups or people.  It is okay to complain about circumstances and events without being specific.
 
-Camp Loud Thunder:  Do not disturb any non-Chronicles campers.  If approached, be respectful and direct them to Plot Team or Staff.
-
 
 ## COVID Precautions
 
@@ -152,3 +145,15 @@ Face masks are welcome.  NPC Camp/Logistics will have N95 and KN95 masks availab
 Currently, we are requiring a negative COVID test result in order to participate in the event.  Tests may be taken as early as two days prior to the event.  NPC Camp/Logistics will have some tests available during check in, however it is strongly suggested that you test prior to driving out.
 
 COVID Resources, How to get Tests, and Test Submission info can be found here: http://larpchronicles.com/covid
+
+## Disciplinary Rules
+
+---
+While we never hope this to be the case, if anyone is breaking Chronicles rules, the Code of Conduct, violating the rules of the rental site, or causing problems and/or disruptions to the event, they will be subject to an escalating response from Plot and Staff.  Certain violations may warrant an immediate Red Card.
+
+* Verbal Warning.
+* Yellow Card.
+  * Character's skills are reduced for an hour.
+* Red Card. 
+  * Player may have their weapons taken for the duration of the event.
+  * Player may be escorted to the parking lot and asked to leave.
