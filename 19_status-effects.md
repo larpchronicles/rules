@@ -17,23 +17,35 @@ Dispel Magic and Nullify Spell work on all effects with a magical source unless 
 ---
 If a term is denoted as visible, it is something you are permitted to respond with if a player asks “What do I see?”
 
-## Curse of Transformation
+## Effect Clarifications
+
 
 ---
-* Curse of Transformation (COT) makes the target immune to COT, meaning the effect does not stack.
-* There are three types of COT:  Ones that go away on death, ones that go away on resurrection, and ones that go away only with ritual.  All COTs may be removed by ritual.
->Examples:
->
->If you are CoT into a skeleton (think like a Greater version of Create Undead), that'll probably go away on death.
->
->If you are CoT into a Vampire, that might go away on Resurrection.
->
->If you are CoT into a Plot device, that might require a ritual.
+### Curse of Transformation
+* Curse of Transformation (CoT) makes the target immune to CoT, meaning the effect does not stack.
+* Any character or NPC created by CoT is not capable of inflicting CoT on another character.  The only time this is not true is for very specific and limited plot reasons.
+* There are three types of CoT:  Ones that go away on death, ones that go away on resurrection, and ones that go away only with ritual.  All COTs may be removed by ritual.
+  * If you are CoT into a skeleton (think like a Greater version of Create Undead), that'll probably go away on death.
+  * If you are CoT into a Vampire, that might go away on Resurrection.
+  * If you are CoT into a Plot device, that might require a ritual.
 
-## Skillless Clarification
+### Entrapment Clarification
+The Entrapment spell allows a caster the chance to capture the spirit of a target.  Entrapment works on ANY creature that matches the following:
+* Must have human-like intelligence.
+* Must be alive.
+* Must have a spirit that is **NOT** protected by a SPIRIT BOTTLE effect.
+* Must not crumble at 0 hp/body.
 
----
+### Metabolism Clarification
+>Pending.
+
+### Shattering & Destroying
+Shattering or destroying containers that contain things does NOT affect the items within it.
+
+### Skillless Clarification
 Skilless refers to any abilities purchased with Skill Points.  You do not lose any Armor or Health Points gained from purchased skills.
+
+
 
 
 ## Status Effects

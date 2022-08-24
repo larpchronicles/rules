@@ -162,8 +162,6 @@ Once applied, the coating will last until it is used or the wielder rests, which
 
 ### Rank IV
 
-#### Webbing Toxin
-   >This is a small globe filled with a sticky toxin. The character will throw a packet to indicate throwing a globe at the target. This globe will explode on successful impact, covering the character in a sticky substance that holds the character in place from the neck down for the next 20 seconds. This webbing is able to cut and free the character if 5 seconds are spent doing so. The attack call for this is “Toxin Web”.
 #### Lock Oil
    >This is a mixture that will weaken a lock once this substance is applied to it. The alchemist applies the substance and says “Lock Oil.” to let the marshal know that the substance has been applied to the lock. The lock rating will be weakened by three ranks. Locks cannot have their rating weakened to below 1. This mixture can only be applied to a lock once.
 #### Lock Tar
@@ -183,7 +181,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
    >This substance coats a weapon in a silver infused oil for the next 5 minutes. During that time, the weapon will do silver type damage instead of its usual type. Applying the oil takes 5 seconds. Example: “5 silver”.
 #### Blinding Toxin
    >This is a small globe with a light-creating toxin. The character will throw a packet to indicate throwing a globe at the target. This globe will explode in a flash, causing the target to suffer from blindness for the next 20 seconds. The attack call for this is “Toxin Blindness”.
-#### Draining Coating
+#### Weakness Coating
    >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Weakness” at the end. Ex: “5 Poison Weakness” A target affected by this has their total weapon damage reduced to half of their normal maximum for 20 seconds.This lasts until used or until you complete a long rest. A weapon can only have one coating applied at a time.
 
 ### Rank VI
@@ -193,7 +191,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 #### Heal Wounds Toxin
    >This is a small globe filled with a healing toxin. The character will throw a packet to indicate throwing a globe at the target. This globe explodes, covering the target with the toxins that immediately begin to heal their wounds. The call for this is “Toxin Heal Wounds 5”
 #### Drowsy Coating
-   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Sleep” at the end. Ex: “5 Poison Sleep” This coating will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This lasts until used or until you complete a rest. A weapon can only have one coating applied at a time. \
+   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Sleep” at the end. Ex: “5 Poison Sleep” This coating will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This lasts until used or until you complete a rest. A weapon can only have one coating applied at a time.
 
 
 ### Rank VII
@@ -258,8 +256,8 @@ Once applied, the coating will last until it is used or the wielder rests, which
 
 #### Fine Short Weapon
    >This creates a finely made Short Weapon that has a base damage of 1, with 5 Durability.
-#### Bola Projectile
-   >This creates an arrow, bolt, or throwing weapon that forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this item may not be stacked or extended.  This spell is a KNEEL effect.<br/>      Call: “Physical Kneel”
+#### Bola
+   >This creates an item made of three stones or weights attached to interconnected cords that may be used by anyone.  The character will throw a packet to indicate throwing the bola at the target.  On successful impact, this item forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this item may not be stacked or extended.  This spell is a KNEEL effect.<br/>      Call: “Physical Kneel”
 #### Weak Hardening
    >This will harden a weapon, shield, armor or magic item to Resist Destruction once. Hardening may only be done once on an item.
 
@@ -373,7 +371,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 #### Trap Disarming Kit
    >This is a crudely made item for use with the Disarm Trap skill. These tools allow the character to attempt to disarm a set trap. Trap Disarming Kits have 10 charges.
 #### Explosive Grenade
-   >This is a basic hand grenade that will do 5 points of physical damage to the target. The character must act out pulling a pin from the grenade before saying “5  Normal Flame”, and throwing the grenade. The grenade must strike the target on the body, legs, or arms in order to be a successful attack. Grenades are destroyed once used.
+   >This is a basic hand grenade that will do 10 points of physical damage to the target. The character must act out pulling a pin from the grenade before saying “10  Normal Flame”, and throwing the grenade. The grenade must strike the target on the body, legs, or arms in order to be a successful attack. Grenades are destroyed once used.
 #### First Aid Kit
    >This item allows the character skilled in First Aid to provide emergency aid faster. If the character has a First Aid Kit on them, the time it takes to First Aid is halved. This item has 10 uses before it is destroyed.
 

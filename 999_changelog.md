@@ -1,7 +1,36 @@
 # Changelog
 
+## v2.5 - [2022-08-28]
+
+---
+## Magic
+<u>Arcane</u>
+* Focused Destruction moved to Rank 7 from Rank 9.
+
+<u>Nature</u>
+* Deathbane removed.
+* Foebane removed.
+
+## Production
+<u>Alchemy</u>
+* Webbing Dart/Toxin removed.
+* Changed Draining Coating to Weakness Coating.
+
+<u>Smithing</u>
+* Bola Projectile changed to Bola, which is a packet-delivered item that may be used by anyone.
+
+<u>Tinkering</u>
+* Explosive Grenades damage increased from 5 to 10.
+
+## Status Effects
+* Clarification added for what it means to have a metabolism or not and what can affect a being without a metabolism.
+* Clarification added for Curse of Transformation beings being able to also apply Curse of Transformation.
+* Clarification added for shattering/destroying containers.
+* Clarification added for the basic requirements for Entrapment to result in a Spirit Gem.
+
 ## v2.4 - [2022-08-07]
 
+---
 ### Production
 <u>Alchemy</u>
 * Removal of “alcohol” items. Spicy Beverage, Pink Elephant Cocktail, Look Out Rum!
