@@ -1,5 +1,5 @@
 # Templar Spellstrikes Playtest
-
+As a playtest, a player may choose at checkin to use these rules instead of the standard Templar rules and costs for spells. 
 
 ## Purpose
 This document is a proposal to allow Templars to **only** spellstrike their spells.
