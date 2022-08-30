@@ -3,6 +3,15 @@
 ## v2.5 - [2022-08-28]
 
 ---
+## Class: Templar
+* New playtest of Spellstrike Templars.
+
+## Combat
+* For any Resist that can be used for more than one type, the call is now Dodge.  This affects the following:
+  * Blur Image
+  * Boon of the Rabbit
+  * Dodge
+
 ## Magic
 <u>Arcane</u>
 * Focused Destruction moved to Rank 7 from Rank 9.
@@ -10,14 +19,22 @@
 <u>Nature</u>
 * Deathbane removed.
 * Foebane removed.
+* Boon of Nature moved to Rank 2.
+* New spell:  Plant Spike
 
 ## Production
 <u>Alchemy</u>
 * Webbing Dart/Toxin removed.
 * Changed Draining Coating to Weakness Coating.
 
+<u>Artificing</u>
+* Endless Quiver removed.
+
 <u>Smithing</u>
 * Bola Projectile changed to Bola, which is a packet-delivered item that may be used by anyone.
+  <u>Smithing</u>
+* Ranged Ammunition removed.
+* New Rank I recipe added:  Quiver.
 
 <u>Tinkering</u>
 * Explosive Grenades damage increased from 5 to 10.
@@ -27,6 +44,8 @@
 * Clarification added for Curse of Transformation beings being able to also apply Curse of Transformation.
 * Clarification added for shattering/destroying containers.
 * Clarification added for the basic requirements for Entrapment to result in a Spirit Gem.
+* Added DODGE effect with a call of "Dodge".  Used for any ability that allows the user to resist more than one type.
+
 
 ## v2.4 - [2022-08-07]
 
@@ -53,9 +72,12 @@
 
 <u>Smithing</u>
 * Bola Projectile is now a KNEEL effect.
+* Ranged Ammunition removed.
+* New Rank I recipe added:  Quiver.
 
 <u>Artificing</u>
 * Titan’s Iron Boots removed.  Will be replaced in next version.
+* Endless Quiver removed.
 
 <u>Wood Carving</u>
 * Wood Carving renamed to Logging.

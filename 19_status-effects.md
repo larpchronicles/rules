@@ -46,8 +46,6 @@ Shattering or destroying containers that contain things does NOT affect the item
 Skilless refers to any abilities purchased with Skill Points.  You do not lose any Armor or Health Points gained from purchased skills.
 
 
-
-
 ## Status Effects
 
 ---
@@ -76,6 +74,7 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 | DECIMATE                | Target takes DEAD status upon receiving this effect.  If target dissipates and resurrects, target incurs double Strain. (4 Total)                                                                                                                                                                                                   |                 (Type) Decimate                 |       No       |
 | DESTROY                 | Target is destroyed after x time.                                                                                                                                                                                                                                                                                                   |                Varies by source.                |      Yes       |
 | DISARM                  | Target must drop any x item for x time.                                                                                                                                                                                                                                                                                             |                Varies by source.                |      Yes       |
+| DODGE                   | Ability user may resist more than one type of effect, and so dodges it.                                                                                                                                                                                                                                                             |                      Dodge                      |       No       |
 | DOOM                    | Target is reduced to -1 HP/body.                                                                                                                                                                                                                                                                                                    |                Varies by source.                |       No       |
 | DOUBLE DAMAGE           | Ability user does double damage for x type.                                                                                                                                                                                                                                                                                         |                   Harm Double                   | Not Applicable |
 | DRAINED                 | Target is skilless.                                                                                                                                                                                                                                                                                                                 |                  (Type) Drain                   |       No       |

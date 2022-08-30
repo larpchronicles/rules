@@ -1,4 +1,4 @@
-# LARP Chronicles Ruleset v2.4
+# LARP Chronicles Ruleset v2.5
 
 ## Chronicles Staff
 
@@ -12,14 +12,14 @@
 ---
 * Justin Doyle
 * Tim Draher
-* Bryan Strahm
+* Bryan Strahm - On paternity leave.
 * Ryan Sanders
 
 ## Rules Committee
 
 ---
 Current Members:
-* Bryan Strahm
+* Bryan Strahm - On paternity leave.
 * James Mullen
 * Jessica Niblick
 * Jon Batchelor
