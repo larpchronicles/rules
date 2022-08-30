@@ -32,9 +32,9 @@ instead of ```Spellstrike I grant you the gift of Death.```
 ### Ability Costs
 Overall, Spellstrikes represent a net increase in power level _vis a vis_ packet-delivered spells. While less versatile, the lack of utility is easily made up by the nearly guaranteed chance that the caster will not miss with the spell.
 
-To balance this, Templars should pay a greatly increased Skill Point cost for Mana Points. Currently, the cost for the Primary Attunment skill for Templars is `6+1`. Under this proposal, that cost is doubled to `8+2`.
+To balance this, Templars should pay a greatly increased Skill Point cost for Mana Points. Currently, the cost for the Primary Attunment skill for Templars is `6+1`. Under this proposal, that cost is increased to `8+2`.
 
-This means that a Templar will have about half as many Mana Points as a Mage spending the same amount of Skill Points
+This means that a Templar will have roughly half as many Mana Points under this playtest as they would have previously.
 
 
 | Attunement Cost      | T   |  Prereqs      |
