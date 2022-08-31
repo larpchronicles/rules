@@ -871,7 +871,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 #### Dodge
 
->This skill allows the character to Resist Physical, Spell or Toxin once for each time that this skill is purchased. The character may choose which type of resist to use at the time of use. This skill is expended on use.  This is a RESIST effect.<br/>Call: “Resist”<br/>Requires the Murder skill and the Short Weapon skill.
+>This skill allows the character to Resist Physical, Spell or Toxin once for each time that this skill is purchased. The character may choose which type of resist to use at the time of use. This skill is expended on use.  This is a DODGE effect.<br/>Call: “Dodge”<br/>Requires the Murder skill and the Short Weapon skill.
 
 #### Endurance
 

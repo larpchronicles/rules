@@ -236,8 +236,8 @@ Once applied, the coating will last until it is used or the wielder rests, which
 
 ### Rank I
 
-#### Ranged Ammunition
-   >This creates 20 uses of arrow, or bolts for use with the Ranged Weapon skill. Each use of the ranged weapon consumes a single use of the ammunition, unless otherwise noted in certain skills.
+#### Quiver
+   >This creates a quiver of ranged ammunition for use with the Ranged Weapon skill.  A quiver has 5 Durability.
 #### Netted Projectile
    >This creates an arrow, bolt, or throwing weapon that prevents the target from moving at a faster movement rate than a walk. This effect does not stack with itself, and further applications on an already slowed target will not renew the duration. Call: “Physical Slow”
 #### Chain Bindings
@@ -280,8 +280,6 @@ Once applied, the coating will last until it is used or the wielder rests, which
    >With this skill the blacksmith can carefully silver plate a weapon in order for the weapon to do to the silver damage type.
 #### Whetstone
    >A user can spend one minute of careful sharpening using this tool to improve a single weapon’s base damage by 1 until their next rest. This item does not work on Unarmed or Ranged Weapons. This item is consumed on use.
-#### Endless Quiver
-   >This creates a Quiver with a seemingly endless amount of ammunition for ranged weapons. It requires 5 sets of Ranged Ammunition to make, in addition to the regular materials. Once this quiver is opened for the first time, the user may continue to draw ranged ammunition from it for a full game day before it finally expires. This item is consumed on use.
 
 ### Rank VI
 

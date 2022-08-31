@@ -38,11 +38,11 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ---
 
-| Level | Arcane | Spirit| Nature | 
-|---|---|---|---|
+| Level | Arcane | Spirit| Nature                                                                      | 
+|---|---|---|-----------------------------------------------------------------------------|
 | I     | Blinding Light<br>Glowing Light<br>Mana Bolt | Turn Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
-| II    | Disrupt Aether<br>Halt<br>Identify Magic<br>Magic Missile| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear| Entangle Foot| 
-| III   | Channeled Destruction<br>Limited Time Stop<br>Reality Anchor| Animate Dead<br>Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue | Boon of the Armadillo<br>Boon of Nature<br>Boon of the Tiger<br>Freedom | 
+| II    | Disrupt Aether<br>Halt<br>Identify Magic<br>Magic Missile| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear| Boon of Nature<br>Entangle Foot<br>Plant Spike| 
+| III   | Channeled Destruction<br>Limited Time Stop<br>Reality Anchor| Animate Dead<br>Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom| 
 | IV    | Conjure Weapon<br>Magic Missile<br>Reality Shift†<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Rot Limb<br>Solidify Undead<br>Toxin Shield| Barkskin<br>Entangle Arms<br>Command: Kneel<br>Command: Stun|
 | V     | Enchanted Blade<br>Entrapment<br>Conjure Shield| Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify| <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome†|
 | VI    | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Personal Dimension†| Dull Pain<br>Destroy Undead <br>Fear| Boon of the Forest<br>Command: Sleep<br>Entangle Body| 
@@ -267,7 +267,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | "With arcane forces, I blur my image."|
-| **Description** | This spell will allow the character to resist a single Spell, Physical, or Toxin attack or effect once. This spell is expended upon use. The player will respond with "Resist". A character cannot have more than one instance of this spell active at a time.  This is a RESIST effect. |
+| **Description** | This spell will allow the character to resist a single Spell, Physical, or Toxin attack or effect once. This spell is expended upon use. The player will respond with "Dodge". A character cannot have more than one instance of this spell active at a time.  This is a DODGE effect. |
 
 #### **Destruction Ward**
 | **Spell**            | **Destruction Ward** |
@@ -689,12 +689,26 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Nature Rank II
 
+#### **Boon of Nature**
+| **Spell**            | **Boon of Nature** |
+|      :---        |       :---         |
+| **Duration**     | 1 minute |
+| **Incant**     | "By nature, I bless this nourishment." |
+| **Description** |  This spell will enchant one serving of food or one serving of potable fluid for consumption. If the nourishment is consumed within the duration of the enchantment the substance will heal the consumer for 5 health points. |
+
 #### **Entangle Foot**
 | **Spell**            | **Entangle Foot** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | "By the flora, I entangle your foot." |
 | **Description** |  This spell entangles the target’s right foot to the ground. The character is unable to move their foot, except for pivoting on the ball of their foot. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
+
+#### **Plant Spike**
+| **Spell**            | **Plant Spike**|
+|      :---        |       :---         |
+| **Duration**     | Instant|
+| **Incant**     | "By the flora, I throw a plant spike 5."|
+| **Description** | This spell allows the caster to throw a summoned plant spike for 5 damage.|
 
 
 ### Nature Rank III
@@ -705,13 +719,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | 20 seconds |
 | **Incant**     | "By the fauna, I grant you an armadillo's boon." |
 | **Description** |  This spell grants the target limited protection from physical damage. Any physical damage that affects the target is reduced to half effectiveness.  This is a REDUCED DAMAGE effect. |
-
-#### **Boon of Nature**
-| **Spell**            | **Boon of Nature** |
-|      :---        |       :---         |
-| **Duration**     | 1 minute |
-| **Incant**     | "By nature, I bless this nourishment." |
-| **Description** |  This spell will enchant one serving of food or one serving of potable fluid for consumption. If the nourishment is consumed within the duration of the enchantment the substance will heal the consumer for 5 health points. |
 
 #### **Boon of the Tiger**
 | **Spell**            | **Boon of the Tiger** |
@@ -866,7 +873,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | "By the fauna, I grant you a rabbit's boon." |
-| **Description** |  This spell grants the target a single Resist usable against a Spell, Physical, or Toxin effect.This spell is expended upon use. A character may not have more than one Boon of the Rabbit on them at the same time.  This is a RESIST effect. |
+| **Description** |  This spell grants the target a single Resist usable against a Spell, Physical, or Toxin effect. The target will call "Dodge." This spell is expended upon use. A character may not have more than one Boon of the Rabbit on them at the same time.  This is a DODGE effect. |
 
 #### **Dispel Magic**
 | **Spell**            | **Dispel Magic** |
