@@ -707,8 +707,8 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Spell**            | **Plant Spike**|
 |      :---        |       :---         |
 | **Duration**     | Instant|
-| **Incant**     | "By the flora, I throw a spike.  10 Normal"|
-| **Description** | This spell allows the caster to throw a summoned plant spike for 10 Normal.|
+| **Incant**     | "By the flora, I throw a plant spike 5."|
+| **Description** | This spell allows the caster to throw a summoned plant spike for 5 damage.|
 
 
 ### Nature Rank III
