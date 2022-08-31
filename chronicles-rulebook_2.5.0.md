@@ -7,18 +7,15 @@
 
 ## Introduction
 
----
     Pending.
 
 ## Game Setting
 
----
     Pending.
 
 
 ## Common Forms
 
----
 Wondering where you can find a particular sheet or form?  Check the list below, and if there's something missing, please ask!
 
 * [Battle-Board](https://docs.google.com/spreadsheets/d/1sL_EgS2N03sfM_Cq5zxDpj-qu8tDjkWn-YMtQvcH15A/edit?usp=sharing)
@@ -34,7 +31,6 @@ Wondering where you can find a particular sheet or form?  Check the list below, 
 
 ## Check In Procedure
 
----
 Camp opens at 1700 Central (5pm).  Check In commonly includes the following:
 
 * Confirmation of a signed Code of Conduct.
@@ -57,7 +53,6 @@ Camp opens at 1700 Central (5pm).  Check In commonly includes the following:
 
 ## Event Fees & Meal Tickets
 
----
 Our event fee is $25.00 per event day.  Two day events are $50.00 and three day events are $75.00.
 
 >If you bring a new player, you will both receive $25 off your event fee.  If you bring more than one new person, this discount will apply to your future event fees.
@@ -76,7 +71,6 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
     
 ## Camp Site Rules During Check In
 
----
 ### Camp Eastman
 * You may drive on any of the gravel roads, but please do not block them in case someone needs to get past where you stopped.
 * You may drive up to the cabins if the ground is dry.  Please avoid damaging the grounds as much as possible.
@@ -89,7 +83,6 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
     
 ## Cabins
 
----
 There are no assigned cabins, but there is a requirement that you allow others to bunk in your cabin if there is space and other areas are not available.
 
 ### Camp Eastman
@@ -109,7 +102,6 @@ There are no assigned cabins, but there is a requirement that you allow others t
 
 ## Headband Rules
 
----
 ### Orange Headbands - Non Combatants & Pages
 Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.  Pages may not use combat skills, weapons, or throw packets.
 
@@ -125,7 +117,6 @@ When your character dies and your dying count has expired, after dropping all in
 
 ## Hold & Medic Calls
 
----
 If you hear anyone call "Hold" or "Medic" you must immediately stop all activity, movement, and be silent unless directed otherwise.  If you are physically able to, drop to one knee.  **These calls indicate an Out of Game emergency.**
 
 Only the persons who have been identified as a Medic by the Plot Team or Staff should respond to the call of "Medic."  A Medic is an individual with CPR and/or First Aid certification or has a license to practice medicine.
@@ -135,7 +126,6 @@ Please do not call "Hold" or "Medic" unless you or someone else is injured in re
 
 ## In Game vs. Out of Game Areas & Combat
 
----
 Out of Game Areas are areas that you are not permitted to engage in combat in.  You may not chase PCs or NPCs into these areas nor use these areas to hide from In Game events, NPCs, etc.
 
 Bathrooms, showers, and Logistics/NPC Camp are considered Out of Game Areas.
@@ -152,7 +142,6 @@ Unless otherwise noted by the Plot Team or Staff, all other areas are considered
 
 ## General Etiquette
 
----
 Help ensure we can return to these sites for future events by being respectful of the facilities and cleaning up after yourself.  If you notice a problem anywhere in the facility, please alert a member of the Plot Team or Staff immediately.
 
 Pick up packets at the end of each fight or mod.  If they are wet, torn, or damaged, please throw them away.
@@ -166,7 +155,6 @@ Do not bash specific groups or people.  It is okay to complain about circumstanc
 
 ## COVID Precautions
 
----
 We follow guidelines from the CDC and the state of Illinois.  Please get your vaccinations.  If you feel sick, stay home.
 
 Face masks are welcome.  NPC Camp/Logistics will have N95 and KN95 masks available at check in.
@@ -180,7 +168,6 @@ COVID Resources, How to get Tests, and Test Submission info can be found here: h
 
 ## Disciplinary Rules
 
----
 While we never hope this to be the case, if anyone is breaking Chronicles rules, the Code of Conduct, violating the rules of the rental site, or causing problems and/or disruptions to the event, they will be subject to an escalating response from Plot and Staff.  Certain violations may warrant an immediate Red Card.
 
 * Verbal Warning.
@@ -193,7 +180,6 @@ While we never hope this to be the case, if anyone is breaking Chronicles rules,
 # Races
 
 ## Brood
----
 **Physical Description**:
 
 Brood may appear with iridescent brown complexions with varied color markings, carapaces, and large claws.
@@ -232,7 +218,6 @@ Overall, other races regard the Brood as a terrifying race capable of great dest
 
 ## Dwarf
 
----
 **Physical Description**:
 
 Dwarves appear with complexions ranging from pale to ebony and are commonly recognized by their full-beards and great, bushy eyebrows.
@@ -264,7 +249,6 @@ This race once ruled a wide part of Evren with many villages filled with fantast
 
 ## Elf
 
----
 **Average Age of Adulthood**: 50 Years.
 
 
@@ -374,7 +358,6 @@ Socially, these Elves are broken down into various regional Groves, led by an el
 
 ## Glimmerling
 
----
 **Physical Description**:
 
 Glimmerlings appear with a variety of complexions.  They are sometimes recognized by horns, antennae, wings, pointed ears, large noses, additional eyes, tails, etc.
@@ -401,7 +384,6 @@ Most people view the Glimmerlings with no difference to how they view the fairie
 
 ## Goblin
 
----
 **Physical Description**:
 
 Goblins appear with green complexions, pointed ears, and long, pointed noses that may have large warts.  Most Goblins are bald, but it is common to see them in gaudy wigs.
@@ -430,7 +412,6 @@ In ages long since past, Goblins were subjugated and enslaved by Orcs on the hee
 
 ## Kindred
 
----
 **Physical Description**:
 
 Individuals appear with a variety of complexions, markings, and body parts.  They are recognized most commonly by appearing as a distinct humanoid-animal hybrid.
@@ -456,7 +437,6 @@ A fairly rare sight in Evren, the Kindred are the most diverse of the races in t
 
 ## Kobold
 
----
 **Physical Description**:
 
 Kobolds appear as reptilian humanoids with red or blue scaled complexions, black nostrils, blackened eye sockets, and an elongated, flattened snout akin to caiman or crocodiles.
@@ -489,7 +469,6 @@ ___
 
 ## Orc
 
----
 **Physical Description**:
 
 Orcs appear with green complexions and are recognized by their protruding lower teeth.
@@ -519,7 +498,6 @@ The basis of this culture does not hinge much on codes of honor or only fighting
 
 ## Halfling
 
----
 **Physical Description**:
 
 Halflings have complexions that may range from fair to ebony, slightly pointed ears, and are often recognized by hair feet, hairy forearms, and long sideburns.
@@ -548,7 +526,6 @@ The values held by the majority of Halflings are the home, the belly, and the mi
 
 ## Human
 
----
 **Physical Description**:
 
 Humans may appear with complexions ranging from pale to ebony and may have varied markings or identifiers based on their region or culture.
@@ -576,7 +553,6 @@ Outside opinions of Humans are perhaps not as gilded, as many other races would 
 ___
 ## Unbound
 
----
 **Physical Description**:
 
 Unbound appear with complexions of blue, red, orange, brown, or grey with bright streaks, lines, or cracks of glowing power.  These lines typically appear as white or as more luminous colors of their complexions.
@@ -607,7 +583,6 @@ The Unbound that may be found alone are typically those that have established th
 
 ## Unforgiven
 
----
 **Physical Description**:
 
 Unforgiven appear with a red complexion with smoky black shadowing, black horns that sprout from the skull or face, and a thin barbed tail.
@@ -641,27 +616,22 @@ A rare sight today, the Unforgiven began appearing again and integrating themsel
 
 ## Appropriate Strike Zones
 
----
 	Pending.
 
 ## Armor: Immunities
 
----
 In the event that you are hit by an ability that you are immune to, your armor does not take the damage.
 
 ## Armor: Receiving Damage
 
----
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
 ## Bows: Blocking
 
----
 Bows may be used to block attacks.  Bows may also be used to block attacks while wielding a Short Weapon, if the Short Weapon & Bow skill is purchased.  If used to block an attack, you must spend a 3 second count to restring the bow before you can use it again.  
 
 ## Casting Spells
 
----
 Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use your magic.
 
 When casting a spell, first you must have a spell packet in hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. 
@@ -672,7 +642,6 @@ Some spells require a "X count" to cast where X may be three or five.  This is a
 
 ## Damage Calls, Types, Flavors, & Carriers
 
----
 Casting Damage calls are how you communicate the amount of damage being delivered, as well as its type and whether or not it has a flavor modifier or carrier.  You may only use one value for each option.
 
 **Damage Call Structure** 
@@ -702,7 +671,6 @@ Suppose you have a normal longsword, a transform with the Magic Aura and Flame A
 
 ## Charging
 
----
 Charging refers to your proximity to another player in melee combat.  In combat, combatants should never be inside the physical reach another combatant.  Combatants should not be able to make skin to skin contact.  
 * Charging unfairly prevents one combatant from attacking their combat partner.
 * Charging can prevent a combatant from being able to attack safely and can result in players being struck in illegal strike zones or injuries to areas such as the eyes.
@@ -711,26 +679,22 @@ Charging refers to your proximity to another player in melee combat.  In combat,
 
 ## Headbands:  Non-Combatants & Pages
 
----
 People wearing orange headbands are referred to as Pages.  Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.
 
 **You may not ever physically strike a Page.**  Pages may not use combat skills, weapons, or throw packets.  If you engage in combat with a page, you may point your weapon or packet and say, "Page, I kill you."  They are treated as if they have 1 health point/body.
 
 ## Killing Blows
 
----
 Killing Blow is a 3-count that can be interrupted. When Killing Blowed, the target becomes Dead. Killing Blow 1, Killing Blow 2, Killing Blow 3 <type>.
 
 The target of a killing blow may refuse it, so long as they are capable of movement.  Any killing blow is assumed to automatically be refused by a target capable of movement, unless explicitly accepted by the target.
 
 ## Light Touch
 
----
     Pending.
 
 ## Magic Deliverance, Voice Radius, and Aether
 
----
 Rarely, you may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such.
 
 Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they’d been struck by the spell directly.
@@ -739,7 +703,6 @@ Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If
 
 ## Shields
 
----
 The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36".
 
 As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.
@@ -752,34 +715,28 @@ Limitations:
 
 ## Speed of Combat
 
----
     Pending.
 
 ## Spell Packets
 
----
 Anything in your possession being struck by a spell causes you to take the effect of the spell, even if it is an illegal strike zone.  If illegal strike zones are being targeted repeatedly, inform Plot or a member of Staff immediately.
 
 
 ### Spellstrikes
 
----
 Spellstrikes are spells cast upon a target via a physically represented weapon.  Packets do not count, as this would be touch casting.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If you physically parry a Spellstrike, you take the effect of the spell.
 	
 ### Touch Casting
 
----
 If you are touching the target directly, they have the ability to "refuse your touch cast", causing you to expend the magic to no effect.  Any spell may be touch cast. The target of a touch cast spell may refuse the touch cast, so long as they are capable of movement. Any and every offensive or negative touch cast spell is assumed to automatically be refused unless explicitly accepted by the target.
 
 
 ### Turtling
 
----
     Pending.
 
 ## Weapons Safety Check
 
----
     Pending.
 
 
@@ -787,7 +744,6 @@ If you are touching the target directly, they have the ability to "refuse your t
 
 ## Armor Mechanics
 
----
 Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of armor up to their Armor Cap determined by what skills they have purchased. If the character is not using Fencing or Stalwart defense, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of armor. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from their armor, the character must possess the appropriate armor item tag.
 
 ### Armor and Combat
@@ -801,7 +757,6 @@ Once a character’s Armor Points are below their maximum total, they may recove
 
 ## Armor Point Calculations
 
----
 A character’s Armor Points are determined by the following:  
 * Their purchased Armor Cap
 * Their active skills
@@ -811,7 +766,6 @@ A character’s Armor Points are determined by the following:
 
 ## Armor Types
 
----
 ### Cloth
 
 Thick, quilted layers designed to blunt the worst of an adversary’s blow and prevent immediately fatal strikes.  
@@ -880,7 +834,6 @@ Heavy, durable metal armor that provides superior protection from all manner of 
 
 ## Armor Locations
 
----
 While a player may wear armor wherever and however they choose as is thematically appropriate for their character, there are only 4 locations that will count toward a character’s final Armor Point total:
 
 * Arms- Left and Right
@@ -920,7 +873,6 @@ Raphael is wearing a total of 40 points of armor, 20 from phys reps and 20 from 
 
 ## Weapon Reps
 
----
 * All combat reps must be certified as safe. Safety checks for all combat reps may be performed at check-in.  Safety checks MUST be performed EVERY EVENT; they do not carry over from prior events.  A marshal may request to inspect your reps at any time during the event, and, if deemed unsafe, may lose their safety certification.
 * Claws / Bites or Unarmed weapons must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.
 * Real archery reps are restricted.  Gameplay uses packet bow shooter designs.
@@ -954,7 +906,6 @@ A few online storefronts will have ready made things, but please do ask others h
 
 ## Bows and Crossbows
 
----
 ### Crossbows
 The stock must be at least 12" long, and each limb must extend at least 6" from the stock (making the whole thing at least 12" wide).
 
@@ -967,7 +918,6 @@ The rep will be subject to a more rigorous safety inspection than a typical mele
 
 ## Packets
 
----
 * There are no type = color requirements.  However, there is a strong preference for white, as they are far easier to find.
 * Wet, torn, or damaged packets should be discarded rather than returned to the NPC Camp packet bucket.
 * A packet can hit you anywhere and it counts (including clothing). Weapons that strike your head, groin, or a hand holding a weapon do not count.
@@ -983,7 +933,6 @@ The rep will be subject to a more rigorous safety inspection than a typical mele
 
 ## Shields
 
----
 * The longest dimension a shield may have is 36".
 * Everything attached to the shield and its edges (such as foam edging) counts as part of the shield.
 * The maximum allowed surface area of a shield is 531 square inches and is calculated as if the shield were a flattened surface, counting any concavities into the silhouette.
@@ -997,7 +946,6 @@ The rep will be subject to a more rigorous safety inspection than a typical mele
 
 ## Weapon Skills
 
----
 | Skill Point Cost     |  F  |  T  |  R  |  S  | Prereqs                     |
 |:---------------------|:---:|:---:|:---:|:---:|-----------------------------|
 | Unarmed Combat       |  3  |  6  |  3  |  6  ||     |
@@ -1054,7 +1002,6 @@ The rep will be subject to a more rigorous safety inspection than a typical mele
 
 ## Weapon Proficiencies
 
----
 <table>
   <tr>
    <td><strong>Skill Point Cost</strong>
@@ -1195,12 +1142,10 @@ The fifth purchase is 27 Skill Points (15+12).
 
 ## Physical Strikes
 
----
 Physical strikes are weapon delivered combat effects used by characters. A physical strike is delivered once using a weapon attack, and must strike the target character successfully without being blocked in order to be a successful attack. Physical strikes are considered used whether the attack was successful or not. Physical strikes that are blocked by shields or weapons, have been blocked and are considered unsuccessful attacks. Unsuccessful physical strikes and physical strikes that have been resisted can be regained by the character resting. Physical strike effects are not magical in nature; therefore, they cannot be removed by the Dispel Magic spell or any removal skill that is limited to effects of magical origin only.
 
 ## Critical Strikes
 
----
 <table>
   <tr>
    <td><strong>Skill Point Cost</strong>
@@ -1312,7 +1257,6 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ## Devious Strikes
 
----
 <table>
   <tr>
    <td><strong>Skill</strong>
@@ -1422,7 +1366,6 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ## Weapon Strikes
 
----
 | <b>Skill</b>          | <b>F</b> | <b>T</b> | <b>R</b> | <b>S</b> | <b>Prereqs</b>                                                     |
 |:----------------------|:--------:|:--------:|:--------:|:--------:|:-------------------------------------------------------------------|
 | Disable Limb          |   3+3    |   3+5    |   3+5    |  10+10   | Unarmed, Long, Two-Handed or Ranged Weapon, and Critical Strike V  |
@@ -1628,7 +1571,6 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ## **Defenses**
 
----
 <table>
   <tr>
    <td><strong>Skill</strong>
@@ -1921,7 +1863,6 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ## Mastery Skills
 
----
 A Mastery skill is purchased in order to grant a character access to a school of magic. The skill itself is the prerequisite for purchasing your first Mana Attunement of the given school, and provides a passive benefit that may be used.
 
 | Magic Skill Costs | F   | T   | R   | S   |
@@ -1943,7 +1884,6 @@ This skill allows the character the occasional ability to sense extreme danger, 
 
 ## Mana Attunement
 
----
 In order to cast a spell, you must possess the appropriate Mastery skill, and purchase ranks of Mana Attunement. Each rank of Mana Attunement you purchase in a given school gives you 10 Points of Mana, which may be spent to cast any spell from that school, on a 1:1 basis, where Mana is equivalent to a spell rank. So after your first attunement is purchased, you could cast 10 Rank I spells, or 2 Rank V spells, or any other combination adding up to 10. These spells can be chosen on the fly, allowing for spell casters to be highly flexible. Some may prefer to Memorize their spells in advance, giving them a clearer guide on what they are capable of. If a character chooses to use Memorization, they gain a bonus 10% to their Mana Pool, so someone with a single Mana Attunement who Memorizes would have 11 Mana, or someone with 5 Attunements would have 55 Mana that they could assign to their Memorized spells.
 
 | Attunement Cost      |  F   |  T   |   R    |    S    |     Prereqs      |
@@ -1955,7 +1895,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ## Spells By Level and School
 
----
 
 | Level | Arcane | Spirit| Nature                                                                      | 
 |---|---|---|-----------------------------------------------------------------------------|
@@ -1973,7 +1912,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ## Arcane
 
----
 ### Arcane Rank I
 
 #### **Blinding Light**
@@ -2242,7 +2180,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ## Spirit
 
----
 ### Spirit Rank I
 
 #### **Control: Minor Undead**
@@ -2574,7 +2511,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ## Nature
 
----
 ### Nature Rank I
 
 #### **Command: Drop**
@@ -3735,7 +3671,6 @@ Once applied, the coating will last until it is used or the wielder rests, which
 
 ## About Ritual Magic
 
----
 Ritual Magic is the way through which an individual attempts to weave the powers of themselves or greater beings to affect incredible and often long-lasting effects upon the world. A Ritualist is someone who is trained in these magics and in the art of channeling them to achieve their desired goals.
 
 A Ritual is the act through which a Ritualist attempts to conduct these magics, and each Ritualist’s method for enacting a Ritual is different, though there are a few generally agreed upon elements that must be achieved in order for a Ritual to succeed. Firstly, a Ritual must last at least 5 minutes in order for success to be achieved. It has been said that in times of great need a Ritualist can attempt to end the Ritual earlier than this, but they risk Failure at best, horrible Backlash at worst. Secondly, a Ritual must contain a persistent visual or auditory element. Some Ritualists chant, sing, or recite scripture of their Deity. Others may choose to draw or cast Runes, dance, or create art as a focus for their magic. All that matters is that these elements are consistent throughout the Ritual, without long lapses or interruptions. Third, the Ritualist must provide a source of Power other than their own for the ritual, often in the form of Spirit Gems, a number of which must be provided equal to the Rank of the Ritual. Lastly, and most importantly, the Ritualist must have the Ritual Scroll open and accessible to them at all times during the Ritual, even if they do not need to actively gaze upon it. If the Ritual Scroll is not present, or if during the Ritual it is removed or hidden from the Ritualist, the Ritual will fail. These four elements are commonly referred to as the “Fundamental Four Elements” of Rituals, without which a Ritual is all but doomed to failure.
@@ -3752,7 +3687,6 @@ Following are the Standard Library, and other Rituals for which the Scroll must 
 
 ## Standard Library
 
----
 ### Rank I
 
 #### Elemental Shift
@@ -3895,7 +3829,6 @@ Upon the permanent death of the character, if the character has a Transformation
 
 ## Transform Ability Ritual Ranks
 
----
 * Ranks Correspond to the following Ritual Rank
     * Basic: Rank I
         * Active: 2+3
@@ -3924,7 +3857,6 @@ Upon the permanent death of the character, if the character has a Transformation
 
 ## Transform Abilities
 
----
 ### Basic - Rank I
 
 #### Transform Ability: Innate Spell
@@ -4152,12 +4084,10 @@ Upon the permanent death of the character, if the character has a Transformation
 
 ## Definition:
 
----
 Necromancy is referred to as a branch of Spirit Magic primarily focused on the creation, preservation, and manipulation of undead creatures. This includes any spell where the incant begins with _“Fiends of the Dark Nether…”_, and creates, animates, heals, or controls undead specifically.
 
 ## Synopsis:
 
----
 * Animate undead without making yourself vulnerable to Dark Fiends.
 * Only works on permanently dead bodies that have also been specially prepared.
 * Corpses may be animated repeatedly, by different casters, though they need to be prepared and possibly repaired between animations.
@@ -4165,7 +4095,6 @@ Necromancy is referred to as a branch of Spirit Magic primarily focused on the c
 
 ## Historical Necromancy and Its Current Function:
 
----
 The current understanding of Necromancy and its associated magics is that each invocation of a Necromantic spell leaves the caster’s spirit open and vulnerable to corruption by these Fiends, as the caster is borrowing their power to complete the spell.
 
 Over time, this can lead to the necromancer losing themselves as their Spirit degrades, becoming vulnerable to being completely possessed by a Dark Fiend seeking to escape their imprisonment from within the Dark Nether.
@@ -4175,7 +4104,6 @@ As the caster is relying on powers outside of their own mana to assist in the co
 
 ## New Necromancy and Its Function:
 
----
 The focus of this new research has been to eliminate the need for a necromancer to call upon external forces, such as Fiends of the Nether, when animating a body thus eliminating the risk of corruption. Rather than borrowing the power of a Fiend to possess and animate a target, the caster themself acts as a puppeteer of a spiritless corpse by infusing the target with their own mana to act as a replacement for the departed Spirit.
 
 This means that “Traditional”_(aka, Fiendish)_ Necromantic practices still exist, but this method can allow for a caster to perform some spells of similar function without the risk to their person or others.
@@ -4202,7 +4130,6 @@ While this style of Necromancy may be seen as less powerful on the surface, it d
 
 ## Reanimation Process:
 
----
 In order for a body to be suitable for reanimation, it has been mentioned it must undergo several steps to be suitable for use following an individual’s final death:
 
 
@@ -4243,7 +4170,6 @@ The animation will last for approximately two hours after reanimation or the dur
 
 ## Spells and Legality:
 
----
 **_<u>ALL forms of Necromancy, undead, and reanimated bodies are still illegal within Varos’ city boundaries, regardless of a Necromancer’s Guild of Varos license, and will be punished in accordance with Kingdom Law.</u>_**
 
 All spells with the incantations that include “Fiends of the Dark Nether” are still highly dangerous to the caster and considered ILLEGAL. Any caught using such spells will be punished according to Kingdom Law.
@@ -4251,7 +4177,6 @@ All spells with the incantations that include “Fiends of the Dark Nether” ar
 
 ## Out of Game Information:
 
----
 ### NPCs:
 
 To help alleviate strain on the Plot Team, Players who wish to reanimate a body will need to provide their own NPC. Players will <u>not</u> be given a stat card for their reanimated body until the NPC is present, and the reanimation timer will “begin” upon the Player and NPC leaving the Necromancer’s Guild. (Time spent waiting to begin a mod will not count toward this timer)
@@ -4299,25 +4224,21 @@ Failure to return a body will result in the forfeiture of the deposit, and may r
 
 ## Body _(aka Health Points)_
 
----
 Body is the measurement of a character’s state of health, and is often referred to as “Health Points” or “Hit Points” in many RPG systems. All characters start with 10 Body, and gain more via the Toughness skill. Receiving any amount of Damage reduces your Current Body. You can receive healing effects to increase your Body after taking Damage, but healing may never put you above your Maximum Body.
 
 
 ## Alive
 
----
 Any character with 1 or more Current Body is “**Alive**.”
 
 
 ## Unconscious
 
----
 A character whose Current Body is exactly 0 is considered **Unconscious**. A character who is Unconscious is unable to take any actions that require active thought or movement, and the character is considered helpless. Being **Unconscious **lasts for 5 minutes, at the end of which time the character is returned to consciousness with 1 Body. If a character takes any additional damage while at 0 and **Unconscious**, they proceed to begin **Bleeding Out**.
 
 
 ## Bleeding Out (aka Dying)
 
----
 A character who has their Current Body reduced to -1 is considered **Bleeding Out**. A character cannot be reduced to below -1 Body, regardless of the amount of damage taken.
 
 **Bleeding Out** lasts for 60 seconds, during which the character is unconscious and may not make any game actions that require consciousness. Any amount of healing will restore the character’s Body by the amount stated by the healing effect, and they will no longer be **Bleeding Out**.
@@ -4331,7 +4252,6 @@ _(Ex: Bob is **Bleeding Out**. Thirty seconds into **Bleeding Out**, Charlie hea
 
 ## Dead
 
----
 A character that goes 60 seconds of **Bleeding Out** without receiving any healing or First Aid, or who is affected by some other Death effect, becomes **Dead**.
 
 **Death lasts for 5 minutes**, at which point, the character’s body dissipates, their spirit departs and travels to a **Shrine of Resurrection. **Any in-game items the character possesses when they dissipate are dropped to the ground, the player puts on a white headband and goes Out-Of-Game, and should seek out a marshal (either the marshal of the mod, or NPC camp) to seek resurrection.
@@ -4343,13 +4263,11 @@ During the 5 minutes the character is **Dead**, if they receive a Life spell or 
 
 ## Spirits
 
----
 The spirit of a character is the essence of that person. Spirits are always Out Of Game, and may not interact with or be aware of the In-Game world, and In Game characters may only interact with spirits within a Shrine of Resurrection or while under an effect that explicitly states that they may do so.
 
 
 ## Resurrection
 
----
 A character who has passed their 5 minute **Death** count dissipates, and their spirit will depart to seek **Resurrection**. If the spirit, as an Out-of-Game decision, believes that an ally may come and attempt to **Resurrect** them using the Rank IX Spirit Spell Resurrection, then they may linger for a time. If they do not, then the spirit will depart it’s current location to seek the nearest safe **Shrine of Resurrection.** The knowledge of whether or not a specific Shrine is “Safe” is entirely OOG knowledge, but a Spirit will never **Resurrect** at an unsafe Shrine. When a Spirit **Resurrects**, they will accrue **Strain**, explained below.
 
 Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection.
@@ -4357,7 +4275,6 @@ Any player may choose to have their character dissipate at any time, for any rea
 
 ## Strain
 
----
 **Strain** is described as what happens when a spirit is pushed beyond its normal limits. For many, their Spirit will never incur any **Strain**, yet for Adventurers, **Strain** is an all-too-common occurrence. The most common way of acquiring strain is through the process of Resurrection. Whenever a character Resurrects, they gain Two points of **Strain** on their Spirit.
 
 While a Spirit has any **Strain**, they are unable to incorporate new experiences, and as such, a character with **Strain** cannot spend any accumulated Skill Points until their **Strain** is reduced to 0. A Spirit recovers from **Strain** by experiencing new things. For every event a Character attends, they reduce any **Strain** on their Spirit by 1, including in an event where they Resurrect.
@@ -4367,19 +4284,16 @@ A few points of **Strain** can be carefully managed, but anyone who accrues too 
 
 ## Permanent Death
 
----
 A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then roll 50% of the accumulated SP of the **Permanently Dead** character into a new Character, plus the base 100 SP for a new character.
 
 
 ## Killing Blow
 
----
 Killing Blow is a 3-count that can be interrupted. When Killing Blowed, the target becomes **Dead**. _Killing Blow 1, Killing Blow 2, Killing Blow 3 &lt;type>_.  The target of a killing blow may refuse it, so long as they are capable of movement.  Any killing blow is assumed to automatically be refused by a target capable of movement, unless explicitly accepted by the target.
 
 
 ## Dismemberment & Body Smuggling
 
----
 A character whose body has been dismembered while **Bleeding Out  or Dead** may still be healed or revived. The part of the character that can be so affected is represented by and located wherever the player of that character is. The spirit-containing body of a character may be carried by another character, however, the person carrying the body may not run or move faster than the player of the character being carried.
 
 Dismembering a character for the purpose of attempting to use a smaller body part to heal, revive, or even hide the character is not any different than if the character were not dismembered. If a character is **Bleeding Out **or** Dead **and someone wishes to bring that character to a healer, or move the body away from where it fell, they may role-play carrying the body by picking it up on a three count _(ex: “One I pick you up… Two I pick you up… Three I pick you up…”)_ and carrying it elsewhere. The carrying player may not run, and both players must roleplay maintaining contact and remain within arm’s reach of each other. If any effect would forcibly move the carrier away at a pace faster than a walk, or would otherwise render them unable to hold game items in their hands, the character must drop the body on a One Count _(ex: “One I drop you”)_ and may only resume carrying them on a new three count.
@@ -4389,14 +4303,12 @@ Dismembering a character for the purpose of attempting to use a smaller body par
 
 ## Resetting Skills and Magic Items
 
----
 Adventurers are powerful individuals who rely on magic and skill to defeat their enemies. This expenditure of endurance both physically and magically takes a toll on even the most mighty of heroes on Evren. Magic items store Aether to power their wondrous magic, even the most powerful of artifacts requires time to recharge its Aether stores. 
 
 There are two periods of time on Evren when skills and magic items can be recharged and used again. The first is Rest, the second is Day.
 
 ## Rest
 
----
 Rest is a short period of time that the character takes to relax and recharge their personal Aether stores of energy required to use the magical and martial skills that the character has learned. Rest has a maximum duration of two hours, and a minimum duration of 30 minutes. Several items and skills in game can be used by the character to reduce their Rest time. You may also choose to NPC during your character’s Rest time for more game rewards! 
 
 Resting requires that the character take a break from adventuring for a period of time. During Rest, the character may not use skills, and may not run. If the character does any of these things the Rest ends. The character is focused on letting their body absorb the ambient Aether in the area to restore their energy. 
@@ -4408,7 +4320,6 @@ Once the Rest is complete, the character will have all their Magic Spell and Mar
 
 ## Per Day
 
----
 Magic items, production skills, and some effects recharge or expire at the end of the day. This time occurs at 6pm (out of game) each day. This happens automatically, and is not considered a Rest period.
 
 
@@ -4416,21 +4327,18 @@ Magic items, production skills, and some effects recharge or expire at the end o
 
 ## What is a NPC?
 
----
 A NPC is a Non-Player Character.  In most game systems, this is a fictional character that cannot be played or controlled by a real-world person.  In LARP, every character is controlled by a real-world person, but for us, NPC means that this person is an extension of the plot team.  They are playing a character, a monster, serving as a Ritual Marshal, Game Marshal, or directing a mod for characters.  NPCs might be as simple as a town guard, a wild wolf, a giant beetle, a merchant with exclusive wares, or even a rich noble!
 
 At Chronicles, we LOVE when people volunteer to NPC, because those volunteers help us bring stories to life!  NPCing is also a great way to get a crash course through game systems like combat and magic and explore putting on a new personality.
 
 ## What does a NPC do?
 
----
 Most often, a NPC will be asked to assist a Plot member with a mod or story event.  Some of the tasks they might have include dressing up, putting on creature make-up, and serving as a mob or monster meant to challenge the player characters (PCs) on a particular mob.  A NPC might also be what is commonly called a "crunchie".  These are monsters that are often minor or weaker and will directly invade the town or pick off PCs that have wandered off unsafely alone.
 
 Some other tasks may be helping to organize and clean NPC camp, making spell packets, running small mods on their own as a particular kind of NPC such as a merchant, a thief, or a gambler.   NPCs may also be asked to act as a mod-runner for a small group.  This last option is usually only asked of NPCs that have shown they have interest in doing so and have the trust of the plot team to make it a fun experience for the PCs.
 
 ## NPC Shifts
 
----
 First, let’s start by identifying the two kinds of NPCs:
 
 A **Part Time NPC** is someone that volunteers for a full shift at least one day of the event.  Part Time NPCs also play their characters during the event.  For a Part Time NPC, a full shift is **three hours**.  A Part-Time NPC may work as many hours in a single day as they like.  Each three hour shift is counted as a completed shift.  Rewards can be claimed on a "one shift per single event day" basis.  
@@ -4440,7 +4348,6 @@ A **Full Time NPC** is someone that serves as a NPC for the entire event.  They 
 
 ## Double-Hooking, the Plot Queue, and NPC Shifts
 
----
 Double-hooking is a term used for when two groups of PCs are waiting on Plot for a particular mod and are either asked by Plot or agree Out Of Character (OOC) for each group to serve as NPCs for the other group’s mod.  When it comes to the plot team’s queue, these groups are very likely to be taken ahead of others because less preparation for handling NPC logistics for a given mod may become much easier when you have two groups ready.
 
 In general, participating in a double-hook does not count towards a Part-Time NPC shift; however, in rare circumstances, such as double-hooking in a mod that runs for the length of a normal Part-Time NPC shift or more, Plot has full discretion to credit you with a completed shift.  If you have already completed a shift that day, be sure to clarify what rewards you are gaining, because you might be limited to partial or you may get everything.
@@ -4448,7 +4355,6 @@ In general, participating in a double-hook does not count towards a Part-Time NP
 
 ## NPC Rewards
 
----
 Aside from the shiny feel-good emotions of having helped out your chapter, Chronicles also gives those that volunteer as NPCs rewards in several forms!  <i>(Please note that while Plot and Staff are likely to have water and snacks at NPC camp, meals at the Tavern are not free to NPCs unless specifically stated by the player running the tavern.)</i>
 
 ### Part-Time NPC Rewards
@@ -4474,7 +4380,6 @@ Aside from the shiny feel-good emotions of having helped out your chapter, Chron
 
 ## How Do I Claim Mystery Sacks?
 
----
 Mystery Sacks can be claimed at the end of your NPC Shift or by emailing `plot@larpchronicles.com` and requesting it as part of your Production Request for the next game.
 
 
@@ -4482,18 +4387,15 @@ Mystery Sacks can be claimed at the end of your NPC Shift or by emailing `plot@l
 
 ## Goblin Points - What Are They?
 
----
 Goblin Point (GP) is a type of Out-Of-Character (OOC) currency in Chronicles.  They can be obtained by donation of time, such as event clean-up and NPC shifts or donation of items, such as packets, props, or supplies from the Chronicles Wishlist.  GP can be spent on a variety of things such as crafting materials, death forgiveness, and even Skill Point catch up for missed events.
 
 
 ## How Do I Get Goblin Points?
 
----
 Goblin Points are awarded from plot and/or staff for contributions, donations, and assistance given.  They have a rough equivalent of 10 GP per $1 USD of value; however, you may not purchase them with direct cash donations.  There are special circumstances where this rate is increased.  You should always check with the plot team and/or staff about any special chapter needs!
 
 ## Getting the Most Out of Goblin Points
 
----
 From time to time, the chapter may need some things more than others.  When this is true, specific listings will be tagged as “Needed” or “Critically Needed.”  These tags mean that the normal GP awarded for them is increased.
 
 * **“Needed” Items.** These are items that if we do not receive or maintain on a semi-regular basis would impact the game quality significantly. Examples include: Packets, weapons, and tabards.
@@ -4527,7 +4429,6 @@ From time to time, the chapter may need some things more than others.  When this
 
 ## Donations of Time
 
----
 
 **1 GP per - <u>Packet Creation during NPC Shift</u>**
 
@@ -4562,7 +4463,6 @@ From time to time, the chapter may need some things more than others.  When this
 
 ## Item Donations
 
----
 **10 GP - <u>Packet Supplies</u> (per $1)**
 
 * Donations of packet supplies are valued at 10GP to $1 spent, rounded up.  This means if you spend $9.34 on packet supplies, it will count as $10 and you will be given 100 GP.  Do you have packets already made?  Check out <u>Packet Donation</u> below!  Packet supplies should conform to the following:
@@ -4596,7 +4496,6 @@ From time to time, the chapter may need some things more than others.  When this
 
 ## What Can I Spend Goblin Points On?
 
----
 Goblin Points can be spent on a variety of options that may change over time to grow and add on new options!
 
 #### **Purchase Options**
@@ -4629,7 +4528,6 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 ## Character Conversion from Other LARP Systems
 
----
 * You may import your LARP character to Chronicles ONCE.  This is available to players from LARP Systems such as NERO or Alliance LARP.
 * Importing your character does not invalidate your membership with other LARP organizations or your characters.
 * Attending Chronicles events will have no impact on your character in other LARP Systems.
@@ -4639,14 +4537,12 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 ## Money, Gems & Items
 
----
 * Coins, gems, and/or bank values from other LARP Systems do not transfer to Chronicles.
 * Magic items and/or production items from other LARP Systems do not transfer to Chronicles.
 
 
 ## Goblin Points
 
----
 Goblin Points from other LARP Systems do not transfer to Chronicles, but we do have our own Goblin Point reward system you can participate in.
 
 
@@ -4654,25 +4550,21 @@ Goblin Points from other LARP Systems do not transfer to Chronicles, but we do h
 
 ## Status Effect Sources
 
----
 Sources of the effects below include Monster Abilities, Production, Martial Skills, and Magical Spells.
 
 ## Removing Status Effects
 
----
 The Life spell will remove any effect with a Magical Source, including buffs and will prevent rebuffing or any new effects for 5 seconds.
 
 Dispel Magic and Nullify Spell work on all effects with a magical source unless otherwise specified.
 
 ## Visible Status Effects
 
----
 If a term is denoted as visible, it is something you are permitted to respond with if a player asks “What do I see?”
 
 ## Effect Clarifications
 
 
----
 ### Curse of Transformation
 * Curse of Transformation (CoT) makes the target immune to CoT, meaning the effect does not stack.
 * Any character or NPC created by CoT is not capable of inflicting CoT on another character.  The only time this is not true is for very specific and limited plot reasons.
@@ -4700,7 +4592,6 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 
 ## Status Effects
 
----
 | Term                    | Description                                                                                                                                                                                                                                                                                                                         |                 Encounter Call                  |    Visible?    |
 |:------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------:|:--------------:|
 | ACID SPITTLE            | Ability user's ranged attacks deal x Acid Damage.                                                                                                                                                                                                                                                                                   |                     X Acid                      |       No       |
@@ -4786,7 +4677,6 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 
 ## v2.5 - [2022-08-28]
 
----
 ## Class: Templar
 * New playtest of Spellstrike Templars.
 
@@ -4833,7 +4723,6 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 
 ## v2.4 - [2022-08-07]
 
----
 ### Production
 <u>Alchemy</u>
 * Removal of “alcohol” items. Spicy Beverage, Pink Elephant Cocktail, Look Out Rum!
