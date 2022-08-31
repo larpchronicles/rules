@@ -1,8 +1,3 @@
-# 00 - Change History
-**Version: 2.5.0**
-
-
-
 # Chronicles Game Rules (v2.5)
 
 ## Introduction
