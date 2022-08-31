@@ -1,3 +1,8 @@
+# 00 - Change History
+**Version: 2.5.0**
+
+
+
 # Chronicles Game Rules (v2.5)
 
 ## Introduction
@@ -23,6 +28,7 @@ Wondering where you can find a particular sheet or form?  Check the list below, 
   * [PDF Form](https://drive.google.com/file/d/1D0yvxfmjHQ9RS_9ogyGsT_aQAflhIQQJ/view?usp=sharing)
 * [Code of Conduct](https://drive.google.com/file/d/1baIH6NfjVpb-K-hI59ebrd4vWQlcjtTT/view?usp=sharing)
 * [Liability Waiver](https://drive.google.com/file/d/1OWAV9ee22HZSvlR-k2gvHWzhyuxUuQFr/view?usp=sharing) 
+
 
 # Check In Information & General Etiquette
 
@@ -65,7 +71,7 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
 
 ### Meal Tickets
 * Tavern food & meals are not included in the event fee.  Please be sure to set up your Meal Ticket at check-in.
-* Tavern meals are typically $5.00 with water.  Soda is usually available for an additional $0.25 or  $0.50.
+* Tavern meals are typically $7.00 with water.  Soda is usually available for an additional $0.50.
 
     
 ## Camp Site Rules During Check In
@@ -2810,6 +2816,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target’s health pool cannot be brought to below 1 point as long as the caster is within arm’s reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
 
 
+
 # Other Skills
 
 <table>
@@ -4404,6 +4411,7 @@ Once the Rest is complete, the character will have all their Magic Spell and Mar
 ---
 Magic items, production skills, and some effects recharge or expire at the end of the day. This time occurs at 6pm (out of game) each day. This happens automatically, and is not considered a Rest period.
 
+
 # NPCs & Benefits
 
 ## What is a NPC?
@@ -4772,6 +4780,7 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 | WARD                    | Target is protected from the DESTROY effect until x.                                                                                                                                                                                                                                                                                |                Varies by source.                |       No       |
 | WEAKEN                  | Target damage is lowered by x amount for y time.                                                                                                                                                                                                                                                                                    |                Varies by source.                |       No       |
 | X TO HIT                | Ability user is immune to all weapons except x type.                                                                                                                                                                                                                                                                                |                    No Effect                    |       No       |
+
 
 # Changelog
 

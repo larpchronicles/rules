@@ -39,7 +39,7 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
 
 ### Meal Tickets
 * Tavern food & meals are not included in the event fee.  Please be sure to set up your Meal Ticket at check-in.
-* Tavern meals are typically $5.00 with water.  Soda is usually available for an additional $0.25 or  $0.50.
+* Tavern meals are typically $7.00 with water.  Soda is usually available for an additional $0.50.
 
     
 ## Camp Site Rules During Check In
