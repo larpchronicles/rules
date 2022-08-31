@@ -541,7 +541,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Spell**            | **Toxin Shield** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
-| **Incant**     | "By the spirits, I bolster your constitution." |
+| **Incant**     | "By the spirits, I grant you a toxin shield." |
 | **Description** |  This spell grants the caster a single Resist Toxin. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 ### Spirit Rank VII
