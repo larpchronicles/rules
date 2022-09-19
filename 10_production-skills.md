@@ -182,7 +182,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 #### Blinding Toxin
    >This is a small globe with a light-creating toxin. The character will throw a packet to indicate throwing a globe at the target. This globe will explode in a flash, causing the target to suffer from blindness for the next 20 seconds. The attack call for this is “Toxin Blindness”.
 #### Weakness Coating
-   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Weakness” at the end. Ex: “5 Poison Weakness” A target affected by this has their total weapon damage reduced to half of their normal maximum for 20 seconds.This lasts until used or until you complete a long rest. A weapon can only have one coating applied at a time.
+   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Weakness” at the end. Ex: “5 Poison Weakness” A target affected by this has their total weapon damage reduced to half of their normal maximum for 20 seconds. This lasts until used or until you complete a long rest. A weapon can only have one coating applied at a time.
 
 ### Rank VI
 
@@ -237,7 +237,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 ### Rank I
 
 #### Quiver
-   >This creates a quiver of ranged ammunition for use with the Ranged Weapon skill.  A quiver has 5 Durability.
+   >This creates a quiver of ranged ammunition for use with the Ranged Weapon skill.  Quivers may have the following properties added:  Silvered, Flame Aura, Frost Aura, Shock Aura, Stone Aura, Magic Aura.  Like all weapons, there is a limit of one elemental aura.  Weapon Coatings may not be used with quivers.  A quiver has 5 Durability and requires a physical representation.
 #### Netted Projectile
    >This creates an arrow, bolt, or throwing weapon that prevents the target from moving at a faster movement rate than a walk. This effect does not stack with itself, and further applications on an already slowed target will not renew the duration. Call: “Physical Slow”
 #### Chain Bindings
@@ -279,7 +279,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 #### Silver Weapon Forging
    >With this skill the blacksmith can carefully silver plate a weapon in order for the weapon to do to the silver damage type.
 #### Whetstone
-   >A user can spend one minute of careful sharpening using this tool to improve a single weapon’s base damage by 1 until their next rest. This item does not work on Unarmed or Ranged Weapons. This item is consumed on use.
+   >A user can spend one minute of careful sharpening using this tool to improve a single weapon’s base damage by 1 until their next rest. This item does not work on Unarmed or Ranged Weapons (including quivers). This item is consumed on use.
 
 ### Rank VI
 
@@ -450,7 +450,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 ### Rank III
 
 #### Rune of the Beacon
-   >When activated, this rune will place a magical mark upon an item that will act as a beacon for the one that used the rune that lasts for one day. For the duration of the effect, the character may sense the general direction of the location of the marked item. This beacon cannot be affected by Dispel Magic, or even death and body regeneration. To activate this rune the character must touch the target of the rune and say “Activate Rune of the Beacon”. This item is consumed on use.
+   >When activated, this rune will place a magical mark upon an item that will act as a beacon for the one that used the rune that lasts for one day. For the duration of the effect, the character may sense the general direction of the location of the marked item; this includes beacon objects another character is carrying.  This beacon cannot be affected by Dispel Magic, or even death and body regeneration. To activate this rune the character must touch the target of the rune and say “Activate Rune of the Beacon”. This item is consumed on use.
 #### Major Wand
    >This Wand may contain a single use of any spell Rank V or VI. In order to be used the user must be able to cast the spell on their own. To cast from the wand, the user must declare “Activate”, followed by the spell incant. This item is consumed on use.
 

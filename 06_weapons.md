@@ -46,6 +46,12 @@ If attached to your arm, you cannot use the bow while holding anything else in t
 
 The rep will be subject to a more rigorous safety inspection than a typical melee rep. It is **strongly** advised that you run your design idea past the staff before you begin construction; we would hate to see someone put a lot of time, effort, and resources into something that won't meet safety expectations.
 
+### Quivers
+The physical representation for a quiver must be at least 13" long with an opening at least 4" in diameter.  This is roughly equivalent to the size of a standard Pringles can.
+
+Quivers may be worn anywhere on the person, so long as they are in view when you are using a Ranged Weapon that requires ammunition.
+
+Each tagged quiver you bring into game should have its own phy rep.  A phys rep is not required for a quiver that is stored in a Pocket Dimension.
 
 ## Packets
 
