@@ -1,4 +1,4 @@
-# LARP Chronicles Ruleset v2.5
+# LARP Chronicles Ruleset v2.6
 
 ## Chronicles Staff
 
