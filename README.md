@@ -1,4 +1,4 @@
-# LARP Chronicles Ruleset v2.5
+# LARP Chronicles Ruleset v2.6
 
 ## Chronicles Staff
 
@@ -11,7 +11,6 @@
 
 ---
 * Justin Doyle
-* Tim Draher
 * Bryan Strahm - On paternity leave.
 * Ryan Sanders
 
@@ -27,7 +26,7 @@ Current Members:
 * Mike Ward
 * Ryan Sanders
 * Steph Murphy
-* Tim Draher
+* Trystian Boring
 
 ## Rule Doc Naming Convention
 

@@ -206,92 +206,13 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 ## Critical Strikes
 
 ---
-<table>
-  <tr>
-   <td><strong>Skill Point Cost</strong>
-   </td>
-   <td><strong>F</strong>
-   </td>
-   <td><strong>T</strong>
-   </td>
-   <td><strong>R</strong>
-   </td>
-   <td><strong>S</strong>
-   </td>
-   <td><strong>Prereqs</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Critical Strike: I
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>10+10
-   </td>
-   <td>Unarmed Combat, or Short Weapon, or Long Weapon, or Two-Handed Weapon, or Ranged Weapon 
-   </td>
-  </tr>
-  <tr>
-   <td>Critical Strike: III
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>10+10
-   </td>
-   <td>Critical Strike I
-   </td>
-  </tr>
-  <tr>
-   <td>Critical Strike: V
-   </td>
-   <td>3+3
-   </td>
-   <td>3+4
-   </td>
-   <td>3+4
-   </td>
-   <td>10+10
-   </td>
-   <td>Critical Strike III
-   </td>
-  </tr>
-  <tr>
-   <td>Critical Strike: VII
-   </td>
-   <td>3+3
-   </td>
-   <td>3+4
-   </td>
-   <td>3+4
-   </td>
-   <td>10+10
-   </td>
-   <td>Critical Strike V
-   </td>
-  </tr>
-  <tr>
-   <td>Critical Strike: IX
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>Critical Strike VII
-   </td>
-  </tr>
-</table>
+|Skill|F|T|R|S|Prereqs|
+|:---|:---:|:---:|:---:|:---:|:---|
+|Critical Strike I|3+3|3+3|3+3|10+10|Unarmed Combat, Short Weapon, Long Weapon, Two-Handed Weapon, or Ranged Weapon|
+|Critical Strike III|3+3|3+3|3+3|10+10|Critical Strike I|
+|Critical Strike V|3+3|3+4|3+4|10+10|Critical Strike III|
+|Critical Strike VII|3+3|3+4|3+4|10+10|Critical Strike V|
+|Critical Strike IX|3+3|3+5|3+5|10+10|Critical Strike VII|
 
 
 ####  Critical Strike I
@@ -318,92 +239,14 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 ## Devious Strikes
 
 ---
-<table>
-  <tr>
-   <td><strong>Skill</strong>
-   </td>
-   <td><strong>F</strong>
-   </td>
-   <td><strong>T</strong>
-   </td>
-   <td><strong>R</strong>
-   </td>
-   <td><strong>S</strong>
-   </td>
-   <td><strong>Prereqs</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Devious Strike: I
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>Short Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>Devious Strike: III
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>Devious Strike: I
-   </td>
-  </tr>
-  <tr>
-   <td>Devious Strike: V
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>Devious Strike: III
-   </td>
-  </tr>
-  <tr>
-   <td>Devious Strike: VII
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>Devious Strike: V
-   </td>
-  </tr>
-  <tr>
-   <td>Devious Strike: IX
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>Devious Strike: VII
-   </td>
-  </tr>
-</table>
+|Skill|F|T|R|S|Prereqs|
+|:---|:---:|:---:|:---:|:---:|:---|
+|Devious Strike I|10+10|20+10|3+3|3+5|Short Weapon|
+|Devious Strike III|10+10|20+10|3+3|3+5|Devious Strike I|
+|Devious Strike V|10+10|20+10|3+3|3+5|Devious Strike III|
+|Devious Strike VII|10+10|20+10|3+3|3+5|Devious Strike V|
+|Devious Strike IX|10+10|20+10|3+3|3+5|Devious Strike VII|
+
 
 #### Devious Strike I
 
@@ -556,7 +399,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 |:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**    | Instant                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Call**      | “N/A”                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Description** | This is a Ranged Weapon only skill that allows the character to throw two projectiles at one time as a base damage attack. Split Projectile uses up two uses of ammunition during the attack. This skill can be used in conjunction with any other Critical Strike, Devious Strike, or Weapon Strike skill. Doing so requires two uses of the other skill, and will expend both of them. |
+| **Description** | This is a Ranged Weapon only skill that allows the character to throw two projectiles at one time as a base damage attack. This skill can be used in conjunction with any other Critical Strike, Devious Strike, or Weapon Strike skill. Doing so requires two uses of the other skill, and will expend both of them. |
 | **Requirement** | Requires the Ranged Weapon skill.                                                                                                                                                                                                                                                                                                                                                        |
 
 #### **Stop Thrust**
@@ -634,232 +477,23 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 ## **Defenses**
 
 ---
-<table>
-  <tr>
-   <td><strong>Skill</strong>
-   </td>
-   <td><strong>F</strong>
-   </td>
-   <td><strong>T</strong>
-   </td>
-   <td><strong>R</strong>
-   </td>
-   <td><strong>S</strong>
-   </td>
-   <td><strong>Prereqs</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Armor Training
-   </td>
-   <td>3+1
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Block Projectile
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>Unarmed Combat, or Shield
-   </td>
-  </tr>
-  <tr>
-   <td>Dodge
-   </td>
-   <td>20+10
-   </td>
-   <td>20+10
-   </td>
-   <td>3+3
-   </td>
-   <td>20+10
-   </td>
-   <td>Short Weapon and Murder
-   </td>
-  </tr>
-  <tr>
-   <td>Endurance
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>Critical Strike V
-   </td>
-  </tr>
-  <tr>
-   <td>Fencing
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>Short Weapon, or Long Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>Intercept
-   </td>
-   <td>3+3
-   </td>
-   <td>3+3
-   </td>
-   <td>10+10
-   </td>
-   <td>10+10
-   </td>
-   <td>Shield
-   </td>
-  </tr>
-  <tr>
-   <td>Parry
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>Unarmed Combat, or Short Weapon, or Long Weapon, or Two-Handed Weapon, and Critical Strike III
-   </td>
-  </tr>
-  <tr>
-   <td>Parry Spell
-   </td>
-   <td>3+5
-   </td>
-   <td>3+3
-   </td>
-   <td>10+10
-   </td>
-   <td>3+5
-   </td>
-   <td>Critical Strike IX
-   </td>
-  </tr>
-  <tr>
-   <td>Rapid Refit
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Riposte
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>20+10
-   </td>
-   <td>Short Weapon,or Long Weapon, or Two-Handed Weapon  
-   </td>
-  </tr>
-  <tr>
-   <td>Second Wind
-   </td>
-   <td>3+3
-   </td>
-   <td>10+10
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Shield Block
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>10+10
-   </td>
-   <td>Shield
-   </td>
-  </tr>
-  <tr>
-   <td>Stalwart Defense
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>10+10
-   </td>
-   <td>20+10
-   </td>
-   <td>Two-Handed Weapon
-   </td>
-  </tr>
-  <tr>
-   <td>Toughness
-   </td>
-   <td>3+3
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>3+5
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Unbreakable
-   </td>
-   <td>3+5
-   </td>
-   <td>5+5
-   </td>
-   <td>10+10
-   </td>
-   <td>10+10
-   </td>
-   <td>Shield and Crit Strike I
-   </td>
-  </tr>
-</table>
+|Skill|F|T|R|S|Prereqs|
+|:---|:---:|:---:|:---:|:---:|:---|
+|Armor Training|3+1|3+3|3+5|3+5||
+|Block Projectile|3+3|3+5|3+5|3+5|Unarmed Combat or Shield|
+|Dodge|20+10|20+10|3+3|20+10|Short Weapon and Murder|
+|Endurance|3+3|3+5|10+10|20+10|Critical Strike V|
+|Fencing|3+3|3+5|3+3|3+3|Short Weapon or Long Weapon|
+|Intercept|3+3|3+3|10+10|10+10|Shield|
+|Parry|3+3|3+5|10+10|20+10|Critical Strike III and Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon|
+|Parry Spell|3+5|3+3|10+10|3+5|Critical Strike IX|
+|Rapid Refit|3+3|3+5|10+10|20+10||
+|Riposte|3+3|3+5|3+5|20+10|Short Weapon, Long Weapon, or Two-Handed Weapon|
+|Second Wind|3+3|10+10|10+10|20+10||
+|Shield Block|3+3||3+5|10+10|10+10|Shield|
+|Stalwart Defense|3+3|3+5|10+10|20+10|Two-Handed Weapon|
+|Toughness|3+3||3+5|3+5|3+5||
+|Unbreakable|3+5|5+5|10+10|10+10|Shield and Critical Strike I|
 
 #### Armor Training
 
@@ -875,7 +509,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 #### Endurance
 
->This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 60 seconds of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This skill is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.<br/>Requires the Critical Strike V skill.
+>This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This skill is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.<br/>Requires the Critical Strike V skill.
 
 #### Fencing
 

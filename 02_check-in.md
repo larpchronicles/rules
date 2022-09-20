@@ -149,11 +149,4 @@ COVID Resources, How to get Tests, and Test Submission info can be found here: h
 ## Disciplinary Rules
 
 ---
-While we never hope this to be the case, if anyone is breaking Chronicles rules, the Code of Conduct, violating the rules of the rental site, or causing problems and/or disruptions to the event, they will be subject to an escalating response from Plot and Staff.  Certain violations may warrant an immediate Red Card.
-
-* Verbal Warning.
-* Yellow Card.
-  * Character's skills are reduced for an hour.
-* Red Card. 
-  * Player may have their weapons taken for the duration of the event.
-  * Player may be escorted to the parking lot and asked to leave.
+While we never hope this to be the case, if anyone is breaking Chronicles rules, the Code of Conduct, violating the rules of the rental site, or causing problems and/or disruptions to the event, they will be subject to an escalating response from Plot and Staff.  This is outlined with more detail in the [Code of Conduct](https://drive.google.com/file/d/1baIH6NfjVpb-K-hI59ebrd4vWQlcjtTT/view?usp=sharing).
