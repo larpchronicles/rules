@@ -31,6 +31,14 @@ You must be careful when casting spells, because if an enemy is within reach, or
 
 Some spells require a "X count" to cast where X may be three or five.  This is always intended to be X number of seconds.
 
+## Charging
+
+---
+Charging refers to your proximity to another player in melee combat.  In combat, combatants should never be inside the physical reach another combatant.  Combatants should not be able to make skin to skin contact.
+* Charging unfairly prevents one combatant from attacking their combat partner.
+* Charging can prevent a combatant from being able to attack safely and can result in players being struck in illegal strike zones or injuries to areas such as the eyes.
+* Charging forces one combatant to backpedal or retreat.  We often play on uneven ground and this could result in a player tripping and sustaining injuries.
+
 ## Damage Calls, Types, Flavors, & Carriers
 
 ---
@@ -60,14 +68,6 @@ Suppose you have a normal longsword, a transform with the Magic Aura and Flame A
 | Normal       | Frost          | Death           |
 | Poison       | Shock          | Drain           |
 | Silver       | Stone          | Vital           |
-
-## Charging
-
----
-Charging refers to your proximity to another player in melee combat.  In combat, combatants should never be inside the physical reach another combatant.  Combatants should not be able to make skin to skin contact.  
-* Charging unfairly prevents one combatant from attacking their combat partner.
-* Charging can prevent a combatant from being able to attack safely and can result in players being struck in illegal strike zones or injuries to areas such as the eyes.
-* Charging forces one combatant to backpedal or retreat.  We often play on uneven ground and this could result in a player tripping and sustaining injuries.
 
 
 ## Headbands:  Non-Combatants & Pages
