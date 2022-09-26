@@ -1,6 +1,6 @@
 # Crafting
 
-Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are four crafting skills with each one being supported by a material harvesting skill.
+Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are five crafting skills and four material harvesting skills.
 
 ## Crafting Skill Costs
 
@@ -33,39 +33,70 @@ Item production is the process by which characters are able to craft consumable 
 >This skill is the prerequisite for the Smithing Skill and is used to gather the materials for it.  Mining represents the character digging out raw ore, and collecting other sundry items for use with the Smithing skill.
 
 #### Scrapping
->This skill is the prerequisite for the Tinkering Skill and is used to gather the materials for it.  Scrapping represents the character collecting scrap metals, bits of debris, and reclaiming materials from junk yards for use with the Tinkering skill.
+>This skill is the prerequisite for the Tinkering Skill and is used to gather the materials for it.  Scrapping represents the character collecting scrap metals, bits of debris, and reclaiming materials from junkyards for use with the Tinkering skill.
 
 #### Logging
 >This skill is the prerequisite for the Rune Carving Skill and is used to gather the materials for it.  Logging represents the character collecting pieces of wood and shaping them into basic shapes for wands and rune marks.
 
 ## Raw Materials
-
 >Production materials are ranked I-V. Characters with a gathering skill will be rewarded one rank of raw material for each rank of gathering skill that they possess, per day of the event. Characters using the gathering tools from Tinkering will receive an additional raw material rank for each skill rank in gathering that they possess. Additional raw materials can be bargained for  from NPCs, or other players. Characters can also search around in-game and gather raw materials from nodes in the game.
-
->Prior to an event starting, you can spend your raw material ranks, along with any raw material tags that you have, to craft in-game items. Once you are done crafting items before the game starts, logistics will give you tags for any unspent raw materials as well as tags for the items that you produced. <br/>When you get your raw material tags, you can request to get them in any rank I-X, as long as the total ranks are equal to the unspent ranks that you have left.
+>
+>Prior to an event starting, you can spend your raw material ranks, along with any raw material tags that you have, to craft in-game items. Once you are done crafting items before the game starts, logistics will give you tags for any unspent raw materials as well as tags for the items that you produced. When you get your raw material tags, you can request to get them in any rank I-X, as long as the total ranks are equal to the unspent ranks that you have left.
 
 ## Producing Items
-
 >Production items are ranked from I-X. It takes as many raw materials ranks to make a single item equal to the production item’s rank. But wait! Production items are ranked I-X and raw materials are only ranked I-V, and then X; how do I get VI-IX raw materials? The answer to that is to combine the I-V raw materials to equal the rank of the production item that you are making.
-
->Examples:<br/>To make an Alchemy Rank I item, the character needs to have at least one rank in the Alchemy skill, and would use a single Rank I material. For Alchemy, this is Minor Alchemical Catalyst.<br/>To make a Smithing Rank 8 item, the character would need at least 8 Ranks in Smithing, and could use a combination of materials where the Ranks, when added up, equal the rank of the item desired. For Smithing this could be one Iron Ore (Rank V) and three Aluminum Ores (Rank I) added up equal enough ranks to make the item.
+>
+>Examples:
+> 
+>To make an Alchemy Rank I item, the character needs to have at least one rank in the Alchemy skill, and would use a single Rank I material. For Alchemy, this is Minor Alchemical Catalyst.
+> 
+> To make a Smithing Rank 8 item, the character would need at least 8 Ranks in Smithing, and could use a combination of materials where the Ranks, when added up, equal the rank of the item desired. For Smithing this could be one Iron Ore (Rank V) and three Aluminum Ores (Rank I) added up equal enough ranks to make the item.
 
 ## Durability
-
->Any item that is non-consumable has a Durability rating. An item’s durability is reduced by one at the beginning of every event, and when an item’s Durability reaches 0, it is no longer usable, except for Recycling, see below. A player must check in all items they intend to use or have available to use at the beginning of an event. Any item that is not checked in and has it’s Durability marked down, is not legal for in-game use until it has been marked by Plot.<br/>Consumable items and Materials have an effective Durability of “Until Used”, and may not be Recycled.
+>Any item that is non-consumable has a Durability rating. An item’s durability is reduced by one at the beginning of every event, and when an item’s Durability reaches 0, it is no longer usable, except for Recycling, see below. A player must check in all items they intend to use or have available to use at the beginning of an event. Any item that is not checked in and has its Durability marked down, is not legal for in-game use until it has been marked by Plot. Consumable items and Materials have an effective Durability of “Until Used”, and may not be Recycled.
 
 ## Recycling Items
-
->An item that has been reduced to 0 Durability, destroyed by a spell or skill, or an item that a player no longer wishes to use, may be Recycled by a player with the skill. An item that is Recycled will return 1/3rd of the ranks in materials used to construct it, rounded down. These materials can either be claimed for future use, or utilized immediately in the construction of a new item.
+>An item that has been reduced to 0 Durability, destroyed by a spell or skill, or an item that a player no longer wishes to use, may be Recycled by a player with the skill. An item that is Recycled will return 1/3rd of the ranks in materials used to construct it, rounded down to a minimum of one. These materials can either be claimed for future use, or utilized immediately in the construction of a new item.
 
 ## Artificing
+>Artificing is the study of the creation of magic items. Only those with at least a moderate command of each base craft can take the path of an Artificer. The creation of a magic item will vary wildly in its needs based on the item. Magic items always require materials from multiple disciplines. They also require spirit gems for the infusion of their impressive powers. Lastly, more powerful items may require specific, unusual, or rare materials to be acquired in order to complete. All Artificers have access to a few base recipes that they may craft at will. Other items will require the development or acquisition of a Formula in order to be created. Formulas may also potentially be memorized, or even taught to others, depending on the Formula. Artificing requires 5 ranks in each production type.
 
->Artificing is the study of the creation of magic items, and only those with at least a moderate command of each base material type can take their steps down the path of an Artificer. The creation of a magic item will vary wildly in it’s needs based on the item. Magic Items always require materials from multiple disciplines, as few as two, up to all four. They also require spirit gems for the infusion of their impressive powers. Lastly, more powerful items may require specific unusual or rare materials to be acquired in order to complete. All Artificers have access to a few base recipes that they may craft at will. Other items will require the development or acquisition of a Formula in order to be created. Formulas may also potentially be memorized, or even taught to others, depending on the Formula. Artificing requires 5 ranks in each production type.
+## Weapon Auras
+>By default, a base weapon will use Normal as its **Damage Type**.
+> 
+>A weapon that has been silvered may only use Silver as its **Damage Type** (ie: it can no longer swing for Normal).
+>
+> A weapon that has been enchanted with a Magic Aura may only swing Magic as its **Damage Type**, and cannot be silvered. If a weapon is silvered then enchanted, it also becomes a magic sword and may only swing Magic (ie, a weapon with a Magic Aura must always use Magic **Damage Type**†)
+>
+>A weapon may have only a single flavor or carrier enchantment (ie: a weapon cannot have both Flame Aura and Shock Aura).
+>
+>TL;DR: A weapon can only swing for Normal, Silver, or Magic **Damage Type**, and can only be changed by a craftsman. Additionally, a weapon may also have up to one flavor/carrier aura, which is optional in the damage call.
+
+|Enchantments|Damage Type|Flavor/Carrier|Attack Calls|
+|:---:|:---|:---|:---|
+|None|Normal|None|1 Normal|
+|Flame Aura|Normal|Flame|1 Normal, 1 Normal Flame|
+|Silvered|Silver|None|1 Silver|
+|Silvered, Shock Aura|Silver|Shock|1 Silver, 1 Silver Shock|
+|Magic Aura|Magic|None|1 Magic|
+|Magic Aura, Stone Aura|Magic|Stone|1 Magic, 1 Magic Stone|
+> 
+>† _Weapon Coatings and Monstrous Auras can still be used with a weapon that has a Magic Aura._
+
+### Weapon Coatings
+>Weapon coatings are single-use alchemical products that may be applied to weapons. To apply a coating, the user must have the coating in hand and roleplay pouring or rubbing the coating on the weapon for a 5-second count. Only the character who had possession of the weapon when the coating was applied may use that coating.
+>
+>For example, Alice applies a Sleep Coating to her long sword then hands the sword to Bob. Bob cannot use that coating.
+>
+>However, if Charlie presents his sword to Diane, who then applies a Sleep Coating to Charlie's sword, then Charlie (and only Charlie) may use that Sleep Coating.
+>
+>Once applied, the coating will last until it is used or the wielder rests, whichever comes first.
 
 
 ## Workshops
-
->Characters can purchase a Workshop from Logistics for 10 Credits. Workshops have a durability of 10, and their durability is decreased each time they are used for an event by a given character. Workshops can be used to make large-scale batches of an item, doubling the total output for a single character. Ex: if you attempt to make 10 Heal Wounds potions, this would normally take you 30 Ranks in Alchemical materials. You could either spend 15 ranks, to make 5 potions which will get doubled by the Workshop, or spend the original 30 and get 20 potions instead.<br/>The Workshop must have a durability removed by Logistics during check-in in order to receive any batch production. More than one character may use a workshop for a given event, but each person who uses it will cost one durability.
+>Characters can purchase a Workshop from Logistics for 10 Credits. Workshops have a durability of 10, and their durability is decreased each time they are used for an event by a given character. Workshops can be used to make large-scale batches of an item, doubling the total output for a single character.
+>  
+>Example: If you attempt to make 10 Heal Wounds potions, this would normally take you 30 Ranks in Alchemical materials. You could either spend 15 ranks, to make 5 potions which will get doubled by the Workshop, or spend the original 30 and get 20 potions instead.  The Workshop must have a durability removed by Logistics during check-in in order to receive any batch production. More than one character may use a workshop for a given event, but each person who uses it will cost one durability.
 
 
 ## Gathering Skill Products
@@ -111,15 +142,6 @@ Item production is the process by which characters are able to craft consumable 
 
 
 ## Alchemy Products
-
-### Weapon Coatings
-Weapon coatings are single-use alchemical products that may be applied to weapons. To apply a coating, the user must have the coating in hand, and roleplay pouring or rubbing the coating on the weapon for 5 seconds. Only the character who had possession of the weapon when the coating was applied may use that coating.
-
-For example, Alice applies a Sleep Coating to her long sword then hands the sword to Bob. Bob cannot use that coating.
-
-However, if Charlie presents his sword to Diane, who then applies a Sleep Coating to Charlie's sword, then Charlie (and only Charlie) may use that Sleep Coating.
-
-Once applied, the coating will last until it is used or the wielder rests, whichever comes first.
 
 ### Rank I
 
@@ -237,7 +259,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 ### Rank I
 
 #### Quiver
-   >This creates a quiver of ranged ammunition for use with the Ranged Weapon skill.  A quiver has 5 Durability.
+   >This creates a quiver of ranged ammunition for use with the Ranged Weapon skill.  Quivers may have the following properties added:  Silvered, Flame Aura, Frost Aura, Shock Aura, Stone Aura, Magic Aura.  Weapon Coatings and Oils may be used with quivers.  A quiver has 5 Durability and requires a physical representation.
 #### Netted Projectile
    >This creates an arrow, bolt, or throwing weapon that prevents the target from moving at a faster movement rate than a walk. This effect does not stack with itself, and further applications on an already slowed target will not renew the duration. Call: “Physical Slow”
 #### Chain Bindings
@@ -543,7 +565,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
    >This magically enhanced cleaver allows the bearer to use their Cooking expertise  to deadly effect on the field of battle. While wielding, three times a day, the User may spend a rank of Cooking as if it was Critical Strike V. They cannot spend ranks of Cooking that have already been used to prepare a Dish. The user does not regain the spent Cooking ranks until after they complete a Rest.<br/>
    >20 Smithing Materials, 10 Rune Carving Materials, 10 Tinkering Materials, 4 Spirit Gems
 #### Blade of Elemental Striking
-   >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental effects to harm. While wielding, the wearer may use a Flame/Frost/Shock/Stone carrier for weapon blows.The damage type is chosen at creation.<br/>
+   >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental effects to harm. While wielding, the wearer may use a Flame/Frost/Shock/Stone carrier for weapon blows. The damage type is chosen at creation.<br/>
    >20 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 4 Spirit Gems
 
 ### Rank V
@@ -576,7 +598,7 @@ Once applied, the coating will last until it is used or the wielder rests, which
 ### Rank VIII
 
 #### Blade of Mystic Striking
-   >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental OR Magic effects to harm. While wielding, the wearer may deal Flame/Frost/Shock/Stone damage with weapon blows.The damage type is chosen at creation. They may also choose to instead deal Magic damage with their weapon blows. They may only choose to use one of these at a time.<br/>
+   >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental OR Magic effects to harm. While wielding, the wearer may deal Flame/Frost/Shock/Stone damage with weapon blows. The damage type is chosen at creation. They may also choose to instead deal Magic damage with their weapon blows. They may only choose to use one of these at a time.<br/>
    >40 Smithing Materials, 20 Rune Carving Materials, 10 Alchemy Materials, 10 Tinkering Materials, 8 Spirit Gems, Elementally Infused Ore
 
 ### Rank IX

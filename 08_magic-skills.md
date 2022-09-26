@@ -455,11 +455,11 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 ### Spirit Rank IV
 
 #### **Dull Pain**
-| **Spell**            | **Dull Pain** |
-|      :---        |       :---         |
-| **Duration**     | 20 seconds |
-| **Incant**     | "By the spirits, I dull your pain." |
-| **Description** |  This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the caster to cast spells while being hit and/or damaged. |
+| **Spell**            | **Dull Pain**                                                                                                                                                                                                |
+|      :---        |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | 20 seconds                                                                                                                                                                                                   |
+| **Incant**     | "By the spirits, I dull your pain."                                                                                                                                                                          |
+| **Description** | This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the target to cast spells while being hit and/or damaged.  It also allows a target to use defensises during a -count ability without breaking Concentration or interrupting the ability.  The defense may be called either during or after the count.  ie: "One I rift out, two I rift out, Dodge, three I rift out." |
 
 #### **Rot Limb**
 | **Spell**            | **Rot Limb** |

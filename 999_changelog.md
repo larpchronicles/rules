@@ -1,5 +1,41 @@
 # Changelog
 
+## v2.6 - [2022-09-25]
+
+---
+## Life & Death
+* Updated three uses of "60 seconds" to the standard of "1 minute."
+
+## Magic
+* Updated a single use of "60 seconds" to the standard of "1 minute."
+
+<u>Spirit</u>
+* Dull Pain updated to allow the target to use defenses during a -count ability (such as rifting) without breaking concentration or interrupting the ability.  The defense may be called either during or after the count.  This applies to all of the following:  Limited Teleport, Treewalk, Rift, Killing Blow, Restringing, unlocking or locking a lock with a matching key, Mending Mallet, Weapon Coatings, Warblade's Armor Polish.
+
+## Martial
+* Updated wording of Split Projectile to remove the number of ammunition it consumes as this no longer applies.
+* Updated a single use of "60 seconds" to the standard of "1 minute."
+
+## Production
+<u>Recycling</u>
+* The formula for returns on Recycling is now updated to ensure the Recycler always receives at least 1 Rank of material for anything recycled.
+
+<u>Smithing</u>
+* Quivers may now be crafted or have the following properties applied to them:  Silvered, Flame Aura, Frost Aura, Stone Aura, Shock Aura, Magic Aura. Like other weapons, quivers may only have one elemental aura at a time.
+* Quivers now require a physical representation.
+* Weapon Coatings may be used on quivers.  As with any other weapon, it allows for a single use.
+* Weapon Oils may be used on quivers.
+* Clarification added about weapon aura limitations.
+
+## Races
+* Updated a single use of "60 seconds" to the standard of "1 minute."
+
+## Status Effects
+* Updated three uses of "60 seconds" to the standard of "1 minute."
+
+## Weapons
+* Added Quiver physical representation requirements.
+
 ## v2.5 - [2022-08-28]
 
 ---
