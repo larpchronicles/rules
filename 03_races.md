@@ -33,7 +33,7 @@ Overall, other races regard the Brood as a terrifying race capable of great dest
 *Rip Free*: Brood abhor the sensation of being trapped and when they find themselves in such a situation, they will do anything in their power to regain their freedom. Once per rest, a Brood may have one free usage of Escape Artist.
 
 
-*Acidic Secretion*:  Along with being capable of great destruction in general, Brood have acidic blood that is capable of destroying items._  Once per day, a Brood may spend 60 seconds in concentration to destroy an item.
+*Acidic Secretion*:  Along with being capable of great destruction in general, Brood have acidic blood that is capable of destroying items._  Once per day, a Brood may spend 1 minute in concentration to destroy an item.
 
 
 **Makeup Suggestions and Guidelines**:  All Brood player characters must use a different colored paint to add markings and may not only have brown or black paint.  The design and color of these markings is player choice.  Physical representations for the carapace should be present and may be colored brown or black and given an iridescent coating.
@@ -377,7 +377,7 @@ Outside opinions of Humans are perhaps not as gilded, as many other races would 
 
 **Racial Abilities**:
 
-*Survivor*: Humans are incredibly adaptable and able to survive when most others would not. Once per rest, a Human may have a free usage of Endurance by spending 60 seconds of concentration to prime the ability. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
+*Survivor*: Humans are incredibly adaptable and able to survive when most others would not. Once per rest, a Human may have a free usage of Endurance by spending 1 minute of concentration to prime the ability. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
 
 *Connected*: Humans are the most prevalent race on Evren and their propensity for establishing contacts across all walks of life is a trait many have become adept at within both the underworld and legitimate enterprises. Once per day, a Human may locate an impromptu black market in which only the character can enter.  This must be done with Plot.
 

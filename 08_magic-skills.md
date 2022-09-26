@@ -843,7 +843,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Rest |
 | **Incant**     | "By the fauna, I grant you a cat's boon." |
-| **Description** |  This spell prevents the target from becoming Dead when they otherwise might. The caster must prepare the spell by spending 60 seconds of concentration to prime this spell. While primed, if the target reaches 59 seconds of their Dying count, this spell triggers to return the target to 1 Body instead of becoming Dead, and the target must declare "Endurance". This spell is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once. |
+| **Description** |  This spell prevents the target from becoming Dead when they otherwise might. The caster must prepare the spell by spending 1 minute of concentration to prime this spell. While primed, if the target reaches 59 seconds of their Dying count, this spell triggers to return the target to 1 Body instead of becoming Dead, and the target must declare "Endurance". This spell is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once. |
 
 #### **Flesh to Stone**
 | **Spell**            | **Flesh to Stone** |

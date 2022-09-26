@@ -23,11 +23,11 @@ A character whose Current Body is exactly 0 is considered **Unconscious**. A cha
 ---
 A character who has their Current Body reduced to -1 is considered **Bleeding Out**. A character cannot be reduced to below -1 Body, regardless of the amount of damage taken.
 
-**Bleeding Out** lasts for 60 seconds, during which the character is unconscious and may not make any game actions that require consciousness. Any amount of healing will restore the character’s Body by the amount stated by the healing effect, and they will no longer be **Bleeding Out**.
+**Bleeding Out** lasts for 1 minute, during which the character is unconscious and may not make any game actions that require consciousness. Any amount of healing will restore the character’s Body by the amount stated by the healing effect, and they will no longer be **Bleeding Out**.
 
 Receiving First Aid will pause the dying count until the First Aid is completed or the character performing the First Aid is interrupted, at which point the **Dying** character will either be at 0 body, **Unconscious**, or their **Bleeding Out** count will resume at its previous count.
 
-After 60 seconds of **Bleeding Out**, the character dies and is now **Dead**.
+After 1 minute of **Bleeding Out**, the character dies and is now **Dead**.
 
 _(Ex: Bob is **Bleeding Out**. Thirty seconds into **Bleeding Out**, Charlie heals Bob for 10 Health Points. Bob is now conscious, able to act again, and has 9 current Health Points.)_
 
@@ -35,7 +35,7 @@ _(Ex: Bob is **Bleeding Out**. Thirty seconds into **Bleeding Out**, Charlie hea
 ## Dead
 
 ---
-A character that goes 60 seconds of **Bleeding Out** without receiving any healing or First Aid, or who is affected by some other Death effect, becomes **Dead**.
+A character that goes 1 minute of **Bleeding Out** without receiving any healing or First Aid, or who is affected by some other Death effect, becomes **Dead**.
 
 **Death lasts for 5 minutes**, at which point, the character’s body dissipates, their spirit departs and travels to a **Shrine of Resurrection. **Any in-game items the character possesses when they dissipate are dropped to the ground, the player puts on a white headband and goes Out-Of-Game, and should seek out a marshal (either the marshal of the mod, or NPC camp) to seek resurrection.
 
