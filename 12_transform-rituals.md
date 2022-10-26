@@ -1,25 +1,25 @@
 # Transform Ability Rituals
 
-## Transform Ability Ritual Ranks
+## Transform Ability Ritual Tiers
 
 ---
-* Ranks Correspond to the following Ritual Rank
-    * Basic: Rank I
+* Tiers Correspond to the following Ritual Levels
+    * Basic: Tier I
         * Active: 2+3
         * Passive: 5
-    * Expert:  Rank III
+    * Advanced:  Tier III
         * Active 3+5
         * Passive 10
-    * Advanced: Rank V
+    * Expert: Tier V
         * Active 5+10
         * Passive 15
-    * High: Rank VII
+    * Master: Tier VII
         * Active 10+10
         * Passive 20
-    * Master: Rank IX
+    * Grandmaster: Tier IX
         * Active 20+10
         * Passive 30
-    * Grand: Rank X
+    * Mythical: Tier X
         * Active 20+20
         * Passive 40
 
@@ -32,7 +32,7 @@
 ## Transform Abilities
 
 ---
-### Basic - Rank I
+### Basic - Tier I
 
 #### Transform Ability: Innate Spell
 | Name: :        | Transform Ability: Innate Spell |
@@ -69,7 +69,7 @@
 | Cost:        | 2 + 3       |
 | Description: | User gains 1/Rest use of a physical strike in the following list: Nerve Strike, Open Artery, Disarm, Eye Gouge, Hamstring, Pinning Projectile, Shield Bash, Split Projectile, Stop Thrust, Sunder Armor, Trip. Strike is dictated by the transform and scroll. |
 
-### Expert - Rank III
+### Advanced - Tier III
 
 #### Transform Ability: Body
 | Name:          | Transform Ability: Body |
@@ -114,7 +114,7 @@
 | Cost:        | 3 + 5  |
 | Description: | User gains 1/Rest use of a physical strike in the following list: Disable Limb, Intimidate, Moment of Opportunity, Sunder Shield, Sunder Weapon, Throat Punch, Volley, Waylay. Strike is dictated by the transform and scroll. |
 
-### Advanced - Rank V
+### Expert - Tier V
 
 #### Transform Ability: Strength
 | Name:          | Transform Ability: Strength                          |
@@ -165,7 +165,7 @@
 | Cost:        | 5 + 10          |
 | Description: | User gains 1/Rest use of a physical strike in the following list: Slay, Murder, Marked for Death, Vital Blow. Strike is dictated by the transform and scroll.    |
 
-### High - Rank VII
+### Master - Tier VII
 
 #### Transform Ability: Dull Pain
 | Name:          | Transform Ability: Dull Pain       |
@@ -188,7 +188,7 @@
 | Cost:        | 20 (Single Purchase)          |
 | Description: | User’s weapons are considered part of their body, and the user may, at their discretion, elect to take 20 points of damage in lieu of letting a weapon suffer from a destruction effect. This may designate all weapons, specific weapons, or shields based on the transform.    |
 
-### Master - Rank IX
+### Grandmaster - Tier IX
 
 #### Transform Ability: Rift Self
 | Name:          | Transform Ability: Rift Self       |
@@ -232,7 +232,7 @@
 | Cost:        | 30 (Single Purchase)          |
 | Description: | This ability allows the user to wield any weapon with remarkable ease. The User may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest Weapon Proficiency, along with any critical strikes or devious strikes, with all weapon types.    |
 
-### Grand - Rank X
+### Mythical - Tier X
 
 #### Transform Ability: Aether Spell
 | Name:          | Transform Ability: Aether Spell       |
