@@ -42,12 +42,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |---|---|---|-----------------------------------------------------------------------------|
 | I     | Blinding Light<br>Glowing Light<br>Mana Bolt | Turn Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
 | II    | Disrupt Aether<br>Halt<br>Identify Magic<br>Magic Missile| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear| Boon of Nature<br>Entangle Foot<br>Plant Spike| 
-| III   | Channeled Destruction<br>Limited Time Stop<br>Reality Anchor| Animate Dead<br>Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom| 
-| IV    | Conjure Weapon<br>Magic Missile<br>Reality Shift†<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Rot Limb<br>Solidify Undead<br>Toxin Shield| Barkskin<br>Entangle Arms<br>Command: Kneel<br>Command: Stun|
+| III   | Channeled Destruction<br>Limited Time Stop| Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom| 
+| IV    | Conjure Weapon<br>Magic Missile<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Rot Limb<br>Toxin Shield| Barkskin<br>Entangle Arms<br>Command: Kneel<br>Command: Stun|
 | V     | Enchanted Blade<br>Entrapment<br>Conjure Shield| Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify| <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome†|
-| VI    | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Personal Dimension†| Dull Pain<br>Destroy Undead <br>Fear| Boon of the Forest<br>Command: Sleep<br>Entangle Body| 
-| VII   | Dimensional Lock<br>Focused Destruction<br>Haste| Absolution<br>Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch| Command: Confused<br>Hold: Enemy| 
-| VIII  | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Pocket Dimension<br>Spell Mirror| Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin|
+| VI    | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Stasis†| Dull Pain<br>Fear<br>Solidify| Boon of the Forest<br>Command: Sleep<br>Entangle Body| 
+| VII   | Dimensional Lock<br>Focused Destruction<br>Haste| Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch| Command: Confuse<br>Confine| 
+| VIII  | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Pocket Dimension<br>Spell Mirror|Destroy Undead <br> Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin|
 | IX    | Circle of Power<br>Dispel Magic<br>Doom| Create Undead<br>Death<br>Dispel Magic<br>Life<br>Resurrection| Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other| 
 
 
@@ -127,13 +127,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | "With arcane forces, I stop time on \<spell name>" |
 | **Description** |  This spell will target a specific spell in effect on the target. Limited Time Stop will pause the duration timer of the targeted spell for 1 minute. Once the Limited Time Stop spell has ended, the duration timer of the targeted spell resumes from where it had stopped. Limited Time Stop cannot be affected by itself and a spell may only be affected by Limited Time Stop once.  This is a PRESERVE effect. |
 
-#### **Reality Anchor**
-| **Spell**            | **Reality Anchor** |
-|      :---        |       :---         |
-| **Duration**     | 20 seconds |
-| **Incant**     | "With arcane forces, I solidify you." |
-| **Description** |  This spell is able to affect creatures that are under the effect of phased form. Reality Anchor solidifies these creatures, removing the protection offered by being in a phased form.  This is a SOLIDIFY effect. |
-
 
 ### Arcane Rank IV
 
@@ -150,13 +143,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | Instant |
 | **Incant**     | "I conjure a magic missile 20." |
 | **Description** |  This spell creates a bolt of magic that does 20 magic damage to the target. |
-
-#### **Reality Shift†**
-| **Spell**            | **Reality Shift†** |
-|      :---        |       :---         |
-| **Duration**     | 20 seconds |
-| **Incant**     | "With arcane forces, I create a reality shift." |
-| **Description** |  This spell shifts the caster out of the current plane of existence for its duration. While this spell is in effect, the caster is immune to effects other than Dispel Magic, and Reality Anchor. The caster cannot move (or be moved) from the location where this spell is cast, and may not communicate with others in any way. While the spell is active, the character may not use any skills or activate any items. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
 
 #### **Spell Aegis**
 | **Spell**            | **Spell Aegis** |
@@ -211,7 +197,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | "With arcane forces, I move across time and space." |
-| **Description** |  This spell will slowly teleport the caster 10 steps in any direction even with the material plane. The teleport must not be impeded by walls or other physical barriers. The teleport will not allow the caster to teleport inside of solid matter. Once this spell is cast, the caster will complete a three second count teleporting out, move their 10 steps, and then three second count for their teleport back in. While in transit, the caster may not communicate with others, use any skills, or activate any items. The character is immune to all game effects except Dispel Magic and Reality Anchor while in transit. When this spell ends, the caster may not cast this spell again for 5 seconds. |
+| **Description** |  This spell will slowly teleport the caster 10 steps in any direction even with the material plane. The teleport must not be impeded by walls or other physical barriers. The teleport will not allow the caster to teleport inside of solid matter. Once this spell is cast, the caster will complete a three second count teleporting out, move their 10 steps, and then three second count for their teleport back in. While in transit, the caster may not communicate with others, use any skills, or activate any items. The character is immune to all game effects except Dispel Magic and Rift Lock while in transit. When this spell ends, the caster may not cast this spell again for 5 seconds. |
 
 #### **Magic Missile**
 | **Spell**            | **Magic Missile** |
@@ -227,22 +213,21 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | "With arcane forces, I nullify this spell. &lt;named spell>." |
 | **Description** |  This spell will instantly remove the named spell effect from the character. This spell is considered a kind of dispel magic effect and will affect spells that are affected by a Dispel Magic while on a character. This spell will not affect spells on inanimate objects. |
 
-#### **Personal Dimension†**
-| **Spell**            | **Personal Dimension†** |
+#### **Stasis†**
+| **Spell**            | **Stasis†** |
 |      :---        |       :---         |
 | **Duration**     | 1 minute |
-| **Incant**     | "I conjure a personal dimension." |
-| **Description** |  This spell transports the caster into a personal sub dimension for a short amount of time. While the character is in their personal dimension, they are immune to all game effects except Dispel Magic and Reality Anchor. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Personal Dimension, and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Personal Dimension. When this spell ends, the caster may not cast this spell again for 5 seconds. |
-
+| **Incant**     | "With arcane forces, I enter stasis" |
+| **Description** |  This spell pulls briefly pull the caster out of time. While the character is in stasis, they are immune to all game effects except Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The effect may be ended by the caster at any point. When this spell ends, the character must immediately announce, "Stasis Down", the caster may not cast this spell again for 5 seconds. |
 
 ### Arcane Rank VII
 
-#### **Dimensional Lock**
-| **Spell**            | **Dimensional Lock** |
+#### **Rift Lock**
+| **Spell**            | **Rift Lock** |
 |      :---        |       :---         |
 | **Duration**     | 20 Seconds |
-| **Incant**     | "I conjure a dimension lock." |
-| **Description** |  This spell prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Tree Stride, and Rune of Recall.  This is a TELEPORT BLOCK effect. |
+| **Incant**     | "I conjure a rift lock." |
+| **Description** |  This spell interrupts and prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Tree Stride, Rift, and Rune of Recall.  This is a RIFT LOCK effect. |
 
 #### **Focused Destruction**
 | **Spell**            | **Focused Destruction** |
@@ -397,7 +382,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | Instant |
 | **Incant**     | "By the spirits, I harm this undead 20." |
-| **Description** |  This spell will cause 20 points of health damage to an undead target. |
+| **Description** |  This spell will cause 20 points of body damage to an undead target. |
 
 #### **Healing Touch**
 | **Spell**            | **Healing Touch** |
@@ -415,13 +400,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 
 ### Spirit Rank III
-
-#### **Animate Dead**
-| **Spell**            | **Animate Dead** |
-|      :---        |       :---         |
-| **Duration**     | 5 minutes |
-| **Incant**     | "Fiends of the dark nether, I bid this body to serve." |
-| **Description** |  This spell will animate a freshly dead body to temporarily serve the caster of the spell. The result of this spell is a barely useful animated dead body. While animated, the death count of the body is halted. The animated corpse has no skills, cannot speak, and can only move at a slow walk. The animated corpse may attack with its base weapon damage or with base claws. Once the spell has ended, the death count resumes, and is free to go about its resurrection process. The spirit cannot be rebound by this spell until the next day or until the spirit resurrects and dies again. This is a VOICE CONTROL effect. |
 
 #### **Cause Weakness**
 | **Spell**            | **Cause Weakness** |
@@ -468,12 +446,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | "Fiends of the dark nether, rot this &lt;limb>." |
 | **Description** |  This spell causes the target’s limb to become completely useless. Any items that are held by the rotting limb do not drop to the ground.  This is a DISARM effect. |
 
-#### **Solidify Undead**
-| **Spell**            | **Solidify Undead** |
+#### **Toxin Shield**
+| **Spell**            | **Toxin Shield** |
 |      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I solidify your body." |
-| **Description** |  This spell will instantly reform an undead creature that has taken a non-corporeal form, rendering the undead vulnerable to attack.  This is a SOLIDIFY effect. |
+| **Duration**     | Rest |
+| **Incant**     | "By the spirits, I grant you a toxin shield." |
+| **Description** |  This spell grants the caster a single Resist Toxin. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 
 ### Spirit Rank V
@@ -523,13 +501,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank VI
 
-#### **Destroy Undead**
-| **Spell**            | **Destroy Undead** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I destroy undead." |
-| **Description** |  This spell will instantly destroy an undead creature. Some powerful undead creatures may suffer partial damage from this spell instead of being destroyed outright.  This is a DESTROY effect. |
-
 #### **Fear**
 | **Spell**            | **Fear** |
 |      :---        |       :---         |
@@ -537,21 +508,14 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | "By the spirits, I cause fear." |
 | **Description** |  This spell will cause the target to tremble uncontrollably in fear and be unable to attack. The target may still defend and will attempt to leave the area while the fear is in effect.  This is a FEAR effect. |
 
-#### **Toxin Shield**
-| **Spell**            | **Toxin Shield** |
+#### **Solidify**
+| **Spell**            | **Solidify** |
 |      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | "By the spirits, I grant you a toxin shield." |
-| **Description** |  This spell grants the caster a single Resist Toxin. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
+| **Duration**     | Instant |
+| **Incant**     | "By the spirits, I solidify your form." |
+| **Description** |  This spell will cause a gaseous, incorporeal, or phased-out target to reform physically on a 3-count, removing the gaseous or incorporeal effect.  This is a SOLIDIFY effect. |
 
 ### Spirit Rank VII
-
-#### **Absolution**
-| **Spell**            | **Absolution** |
-|      :---        |       :---         |
-| **Description** |  **Duration**: |
-| **Incant**     | "By the spirits, I offer you absolution." |
-| **Description** |  This spell will do 50 points of damage to an undead creature. |
 
 
 #### **Curse**
@@ -591,6 +555,13 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank VIII
 
+#### **Destroy Undead**
+| **Spell**            | **Destroy Undead** |
+|      :---        |       :---         |
+| **Duration**     | Instant |
+| **Incant**     | "By the spirits, I destroy undead." |
+| **Description** |  This spell will instantly reduce a Minor or Lesser Undead creature to 0 body. Greater, Master, and other more powerful Undead suffer 80 points of damage, bypassing armor, instead of being destroyed outright. |
+
 #### **Limited Phylactery†**
 | **Spell**            | **Limited Phylactery†** |
 |      :---        |       :---         |
@@ -620,7 +591,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | 5 minutes |
 | **Incant**     | "Fiends of the dark nether, force this minion to rise and serve." |
-| **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target’s spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Lesser Undead, and is obviously recognizable as _Undead &lt;Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
+| **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target’s spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead &lt;Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
 
 #### **Death**
 | **Spell**            | **Death** |
@@ -794,7 +765,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |      :---        |       :---         |
 | **Duration**     | 1 minute |
 | **Incant**     | "By the flora, I enter a treehome." |
-| **Description** |  This spell will allow the caster to become absorbed into a physical tree that the caster is touching at the time of casting. While absorbed into the tree, the caster and tree are both protected from any game effects other than Dispel Magic and Reality Anchor. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Treehome and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Treehome. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
+| **Description** |  This spell will allow the caster to become absorbed into a physical tree that the caster is touching at the time of casting. While absorbed into the tree, the caster and tree are both protected from any game effects other than Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Treehome and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Treehome. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
 
 ### Nature Rank VI
 
@@ -822,18 +793,18 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Nature Rank VII
 
-#### Command: Confused
-| **Description** |  Command: Confused  |
+#### Command: Confuse
+| **Description** |  Command: Confuse  |
 |      :---        |       :---         |
 | *Duration**: | 20 seconds |
 | **Incant**     | "By nature, I command you to be confused." |
 | **Description** |  This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect |
 
-#### **Hold: Enemy**
-| **Spell**            | **Hold: Enemy** |
+#### **Confine**
+| **Spell**            | **Confine** |
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
-| **Incant**     | "By nature, I hold you still." |
+| **Incant**     | "By nature, I confine you." |
 | **Description** |  This spell renders the target completely unable to move while under the effects of this spell.  This is a CONFINE effect. |
 
 ### Nature Rank VIII
