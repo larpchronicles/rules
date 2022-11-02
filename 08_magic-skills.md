@@ -40,14 +40,14 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 | Level | Arcane | Spirit| Nature                                                                      | 
 |---|---|---|-----------------------------------------------------------------------------|
-| I     | Blinding Light<br>Glowing Light<br>Mana Bolt | Turn Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
+| I     | Blinding Light<br>Glowing Light<br>Mana Bolt | <br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
 | II    | Disrupt Aether<br>Halt<br>Identify Magic<br>Magic Missile| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear| Boon of Nature<br>Entangle Foot<br>Plant Spike| 
 | III   | Channeled Destruction<br>Limited Time Stop| Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom| 
 | IV    | Conjure Weapon<br>Magic Missile<br>Spell Aegis<br>Spell Ward<br>Temporal Shift† | Rot Limb<br>Toxin Shield| Barkskin<br>Entangle Arms<br>Command: Kneel<br>Command: Stun|
 | V     | Enchanted Blade<br>Entrapment<br>Conjure Shield| Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify| <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome†|
 | VI    | Limited Teleport†<br>Magic Missile<br>Nullify Spell<br>Stasis†| Dull Pain<br>Fear<br>Solidify| Boon of the Forest<br>Command: Sleep<br>Entangle Body| 
 | VII   | Dimensional Lock<br>Focused Destruction<br>Haste| Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch| Command: Confuse<br>Confine| 
-| VIII  | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Pocket Dimension<br>Spell Mirror|Destroy Undead <br> Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin|
+| VIII  | Blur Image†<br>Destruction Ward<br>Magic Missile<br>Bag of Holding<br>Spell Mirror|Destroy Undead <br> Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Flesh to Stone<br>Stone to Flesh<br>Stoneskin|
 | IX    | Circle of Power<br>Dispel Magic<br>Doom| Create Undead<br>Death<br>Dispel Magic<br>Life<br>Resurrection| Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other| 
 
 
@@ -268,12 +268,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | "I conjure a magic missile 40." |
 | **Description** |  This spell creates a bolt of magic that does 40 magic damage to the target. |
 
-#### **Pocket Dimension**
-| **Spell**            | **Pocket Dimension** |
+#### **Bag of Holding**
+| **Spell**            | **Bag of Holding** |
 |      :---        |       :---         |
 | **Duration**     | Rest |
-| **Incant**     | "I conjure a pocket dimension." |
-| **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows game cards to be stored within the container without the need for also carrying the physical representation. Once a game card is removed from the container, the player must provide a physical representation as required by the game card. Once the pocket dimension ends, all game cards are ejected from the container. The game cards must then be taken to a game storage location if no suitable physical representations are available. A Pocket Dimension container is not protected from destruction by the Pocket Dimension spell; should a Pocket Dimension container be destroyed, all items within the container are also destroyed. A pocket dimension may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs, and PCs cannot be stored within the pocket dimension without express permission from the Plot Team. |
+| **Incant**     | "I conjure a bag of holding." |
+| **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows game cards to be stored within the container without the need for also carrying the physical representation. Once a game card is removed from the container, the player must provide a physical representation as required by the game card. Once the bag of holding ends, all game cards are ejected from the container. The game cards must then be taken to a game storage location if no suitable physical representations are available. A Pocket Dimension container is not protected from destruction by the Pocket Dimension spell; should a Pocket Dimension container be destroyed, all items within the container are also destroyed. A bag of holding may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs, and PCs cannot be stored within the bag of holding without express permission from the Plot Team. |
 
 #### **Spell Mirror**
 | **Spell**            | **Spell Mirror** |
@@ -345,13 +345,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Duration**     | Instant |
 | **Incant**     | "By the spirits, I transfer this malady. &lt;effect name>" |
 | **Description** |  This spell allows the caster to transfer a named existing effect from the target to themself. The caster of Transfer Malady must not already be suffering from the effect being transferred. Upon being transferred, the caster has the opportunity to resist the effect if there is a valid resist available to the caster of Transfer Malady. If the effect is not resisted, the effect’s duration is renewed upon the caster. The following effects may be transferred: Any TOXIN effect, CURSE, WEAKNESS, SLEEP, SLOW, STUN. |
-
-#### **Turn: Undead**
-| **Spell**            | **Turn: Undead** |
-|      :---        |       :---         |
-| **Duration**     | 20 seconds |
-| **Incant**     | "By the spirits, I turn undead" |
-| **Description** |  This spell will force the target minor undead to attempt to leave the combat area. If there is no path to flee the combat area, the spell immediately ends. A minor undead affected by this spell will not attempt to defend itself or attack as it attempts to flee the combat area. This is a FEAR effect. |
 
 
 ### Spirit Rank II
