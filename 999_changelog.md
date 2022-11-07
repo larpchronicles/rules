@@ -1,5 +1,70 @@
 # Changelog
 
+## v2.7 - [2022-11-06]
+
+---
+## Goblin Points
+* New Reward:  I Got a Hot Pocket.  Good for a free meal ticket.
+* Clarification to Goblin Tags for players with under 200 SP.
+
+## Magic
+* Elemental Shift - Target with effect may choose to deal Magic/Normal or Element.
+
+<u>Arcane</u>
+* Arcane Mastery - Will now detect and identify magic.
+* Channeled Destruction - Removed.
+* Destruction Ward - Removed.
+* Dimensional Lock - Renamed to Rift Lock.
+* Focused Destruction - Renamed to Destroy.
+* Identify Magic - Removed.  Identify effect moved to Arcane Mastery.
+* Magic Missile 10, 20, 30, 40 - Removed.
+* Mana Bolt - May now be cast at any rank as Magic or Element (Elemental Shift) where damage = 5x mana spent.
+* Personal Dimension - Renamed to Stasis.  Removed “hidden” effects.
+* Pocket Dimension - Renamed to Bag of Holding.
+* Reality Anchor - Removed.
+* Spell Ward - Removed.
+
+<u>Nature</u>
+* Command: Confused - Renamed to Command: Confuse
+* Flesh to Stone - Replaced with Petrify.
+* Hold:  Enemy - Renamed to Confine.
+* Petrify - NEW. Acts as Stasis, but can be cast on others.  Target can still take damage and can be moved.
+* Stone to Flesh - Removed.
+
+<u>Spirit</u>
+* Absolution - Removed.
+* Animate Dead - Removed.
+* Create Undead - Clarifications in description. 
+* Cure Body - Will remove PETRIFY effect. 
+* Destroy Undead - Clarified damage to Greater and Master undead as 80.  Crumbles all Lesser and Minor undead.  Moved from Rank 6 to Rank 8
+* Solidify Undead - Renamed to Solidify.  Now works on any gaseous or incorporeal target. Moved to Rank 6.
+* Toxin Shield - Updated to Rank 4. 
+* Turn Undead - Removed.
+
+## Martial
+* Destroy - NEW.  Destroy effect on target item.  Replaced Sunder abilities.  Requires Two-Handed Weapon or Ranged Weapon, and Critical Strike 3.
+* Sunder Armor - Replaced by Destroy.
+* Sunder Shield - Removed.
+* Sunder Weapon - Removed.
+
+## Production
+<u>Artificing</u>
+* Formulas above Rank 5 no longer require unique crafting materials.
+* Four new formulas available in the Standard Library.
+  * Rank 1 - The Hearthstone
+  * Rank 4 - Bracers of the Seasons
+  * Rank 9 - The Librarian
+  * Rank 10 - Vessel of Salvation
+
+<u>Recycling</u>
+* Clarification added to prevent unintended use of Recycling on items that are activated or in use.
+
+## Status Effects
+* PETRIFY - Target may not move, communicate in any manner, activate items, or use any game skills for duration.  Target receives damage normally and can be moved.
+* RIFT LOCK - Target may not use any teleportation abilities or items.
+* STASIS -  Target may not move, communicate in any manner, activate items, or use any game skills for duration.  Target does not take damage and cannot be moved.  Target may choose to end the effect early.
+* WARD - Removed.
+
 ## v2.6 - [2022-09-25]
 
 ---
