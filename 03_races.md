@@ -255,7 +255,7 @@ A fairly rare sight in Evren, the Kindred are the most diverse of the races in t
 
 **Racial Abilities**:
 
-*Ferocity*: Kindred may call upon their inner ferocity to power their blows. Once per rest, a Kindred can announce “Ferocity” to activate this ability, adding +5 weapon damage against one enemy.  A Kindred under this effect may not retreat and is immune to fear and charming effects. Lasts 5 minutes.
+*Ferocity*: Kindred may call upon their inner ferocity to power their blows. Once per rest, a Kindred can announce “Ferocity” to activate this ability, adding +5 weapon damage against one enemy.  A Kindred under this effect may not run from a fight and is immune to fear effects. Lasts 5 minutes.
 
 *Begin the Hunt*: Possessing similar strengths to the creatures they resemble, many Kindred have become adept at honing and relying on their instincts or acute senses.  Once per day, a Kindred may focus themselves and enhance an existing purchase of Tracking by 1 additional Slot.  If the Kindred has 0 Tracking, they may use an assumed 2 for this ability.
 
