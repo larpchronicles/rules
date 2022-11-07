@@ -96,13 +96,6 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Description** | This spell prevents the target from advancing into combat until the spell has ended or is removed. This is a STOP THRUST effect. |
 
 
-#### **Identify Magic**
-| **Spell**            | **Identify Magic** |
-|      :---        |       :---         |
-| **Duration**     | 5 Minutes |
-| **Incant**     | "With arcane forces, I reveal your secrets." |
-| **Description** |  This spell allows the caster the ability to identify the nature and workings of enchantments on an item/creature by touching the item/creature for 3 seconds. |
-
 #### **Magic Missile**
 | **Spell**            | **Magic Missile** |
 |      :---        |       :---         |
