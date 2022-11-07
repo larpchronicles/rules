@@ -1,32 +1,45 @@
-# LARP Chronicles Ruleset v2.6
+# LARP Chronicles Ruleset v2.7
+
+Welcome to the Chronicles rules repo! The main branch of this repo is always the currently-used rules for our game.
+
+If you would like to make any corrections or contributions to the rules documents, please create a pull request with your changes for review!
+
+Discord https://discord.gg/W5BvAHzAWh  
+Facebook: https://www.facebook.com/groups/545002000131502  
+Email at plot@larpchronicles.com
 
 ## Chronicles Staff
 
 ---
 * **Owner**:  Justin Doyle
 * **Community Manager**:  Jessica Niblick
-* **Business Manager**:  Steph Murphy
+* **Business Manager**:  Steph Doyle
 
 ## Chronicles Plot Team
 
 ---
 * Justin Doyle
-* Bryan Strahm - On paternity leave.
+* Keith Wooton
 * Ryan Sanders
+* Bryan Strahm - On paternity leave.
 
 ## Rules Committee
 
 ---
 Current Members:
-* Bryan Strahm - On paternity leave.
 * James Mullen
 * Jessica Niblick
 * Jon Batchelor
 * Justin Doyle
+* Keith Wooton
 * Mike Ward
 * Ryan Sanders
-* Steph Murphy
+* Steph Doyle
 * Trystian Boring
+* _Bryan Strahm - On paternity leave._
+
+
+
 
 ## Rule Doc Naming Convention
 
@@ -66,15 +79,6 @@ These zones are valid.
 ### Illegal Strike Zones.
 These zones are invalid.
 ```
-# Armor Rules
-
-## Armor Strike Zones
-
----
-These zones are valid.
-
-### Illegal Strike Zones.
-These zones are invalid.
 
 ## Rule Doc Table Formatting Guidelines
 
@@ -100,3 +104,5 @@ Both formats will yield the table below:
 |:---------------------|:----------------:|:----------------:|
 | Left-Aligned Content | Centered Content | Centered Content |
 | Left-Aligned Content | Centered Content | Centered Content |
+
+
