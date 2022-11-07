@@ -65,6 +65,11 @@
 * STASIS -  Target may not move, communicate in any manner, activate items, or use any game skills for duration.  Target does not take damage and cannot be moved.  Target may choose to end the effect early.
 * WARD - Removed.
 
+## Weapon Rules
+* Clarified weapon sizes.
+* Added information about courtesy and shaft padding.
+* Added dimensional information for weapon heads.
+
 ## v2.6 - [2022-09-25]
 
 ---
