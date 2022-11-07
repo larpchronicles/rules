@@ -56,10 +56,10 @@ Item production is the process by which characters are able to craft consumable 
 >Any item that is non-consumable has a Durability rating. An item’s durability is reduced by one at the beginning of every event, and when an item’s Durability reaches 0, it is no longer usable, except for Recycling, see below. A player must check in all items they intend to use or have available to use at the beginning of an event. Any item that is not checked in and has its Durability marked down, is not legal for in-game use until it has been marked by Plot. Consumable items and Materials have an effective Durability of “Until Used”, and may not be Recycled.
 
 ## Recycling Items
->An item that has been reduced to 0 Durability, destroyed by a spell or skill, or an item that a player no longer wishes to use, may be Recycled by a player with the skill. An item that is Recycled will return 1/3rd of the ranks in materials used to construct it, rounded down to a minimum of one. These materials can either be claimed for future use, or utilized immediately in the construction of a new item.
+>An item that has been reduced to 0 Durability, destroyed by a spell or skill, or an item that a player no longer wishes to use, may be Recycled by a player with the skill. Items that are in use or activated, such as locks, may not be Recycled.  An item that is Recycled will return 1/3rd of the ranks in materials used to construct it, rounded down to a minimum of one. These materials can either be claimed for future use, or utilized immediately in the construction of a new item.
 
 ## Artificing
->Artificing is the study of the creation of magic items. Only those with at least a moderate command of each base craft can take the path of an Artificer. The creation of a magic item will vary wildly in its needs based on the item. Magic items always require materials from multiple disciplines. They also require spirit gems for the infusion of their impressive powers. Lastly, more powerful items may require specific, unusual, or rare materials to be acquired in order to complete. All Artificers have access to a few base recipes that they may craft at will. Other items will require the development or acquisition of a Formula in order to be created. Formulas may also potentially be memorized, or even taught to others, depending on the Formula. Artificing requires 5 ranks in each production type.
+>Artificing is the study of the creation of magic items. Only those with at least a moderate command of each base craft can take the path of an Artificer. The creation of a magic item will vary wildly in its needs based on the item. Magic items always require materials from multiple disciplines. They also require spirit gems for the infusion of their impressive powers. All Artificers have access to a few base recipes that they may craft at will. Other items will require the development or acquisition of a Formula in order to be created. Formulas may also potentially be memorized, or even taught to others, depending on the Formula. Artificing requires 5 ranks in each production type.
 
 ## Weapon Auras
 >By default, a base weapon will use Normal as its **Damage Type**.
@@ -527,7 +527,7 @@ Item production is the process by which characters are able to craft consumable 
 
 >Artificing is a complex and daunting process that only the most dedicated of individuals dedicated to crafting can undertake. Only those with a decent grasp of all four crafting disciplines _(5 Ranks in each Skill)_ can walk the path of the Artificer, and it is this experience that will allow them to combine materials into effects that are greater than the sum of their parts, which many refer to as “Magic Items”. Artificers, like regular crafters, utilize recipes for their creations, though the recipe for a magic item is known as a Formula. All Artificers have access to a Standard Library of Formulas, which they may utilize at any time, given they have the appropriate materials to construct the desired item. Other items are known to exist, which are known as “Uncommon Formulas”, and Artificers may even attempt to invent their own, but these Formulas must first be created or discovered to utilize new and different items.
 
->A Magic Item will generally require the following for materials in order to be crafted. A number of materials of various kinds, with a total in material ranks equal to 10 times the Rank of the Magic Item, number of Spirit Gems equal to the Rank of the Item, and Items with Rank 5 and above will require unusual materials, sometimes multiple, that the Artificer or their companions will have to seek out in the greater world to infuse their creations with an extra spark of Magic. All Magic Items have a 10 Durability.
+>A Magic Item will generally require the following for materials in order to be crafted. A number of materials of various kinds, with a total in material ranks equal to 10 times the Rank of the Magic Item, number of Spirit Gems equal to the Rank of the Item. All Magic Items have a 10 Durability.
 
 >Uncommon Formulas may sometimes be Memorized or even Taught by Artificers. Formulas discovered in the world will have a notation on them indicating if they can be Memorized, and if so, how many times before the Formula is no longer functional. They may also have a notation for how many times a Formula may be Taught after being Memorized, if it may be Memorized at all. If an Uncommon Formula is not capable of being Memorized, or the Artificer does not wish to Memorize it, then when attempting to create the item the Formula must be shown to Logistics before the item tag will be produced.
 
@@ -537,9 +537,9 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Rank I
 
-#### ?
->?
->?
+#### The Hearthstone
+   >This is a warm stone that when held during Rest, the user regains a single hit point per minute.  This is a passive effect.  This item cannot heal the holder if the holder is Dying or Dead.
+   >5 Alchemy Materials, 5 Rune Carving Materials, 5 Smithing Materials, 1 Spirit Gem. 
 
 ### Rank II
 
@@ -567,6 +567,9 @@ Item production is the process by which characters are able to craft consumable 
 #### Blade of Elemental Striking
    >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental effects to harm. While wielding, the wearer may use a Flame/Frost/Shock/Stone carrier for weapon blows. The damage type is chosen at creation.<br/>
    >20 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 4 Spirit Gems
+#### Bracers of the Seasons
+   >These gauntlets will allow the wearer to change their Mana Bolts to cast with Flame/Frost/Magic/Shock/Stone without the wearer needing an active Elemental Shift.
+   >20 Smithing Materials, 10 Rune Carving Materials, 10 Tinkering Materials, 4 Spirit Gems.
 
 ### Rank V
 
@@ -575,43 +578,43 @@ Item production is the process by which characters are able to craft consumable 
    >30 Alchemy Materials, 10 Rune Carving Materials, 4 Spirit Gems
 #### Changeling’s Mask
    >Utilizing the incredible capabilities of a shape-shifter, this Full Face Mask allows the wearer to assume the appearance of a member of the Mask’s race, though they are still recognizable. This cannot be used to emulate other people. If the Mask is removed or is not fully covering the user’s face, the effect fades immediately. This may be used 1/day and the change lasts until the user completes a Rest.<br/>
-   >30 Rune Carving Materials, 20 Tinkering Materials, 5 Spirit Gems, Skin from a Shapechanger.
+   >30 Rune Carving Materials, 20 Tinkering Materials, 5 Spirit Gems.
 #### Accompanying Amulet
    >A boon to Bards of all kinds, the Accompanying Amulet allows the wearer to benefit from their own use of the Performance skill, by replaying their own music, stories or other Performance back to them. This is a Passive effect.<br/>
-   >20 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 5 Spirit Gems, Tears of a Siren.
+   >20 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 5 Spirit Gems.
 
 ### Rank VI
 
 #### Cards of Collusion
    >The Player may use this special deck of cards to spread the power of their Gambling skill to multiple participants. For each rank of Gambling the user possesses, a single participant in the game may benefit from the skill, including themself. All normal Gambling requirements apply, including the need for actual currency or valuable items to be bet. The cards actively prevent any participant from cheating. (This is a good-faith effect, assuming no players are abusing this or metagaming.) This is a Passive effect.<br/>
-   >30 Alchemy Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems, Pixie Dust
+   >30 Alchemy Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems.
 
 ### Rank VII
 
 #### Blade of Beginner’s Luck
    >Enhanced with the Luck of a 5-Leaf Clover, this specially treated blade finds unlikely avenues and helps the wearer strike true where otherwise their blow may have been turned aside. The wielder does +5 Bonus Damage on all uses of any Critical Strike skill while wielding this Blade. But Luck is Fickle, and harder to come by as one grows older, as such, only an individual with 250 total SP or less may benefit from this weapon. This is a Passive effect.<br/>
-   >40 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 7 Spirit Gems, 5-Leaf Clover.
+   >40 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 7 Spirit Gems.
 #### Cutting Deck
    >A deck made of specially refined and treated cards, this allows the user to bring their Card-slinging skills onto the battlefield. Three times per day, a user may spend a rank of their Gambling Skill to throw a single packet for 25 Magic. The user does not regain the spent Gambling ranks until after completing a rest.<br/>
-   >30 Rune Carving Materials, 20 Alchemy Materials, 20 Smithing Materials, 7 Spirit Gems, Razorwhip Reeds
+   >30 Rune Carving Materials, 20 Alchemy Materials, 20 Smithing Materials, 7 Spirit Gems.
 
 ### Rank VIII
 
 #### Blade of Mystic Striking
    >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental OR Magic effects to harm. While wielding, the wearer may deal Flame/Frost/Shock/Stone damage with weapon blows. The damage type is chosen at creation. They may also choose to instead deal Magic damage with their weapon blows. They may only choose to use one of these at a time.<br/>
-   >40 Smithing Materials, 20 Rune Carving Materials, 10 Alchemy Materials, 10 Tinkering Materials, 8 Spirit Gems, Elementally Infused Ore
+   >40 Smithing Materials, 20 Rune Carving Materials, 10 Alchemy Materials, 10 Tinkering Materials, 8 Spirit Gems.
 
 ### Rank IX
 
-#### ?
-   >?
-   >?
+#### The Librarian
+   >This dusty old book grants the user a 1/daily use of Voice Radius Silence.  It is activated by the verbal "Shhhhhh! Voice Radius Silence."  When used, the effect goes to the user as well.
+   >40 Rune Carving Materials, 40 Alchemy Materials, 9 Spirit Gems.
 
 ### Rank X
 
-#### ?
-   >?
-   >?
+#### Vessel of Salvation
+   >This item allows the user to double the duration of a target's Dying count from 5 minutes to 10 minutes.  It must be used prior to the target beginning their Dying count.  This item is ineffective on targets that crumble at 0 body or targets that have a spirit bottle.  This effect may not be stacked, modified, or removed from the target.
+   >50 Rune Carving Materials, 30 Alchemy Materials, 20 Smithing Materials, 10 Spirit Gems.
 
 ## Uncommon Formulas
 
@@ -631,19 +634,19 @@ Item production is the process by which characters are able to craft consumable 
 
 #### Cat’s Eye Dice
    >These  polished gemstone dice are infused with the ability to harness the luck of Gambling to help an unlucky Gambler in their moment of need. Twice per day, when starting a round of Gambling, the user may invoke the power of these dice to bless the upcoming round. The person who wins the round of Gambling gains a single use of the Endurance skill. Should the user win the round, they gain a use of Endurance, and a use of Second Wind. These benefits last until used or a day passes. A single individual may not stack multiple instances of benefits from this item. The item cannot be used unless you possess ranks in Gambling.<br/>
-   >10 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 3 Spirit Gems
+   >10 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 3 Spirit Gems.
 
 ### Rank IV
 
 #### Mama’s Cast Iron
    >Seasoned properly and treated just right, this Cast Iron Skillet is the bane of any ne’er-do-well who thought to pull one over on Mama. In the hands of a Cook, this allows the Cook to bring their Cooking Skills to bear when putting people down and out. While wielding, three times a day, the User may spend a rank of Cooking as if it was Waylay. They cannot spend ranks of Cooking that have already been used to prepare a Dish. The user does not regain the spent Cooking ranks until after they complete a Rest.<br/>
-   >30 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems, Chunk of Specially Seasoned Iron
+   >30 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems.
 
 ### Rank V
 
 #### Globe of Radiance
    >A ball that sparkles in the dimmest of lights, this item is a specially designed focus for a Mage who can use the spell Blinding Lights. Once per day, the bearer may deliver Blinding Light as Voice Radius by channeling the spell through the Globe, however, the light is so bright that it in turn also affects the user.<br/>
-   >20 Tinkering Materials, 20 Rune Carving Materials, 10 Smithing Materials, 5 Spirit Gems, Captured Sunbeam
+   >20 Tinkering Materials, 20 Rune Carving Materials, 10 Smithing Materials, 5 Spirit Gems.
 
 ### Rank VI
 
@@ -655,7 +658,7 @@ Item production is the process by which characters are able to craft consumable 
 
 #### Turtle’s Torc
    >Infused with the Protective nature of a Dragon Turtle’s Shell, this Torc is designed to enhance and amplify the protective magics of the user, allowing them to spread the effects wider by channeling the magic through their voice and the Torc. Three times a day, after an individual spends a full 5 Minutes Performing, they may Voice Radius deliver a single cast of either Barkskin, Other or Spell Aegis, Other.<br/>
-   >30 Smithing Materials, 30 Rune Carving Materials, 10 Alchemy materials, 7 Spirit Gems, a Fragment of a Turtle Dragon’s Shell.
+   >30 Smithing Materials, 30 Rune Carving Materials, 10 Alchemy materials, 7 Spirit Gems.
 
 ### Rank VIII
 
@@ -673,4 +676,4 @@ Item production is the process by which characters are able to craft consumable 
 
 #### Mage’s Folly
    >An item of fearsome power and renown, it earned its name for the often fatal after effects of those with the hubris to use this item without proper respect for the consequences. At will, the wearer of Mage’s Folly may Voice Radius deliver any spell they are capable of casting. However, upon doing so they are struck by a Non-Resistable, Incurable Silence effect, which is only removed after the wearer benefits from a full 2 Hour Rest. This item may not be used to deliver any Self only spells, any spells that only affect items (ex: Focused Destruction), or Circle of Power.<br/>
-   >50 Rune Carving Materials, 30 Smithing Materials, 20 Tinkering Materials, 10 Spirit Gems, the Vocal Cords of a Banshee, the Lungs of a Whale.
+   >50 Rune Carving Materials, 30 Smithing Materials, 20 Tinkering Materials, 10 Spirit Gems.
