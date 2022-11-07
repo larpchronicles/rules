@@ -12,7 +12,7 @@ A Mastery skill is purchased in order to grant a character access to a school of
 | Nature Mastery    | 5   | 5   | 5   | 3   |
 
 ### Arcane Mastery
-This skill allows the character to spend one minute of concentration to attune themselves to the flow of Evren’s Aether in order to detect magic by simply touching an item or person. Once the character has achieved attunement, the character may continue to detect magic until their concentration is broken. This detect magic ability will reveal the presence of magic on an item, or person, and the type of magic that is present. There does exist some magic able to fool even these extraordinary senses. 
+This skill allows the character to Identify an item or target after 60 seconds of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character. 
 
 
 ### Spiritual Mastery
