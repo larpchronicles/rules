@@ -1,27 +1,44 @@
 # Weapon Rules
 
-## Weapon Reps
+## Weapon Requirements
 
 ---
 * All combat reps must be certified as safe. Safety checks for all combat reps may be performed at check-in.  Safety checks MUST be performed EVERY EVENT; they do not carry over from prior events.  A marshal may request to inspect your reps at any time during the event, and, if deemed unsafe, may lose their safety certification.
 * Claws / Bites or Unarmed weapons must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.
-* Real archery reps are restricted.  Gameplay uses packet bow shooter designs.
+* Real archery reps are disallowed.  Packet Bows are allowed on a case-by-case basis.
 
 
-| WEAPON              | BLADE LENGTH | HANDLE LENGTH | TOTAL LENGTH | HEAD REQUIRED |
-|:--------------------|:------------:|:-------------:|:------------:|:-------------:|
-| Short Sword / Claws |  18" - 24"   |    5"-14"     |   24"-<36"   |      No       |
-| Short Blunt / Axe   |  18" - 24"   |    5"-14"     |   24"-<36"   |      Yes      |
-| Long Sword / Bites  |   25"-36"    |    5"-14"     |   36"-48"    |      No       |
-| Long Blunt / Axe    |   25"-36"    |    5"-14"     |   36"-48"    |      Yes      |
-| Two-Handed Sword    |   40"-48"    |    5"-30"     |   >48"-62"   |      No       |
-| Two-Handed Blunt    |   40"-48"    |    5"-30"     |   >48"-62"   |      Yes      |
-| Spear (One-Handed)  |   20"-45"    |    5"-30"     |   48"-<60"   |      No       |
-| Polearm             |   40"-48"    |    5"-30"     |   60"-72"    |      Yes      |
+| WEAPON              | STRIKING SURFACE | HANDLE LENGTH | TOTAL LENGTH | HEAD REQUIRED |
+|:--------------------|:----------------:|:-------------:|:------------:|:-------------:|
+| Short Sword / Claws |    18" - 24"     |   5" - 14"    |   24" - 36"  |      No       |
+| Short Blunt / Axe   |    18" - 24"     |   5" - 14"    |   24" - 36"  |      Yes      |
+| Long Sword / Bites  |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      No       |
+| Long Blunt / Axe    |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      Yes      |
+| Two-Handed Sword    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      No       |
+| Two-Handed Blunt    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      Yes      |
+| Spear (One-Handed)  |    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
+| Polearm             |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
 
+### Striking Surface ### 
+The striking surface specifies the minimum and maximum amount of padded striking surface the weapon *must* have. _Any weapon that has less padding than the specified minimums will not pass inspection, even if it falls within the Total Length requirements!_
 
-### Weapon Crafting Materials
-* Ultralight Cores of carbon fiber, kitespar tube, fiberglass tube, or wrapped graphite tube.  Aluminum cores are only used for polearms.  Diameter should be between .414-.610".
+### Handle Length ###
+The handle length specifies the minimum and maximum length of the handle by which the weapon can be wielded or held.
+
+`Example: A Short Sword with a 14" handle will have to be at least 32" long overall, to accommodate the minimum striking surface length of 18" (14" handle + 18" striking surface = 32" total length). It is not possible to make a 24" long Short Sword that has a 14" handle; the blade would be only 10" long, which is less than the minimum (18") for the striking surface of a short sword.`
+
+### Weapon Heads ###
+Axes, blunt weapons, and polearms are required to have an open cell foam "head" that clearly conveys what the weapon represents. The minimum size of a weapon head is 4"x2"x2".  
+
+### Weapon Construction ###
+All weapons must have at least 5/8" of closed cell foam (ie, pipe foam, crosslinked EVA foam, etc.) completely covering the striking surface.
+
+Thrusting tips must be at least 2" of open cell foam, and the core of the weapon must not be able to be felt through the thrusting tip. _Weapons that do not have an open cell foam thrusting cannot be used to thrust or jab!_
+
+All weapons must have a closed cell foam pommel that completely envelopes the pommel end of the weapon core. This can be pipe foam, EVA foam, a foam fishing butt cap, or similar.
+
+## Weapon Crafting Materials ##
+* Ultralight Cores of carbon fiber, kitespar tube, fiberglass tube, or wrapped graphite tube.  Aluminum cores may only used for polearms.  Diameter should be between .414-.610".
 * Closed Cell Foam.  This can be pipe foam insulation and pool noodles and is used to pad the “blade" of a boffer.  It should have a wall at least 5/8" thick.
 * Open Cell Foam.  Used for boffer tips, this is a less dense foam commonly found in fabric stores as fill for pillows or in hardware stores as pipe foam.
 * Kite Tape or nylon rip stop repair tape.  Preferred vendor - [FunWithWind](https://funwithwind.com/store/ListCategoriesAndProducts2.asp?idCategory=186&idparent=171)
