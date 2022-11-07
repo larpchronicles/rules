@@ -59,6 +59,9 @@
 <u>Recycling</u>
 * Clarification added to prevent unintended use of Recycling on items that are activated or in use.
 
+## Races
+* Updated wording for Kindred ability Ferocity to remove mention of charming effects and clarify the retreat limitation.
+
 ## Status Effects
 * PETRIFY - Target may not move, communicate in any manner, activate items, or use any game skills for duration.  Target receives damage normally and can be moved.
 * RIFT LOCK - Target may not use any teleportation abilities or items.
