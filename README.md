@@ -21,7 +21,7 @@ Email at plot@larpchronicles.com
 * Justin Doyle
 * Keith Wooton
 * Ryan Sanders
-* Bryan Strahm - On paternity leave.
+_* Bryan Strahm - On paternity leave._
 
 ## Rules Committee
 
