@@ -135,7 +135,11 @@ Goblin Points can be spent on a variety of options that may change over time to 
 **<u>200 Goblin Point Rewards</u>**
 
 * <u>Death Forgiveness</u>.  On purchase, this reward will remove a single point of Strain from your character’s soul.  This reward must be used at the time of purchase and may not be purchased again for twelve months.
-* <u>Goblin Tag.</u>  Did you miss an event?  This reward will immediately grant you half of the Skill Points you would have earned.  For any two day event, you will receive 3 Skill Points.  For any three day event, you will receive 5 Skill Points. These may be purchased for any event you missed since your first event attendance.
+* <u>Goblin Tag.</u>  Did you miss an event?  This reward will immediately grant you half of the Skill Points you would have earned.  For any two day event, you will receive 3 Skill Points.  For any three day event, you will receive 5 Skill Points. These may be purchased for any event you missed since your first event attendance.  If you have under 200 Skill Points, you will receive 6 Skill Points for a two day event and 9 for a three day event.
+
+**<u>400 Goblin Point Rewards</u>**
+
+* <u>I Got a Hot Pocket</u>.  This reward is good for a free meal ticket at any event and covers breakfast, lunch, dinner, and three drinks.  Limited to two players per event.   May be purchased and redeemed once per calendar year.
 
 **<u>750 Goblin Point Rewards</u>**
 
