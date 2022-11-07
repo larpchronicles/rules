@@ -71,7 +71,7 @@ There are no assigned cabins, but there is a requirement that you allow others t
 * Tenting is allowed if preferred.
 
 ### Camp Illinek
-* CampMaster Lodge has eight twin beds.
+* CampMaster Lodge has eight twin beds and is for Plot Team and Full-Time NPCs only, but may be used if all other areas are full.
 * The Sailing Center has sixteen bunk beds and four twin beds.
 * There is space to set up a cot, air mattress, or sleeping mat.  As the number of beds is limited, if you have a cot, mattress, or mat available, it is suggested to bring it.
 

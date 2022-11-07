@@ -1,8 +1,3 @@
-# 00 - Change History
-**Version: 2.6.0**
-
-
-# undefined
 # Chronicles Game Rules (v2.6)
 
 ## Introduction
@@ -29,7 +24,7 @@ Wondering where you can find a particular sheet or form?  Check the list below, 
 * [Code of Conduct](https://drive.google.com/file/d/1baIH6NfjVpb-K-hI59ebrd4vWQlcjtTT/view?usp=sharing)
 * [Liability Waiver](https://drive.google.com/file/d/1OWAV9ee22HZSvlR-k2gvHWzhyuxUuQFr/view?usp=sharing) 
 
-# undefined
+
 # Check In Information & General Etiquette
 
 ## Check In Procedure
@@ -103,7 +98,7 @@ There are no assigned cabins, but there is a requirement that you allow others t
 * Tenting is allowed if preferred.
 
 ### Camp Illinek
-* CampMaster Lodge has eight twin beds.
+* CampMaster Lodge has eight twin beds and is for Plot Team and Full-Time NPCs only, but may be used if all other areas are full.
 * The Sailing Center has sixteen bunk beds and four twin beds.
 * There is space to set up a cot, air mattress, or sleeping mat.  As the number of beds is limited, if you have a cot, mattress, or mat available, it is suggested to bring it.
 
@@ -183,7 +178,7 @@ COVID Resources, How to get Tests, and Test Submission info can be found here: h
 ---
 While we never hope this to be the case, if anyone is breaking Chronicles rules, the Code of Conduct, violating the rules of the rental site, or causing problems and/or disruptions to the event, they will be subject to an escalating response from Plot and Staff.  This is outlined with more detail in the [Code of Conduct](https://drive.google.com/file/d/1baIH6NfjVpb-K-hI59ebrd4vWQlcjtTT/view?usp=sharing).
 
-# undefined
+
 # Races
 
 ## Brood
@@ -630,7 +625,7 @@ A rare sight today, the Unforgiven began appearing again and integrating themsel
 
 **Makeup Suggestions and Guidelines**: Horn sizes and placements may vary at player discretion, but should be black or dark in color.  Some Unforgiven players choose to “hide” their barbed tail, but otherwise this should also be physically represented.
 
-# undefined
+
 # Combat Rules
 
 ## Appropriate Strike Zones
@@ -776,7 +771,7 @@ If you are touching the target directly, they have the ability to "refuse your t
 ---
     Pending.
 
-# undefined
+
 # Armor Rules
 
 ## Armor Mechanics
@@ -909,7 +904,7 @@ Villi is wearing a total of 48 Armor Points, plus their ranks in Stalwart Defens
 
 Raphael is wearing a total of 40 points of armor, 20 from phys reps and 20 from Fencing, however, because they do not possess an item tag for their armor, they may not benefit from any phys-repped armor. As such, their current armor total is 20 from Fencing. If Raphael gets an Armor Tag worth at least 20 points, they will be able to benefit from their full armor.
 
-# undefined
+
 # Weapon Rules
 
 ## Weapon Reps
@@ -992,7 +987,7 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 
 ### Shield Crafting Materials
     Pending.
-# undefined
+
 # Martial Skills
 
 ## Weapon Skills
@@ -1550,7 +1545,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 >This skill allows a character using a Shield to plant themselves, and push through incredible odds to come out the other side unscathed. A character with this skill may announce “I am Unbreakable!” and plant their feet. For the duration of the time that their feet remain planted, up to one minute maximum, they may choose to expend any Critical Strikes or Physical Strikes they possess as if they were instead a Resist Physical. If at any point they move their feet, or are forced to move by an outside effect, this ability ends immediately. This skill is expended on use.<br/>Call: "I am Unbreakable" <br/>Requires the Shield and Critical Strike I skills.
 
-# undefined
+
 # Magic Skills
 
 ## Mastery Skills
@@ -2449,7 +2444,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | **Incant**     | "By nature, I grant you a vengeful wrath." |
 | **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target’s health pool cannot be brought to below 1 point as long as the caster is within arm’s reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
 
-# undefined
+
 
 # Other Skills
 |Skill|F|T|R|S|Prereqs|
@@ -2593,7 +2588,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 #### Theology Knowledge
 >Covers churches, cults, religious beliefs, deities, and demigods. Higher ranks will reveal more in-depth information on various groups, or reveal hidden aspects.
-# undefined
+
 # Crafting
 
 Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are five crafting skills and four material harvesting skills.
@@ -3270,7 +3265,7 @@ Item production is the process by which characters are able to craft consumable 
 #### Mage’s Folly
    >An item of fearsome power and renown, it earned its name for the often fatal after effects of those with the hubris to use this item without proper respect for the consequences. At will, the wearer of Mage’s Folly may Voice Radius deliver any spell they are capable of casting. However, upon doing so they are struck by a Non-Resistable, Incurable Silence effect, which is only removed after the wearer benefits from a full 2 Hour Rest. This item may not be used to deliver any Self only spells, any spells that only affect items (ex: Focused Destruction), or Circle of Power.<br/>
    >50 Rune Carving Materials, 30 Smithing Materials, 20 Tinkering Materials, 10 Spirit Gems, the Vocal Cords of a Banshee, the Lungs of a Whale.
-# undefined
+
 # Ritual Magic
 
 ## About Ritual Magic
@@ -3430,7 +3425,7 @@ This ritual acts in opposition to a Spirit Familiar, and someone who has a Spiri
 
 Upon the permanent death of the character, if the character has a Transformation effect on their spirit, they will rise as an optional NPC available to the local Plot Team with the full transformation power of the character. 
 
-# undefined
+
 # Transform Ability Rituals
 
 ## Transform Ability Ritual Ranks
@@ -3687,7 +3682,7 @@ Upon the permanent death of the character, if the character has a Transformation
 | Type:         | Active |
 | Cost:        | 20 + 20          |
 | Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. The user may choose to allow any other individuals in contact with them to join the Rift.    |
-# undefined
+
 # Necromancy Update
 
 ## Definition:
@@ -3834,7 +3829,7 @@ To return the body, the Player (with or without the NPC) must return the stat ca
 
 Failure to return a body will result in the forfeiture of the deposit, and may result in the loss of Guild privileges.
 
-# undefined
+
 # Life & Death
 
 ## Body _(aka Health Points)_
@@ -3924,7 +3919,7 @@ A character whose body has been dismembered while **Bleeding Out  or Dead** may 
 
 Dismembering a character for the purpose of attempting to use a smaller body part to heal, revive, or even hide the character is not any different than if the character were not dismembered. If a character is **Bleeding Out **or** Dead **and someone wishes to bring that character to a healer, or move the body away from where it fell, they may role-play carrying the body by picking it up on a three count _(ex: “One I pick you up… Two I pick you up… Three I pick you up…”)_ and carrying it elsewhere. The carrying player may not run, and both players must roleplay maintaining contact and remain within arm’s reach of each other. If any effect would forcibly move the carrier away at a pace faster than a walk, or would otherwise render them unable to hold game items in their hands, the character must drop the body on a One Count _(ex: “One I drop you”)_ and may only resume carrying them on a new three count.
 
-# undefined
+
 # Resting
 
 ## Resetting Skills and Magic Items
@@ -3951,7 +3946,7 @@ Once the Rest is complete, the character will have all their Magic Spell and Mar
 ---
 Magic items, production skills, and some effects recharge or expire at the end of the day. This time occurs at 6pm (out of game) each day. This happens automatically, and is not considered a Rest period.
 
-# undefined
+
 # NPCs & Benefits
 
 ## What is a NPC?
@@ -4017,7 +4012,7 @@ Aside from the shiny feel-good emotions of having helped out your chapter, Chron
 ---
 Mystery Sacks can be claimed at the end of your NPC Shift or by emailing `plot@larpchronicles.com` and requesting it as part of your Production Request for the next game.
 
-# undefined
+
 # Goblin Points
 
 ## Goblin Points - What Are They?
@@ -4164,7 +4159,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 **<u>1000 Goblin Point Rewards</u>**
 
 * <u>Refreshing Scroll</u>.  This reward will allow you to “reset” a single use of a consumed TEACH or MEMORIZE of a Ritual Magic scroll or Crafting recipe.  This reward must be redeemed with plot approval, in the case of any scrolls existing that are uniquely limited for plot reasons and should not be reset.  This is limited to one purchase per character per calendar year.
-# undefined
+
 # Transfer Policy
 
 ## Character Conversion from Other LARP Systems
@@ -4189,7 +4184,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 ---
 Goblin Points from other LARP Systems do not transfer to Chronicles, but we do have our own Goblin Point reward system you can participate in.
 
-# undefined
+
 # Status Effects
 
 ## Status Effect Sources
@@ -4321,7 +4316,7 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 | WEAKEN                  | Target damage is lowered by x amount for y time.                                                                                                                                                                                                                                                                                    |                Varies by source.                |       No       |
 | X TO HIT                | Ability user is immune to all weapons except x type.                                                                                                                                                                                                                                                                                |                    No Effect                    |       No       |
 
-# undefined
+
 # Changelog
 
 ## v2.6 - [2022-09-25]
