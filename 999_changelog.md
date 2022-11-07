@@ -70,7 +70,7 @@
 
 ## Weapon Rules
 * Clarified weapon sizes.
-* Added information about courtesy and shaft padding.
+* Added information about courtesy and shaft padding under Striking Surface.
 * Added dimensional information for weapon heads.
 
 ## v2.6 - [2022-09-25]
