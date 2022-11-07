@@ -58,7 +58,19 @@ Aside from the shiny feel-good emotions of having helped out your chapter, Chron
   * A bundle of seven Rank 1 crafting materials.
   * One gold coin.
 
+### Guest Plot Rewards
+* 600 Goblin Points for a two day event.
+* 900 Goblin Points for a three day event.
+* Full Skill Point accrual, plus an additional reward of 1 Skill Point per day.
+* 2 point removal of Strain from their character per day of the event.
+* Free Event Fee & Meal Ticket.
+* Five Mystery Sacks per event day.  These are a grab bag reward that each contain one of the following:
+  * A bundle of five Rank 1 crafting materials.
+  * A single Rank 5 crafting material.
+  * A bundle of seven Rank 1 crafting materials.
+  * One gold coin.
+
 ## How Do I Claim Mystery Sacks?
 
 ---
-Mystery Sacks can be claimed at the end of your NPC Shift or by emailing `plot@larpchronicles.com` and requesting it as part of your Production Request for the next game.
+Mystery Sacks can be claimed at the end of your NPC Shift with any staff or plot person or by emailing `plot@larpchronicles.com` and requesting it as part of your Production Request for the next game.
