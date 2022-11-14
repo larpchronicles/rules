@@ -1,6 +1,42 @@
 # Changelog
 
-## v2.7 - [2022-11-06]
+## v2.7.1 [2022-11-13]
+
+---
+## Introduction
+* Updated link for Character Calculator.
+* Added link to Pre-Registration & Bed Reservation Form
+
+## Martial
+* Updated description for Nerve Strike's effect.
+* Updated prerequisites for abilities that listed prereqs with additional prereqs.
+* Moved Return Skill to Martial Skill from Other Skills.
+
+## Magic
+* Moved Return Spell to Magic Skills from Other Skills.
+
+<u>Nature</u>
+* Petrify Spell updated to use STUN effect.
+
+<u>Spirit</u>
+* Removed Corrupt Body spell.  Was previously removed but document not updated.
+* Removed mention of CORRUPT effect from Cure Body.
+
+## Other Skills
+* Removed Return Skill and Return Spell.
+
+## Transform Rituals
+* Added missing abilities and updated ability names.
+
+## README
+* Fixed formatting issue.
+
+## Status Effects
+* Removed CORRUPT.  Was previously removed, but document was not updated.
+* Removed PETRIFY.
+* Corrected STUN description.
+
+## v2.7.0 - [2022-11-06]
 
 ---
 ## Goblin Points
