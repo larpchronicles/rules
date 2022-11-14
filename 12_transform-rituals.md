@@ -1,256 +1,358 @@
 # Transform Ability Rituals
 
-## Transform Ability Ritual Tiers
+## Ritual Tiers
 
 ---
-* Tiers Correspond to the following Ritual Levels
-    * Basic: Tier I
-        * Active: 2+3
-        * Passive: 5
-    * Advanced:  Tier III
-        * Active 3+5
-        * Passive 10
-    * Expert: Tier V
-        * Active 5+10
-        * Passive 15
-    * Master: Tier VII
-        * Active 10+10
-        * Passive 20
-    * Grandmaster: Tier IX
-        * Active 20+10
-        * Passive 30
-    * Mythical: Tier X
-        * Active 20+20
-        * Passive 40
+Tiers Correspond to the following Ritual Levels
 
-| Name:        | SkillName:     |
-|--------------|----------------|
-| Type:        | Active/Passive |
-| Cost:        | ? + ?          |
-| Description: | Insert here    |
+| Ritual Level | Active Costs | Passive Costs |
+|:---:|:---:|:---:|
+| [Basic: Tier I](#basic---tier-i)| 2 + 3 | 5 |
+| [Advanced:  Tier III](#advanced---tier-iii) | 3 + 5 | 10 |
+| [Expert: Tier V](#expert---tier-v)| 5 + 10 | 15 |
+| [Master: Tier VII](#master---tier-viii)| 10 + 10| 20 |
+| [Grandmaster: Tier IX](#grandmaster---tier-ix)| 20 + 10 | 30 |
+| [Mythical: Tier X](#mythical---tier-x)| 20 + 20 | 40 |
 
 ## Transform Abilities
 
 ---
 ### Basic - Tier I
 
-#### Transform Ability: Innate Spell
-| Name: :        | Transform Ability: Innate Spell |
-|--------------|------------------------|
-| Type::        | Active                 |
-| Cost:        | 2 + 3                  |
-| Description: | User gains the ability to once per rest deliver any spell as “Magic &lt;Spell Name: >”.           |
-
-#### Transform Ability: Claws 
-| Name:          | Transform Ability: Claws                                                                                                                                                                                                                                                                                                                 |
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Type:         | Passive                                                                                                                                                                                                                                                                                                                         |
-| Cost:        | 5 (Single Purchase)                                                                                                                                                                                                                                                                                                             |
+#### Claws 
+| Name: | Claws |
+|---|---|
+| Type: | Passive|
+| Cost: | 5 (Single Purchase) |
 | Description: | Claws function as Unarmed, may be used to qualify for any skills that require Unarmed as a prerequisite, gain the benefit of Unarmed Proficiency, and may be used for any skills that require Unarmed to utilize. Like Unarmed, Claws may be wielded in only one hand, leaving the other hand empty or to use a different item. |
 
-#### Transform Ability: Minor Healing
-| Name:          | Transform Ability: Minor Healing   |
-|--------------|------|
-| Type:         | Active  |
-| Cost:        | 2 + 3    |
+#### Innate &lt;Spell>
+| Name: | Innate Spell |
+|---|---|
+| Type: | Active |
+| Cost: | 2 + 3|
+| Description: | User gains the ability to once per rest deliver any spell as “Magic &lt;Spell Name>”. |
+
+
+#### Minor Healing
+| Name: | Minor Healing|
+|---|---|
+| Type: | Active  |
+| Cost: | 2 + 3|
 | Description: | The User may heal themselves by incanting “10 Healing”. This is usable once per rest. |
 
-#### Transform Ability: Minor Spell
-| Name:          | Transform Ability: Minor Spell |
-|--------------|-----------------------|
-| Type:         | Active     |
-| Cost:        | 2 + 3                  |
-| Description: | User gains 1/Rest use of a spell, of rank I-IV. Spell is dictated by the transform and scroll.           |
+#### Physical Strike
+| Name: | Physical Strike|
+|---|---|
+| Type: | Active  |
+| Cost: | 2 + 3|
+| Description: | User gains 1/Rest use of a physical strike. Strike is dictated by the transform and scroll. |
 
-#### Transform Ability: Minor Physical Strike
-| Name:          | Transform Ability: Minor Physical Strike   |
-|--------------|----------|
-| Type:         | Active  |
-| Cost:        | 2 + 3       |
-| Description: | User gains 1/Rest use of a physical strike in the following list: Nerve Strike, Open Artery, Disarm, Eye Gouge, Hamstring, Pinning Projectile, Shield Bash, Split Projectile, Stop Thrust, Sunder Armor, Trip. Strike is dictated by the transform and scroll. |
+#### Spellstrike &lt;Effect>
+| Name: | Spellstrike|
+|---|---|
+| Type: | Active|
+| Cost: | 2 + 3 |
+| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the transform and scroll. |
+
 
 ### Advanced - Tier III
 
-#### Transform Ability: Body
-| Name:          | Transform Ability: Body |
-|--------------|----------------|
-| Type:         | Passive        |
-| Cost:        | 3 + 5          |
-| Description: | Per Toughness. |
+#### Body
+| Name: | Body |
+|---|---|
+| Type: | Passive|
+| Cost: | 3 + 5|
+| Description: | Per Toughness.  Grants the user 5 additional health points/body. |
 
 
-#### Transform Ability: Resist Magic
-| Name:          | Transform Ability: Resist Magic               |
-|--------------|--------------------------------------|
-| Type:         | Active                               |
-| Cost:        | 3 + 5                                |
+#### Gaseous Form
+| Name: | Gaseous Form |
+|---|---|
+| Type: | Active|
+| Cost: | 3 + 5|
+| Description: | User can go Gaseous on a three count, gaining the effects of Gaseous Form for up to 5 minutes. User reforms on a three count. “One I go Gaseous…” and “One I Reform…”  |
+
+#### Innate &lt;Spell>
+| Name: | Innate Spell |
+|---|---|
+| Type: | Active |
+| Cost: | 3 + 5|
+| Description: | User gains the ability to once per rest deliver any spell as “Magic &lt;Spell Name>”. |
+
+#### Physical Strike
+| Name: | Physical Strike|
+|---|---|
+| Type: | Active |
+| Cost: | 3 + 5|
+| Description: | User gains 1/Rest use of a physical strike. Strike is dictated by the transform and scroll. |
+
+#### Resist Magic
+| Name: | Resist Magic|
+|---|---|
+| Type: | Active |
+| Cost: | 3 + 5  |
 | Description: | User may Resist Magic once per rest. |
 
-#### Transform Ability: Resist Physical
-| Name:          | Transform Ability: Resist Physical               |
-|--------------|-----------------------------------------|
-| Type:         | Active                                  |
-| Cost:        | 3 + 5                                   |
+#### Resist Physical
+| Name: | Resist Physical|
+|---|---|
+| Type: | Active|
+| Cost: | 3 + 5|
 | Description: | User may Resist Physical once per rest. |
 
-#### Transform Ability: Gaseous Form
-| Name:          | Transform Ability: Gaseous Form |
-|--------------|------------------------|
-| Type:         | Active                 |
-| Cost:        | 3 + 5                  |
-| Description: | User can go Gaseous on a three count, gaining the effects of Gaseous Form for up to 5 minutes. User reforms on a three count. “One I go Gaseous…” and “One I Reform…”            |
+#### Resist Toxin
+| Name: | Resist Toxin|
+|---|---|
+| Type: | Active|
+| Cost: | 3 + 5|
+| Description: | User may Resist Physical once per rest. |
 
-#### Transform Ability: Greater Spell
-| Name:          | Transform Ability: Greater Spell |
-|--------------|-------------------------|
-| Type:         | Active                  |
-| Cost:        | 3 + 5                   |
-| Description: | User gains 1/Rest use of a spell, of rank IV-VIII. Spell is dictated by the transform and scroll.             |
+#### Resist &lt;Effect>
+| Name: | Resist &lt;Effect>|
+|---|---|
+| Type: | Active|
+| Cost: | 3 + 5|
+| Description: | User may Resist a specific effect once per rest. Effect is dictated by the transform and scroll. |
 
-#### Transform Ability: Greater Physical Strike
-| Name:          | Transform Ability: Greater Physical Strike  |
-|--------------|-------------|
-| Type:         | Active |
-| Cost:        | 3 + 5  |
-| Description: | User gains 1/Rest use of a physical strike in the following list: Disable Limb, Intimidate, Moment of Opportunity, Sunder Shield, Sunder Weapon, Throat Punch, Volley, Waylay. Strike is dictated by the transform and scroll. |
+#### Spellstrike &lt;Effect>
+| Name: | Spellstrike|
+|---|---|
+| Type: | Active|
+| Cost: | 3 + 5 |
+| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the transform and scroll. |
+
 
 ### Expert - Tier V
 
-#### Transform Ability: Strength
-| Name:          | Transform Ability: Strength                          |
-|--------------|---------------------------------------------|
-| Type:         | Passive                                     |
-| Cost:        | 5 + 10                                      |
-| Description: | User gains +1 Bonus Weapon Damage per rank. |
+#### Dodge
+| Name: | Dodge |
+|---|---|
+| Type: | Active|
+| Cost: | 5 + 10|
+| Description: | Per Dodge|
 
-#### Transform Ability: Dodge
-| Name:          | Transform Ability: Dodge |
-|--------------|-----------------|
-| Type:         | Active          |
-| Cost:        | 5 + 10          |
-| Description: | Per Dodge       |
+#### Dexterity Armor
+| Name: | Dexterity Armor |
+|---|---|
+| Type: | Active|
+| Cost: | 5 + 10|
+| Description: | Per Armor Training.  User gains 5 additional Armor.|
 
-#### Transform Ability: Phylactery
-| Name:          | Transform Ability: Phylactery |
-|--------------|----------------------|
-| Type:         | Active               |
-| Cost:        | 15 (Single Purchase)                   |
-| Description: | User gains benefits of “Limited Phylactery, Self”. This is not Fiendish in nature, and the User is not considered undead, unless already undead. Incant for this ability is “By my Will, create a phylactery for my spirit.” This is limited to one purchase, usable once per rest.          |
-
-#### Transform Ability: Magic Striker
-| Name:          | Transform Ability: Magic Striker |
-|--------------|-------------------------|
-| Type:         | Passive                 |
-| Cost:        | 15 (Single Purchase)    |
-| Description: | Magic carrier, applies to any weapon, or unarmed, that is wielded.             |
-
-#### Transform Ability: &lt;Elemental> Striker
-| Name:          | Transform Ability: &lt;Elemental> Striker |
-|--------------|--------|
-| Type:         | Passive |
-| Cost:        | 15 (Single Purchase)  |
+#### &lt;Elemental> Striker
+| Name: | &lt;Elemental> Striker |
+|---|---|
+| Type: | Passive |
+| Cost: | 15 (Single Purchase)  |
 | Description: | Frost/Flame/Shock/Stone Striker carrier, applies to any weapon, or unarmed, that is wielded. |
 
-#### Transform Ability: Major Spell
-| Name:          | Transform Ability: Major Spell       |
-|--------------|----------------|
-| Type:         | Active |
-| Cost:        | 5 + 10          |
-| Description: | User gains 1/Rest use of a spell, of rank IX. Spell is dictated by the transform and scroll.    |
+#### Innate &lt;Spell>
+| Name: | Innate Spell |
+|---|---|
+| Type: | Active |
+| Cost: | 5 + 10|
+| Description: | User gains the ability to once per rest deliver any spell as “Magic &lt;Spell Name>”. |
 
-#### Transform Ability: Major Physical Strike
-| Name:          | SkillName:       |
-|--------------|----------------|
-| Type:         | Active/Passive |
-| Cost:        | 5 + 10          |
-| Description: | User gains 1/Rest use of a physical strike in the following list: Slay, Murder, Marked for Death, Vital Blow. Strike is dictated by the transform and scroll.    |
+#### Magic Striker
+| Name: | Magic Striker |
+|---|---|
+| Type: | Passive|
+| Cost: | 15 (Single Purchase)|
+| Description: | Magic carrier, applies to any weapon, or unarmed, that is wielded.|
 
-### Master - Tier VII
+#### Physical Strike
+| Name: | Physical Strike|
+|---|---|
+| Type: | Active |
+| Cost: | 5 + 10|
+| Description: | User gains 1/Rest use of a physical strike in the following list: Slay, Murder, Marked for Death, Vital Blow. Strike is dictated by the transform and scroll.|
 
-#### Transform Ability: Dull Pain
-| Name:          | Transform Ability: Dull Pain       |
-|--------------|----------------|
-| Type:         | Passive |
-| Cost:        | 20 (Single Purchase)          |
-| Description: | User is not subject to spellcasting disruption upon taking damage.    |
+#### Spellstrike &lt;Effect>
+| Name: | Spellstrike|
+|---|---|
+| Type: | Active|
+| Cost: | 5 + 10 |
+| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the transform and scroll. |
 
-#### Transform Ability: Healed by &lt;Element>
-| Name:          | Transform Ability: Healed by &lt;Element>       |
-|--------------|----------------|
-| Type:         | Passive |
-| Cost:        | 20 (Single Purchase)          |
-| Description: | When the User would be subject to damage by designated element, they are instead healed. User must announce “Appears to heal me.”    |
+#### Spirit Bottle
+| Name: | Spirit Bottle |
+|---|---|
+| Type: | Active|
+| Cost: | 15 (Single Purchase)|
+| Description: | User gains a Spirit Bottle with x uses. This is not Fiendish in nature, and the User is not considered undead, unless already undead. Incant for this ability is “By my Will, create a phylactery for my spirit.” This is limited to one purchase, usable once per rest.|
 
-#### Transform Ability: Body Weaponry
-| Name:          | Transform Ability: Body Weaponry       |
-|--------------|----------------|
-| Type:         | Passive |
-| Cost:        | 20 (Single Purchase)          |
-| Description: | User’s weapons are considered part of their body, and the user may, at their discretion, elect to take 20 points of damage in lieu of letting a weapon suffer from a destruction effect. This may designate all weapons, specific weapons, or shields based on the transform.    |
+#### Strength
+| Name: | Strength|
+|---|---|
+| Type: | Passive|
+| Cost: | 5 + 10|
+| Description: | User gains +1 Bonus Weapon Damage per rank. |
+
+
+### Master - Tier VIII
+
+#### Bane the Dead
+| Name: | Bane the Dead|
+|---|---|
+| Type: | Active |
+| Cost: | 10 + 10|
+| Description: | User may plan their feet, establish Concentration, and throw Harm Undead an unlimited number of times.  Effect ends after 5 minutes or after the user moves or disrupts their Concentration.|
+
+#### Body Weaponry
+| Name: | Body Weaponry|
+|---|---|
+| Type: | Passive |
+| Cost: | 20 (Single Purchase)|
+| Description: | User’s weapons are considered part of their body, and the user may, at their discretion, elect to take 20 points of damage in lieu of letting a weapon suffer from a destruction effect. This may designate all weapons, specific weapons, or shields based on the transform.|
+
+#### Destroy Ritual Magic
+| Name: | Destroy Ritual Magic|
+|---|---|
+| Type: | Active |
+| Cost: | 20 (Single Purchase)|
+| Description: | Allows the user to destroy specific effects or products of ritual magic.  <i>Pending list.  Please see Plot to use this ability.</i>|
+
+#### Dull Pain
+| Name: | Dull Pain|
+|---|---|
+| Type: | Passive |
+| Cost: | 20 (Single Purchase)|
+| Description: | User is not subject to spellcasting disruption upon taking damage.|
+
+#### &lt;Effect> Carrier
+| Name: |&lt;Effect> Carrier|
+|---|---|
+| Type: | Passive |
+| Cost: | 20 (Single Purchase)|
+| Description: | User is able to deliver a specific effect with their weapons or unarmed claws/fists.  Effect type is dictated by the transform.|
+
+#### Healed by &lt;Element>
+| Name: | Healed by &lt;Element>|
+|---|---|
+| Type: | Passive |
+| Cost: | 20 (Single Purchase)|
+| Description: | When the User would be subject to damage by designated element, they are instead healed. User must announce “Appears to heal me.”|
+
+#### Innate &lt;Spell>
+| Name: | Innate Spell |
+|---|---|
+| Type: | Active |
+| Cost: | 10 + 10|
+| Description: | User gains the ability to once per rest deliver any spell as “Magic &lt;Spell Name>”. |
+
+#### Physical Strike
+| Name: | Physical Strike|
+|---|---|
+| Type: | Active |
+| Cost: | 10 + 10|
+| Description: | User gains 1/Rest use of a physical strike in the following list: Slay, Murder, Marked for Death, Vital Blow. Strike is dictated by the transform and scroll.|
+
+#### Spellstrike &lt;Effect>
+| Name: | Spellstrike|
+|---|---|
+| Type: | Active|
+| Cost: | 10 + 10 |
+| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the transform and scroll. |
+
 
 ### Grandmaster - Tier IX
 
-#### Transform Ability: Rift Self
-| Name:          | Transform Ability: Rift Self       |
-|--------------|----------------|
-| Type:         | Active |
-| Cost:        | 20 + 10          |
-| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. This is a self-only ability.    |
-
-#### Transform Ability: Voice Radius Spell
-| Name:          | Transform Ability: Voice Radius Spell       |
-|--------------|----------------|
-| Type:         | Active |
-| Cost:        | 20 + 10          |
-| Description: | User can deliver a single spell as Voice Radius Spell &lt;Spell Name: >    |
-
-#### Transform Ability: Cast &lt;School> Spells Innately
-| Name:          | Transform Ability: Cast &lt;School> Spells Innately   |
-|--------------|--------------|
-| Type:         | Passive |
-| Cost:        | 30           |
+#### Cast &lt;School> Spells Innately
+| Name: | Cast &lt;School> Spells Innately|
+|---|---|
+| Type: | Passive |
+| Cost: | 30 |
 | Description: | User gains the ability to deliver all spells from a single school of magic as “Magic &lt;Spell Name: >”, the school is chosen upon selecting this ability. This may be purchased up to three times.  |
 
-#### Transform Ability: Regeneration
-| Name:          | Transform Ability: Regeneration       |
-|--------------|----------------|
-| Type:         | Passive |
-| Cost:        | 30 (Single Purchase)          |
-| Description: | Regeneration allows the user to spend one minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.    |
+#### &lt;Effect> Carrier
+| Name: |&lt;Effect> Carrier|
+|---|---|
+| Type: | Passive |
+| Cost: | 30 (Single Purchase)|
+| Description: | User is able to deliver a specific effect with their weapons or unarmed claws/fists.  Effect type is dictated by the transform.|
 
-#### Transform Ability: Voice Control &lt;Entity>
-| Name:          | Transform Ability: Voice Control &lt;Entity>       |
-|--------------|----------------|
-| Type:         | Passive |
-| Cost:        | 30 (Single Purchase)          |
-| Description: | This ability allows the user to voice control lesser members of their species, type, or specific targets, as specified by plot.    |
+#### Immunity to &lt;Damage Type>
+| Name: | Immunity to &lt;Damage Type>|
+|---|---|
+| Type: | Passive |
+| Cost: |30 (Single Purchase)|
+| Description: | When the User would be subject to damage by designated damage type, they are uneffected.  User announces, "No effect."|
 
-#### Transform Ability: Weapon Mastery
-| Name:          | Transform Ability: Weapon Mastery       |
-|--------------|----------------|
-| Type:         | Passive |
-| Cost:        | 30 (Single Purchase)          |
-| Description: | This ability allows the user to wield any weapon with remarkable ease. The User may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest Weapon Proficiency, along with any critical strikes or devious strikes, with all weapon types.    |
+#### Regeneration
+| Name: | Regeneration|
+|---|---|
+| Type: | Passive |
+| Cost: | 30 (Single Purchase)|
+| Description: | Regeneration allows the user to spend one minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.|
+
+#### Rift Self
+| Name: | Rift Self|
+|---|---|
+| Type: | Active |
+| Cost: | 20 + 10|
+| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. This is a self-only ability.|
+
+#### Spellstrike &lt;Effect>
+| Name: | Spellstrike|
+|---|---|
+| Type: | Active|
+| Cost: | 20 + 10 |
+| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the transform and scroll. |
+
+#### Voice Control &lt;Entity>
+| Name: | Voice Control &lt;Entity>|
+|---|---|
+| Type: | Passive |
+| Cost: | 30 (Single Purchase)|
+| Description: | This ability allows the user to voice control lesser members of their species, type, or specific targets, as specified by plot.|
+
+#### Voice Radius Spell
+| Name: | Voice Radius Spell|
+|---|---|
+| Type: | Active |
+| Cost: | 20 + 10|
+| Description: | User can deliver a single spell as Voice Radius Spell &lt;Spell Name: >|
+
+#### Weapon Mastery
+| Name: | Weapon Mastery|
+|---|---|
+| Type: | Passive |
+| Cost: | 30 (Single Purchase)|
+| Description: | This ability allows the user to wield any weapon with remarkable ease. The User may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest Weapon Proficiency, along with any critical strikes or devious strikes, with all weapon types.|
 
 ### Mythical - Tier X
 
-#### Transform Ability: Aether Spell
-| Name:          | Transform Ability: Aether Spell       |
-|--------------|----------------|
-| Type:         | Active |
-| Cost:        | 20 + 20          |
-| Description: | User can deliver a single spell as Aether &lt;Spell Name: >. This cannot be stacked with Voice Radius.    |
+#### Aether Spell
+| Name: | Aether Spell|
+|---|---|
+| Type: | Active |
+| Cost: | 20 + 20|
+| Description: | User can deliver a single spell as Aether &lt;Spell Name: >. This cannot be stacked with Voice Radius.|
 
-#### Transform Ability: Plot Ability
-| Name:          | SkillName:     |
-|--------------|----------------|
-| Type:         | Active/Passive |
-| Cost:        | (40 for Passive, 20 + 20 for Active)  |
-| Description: | Ability Unique to the specific Transform.    |
+#### &lt;Effect> Carrier
+| Name: |&lt;Effect> Carrier|
+|---|---|
+| Type: | Passive |
+| Cost: | 40 (Single Purchase)|
+| Description: | User is able to deliver a specific effect with their weapons or unarmed claws/fists.  Effect type is dictated by the transform.|
 
-#### Transform Ability: Rift Group
-| Name:          |Transform Ability: Rift Group       |
-|--------------|----------------|
-| Type:         | Active |
-| Cost:        | 20 + 20          |
-| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. The user may choose to allow any other individuals in contact with them to join the Rift.    |
+#### Plot Ability (Active)
+| Name: | SkillName: |
+|---|---|
+| Type: | Active |
+| Cost: | 20 + 20  |
+| Description: | Ability Unique to the specific Transform.|
+
+#### Plot Ability (Passive)
+| Name: | SkillName: |
+|---|---|
+| Type: | Passive |
+| Cost: | 40 |
+| Description: | Ability Unique to the specific Transform.|
+
+#### Rift Group
+| Name: |Rift Group|
+|---|---|
+| Type: | Active |
+| Cost: | 20 + 20|
+| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. The user may choose to allow any other individuals in contact with them to join the Rift.|
