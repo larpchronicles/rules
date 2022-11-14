@@ -1,4 +1,4 @@
-# LARP Chronicles Ruleset v2.7
+# LARP Chronicles Ruleset v2.7.1
 
 Welcome to the Chronicles rules repo! The main branch of this repo is always the currently-used rules for our game.
 
@@ -21,7 +21,7 @@ Email at plot@larpchronicles.com
 * Justin Doyle
 * Keith Wooton
 * Ryan Sanders
-_* Bryan Strahm - On paternity leave._
+* _Bryan Strahm - On paternity leave._
 
 ## Rules Committee
 
