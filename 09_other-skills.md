@@ -94,21 +94,6 @@
 > 
 > For every in-game hundred yards that the track is followed, the tracker can make a draw from a draw bag. The base bag is 1 success, 1 lost track, 4 continue, and 1 bag reset. For each rank above the track value, the tracker gains a success bead. For every rank below the track rank, the tracker gains 2 continue and a lost track bead. The tracker continues to draw every 30 seconds until success, or lost track is pulled. The tracking player must provide their own bead draw bag with beads or the tracking automatically fails.
 
-#### Return Skill
->This is a martial skill that allows a character to reclaim a single SP-purchased Physical Strike that was Resisted by their target. If the user successfully strikes an opponent with a Physical Strike, and the Strike is then Resisted, not Reflected, the user may announce “Return”, and get the use of that skill back. This skill is expended on use.
-> 
->Call: “Return”
-> 
->Requires Any Weapon Skill
-
-#### Return Spell
->This is a magical skill that allows a character to reclaim a single SP-purchased Spell that was Resisted by their target. If the user successfully strikes an opponent with a Spell, and the Spell is then Resisted, not Reflected, the user may announce “Return”, and get the use of that spell back. This skill is expended on use.
-> 
->Call: “Return”
-> 
->Requires Any Mana Attunement
-
-
 ## Knowledge Skills
 
 >Knowledge skills are a way through which characters can gather information about the world around them. These skills are gained automatically as you gain SP, choosing a Profession and Hobby, with your Profession being your “main focus” and scaling faster. Once you have capped a Profession or Hobby at Rank 10, you may select a new one immediately to begin scaling, and it starts with 1 rank. A Profession goes up in rank every 50 SP, and each Hobby goes up in rank every100 SP. So you will unlock your second Profession at 450 SP, and both your Second Hobby and Third Profession at 900 SP, and so on. Each knowledge skill represents a specific area of expertise that a character can improve upon. These skills might be utilized when interacting with Plot to help you discover more information about what is happening during a particular scene, or Plot may choose to ask for Knowledge skills leading into an adventure to help flesh out what the characters might have discovered.
