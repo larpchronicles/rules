@@ -260,7 +260,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Duration** | 20 Seconds|
 | **Call**| “Your defense shall do you no good”|
 | **Description** | This is a Short Weapon only skill that allows the character to treat a designated target as if they were attacking them from behind, regardless of facing, for 20 seconds. During that time, Devious Weapon Proficiencies, Devious Strikes, Waylay and Murder all will work on the target regardless of position. This skill may not be used on the same target more than once every minute. This skill is expended on use. |
-| **Requirement** | Requires the Short Weapon and Murder skills. |
+| **Requirement** | Requires the Short Weapon and Murder skills. (PreReqs for Murder:  Devious Strike IX) |
 
 #### **Moment of Opportunity**
 | Strike | **Moment of Opportunity**|
@@ -283,7 +283,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 |:---|---|
 | **Duration** | 20 Seconds|
 | **Call**| “Physical Stun” |
-| **Description** | This skill is an Unarmed Combat only strike that renders the target stunned, and helpless for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a STUN effect. |
+| **Description** | This skill is an Unarmed Combat only strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a STUN effect. |
 | **Requirement** | Requires the Unarmed Combat and Critical Strike I skills.  |
 
 #### **Open Artery**
@@ -348,7 +348,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Duration** | Instant|
 | **Call**| “30 [Type] Vital”|
 | **Description** | This is a Two-Handed Weapon or Ranged Weapon only strike that does 30 points of Vital &lt;type> damage. Vital damage cannot be blocked by weapons or shields. Vital Blow's damage can be increased using Critical Strikes, but is not modified by Weapon Proficiencies or any other source. The target of a Vital Blow must still be able to be affected by the type of damage being done. This skill is expended on use. |
-| **Requirement** | Requires either the Two-Handed or Ranged Weapon skill, and the Slay skill.|
+| **Requirement** | Requires either the Two-Handed or Ranged Weapon skill, and the Slay skill. (PreReqs for Slay: Critical Strike IX)|
 
 #### **Volley**
 | Strike | **Volley**|
@@ -423,9 +423,12 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 >This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character’s armor pool is reset to its maximum.<br/>Call: “Refitting Armor 1...2...3...4...5”
 
+#### Return Skill
+>This is a martial skill that allows a character to reclaim a single SP-purchased Physical Strike that was Resisted by their target. If the user successfully strikes an opponent with a Physical Strike, and the Strike is then Resisted, not Reflected, the user may announce “Return”, and get the use of that skill back. This skill is expended on use.<br />>Call: “Return”<br />Requires Any Weapon Skill
+
 #### Riposte
 
->This skill Requires that a character is wielding a weapon and has the skill required to be able to use that weapon. Riposte Attack allows the character to Reflect Physical once for each time that this skill is purchased. This skill is expended on use. You cannot Reflect an already Reflected effect.  This is a REFLECT effect.<br/>Call: “Reflect”<br/>Requires the Short, Long or Two-Handed Weapon skill.
+>This skill Requires that a character is wielding a weapon and has the skill required to be able to use that weapon. Riposte Attack allows the character to Reflect Physical once for each time that this skill is purchased. This skill is expended on use. You cannot Reflect an already Reflected effect.  This is a REFLECT effect.<br/>Call: “Reflect”<br/>Requires the Short, Long, or Two-Handed Weapon skill.
 
 #### Second Wind
 

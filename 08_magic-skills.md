@@ -12,7 +12,7 @@ A Mastery skill is purchased in order to grant a character access to a school of
 | Nature Mastery    | 5   | 5   | 5   | 3   |
 
 ### Arcane Mastery
-This skill allows the character to Identify an item or target after 60 seconds of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character. 
+This skill allows the character to Identify an item or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character. 
 
 
 ### Spiritual Mastery
@@ -33,6 +33,9 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 | Secondary Attunement | 20+4 | 12+2 |  16+3  |   8+1   | Relevant Mastery |
 | Tertiary Attunement  | 30+6 | 18+3 | 24+4.5 | 12.+1.5 | Relevant Mastery |
 
+
+## Return Spell Skill
+>This is a magical skill that allows a character to reclaim a single SP-purchased Spell that was Resisted by their target. If the user successfully strikes an opponent with a Spell, and the Spell is then Resisted, not Reflected, the user may announce “Return”, and get the use of that spell back. This skill is expended on use.<br />Call: “Return”<br />Requires Any Mana Attunement
 
 ## Spells By Level and School
 
@@ -390,19 +393,12 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 
 ### Spirit Rank V
 
-#### **Corrupt Body**
-| **Spell**| **Corrupt Body** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "Fiends of the dark nether, corrupt this body." |
-| **Description** |  This spell will instantly reduce the target’s health pool to half of its uncorrupted maximum value. This spell has no effect on a target that already has less than half of their maximum health pool.  This is a CORRUPT effect. |
-
 #### **Cure Body**
 | **Spell**| **Cure Body** |
 |:---|:---|
 | **Duration**     | Instant |
 | **Incant**     | "By the spirits, I cure this body." |
-| **Description** | This spell removes all lingering maladies such as diseases, weaknesses, disabled limbs, stuns, etc.  This will remove CORRUPT, ENTANGLE, INFECT, PETRIFY, SLEEP, STUN, and WEAKEN effects.  |
+| **Description** | This spell removes all lingering maladies such as diseases, weaknesses, disabled limbs, stuns, etc.  This will remove ENTANGLE, INFECT, SLEEP, STUN, and WEAKEN effects.  |
 
 #### **Entrapment**
 | **Spell** | **Entrapment** |
@@ -755,7 +751,7 @@ In order to cast a spell, you must possess the appropriate Mastery skill, and pu
 |:---|:---|
 | **Duration**     | 1 minute |
 | **Incant**     | "By nature, I petrify you." |
-| **Description** | This spell will petrify the target and prevent them from moving, communicate in any manner, activate items, or use any game skills for the duration.  The target receives damage normally and can be physically moved.  This effect can be removed by Dispel Magic and Restore Body. This is a PETRIFY effect. |
+| **Description** | This spell will petrify the target and prevent them from moving, communicate in any manner, activate items, or use any game skills for the duration.  The target receives damage normally and can be physically moved.  This effect can be removed by Dispel Magic and Restore Body. This is a STUN effect. |
 
 
 #### **Stoneskin**
