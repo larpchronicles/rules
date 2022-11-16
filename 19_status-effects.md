@@ -65,7 +65,6 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 | CONFUSE  | Target is disoriented and cannot tell allies from enemies, but is not forced to attack.| Varies by source. |Yes |
 | CONSCIOUS| Target in this status has at least 1 HP/body.| Varies by source. |Yes |
 | CORROSIVE| Ability user causes all tagged items that make physical contact are destroyed (as per shatter/destroy) at the end of the encounter  |  OOC  | No |
-| CORRUPT  | Target's uncorrupted health is lowered by x amount.  No effect if target health is below 50%.| Varies by source. | No |
 | CURSE | Target receives double damage.|(Type) Curse | No |
 | CURSE OF TRANSFORMATION | Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary.| Killing Blow 1, 2, 3, Curse of Transformation X | No |
 | DAMAGE CAP X| Ability user is only hit for maximum of x damage.  |Minimal| No |
@@ -98,7 +97,6 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 | MUMMY CURSE | Target immediately dissipates and seeks resurrection. |  Killing Blow 1, 2, 3, Mummy Curse  | No |
 | NATURAL ARMOR  | Ability user has armor that does not have to be physically represented. |  N/A  |Yes |
 | OVERWHELMING STRENGTH| Ability user swings for Vital damage. Damage from user is always taken unless target makes a defensive call.|  N/A  | No |
-| PETRIFY | Target may not move, communicate in any manner, activate items, or use game skills for x time.  Target receives damage normally and can be moved.| Petrify|Yes| 
 | POSSESSION  | Ability user goes OOC, but may voice control the target. Acts as per ENSLAVEMENT.|  1 I possess you, 2... 3...| No |
 | PRESERVE | Target in DEAD status has their Death count halted for x time.  May only be done once. | Varies by source. | No |
 | REDUCE | Ability user takes half damage from x effect, rounded up.|Reduce| No |
@@ -119,7 +117,7 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 | STASIS | Target may not move, communicate in any manner, activate items, or use any game skills for duration.  Target does not take damage and cannot be moved.  Target may choose to end the effect early.| Varies by source. |Yes|
 | STONE | Target takes DEAD status immediately.  Target cannot be moved. | Varies by source. |Yes |
 | STOP THRUST | Target unable to advance into combat for x time.| Varies by source. |Yes |
-| STUN  | Target is unable to move for x time.  Damage does not remove effect. | Varies by source. |Yes |
+| STUN  | Target may not move, communicate in any manner, activate items, or use game skills for x time.  Damage does not remove effect. | Varies by source. |Yes |
 | SUICIDE  | Allows creature to die and dissipate at will regardless of other status effects. | 1 I suicide, 2... 3...  | Not Applicable |
 | TELEPORT BLOCK | Target is prevented from moving by any form of magical travel for x time.  | Varies by source. | No |
 | THRESHOLD| Ability user only takes minimum damage for any damage taken equal to or less than x.|Minimal| No |
