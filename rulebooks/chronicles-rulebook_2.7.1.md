@@ -3365,7 +3365,7 @@ Tiers Correspond to the following Ritual Levels
 |---|---|
 | Type: | Active|
 | Cost: | 5 + 10|
-| Description: | Per Armor Training.  User gains 5 additional Armor.|
+| Description: | Per Armor Training.  User gains 5 additional Armor.  User is unable to benefit from any other source of armor.|
 
 #### &lt;Elemental> Striker
 | Name: | &lt;Elemental> Striker |

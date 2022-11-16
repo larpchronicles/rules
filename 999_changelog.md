@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.7.2 [2022-11-16]
+# Production
+* Unstable Storage Device reference corrected to Bag of Holding.
+* Glowing Wand Stone spell reference corrected to Glowing Light.
+* Globe of Radiance spell reference corrected to Blinding Light.
+
+# Transform Rituals
+* Updated Dexterity Armor description.
+
 ## v2.7.1 [2022-11-13]
 
 ---
