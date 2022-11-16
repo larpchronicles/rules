@@ -1,5 +1,8 @@
 # **Monstrous Ability Transform Ritual Overhaul** #
 
+## **Synopsis** ##
+Instead of unlocking transform abilities one ritual at a time, have a single "unlock ability" ritual that can unlock all abilities at once, for multiple participating characters, while still maintaining a spirit gem cost for the abilities.
+
 ## **Current Problems**
 - Before being able to actually use any transform power, a character must:
     1) Perform the Spirit Familiar ritual
