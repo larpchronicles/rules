@@ -1,4 +1,4 @@
-# Chronicles Game Rules (v2.6)
+# Chronicles Game Rules (v2.7.1)
 
 ## Introduction
 
