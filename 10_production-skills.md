@@ -440,7 +440,7 @@ Item production is the process by which characters are able to craft consumable 
 #### Magitech Eye
    >This item detects variations in nearby Aether flows. This allows the user to detect magic for 5 minutes as if they were skilled in Arcane Mastery. This item is consumed in use.
 #### Unstable Storage Device
-   >This item can be applied to a bag or other container to grant it the effect of a Pocket Dimension spell. It lasts longer than the normal spell, lasting up to 5 days, but at the end of those 5 days the item ceases functioning.
+   >This item can be applied to a bag or other container to grant it the effect of a Bag of Holding spell. It lasts longer than the normal spell, lasting up to 5 days, but at the end of those 5 days the item ceases functioning.
 
 ### Rank X
 
@@ -454,7 +454,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank I
 
 #### Glowing Wand Stone 
-   >This creates a softly glowing stone that can be inset into the end of a carved wand. This stone should not emit more light than a typical physical representation for a Glimmer Light spell. This item is consumed on use.
+   >This creates a softly glowing stone that can be inset into the end of a carved wand. This stone should not emit more light than a typical physical representation for a Glowing Light spell. This item is consumed on use.
 #### Alarm Rune
    >This creates a rune that can be placed next to a doorway, or the opening to a box. The rune, once activated, will make a loud alarming sound. The rune must have a trigger and a tripwire, or equivalent that will set off the trigger. Alarm Runes may be disarmed as if they are a rank I trap. Activating an Alarm Rune requires simply placing the rune, the trigger, the trip wire, and the character says “Activate Alarm Rune”. This item is consumed on use.
 #### Rune of Unmarking
@@ -645,7 +645,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank V
 
 #### Globe of Radiance
-   >A ball that sparkles in the dimmest of lights, this item is a specially designed focus for a Mage who can use the spell Blinding Lights. Once per day, the bearer may deliver Blinding Light as Voice Radius by channeling the spell through the Globe, however, the light is so bright that it in turn also affects the user.<br/>
+   >A ball that sparkles in the dimmest of lights, this item is a specially designed focus for a Mage who can use the spell Blinding Light. Once per day, the bearer may deliver Blinding Light as Voice Radius by channeling the spell through the Globe, however, the light is so bright that it in turn also affects the user.<br/>
    >20 Tinkering Materials, 20 Rune Carving Materials, 10 Smithing Materials, 5 Spirit Gems.
 
 ### Rank VI
