@@ -1,4 +1,4 @@
-# LARP Chronicles Ruleset v2.7.2
+# LARP Chronicles Ruleset v2.7.3
 
 Welcome to the Chronicles rules repo! The main branch of this repo is always the currently-used rules for our game.
 
@@ -27,6 +27,7 @@ Email at plot@larpchronicles.com
 
 ---
 Current Members:
+* Colin Flavin
 * James Mullen
 * Jessica Niblick
 * Jon Batchelor
