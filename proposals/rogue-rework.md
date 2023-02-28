@@ -34,19 +34,19 @@ Potential:
 - Marked Target (Curse of Destruction)
 
 
-- Break Free: Once activated, character cannot be slowed, slept, entangled, bound, etc. for 10? seconds
-- Slippery: Per purchase skill that allows character to be immune to damage during a movement-related 3-count (ex: cannot be damaged during Limited Teleport)
+- **Break Free**: Once activated, character cannot be slowed, slept, entangled, bound, etc. for 10? seconds
+- **Slippery**: Per purchase skill that allows character to be immune to damage during a movement-related 3-count (ex: cannot be damaged during Limited Teleport)
     - _(Status effects would still affect the character)_
-- Volley rework: Throw Vital against 1 target, 5 minutes.
-- Ballista: Throw Vital (or increased damage?) as long as feet stay planted
+- **Volley** rework: Throw Vital against 1 target, 5 minutes.
+- **Ballista**: Throw Vital (or increased damage?) as long as feet stay planted
 - I've Got It Here Somewhere...: Roleplay searching your pockets for 10 seconds, then produce a single standard consumable production item. It must be used immediately.
     - _(Number of ranks purchased determines max tier of item that can be produced)_
-- Mimicry: With 5 seconds of seeing another character use an expendable, standard, SP-purchaseable skill, user may announce "Hold My Beer", then use the same ability.
-- Weapon ~~Master~~: Able to use Ranged Profs as melee profs (+1) against a single target
+- **Mimicry**: With 5 seconds of seeing another character use an expendable, standard, SP-purchaseable skill, user may announce "Hold My Beer", then use the same ability.
+- **Weapon ~~Master~~**: Able to use Ranged Profs as melee profs (+1) against a single target
     - Able to use a weapon without the skill against a single target
-- Acting!: For one encounter, character appears as chosen race 
+- **Acting!**: For one encounter, character appears as chosen race 
     - _(Want to avoid this being used to circumvent racial makeup requirements)_
-- Assassinate: 100 Vital
+- **Assassinate**: 100 Vital
 A
 
 Agility skills (vs Stamina skills)
