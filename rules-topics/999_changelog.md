@@ -4,6 +4,13 @@
 * Added steps for how to edit rules docs.
 * Removed listings for staff, plot, & rules committee members.
 
+##v2.7.3 [2022-01-05]
+# Introduction
+* Added several write ups and sections for new players.
+
+# Glossary
+* New section.
+
 ## v2.7.2 [2022-11-16]
 # Production
 * Unstable Storage Device reference corrected to Bag of Holding.
