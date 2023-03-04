@@ -1,5 +1,34 @@
 # Magic Skills
 
+## Initiation, Specialization, and Attunement
+| Magic Skill Costs     | F     | T   | R    | S   |
+|-----------------------|-------|-----|------|-----|
+| School Initiation     | 5+5   | 3+4 | 5+5  | 3+1 |
+| School Specialization | 20    | 15  | 20   | 10  |
+| Mana Attunement       | 10+10 | 3+4 | 10+8 | 3+1 |
+
+### School Initiation
+This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).  
+
+### School Specialization
+When purchased, the character must specify which school they have mastery over. This skill allows that character to use their Mana Points to cast Level X spells of the chosen school. This skill may be purchased only once.
+
+Additionally, a character has access to a school-specific ability:
+- Arcane: Allows the character to Identify an item or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
+- Spirit: Allows the character to briefly sense the presence of recently untethered spirits.
+- Nature: Allows the character the occasional ability to sense extreme danger, possibly even gaining temporary sight from a nearby animal in a position to warn the character. The character cannot control these abilities, it is entirely up to the Plot Team to determine when the character receives these warnings and visions.
+
+
+### Mana Attunement
+In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool.
+
+At each Rest (and before first coming into game), the character may distribute their Mana Points across each school for which they possess the School Initiation skill. Their allocation can only be changed once their Rest is completed. Once distributed, the character may cast the spells in that school on the fly, deducting the Mana Point cost of the spell from their points allocated to that school.
+
+Characters may alternatively choose to explicitly memorize their spell list. Doing so grants a bonus 10% total Mana Points to be distruted. The character must mark down how many of which spells they have chosen to memorize, and they may then only cast those spells (until their next Rest).
+
+
+
+
 ## Mastery Skills
 
 ---
