@@ -29,18 +29,18 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ## Spells By Level and School
 ---
 
-| Level | Universal                    | Arcane                                                      | Spirit                                                                                       | Nature                                                                      | 
-|-------|------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| 1     | Glowing Light                | Blinding Light<br>Mana Bolt                                 | Control: Minor Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds                   | Command: Drop<br>Grasping Grasses<br>Purify Food and Drink | 
+| Level | Universal                    | Arcane                                                      | Spirit                                                                           | Nature                                                                      | 
+|-------|------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1     | Glowing Light                | Blinding Light<br>Mana Bolt                                 | Control: Minor Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds       | Command: Drop<br>Grasping Grasses<br>Purify Food and Drink | 
 | 2     |                              | Disrupt Aether<br>Halt<br>Mana Bolt                         | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike                              | 
-| 3     |                              | Limited Time Stop<br>Mana Bolt                              | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                            | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
-| 4     | Barrier                      | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†   | Rot Limb                                                                                     | Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
-| 5     | Entrap Spirit                | Conjure Shield<br>Enchanted Blade<br>Mana Bolt | Cure Body<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                                      | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†                     |
-| 6     |                              | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis†  | Dull Pain<br>Fear<br>Solidify                                                                | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
-| 7     |                              | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                  | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                 | Command: Confuse<br>Confine                                                 | 
-| 8     | Dispel Magic<br>Reflect      | Bag of Holding<br>Blur Image†<br>Mana Bolt           | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Repair Undead                       | Boon of the Cat<br>Petrify                                                  |
-| 9     | Circle of Power<br>Mana Bolt | Create Undead<br>Dispel Magic<br>Life<br>Resurrection       | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other                    |
-| 10    | Arcane Torrent<br>Doom       | Death                                                       | Spider Web                                                                                   |
+| 3     |                              | Limited Time Stop<br>Mana Bolt                              | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
+| 4     | Barrier                      | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†   | Rot Limb                                                                         | Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
+| 5     | Entrap Spirit                | Conjure Shield<br>Enchanted Blade<br>Mana Bolt | Cure Body<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                          | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†                     |
+| 6     |                              | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis†  | Dull Pain<br>Fear<br>Solidify                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
+| 7     |                              | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                  | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch     | Command: Confuse<br>Confine                                                 | 
+| 8     | Dispel Magic<br>Reflect      | Bag of Holding<br>Blur Image†<br>Mana Bolt           | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Repair Undead           | Boon of the Cat<br>Petrify                                                  |
+| 9     | Circle of Power<br>Mana Bolt | Create Undead<br>Dispel Magic<br>Life<br>Resurrection       | Treewalk†<br>Wrath of Nature, Other                    |
+| 10    | Arcane Torrent<br>Doom       | Death                                                       | Spider Web                                                                       |
 
 
 ## Universal
