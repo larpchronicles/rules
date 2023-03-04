@@ -1,4 +1,8 @@
 # Changelog
+## v2.7.4 [2023-03-03]
+* Added new assets directory for storing images.
+* Added steps for how to edit rules docs.
+* Removed listings for staff, plot, & rules committee members.
 
 ##v2.7.3 [2022-01-05]
 # Introduction
