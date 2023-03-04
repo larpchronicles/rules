@@ -44,6 +44,14 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 
 ## Universal
+### Universal Rank I
+#### **Glowing Light**
+| Spell            | **Glowing Light** |
+|      :---        |       :---         |
+| **Duration**     | 12 hours | |
+| **Incant**       | "I conjure a glowing light." |
+| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another.   |
+
 ### Universal Level IV
 
 | **Spell** | **Barrier** |
@@ -54,6 +62,14 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | Incant                 | "I conjure a \<type\> barrier." |
 | **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. A character may not have more than 1 Active Resist at a time. |
 
+### Universal Rank 5
+#### **Entrap Spirit**
+| **Spell**            | **Entrap Spirit**                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|      :---        |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Incant**     | "By my will, I entrap your spirit."                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Description** | This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
+
 ### Universal Level 7
 | **Spell**    | **Reflect**                                                                                                                                                                                          |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -63,12 +79,12 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                      |
 | **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
 
-### Universal Rank VIII
+### Universal Rank IX
 #### **Dispel Magic**
 | **Spell**            | **Dispel Magic**                                                                                                                                                                                                                                         |
 |      :---        |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | School                 | Universal                                                                                                                                                                                                                                                |
-| Level                  | 8                                                                                                                                                                                                                                                        |
+| Level                  | 9                                                                                                                                                                                                                                                        |
 | **Duration**     | Instant                                                                                                                                                                                                                                                  |
 | **Incant**     | "With arcane forces, I dispel magic."                                                                                                                                                                                                                    |
 | **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
@@ -84,13 +100,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**     | 20 seconds | |
 | **Incant**       | "I conjure a blinding light." |
 | **Description**  | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. |
-
-#### **Glowing Light**   
-| Spell            | **Glowing Light** |
-|      :---        |       :---         |
-| **Duration**     | 12 hours | |
-| **Incant**       | "I conjure a glowing light." |
-| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another.   |
 
 #### **Mana Bolt**
 | Spell            | **Mana Bolt** |
@@ -152,13 +161,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  Duration: Rest |
 | **Description** |  Incant: "I conjure an Enchanted Blade." |
 | **Description** |  This spell will grant the target the ability to strike with magic damage against a single opponent of the target's choice. To use the Enchanted Blade, the target must state "I invoke Enchanted Blade", at which point they will have to choose the opponent that they may use magic damage against. This spell ends when 5 minutes have passed since the invocation, the opponent dies, or if the target rests.  This is an AURA effect. |
-
-#### **Entrapment**
-| **Spell**            | **Entrapment** |
-|      :---        |       :---         |
-| **Duration**     | 20 Seconds |
-| **Incant**     | "By the Arcane, I entrap your essence." |
-| **Description** |  This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
 
 #### **Conjure Shield**
 | **Spell**            | **Conjure Shield** |
@@ -415,13 +417,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**     | Instant |
 | **Incant**     | "By the spirits, I cure this body." |
 | **Description** | This spell removes all lingering maladies such as diseases, weaknesses, disabled limbs, stuns, etc.  This will remove ENTANGLE, INFECT, SLEEP, STUN, and WEAKEN effects.  |
-
-#### **Entrapment**
-| **Spell** | **Entrapment** |
-|:---|:---|
-| **Duration**     | 20 Seconds |
-| **Incant**     | "By the Spirits, I entrap your essence." |
-| **Description** |  This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
 
 #### **Heal Wounds**
 | **Spell** | **Heal Wounds** |
@@ -686,13 +681,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By nature, I command you to be silent." |
 | **Description** |  This spell renders the target unable to speak in game. This prevents the character from communicating verbally or speaking verbal incantations. This spell does not stop the player from communicating out of game calls such as melee damage and defenses. This spell is a SILENCE effect. |
 
-#### **Entrapment**
-| **Spell**            | **Entrapment** |
-|:---|:---|
-| **Duration**     | 20 Seconds |
-| **Incant**     | "By Nature, I entrap your essence." |
-| **Description** |  This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
-
 #### **Strengthen Resolve**
 | **Spell**            | **Strengthen Resolve** |
 |:---|:---|
@@ -779,13 +767,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**     | Rest |
 | **Incant**     | "By the fauna, I grant you a rabbit's boon." |
 | **Description** |  This spell grants the target a single Resist usable against a Spell, Physical, or Toxin effect. The target will call "Dodge." This spell is expended upon use. A character may not have more than one Boon of the Rabbit on them at the same time.  This is a DODGE effect. |
-
-#### **Dispel Magic**
-| **Spell**            | **Dispel Magic** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "By nature, I dispel magic." |
-| **Description** |  This spell will remove all spell effects from the target character or item. This spell does not remove effects caused by toxins, or physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
 
 #### **Treewalk†**
 | **Spell**            | **Treewalk†** |
