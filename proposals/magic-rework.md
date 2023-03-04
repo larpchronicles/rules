@@ -7,7 +7,7 @@ Conveying the changes here will take many words. I will try to give a high-level
 - Skill Point costs for Attunement (Mana Pool) are slightly increased across the board
 - Barrier: Spell Aegis, Barkskin, and Toxin Shield merged into a single spell
 - Reflect: Reflect Spell, Stoneskin, Reflect Toxin merged into a single spell
-- Able to have only 1 Barrier and/or 1 Reflect at a time
+- Able to have only 1 Barrier and 1 Reflect at a time
 - Introduction of Universal Spells as cross-school spells
 - Introduction of a 10th level of spells
     - Arcane: Arcane Torrent, Doom 
@@ -109,7 +109,7 @@ IX  - Dispel Magic
 | **Level**    | 10                                                       |
 | **Duration** | Instant                                                  |
 | **Incant**   | "I grant you the gift of death X... Magic Heal Wounds X" |
-| **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touch-cast a Magic Heal Wounds 25 _or_ Magic Necrotic Touch 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
+| **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touchcast a Magic Heal Wounds 25 _or_ Magic Necrotic Touch 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
 
 
 
