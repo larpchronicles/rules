@@ -26,11 +26,7 @@ At each Rest (and before first coming into game), the character may distribute t
 Characters may alternatively choose to explicitly memorize their spell list. Doing so grants a bonus 10% total Mana Points to be distruted. The character must mark down how many of which spells they have chosen to memorize, and they may then only cast those spells (until their next Rest).
 
 
-## Return Spell Skill
->This is a magical skill that allows a character to reclaim a single SP-purchased Spell that was Resisted by their target. If the user successfully strikes an opponent with a Spell, and the Spell is then Resisted, not Reflected, the user may announce “Return”, and get the use of that spell back. This skill is expended on use.<br />Call: “Return”<br />Requires Any Mana Attunement
-
 ## Spells By Level and School
-
 ---
 
 | Level | Arcane| Spirit| Nature | 
