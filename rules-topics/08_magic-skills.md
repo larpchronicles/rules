@@ -18,49 +18,12 @@ Additionally, a character has access to a school-specific ability:
 - Spirit: Allows the character to briefly sense the presence of recently untethered spirits.
 - Nature: Allows the character the occasional ability to sense extreme danger, possibly even gaining temporary sight from a nearby animal in a position to warn the character. The character cannot control these abilities, it is entirely up to the Plot Team to determine when the character receives these warnings and visions.
 
-
 ### Mana Attunement
 In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool.
 
 At each Rest (and before first coming into game), the character may distribute their Mana Points across each school for which they possess the School Initiation skill. Their allocation can only be changed once their Rest is completed. Once distributed, the character may cast the spells in that school on the fly, deducting the Mana Point cost of the spell from their points allocated to that school.
 
 Characters may alternatively choose to explicitly memorize their spell list. Doing so grants a bonus 10% total Mana Points to be distruted. The character must mark down how many of which spells they have chosen to memorize, and they may then only cast those spells (until their next Rest).
-
-
-
-
-## Mastery Skills
-
----
-A Mastery skill is purchased in order to grant a character access to a school of magic. The skill itself is the prerequisite for purchasing your first Mana Attunement of the given school, and provides a passive benefit that may be used.
-
-| Magic Skill Costs | F   | T   | R   | S   |
-|-------------------|-----|-----|-----|-----|
-| Arcane Mastery    | 5   | 5   | 5   | 3   |
-| Spirit Mastery    | 5   | 5   | 5   | 3   |
-| Nature Mastery    | 5   | 5   | 5   | 3   |
-
-### Arcane Mastery
-This skill allows the character to Identify an item or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character. 
-
-
-### Spiritual Mastery
-This skill allows the character to briefly sense the presence of recently untethered spirits. A character skilled in Spiritual Mastery can also attempt to speak with the still tethered spirit of the recently deceased. To attempt a communication with the dead, the character must concentrate for one minute and roleplay contact with the body of the dead. While in contact with the body and still in concentration, the character may speak with the spirit of the dead. This skill does not halt the death count of the dead character and the communication immediately ends when the spirit becomes untethered.
-
-### Nature Mastery
-This skill allows the character the occasional ability to sense extreme danger, possibly even gaining temporary sight from a nearby animal in a position to warn the character. The character with the skill Natural Mastery cannot control these abilities, it is entirely up to the Plot Team to determine when the character receives these warnings and visions.
-
-
-## Mana Attunement
-
----
-In order to cast a spell, you must possess the appropriate Mastery skill, and purchase ranks of Mana Attunement. Each rank of Mana Attunement you purchase in a given school gives you 10 Points of Mana, which may be spent to cast any spell from that school, on a 1:1 basis, where Mana is equivalent to a spell rank. So after your first attunement is purchased, you could cast 10 Rank I spells, or 2 Rank V spells, or any other combination adding up to 10. These spells can be chosen on the fly, allowing for spell casters to be highly flexible. Some may prefer to Memorize their spells in advance, giving them a clearer guide on what they are capable of. If a character chooses to use Memorization, they gain a bonus 10% to their Mana Pool, so someone with a single Mana Attunement who Memorizes would have 11 Mana, or someone with 5 Attunements would have 55 Mana that they could assign to their Memorized spells.
-
-| Attunement Cost      |  F   |  T   |   R    |    S    |     Prereqs      |
-|:---------------------|:----:|:----:|:------:|:-------:|:----------------:|
-| Primary Attunement   | 10+2 | 6+1  | 8+1.5  |  4+.5   | Relevant Mastery |
-| Secondary Attunement | 20+4 | 12+2 |  16+3  |   8+1   | Relevant Mastery |
-| Tertiary Attunement  | 30+6 | 18+3 | 24+4.5 | 12.+1.5 | Relevant Mastery |
 
 
 ## Return Spell Skill
