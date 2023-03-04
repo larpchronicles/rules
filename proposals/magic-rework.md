@@ -12,7 +12,7 @@ Conveying the changes here will take many words. I will try to give a high-level
 - Introduction of a 10th level of spells
     - Arcane: Arcane Torrent, Doom 
     - Nature: Spider Web
-    - Spirit: Death
+    - Spirit: Death, Life
 - Death and Doom are damage-dealing spells
 - Entrapment is now Entrap Spirit
 
@@ -71,9 +71,9 @@ IX  - Dispel Magic
 | **Spell**    | **Reflect**                                                                                                                                                                                          |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | School                 | Universal                                                                                                                                                                                            |
-| Level                  | 4                                                                                                                                                                                                    |
+| Level                  | 7                                                                                                                                                                                                    |
 | **Duration** | Rest                                                                                                                                                                                                 |
-| **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                              |
+| **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                      |
 | **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
 
 ## Arcane ##

@@ -29,19 +29,49 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ## Spells By Level and School
 ---
 
-| Level | Arcane| Spirit| Nature | 
-|---|---|---|---|
-| I     | Blinding Light<br>Glowing Light<br>Mana Bolt| <br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
-| II    | Disrupt Aether<br>Halt<br>Mana Bolt|Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear| Boon of Nature<br>Entangle Foot<br>Plant Spike| 
-| III   | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom| 
-| IV    | Conjure Weapon<br>Mana Bolt<br>Spell Aegis<br>Temporal Shift†| Rot Limb<br>Toxin Shield| Barkskin<br>Entangle Arms<br>Command: Kneel<br>Command: Stun|
-| V     | Conjure Shield<br>Enchanted Blade<br>Entrapment<br>Mana Bolt| Cure Body<br>Entrapment<br>Heal Wounds<br>Necrotic Tissue<br>Revivify| <br>Command: Silence<br>Entrapment<br>Strengthen Resolve<br>Treehome†|
-| VI    | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Solidify| Boon of the Forest<br>Command: Sleep<br>Entangle Body| 
-| VII   | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch| Command: Confuse<br>Confine| 
-| VIII  | Bag of Holding<br>Blur Image†<br>Mana Bolt<br>Spell Mirror|Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Petrify<br>Stoneskin|
-| IX    | Circle of Power<br>Dispel Magic<br>Doom<br>Mana Bolt| Create Undead<br>Death<br>Dispel Magic<br>Life<br>Resurrection| Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other|
+| Level | Arcane                                                      | Spirit                                                                                           | Nature                                                                      | 
+|---|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| I     | Blinding Light<br>Glowing Light<br>Mana Bolt                | <br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead  | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
+| II    | Disrupt Aether<br>Halt<br>Mana Bolt                         | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike                              | 
+| III   | Limited Time Stop<br>Mana Bolt                              | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                                | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
+| IV    | Conjure Weapon<br>Mana Bolt<br>Barrier<br>Temporal Shift†   | Rot Limb<br>Barrier                                                                              | Barrier<br>Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
+| V     | Conjure Shield<br>Enchanted Blade<br>Entrap Spirit<br>Mana Bolt | Cure Body<br>Entrap Spirit<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                         | <br>Command: Silence<br>Entrap Spirit<br>Strengthen Resolve<br>Treehome†    |
+| VI    | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis†  | Dull Pain<br>Fear<br>Solidify                                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
+| VII   | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                  | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                     | Command: Confuse<br>Confine                                                 | 
+| VIII  | Bag of Holding<br>Blur Image†<br>Mana Bolt<br>Reflect       | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Reflect<br>Repair Undead                | Boon of the Cat<br>Petrify<br>Reflect                                       |
+| IX    | Circle of Power<br>Dispel Magic<br>Mana Bolt            | Create Undead<br>Dispel Magic<br>Life<br>Resurrection                                   | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other   |
+| x     | Arcane Torrent<br>Doom | Death | Spider Web |
 
 
+## Universal
+### Universal Level IV
+
+| **Spell** | **Barrier** |
+|-----------|-------------|
+| School                 | Universal |
+| Level                  | 4 |
+| Duration               | Rest |
+| Incant                 | "I conjure a \<type\> barrier." |
+| **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. A character may not have more than 1 Active Resist at a time. |
+
+### Universal Level 7
+| **Spell**    | **Reflect**                                                                                                                                                                                          |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| School                 | Universal                                                                                                                                                                                            |
+| Level                  | 7                                                                                                                                                                                                    |
+| **Duration** | Rest                                                                                                                                                                                                 |
+| **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                      |
+| **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
+
+### Universal Rank VIII
+#### **Dispel Magic**
+| **Spell**            | **Dispel Magic**                                                                                                                                                                                                                                         |
+|      :---        |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| School                 | Universal                                                                                                                                                                                                                                                |
+| Level                  | 8                                                                                                                                                                                                                                                        |
+| **Duration**     | Instant                                                                                                                                                                                                                                                  |
+| **Incant**     | "With arcane forces, I dispel magic."                                                                                                                                                                                                                    |
+| **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
 
 ## Arcane
 
@@ -105,12 +135,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "I conjure a magical <weapon>." |
 | **Description** |  This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the appropriate weapon skill in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell may not be wielded with a conjured shield. |
 
-#### **Spell Aegis**
-| **Spell**            | **Spell Aegis** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Description** |  **Incant**:** **"With arcane forces, I create a spell aegis." |
-| **Description** |  This spell grants the target a single use of the  Resist Spell ability. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Spell Aegis spell at a time. This spell is expended once used. |
 
 #### **Temporal Shift**
 | **Spell**            | **Temporal Shift†** |
@@ -223,19 +247,23 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "I conjure a Circle of Power." |
 | **Description** |  This spell requires the caster to first place a braided white and red rope physical representation on the ground in a circular formation that is no larger than 10 feet in diameter. The Circle of Power will become a cylinder shaped container 10 feet high with a top and bottom surface. Once the physical representation is placed, the caster must cast the Circle of Power spell on the physical representation rope. For the duration of this spell, and as long as the caster maintains concentration, anyone inside the physical representation of the spell at the time of casting is protected from spells, physical attacks, and toxins while within the circle. Should a character leave the protection of the circle, they will lose their invulnerability, and they cannot re-enter. Circle of Power is not able to be dispelled by the Dispel Magic spell.  This is an INVULNERABLE effect. |
 
-#### **Dispel Magic**
-| **Spell**            | **Dispel Magic** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "With arcane forces, I dispel magic." |
-| **Description** |  This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
 
-#### **Doom**
-| **Spell**            | **Doom** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "I set your Doom upon you." |
-| **Description** |  This spell immediately reduces the target’s body to -1, armor pools to 0, and they immediately begin Bleeding Out.  This is a DOOM effect. |
+### Arcane Rank X
+| **Spell**    | **Arcane Torrent**                                                                                                                                                                                                                                              |
+|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **School**   | Arcane                                                                                                                                                                                                                                                          |
+| **Level**    | 10                                                                                                                                                                                                                                                              |
+| **Duration** | Concentration                                                                                                                                                                                                                                                   |
+| **Incant**   | "I rain destruction about you all! ... Magic mana bolt 5, Magic mana bolt 5, ..."                                                                                                                                                                               |
+| **Description** | The caster plants their feet and is able to throw "Magic Mana Bolt 5" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
+
+| **Spell**    | **Doom**                      |
+|--------------|-------------------------------|
+| **School**   | Arcane                        |
+| **Level**    | 10                            |
+| **Duration** | Instant                       |
+| **Incant**   | "I set your doom upon you, X" |
+| Description  | The caster hurls a bolt of Arcane energy at their target that deals 50 damage. This damage can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. |
 
 
 ## Spirit
@@ -511,27 +539,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "Fiends of the dark nether, force this minion to rise and serve." |
 | **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target’s spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
 
-#### **Death**
-| **Spell**            | **Death** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "I grant you the gift of Death." |
-| **Description** |  This spell immediately reduces the target’s body to -1, armor pools to 0, and they immediately bypass their Bleed Out count and are Dead, beginning their 5 minute Death count as normal. This spell has no effect on creatures without a metabolism or who crumble at 0 body. This is a DEATH effect. |
-
-#### **Dispel Magic**
-| **Spell**            | **Dispel Magic** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I dispel magic." |
-| **Description** |  This spell will remove all spell effects from the target character or item. This spell does not remove effects caused by toxins or physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
-
-#### **Life**
-| **Spell**            | **Life** |
-|:---|:---|
-| **Duration**     | 5 seconds |
-| **Incant**     | "I grant you the gift of Life." |
-| **Description** |  This spell will restore a living or dead target to full maximum health, remove all magical, toxin, and physical effects, including beneficial ones, and grants the target temporary immunity to spells, toxins, and physical attacks for 5 seconds. This spell cannot be extended by Limited time Stop.  This is a LIFE effect. |
-
 #### **Resurrection**
 | **Spell**            | **Resurrection** |
 |:---|:---|
@@ -539,7 +546,22 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the spirits, I grant you a resurrection." |
 | **Description** |  This spell takes 1 minutes to cast and requires an untethered spirit. At the beginning of the spell, the target must clearly acknowledge the acceptance of the spell, if they do not, the spell fails to no effect. Once the spell begins, the target's body begins to immediately reform, incurring strain as per a normal resurrection. The caster must be in concentration and unimpeded for the entire casting time of this spell, else the spell will fail. If the caster’s concentration is interrupted, or the reforming body is affected by any detrimental effect, the spell fails and the target immediately suffers a second death. Prior to the casting time the player of the caster, and the player of the untethered spirit, are to verify that the spirit does not have too much strain to resurrect. A marshal should also be present to oversee the process. Once the Resurrection spell is complete, the spirit instantly reforms its body next to the spell caster. The body appears with a full health pool, and all skills renewed as if they had completed a long rest.  This is a LIFE effect. |
 
+### Spirit Rank X
+#### Death
+| **Spell**    | **Death**                                                |
+|--------------|----------------------------------------------------------|
+| **School**   | Spirit                                                   |
+| **Level**    | 10                                                       |
+| **Duration** | Instant                                                  |
+| **Incant**   | "I grant you the gift of death X... Magic Heal Wounds X" |
+| **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touchcast a Magic Heal Wounds 25 _or_ Magic Necrotic Touch 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
 
+#### **Life**
+| **Spell**            | **Life** |
+|:---|:---|
+| **Duration**     | 5 seconds |
+| **Incant**     | "I grant you the gift of Life." |
+| **Description** |  This spell will restore a living or dead target to full maximum health, remove all magical, toxin, and physical effects, including beneficial ones, and grants the target temporary immunity to spells, toxins, and physical attacks for 5 seconds. This spell cannot be extended by Limited time Stop.  This is a LIFE effect. |
 
 
 ## Nature
@@ -778,3 +800,13 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**     | Concentration, up to 1 Minute |
 | **Incant**     | "By nature, I grant you a vengeful wrath." |
 | **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target’s health pool cannot be brought to below 1 point as long as the caster is within arm’s reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
+
+### Nature Rank X
+
+| **Spell**    | **Spider Web**                                                                                    |
+|--------------|---------------------------------------------------------------------------------------------------|
+| **School**   | Nature                                                                                            |
+| **Level**    | 10                                                                                                |
+| **Duration** | Concentration                                                                                     |
+| **Incant**   | "By Nature, I set the webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..." |
+| **Description** | The caster plants their feet and is able to throw "Physical Entangle Body" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
