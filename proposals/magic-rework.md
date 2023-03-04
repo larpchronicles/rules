@@ -69,8 +69,6 @@ IX  - Dispel Magic
 | Incant                 | "I conjure a \<type\> barrier." |
 | **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. A character may not have more than 1 Active Resist at a time. |
 
-
-
 | **Spell**    | **Reflect**                                                                                                                                                                                          |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | School                 | Universal                                                                                                                                                                                            |
@@ -79,12 +77,13 @@ IX  - Dispel Magic
 | **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                              |
 | **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
 
+### Arcane ###
 | **Spell**    | **Arcane Torrent**                                                                                                                                                                                                                                              |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **School**   | Arcane                                                                                                                                                                                                                                                          |
 | **Level**    | 10                                                                                                                                                                                                                                                              |
 | **Duration** | Concentration                                                                                                                                                                                                                                                   |
-| **Incant**   | "I rain destruction about you all! Magic mana bolt 5, Magic mana bolt 5, ..."                                                                                                                                                                                   |
+| **Incant**   | "I rain destruction about you all! ... Magic mana bolt 5, Magic mana bolt 5, ..."                                                                                                                                                                               |
 | **Description** | The caster plants their feet and is able to throw "Magic Mana Bolt 5" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
 
 | **Spell**    | **Doom**                      |
@@ -95,8 +94,16 @@ IX  - Dispel Magic
 | **Incant**   | "I set your doom upon you, X" |
 | Description  | The caster hurls a bolt of Arcane energy at their target that deals 50 damage. This damage can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. |
 
- 
+### Nature ###
+| **Spell**    | **Spider Web**                                                                                    |
+|--------------|---------------------------------------------------------------------------------------------------|
+| **School**   | Nature                                                                                            |
+| **Level**    | 10                                                                                                |
+| **Duration** | Concentration                                                                                     |
+| **Incant**   | "By Nature, I set the webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..." |
+| **Description** | The caster plants their feet and is able to throw "Physical Entangle Body" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
 
+### Spirit ###
 | **Spell**    | **Death**                                                |
 |--------------|----------------------------------------------------------|
 | **School**   | Spirit                                                   |
@@ -105,10 +112,5 @@ IX  - Dispel Magic
 | **Incant**   | "I grant you the gift of death X... Magic Heal Wounds X" |
 | **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touch-cast a Magic Heal Wounds 25 _or_ Magic Necrotic Touch 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
 
-| **Spell**    | **Spider Web**                                                                                    |
-|--------------|---------------------------------------------------------------------------------------------------|
-| **School**   | Nature                                                                                            |
-| **Level**    | 10                                                                                                |
-| **Duration** | Concentration                                                                                     |
-| **Incant**   | "By Nature, I set the webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..." |
-| **Description** | The caster plants their feet and is able to throw "Physical Entangle Body" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
+
+
