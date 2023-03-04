@@ -15,6 +15,7 @@ Conveying the changes here will take many words. I will try to give a high-level
     - Spirit: Death, Life
 - Death and Doom are damage-dealing spells
 - Entrapment is now Entrap Spirit
+- Removed Blur Image
 
 # The Goal #
 Our goal is to grant casters more compelling customization choices while simultaneously reigning in some of the offensive and defensive power of casters.

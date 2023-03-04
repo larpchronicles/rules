@@ -225,23 +225,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "I conjure a bag of holding." |
 | **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows game cards to be stored within the container without the need for also carrying the physical representation. Once a game card is removed from the container, the player must provide a physical representation as required by the game card. Once the bag of holding ends, all game cards are ejected from the container. The game cards must then be taken to a game storage location if no suitable physical representations are available. A Pocket Dimension container is not protected from destruction by the Pocket Dimension spell; should a Pocket Dimension container be destroyed, all items within the container are also destroyed. A bag of holding may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs, and PCs cannot be stored within the bag of holding without express permission from the Plot Team. |
 
-#### **Blur Image†**
-| **Spell**            | **Blur Image†**|
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | "With arcane forces, I blur my image."|
-| **Description** | This spell will allow the character to resist a single Spell, Physical, or Toxin attack or effect once. This spell is expended upon use. The player will respond with "Dodge". A character cannot have more than one instance of this spell active at a time.  This is a DODGE effect. |
-
-
-#### **Spell Mirror**
-| **Spell**            | **Spell Mirror** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | "With arcane forces, I create a spell mirror." |
-| **Description** |  This spell grants the target a single Reflect Magic. The character replies "Reflect" when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
-
 ### Arcane Level 9
-
 #### **Circle of Power**
 | **Spell**            | **Circle of Power** |
 |      :---        |       :---         |
@@ -400,13 +384,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**     | 20 seconds |
 | **Incant**     | "Fiends of the dark nether, rot this <limb>." |
 | **Description** |  This spell causes the target’s limb to become completely useless. Any items that are held by the rotting limb do not drop to the ground.  This is a DISARM effect. |
-
-#### **Toxin Shield**
-| **Spell**| **Toxin Shield** |
-|:---|:---|
-| **Duration**     | Rest |
-| **Incant**     | "By the spirits, I grant you a toxin shield." |
-| **Description** |  This spell grants the caster a single Resist Toxin. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 
 ### Spirit Level 5
