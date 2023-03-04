@@ -23,55 +23,55 @@ Following are the Standard Library, and other Rituals for which the Scroll must 
 ### Rank I
 
 #### Elemental Shift
->This ritual removes “Magic Missile” as an option for an arcane magic user at every level it is offered and replaces them with one of either:
-> * Flame Bolt - “I conjure a flame bolt &lt;number>.”
-> * Frost Bolt - “I conjure a frost bolt &lt;number>.”
-> * Shock Bolt - “I conjure a shock bolt &lt;number>.”
-> * Acid Bolt  -  “I conjure a stone bolt &lt;number>.”
+This ritual removes “Magic Missile” as an option for an arcane magic user at every level it is offered and replaces them with one of either:
+ * Flame Bolt - “I conjure a flame bolt &lt;number>.”
+ * Frost Bolt - “I conjure a frost bolt &lt;number>.”
+ * Shock Bolt - “I conjure a shock bolt &lt;number>.”
+ * Acid Bolt  -  “I conjure a stone bolt &lt;number>.”
 
->The target of this ritual chooses the element at the end of the ritual casting. This change is permanent until this ritual is once again cast on the target at which time a different element, or “Magic Missile” may be selected. 
+The target of this ritual chooses the element at the end of the ritual casting. This change is permanent until this ritual is once again cast on the target at which time a different element, or “Magic Missile” may be selected. 
 
->This ritual requires that the ritualist use a physical representation for each of the four elements: Fire, Air, Water, and Earth. 
+This ritual requires that the ritualist use a physical representation for each of the four elements: Fire, Air, Water, and Earth. 
 
->Note: This spell does not affect the Rank I “Mana Bolt” spell.
+Note: This spell does not affect the Rank I “Mana Bolt” spell.
 
 #### Create Spirit Familiar
->This ritual siphons off a portion of the character's spirit, creating the physical form of a Spirit Familiar. The form of the Spirit Familiar is left up to the player with the final approval of the local Plot Team.
+This ritual siphons off a portion of the character's spirit, creating the physical form of a Spirit Familiar. The form of the Spirit Familiar is left up to the player with the final approval of the local Plot Team.
 
->Once the ritual is complete, the Spirit Familiar will take shape and be with the character at all times. The familiar is an in game spirit that only the character can communicate with, even though the Spirit Familiar is visible to everyone. The Spirit Familiar cannot be affected by physical or spell attacks of any kind, including weapon or packet delivered effects, nor can it be used as a shield to protect the character from them.
+Once the ritual is complete, the Spirit Familiar will take shape and be with the character at all times. The familiar is an in game spirit that only the character can communicate with, even though the Spirit Familiar is visible to everyone. The Spirit Familiar cannot be affected by physical or spell attacks of any kind, including weapon or packet delivered effects, nor can it be used as a shield to protect the character from them.
 
->The character may then procure further spirit rituals to begin a transformation process where the character casts a base “Spirit Transform to &lt;x>” ritual upon the Spirit Familiar, and subsequently casts empowerment rituals known as Transform Ability Rituals, based on the transformation of the Spirit Familiar. These empowering rituals allow the character to invest skill points on Transform skills.
+The character may then procure further spirit rituals to begin a transformation process where the character casts a base “Spirit Transform to &lt;x>” ritual upon the Spirit Familiar, and subsequently casts empowerment rituals known as Transform Ability Rituals, based on the transformation of the Spirit Familiar. These empowering rituals allow the character to invest skill points on Transform skills.
 
->If at any time a character no longer wishes to pursue the path of their current Spirit Familiar, they may elect to have a new Spirit Familiar ritual cast upon them. However, this does not come without cost. The Spirit Familiar’s link to the character’s spirit is strong, and breaking it can be harmful. Upon casting a new Spirit Familiar, all previously unlocked Transform Abilities are lost, and the character permanently loses 50 SP. 
+If at any time a character no longer wishes to pursue the path of their current Spirit Familiar, they may elect to have a new Spirit Familiar ritual cast upon them. However, this does not come without cost. The Spirit Familiar’s link to the character’s spirit is strong, and breaking it can be harmful. Upon casting a new Spirit Familiar, all previously unlocked Transform Abilities are lost, and the character permanently loses 50 SP. 
 
->This ritual requires that the target character have a pre-approved physical representation of their Spirit Familiar with them in the ritual.
+This ritual requires that the target character have a pre-approved physical representation of their Spirit Familiar with them in the ritual.
 
 ### Rank II
 
 #### Dampen Magic
->The caster attempts to extend their will to create an area that prevents the use of or casting of ritual magic - except for Destroy Ritual Magic.  If successful, the area will have a radius of 100ft that persists for 1 hour.  May only be destroyed by a Destroy Ritual Magic ritual.
+The caster attempts to extend their will to create an area that prevents the use of or casting of ritual magic - except for Destroy Ritual Magic.  If successful, the area will have a radius of 100ft that persists for 1 hour.  May only be destroyed by a Destroy Ritual Magic ritual.
 
 ### Rank III
 
 #### Race Change
->The caster specifies a target to reshape its spirit of a race chosen by the caster. If the ritual succeeds the target is changed to the targeted race and gains the racial traits of the selected race, whilst losing those of the original. (Plot effects such as Awakened neck collars are preserved) A target may not be affected by a Race Change against its will.
+The caster specifies a target to reshape its spirit of a race chosen by the caster. If the ritual succeeds the target is changed to the targeted race and gains the racial traits of the selected race, whilst losing those of the original. (Plot effects such as Awakened neck collars are preserved) A target may not be affected by a Race Change against its will.
 #### Purify/Corrupt The Land
->The caster reaches out and taps into the primordial energy of the surrounding environment to either purify it of dark taint or call upon the fiends to spread their necrotic tendrils into the land. The size of surrounding land affected is 10x the caster’s ritual magic level.
+The caster reaches out and taps into the primordial energy of the surrounding environment to either purify it of dark taint or call upon the fiends to spread their necrotic tendrils into the land. The size of surrounding land affected is 10x the caster’s ritual magic level.
 
 ### Rank IV
 
 #### Spirit Journey
-> This ritual allows the target to seek out information or ask a question of the spirit realm. They will experience a vision quest related to that topic. The source of the vision may be their own subconsciousness, tribal ancestors, spirit guides, or other metaphysical sources as appropriate for the performance of the ritual. The events of the journey are not guaranteed to be truthful; The spirits may be fickle, capricious, or even simply out of touch with the physical reality of Evren. 
+ This ritual allows the target to seek out information or ask a question of the spirit realm. They will experience a vision quest related to that topic. The source of the vision may be their own subconsciousness, tribal ancestors, spirit guides, or other metaphysical sources as appropriate for the performance of the ritual. The events of the journey are not guaranteed to be truthful; The spirits may be fickle, capricious, or even simply out of touch with the physical reality of Evren. 
 
 #### Spirit Lock
->This ritual forms a permanent bond between a specific item and a target individual This bond transcends the physical realm, ensuring that no matter where the individual may go, the item will always follow. As long as the item endures, it is Locked to the target, unable to be stolen, given away, or even used by another individual. If the target should die and their spirit departs to seek resurrection, the item will follow them. This does not grant any extra resilience for the item, and the effect will fade if the item is destroyed or expires.
+This ritual forms a permanent bond between a specific item and a target individual This bond transcends the physical realm, ensuring that no matter where the individual may go, the item will always follow. As long as the item endures, it is Locked to the target, unable to be stolen, given away, or even used by another individual. If the target should die and their spirit departs to seek resurrection, the item will follow them. This does not grant any extra resilience for the item, and the effect will fade if the item is destroyed or expires.
 #### Magical Barrier
->This ritual is designed to imbue the participants with additional magical shielding. Each target that actively participates in the casting of the ritual gains a single use of Resist Magic that lasts for one day or until used.
+This ritual is designed to imbue the participants with additional magical shielding. Each target that actively participates in the casting of the ritual gains a single use of Resist Magic that lasts for one day or until used.
 
 ### Rank V
 
 #### Spirit Forge
->The caster reaches into the very essence of the target and gives the target a glimpse into the infinite multitude of possibilities posed by their history and growth. This spell allows the target to instantly choose to change their chosen class, and/or re-assign all assigned Skill Points they possess.
+The caster reaches into the very essence of the target and gives the target a glimpse into the infinite multitude of possibilities posed by their history and growth. This spell allows the target to instantly choose to change their chosen class, and/or re-assign all assigned Skill Points they possess.
 
 ### Rank VI
 
@@ -80,7 +80,7 @@ Following are the Standard Library, and other Rituals for which the Scroll must 
 ### Rank VIII
 
 #### Destroy Ritual Magic
->The caster attempts to focus their mastery of ritual magic in order to destroy any Ritual Magic effect. The difficulty of this spell is variable based on the level of the effect the caster is attempting to destroy. It is highly recommended that anyone undertaking this Ritual prepare thoroughly and do everything in their power to boost their chance of success, as any magic that might require such an intervention is likely to prove difficult to Destroy.
+The caster attempts to focus their mastery of ritual magic in order to destroy any Ritual Magic effect. The difficulty of this spell is variable based on the level of the effect the caster is attempting to destroy. It is highly recommended that anyone undertaking this Ritual prepare thoroughly and do everything in their power to boost their chance of success, as any magic that might require such an intervention is likely to prove difficult to Destroy.
 
 ### Rank IX
 
@@ -89,7 +89,7 @@ Following are the Standard Library, and other Rituals for which the Scroll must 
 ### Rank X
 
 #### Empower Spirit
->The ritualist empowers a character with grand energies of might and magic. This ritual channels the energies of the consumed Spirit Gems directly into the target character, granting them incredible resilience to face an upcoming challenge. The target gains 2x Resist Physical and 2x Resist Spell, and an intangible suit of 50 Armor that cannot be refit by any means, but stacks over any worn armor and bypasses normal Armor Caps. These last until expended, the target resurrects, or 24 hours have passed. A character may be empowered in this way no more than once per week.
+The ritualist empowers a character with grand energies of might and magic. This ritual channels the energies of the consumed Spirit Gems directly into the target character, granting them incredible resilience to face an upcoming challenge. The target gains 2x Resist Physical and 2x Resist Spell, and an intangible suit of 50 Armor that cannot be refit by any means, but stacks over any worn armor and bypasses normal Armor Caps. These last until expended, the target resurrects, or 24 hours have passed. A character may be empowered in this way no more than once per week.
 
 ## Uncommon Rituals
 
