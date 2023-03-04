@@ -60,6 +60,9 @@ Following are the Standard Library, and other Rituals for which the Scroll must 
 
 ### Rank IV
 
+#### Spirit Journey
+> This ritual allows the target to seek out information or ask a question of the spirit realm. They will experience a vision quest related to that topic. The source of the vision may be their own subconsciousness, tribal ancestors, spirit guides, or other metaphysical sources as appropriate for the performance of the ritual. The events of the journey are not guaranteed to be truthful; The spirits may be fickle, capricious, or even simply out of touch with the physical reality of Evren. 
+
 #### Spirit Lock
 >This ritual forms a permanent bond between a specific item and a target individual This bond transcends the physical realm, ensuring that no matter where the individual may go, the item will always follow. As long as the item endures, it is Locked to the target, unable to be stolen, given away, or even used by another individual. If the target should die and their spirit departs to seek resurrection, the item will follow them. This does not grant any extra resilience for the item, and the effect will fade if the item is destroyed or expires.
 #### Magical Barrier
