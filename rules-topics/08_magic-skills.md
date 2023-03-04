@@ -11,7 +11,7 @@
 This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).  
 
 ### School Specialization
-When purchased, the character must specify which school they have mastery over. This skill allows that character to use their Mana Points to cast Level X spells of the chosen school. This skill may be purchased only once.
+When purchased, the character must specify which school they have mastery over. This skill allows that character to use their Mana Points to cast Level 10 spells of the chosen school. This skill may be purchased only once.
 
 Additionally, a character has access to a school-specific ability:
 - Arcane: Allows the character to Identify an item or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
@@ -66,6 +66,8 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 #### **Entrap Spirit**
 | **Spell**            | **Entrap Spirit**                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |      :---        |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| School                 | Universal                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Level                  | 5                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | **Duration**     | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Incant**     | "By my will, I entrap your spirit."                                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Description** | This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
@@ -263,13 +265,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**     | 5 minutes |
 | **Incant**     | "Fiends of the dark nether, reward me with your service." |
 | **Description** |  This spell allows the caster to vocally control a minor undead creature. The creature cannot understand complex instructions, but it will follow simple directions to the best of its ability. The undead creature is destroyed once this spell ends.  This is a VOICE CONTROL effect. |
-
-#### **Glowing Light**
-| **Spell**            | **Glowing Light** |
-|      :---        |       :---         |
-| **Duration**     | 12 hours |
-| **Incant**     | "I conjure a glowing light." |
-| **Description** |  This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight, or a glow stick less than 6" in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell, or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
 
 #### **Heal Wounds**
 | **Spell**            | **Heal Wounds** |
@@ -512,11 +507,11 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target’s spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
 
 #### **Resurrection**
-| **Spell**            | **Resurrection** |
-|:---|:---|
-| **Duration**     | One Minute |
-| **Incant**     | "By the spirits, I grant you a resurrection." |
-| **Description** |  This spell takes 1 minutes to cast and requires an untethered spirit. At the beginning of the spell, the target must clearly acknowledge the acceptance of the spell, if they do not, the spell fails to no effect. Once the spell begins, the target's body begins to immediately reform, incurring strain as per a normal resurrection. The caster must be in concentration and unimpeded for the entire casting time of this spell, else the spell will fail. If the caster’s concentration is interrupted, or the reforming body is affected by any detrimental effect, the spell fails and the target immediately suffers a second death. Prior to the casting time the player of the caster, and the player of the untethered spirit, are to verify that the spirit does not have too much strain to resurrect. A marshal should also be present to oversee the process. Once the Resurrection spell is complete, the spirit instantly reforms its body next to the spell caster. The body appears with a full health pool, and all skills renewed as if they had completed a long rest.  This is a LIFE effect. |
+| **Spell**            | **Resurrection**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:---|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | 1 Minute                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Incant**     | "By the spirits, I grant you a resurrection."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Description** | This spell takes 1 minute to cast and requires an untethered spirit. At the beginning of the spell, the target must clearly acknowledge the acceptance of the spell, if they do not, the spell fails to no effect. Once the spell begins, the target's body begins to immediately reform, incurring strain as per a normal resurrection. The caster must be in concentration and unimpeded for the entire casting time of this spell, else the spell will fail. If the caster’s concentration is interrupted, or the reforming body is affected by any detrimental effect, the spell fails and the target immediately suffers a second death. Prior to the casting time the player of the caster, and the player of the untethered spirit, are to verify that the spirit does not have too much strain to resurrect. A marshal should also be present to oversee the process. Once the Resurrection spell is complete, the spirit instantly reforms its body next to the spell caster. The body appears with a full health pool, and all skills renewed as if they had completed a long rest.  This is a LIFE effect. |
 
 ### Spirit Level 10
 #### Death
@@ -547,13 +542,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  Duration: 5 seconds |
 | **Description** |  Incant: "By nature, I command you to drop your &lt;named item, item>." |
 | **Description** |  This spell causes the target to drop a handheld item for 5 seconds. The dropped item is not to be thrown or tossed aside. The caster may name the handheld item that they wish the target to drop, but if no item is named, the target may choose which handheld item to drop. This spell is a DISARM effect. |
-
-#### **Glowing Light**
-| **Spell**            | **Glowing Light** |
-|:---|:---|
-| **Duration**     | 12 hours |
-| **Incant**     | "I conjure a glowing light." |
-| **Description** |  This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell, or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
 
 #### **Grasping Grasses**
 | **Spell**            | **Grasping Grasses** |
@@ -620,13 +608,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ### Nature Level 4
 
-#### **Barkskin**
-| **Spell**            | **Barkskin** |
-|:---|:---|
-| **Duration**     | Rest |
-| **Incant**     | "By the flora, I grant you barkskin." |
-| **Description** |  This spell grants the target a single Resist Physical. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Barkskin spell at a time. This spell is expended once used.  This is a RESIST effect. |
-
 #### **Command: Kneel**
 | **Spell**            | **Command: Kneel**   |
 |:---|:---|
@@ -675,11 +656,11 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Nature Level 6
 
 #### **Boon of the Forest**
-| **Spell**            | **Boon of the Forest** |
-|:---|:---|
-| **Duration**     | 1 minute |
-| **Incant**     | "By nature, I grant you forest’s boon." |
-| **Description** |  This spell allows the target to spend one minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
+| **Spell**            | **Boon of the Forest**                                                                                                                                                                                                                                                                            |
+|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | 1 minute                                                                                                                                                                                                                                                                                          |
+| **Incant**     | "By nature, I grant you forest’s boon."                                                                                                                                                                                                                                                           |
+| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
 
 #### **Command: Sleep**
 | **Spell**            | **Command: Sleep** |
@@ -728,22 +709,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By nature, I petrify you." |
 | **Description** | This spell will petrify the target and prevent them from moving, communicate in any manner, activate items, or use any game skills for the duration.  The target receives damage normally and can be physically moved.  This effect can be removed by Dispel Magic and Restore Body. This is a STUN effect. |
 
-
-#### **Stoneskin**
-| **Spell**            | **Stoneskin** |
-|:---|:---|
-| **Duration**     | Rest |
-| **Incant**     | "By nature, I grant you stoneskin." |
-| **Description** |  This spell grants the target a single Reflect Physical. The character replies "Reflect" when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
-
 ### Nature Level 9
-
-#### **Boon of the Rabbit**
-| **Spell**            | **Boon of the Rabbit** |
-|      :---        |       :---         |
-| **Duration**     | Rest |
-| **Incant**     | "By the fauna, I grant you a rabbit's boon." |
-| **Description** |  This spell grants the target a single Resist usable against a Spell, Physical, or Toxin effect. The target will call "Dodge." This spell is expended upon use. A character may not have more than one Boon of the Rabbit on them at the same time.  This is a DODGE effect. |
 
 #### **Treewalk†**
 | **Spell**            | **Treewalk†** |
