@@ -29,18 +29,18 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ## Spells By Level and School
 ---
 
-| Level | Arcane                                                      | Spirit                                                                                           | Nature                                                                      | 
-|-------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| 1     | Blinding Light<br>Glowing Light<br>Mana Bolt                | <br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead  | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
-| 2     | Disrupt Aether<br>Halt<br>Mana Bolt                         | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike                              | 
-| 3     | Limited Time Stop<br>Mana Bolt                              | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                                | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
-| 4     | Conjure Weapon<br>Mana Bolt<br>Barrier<br>Temporal Shift†   | Rot Limb<br>Barrier                                                                              | Barrier<br>Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
-| 5     | Conjure Shield<br>Enchanted Blade<br>Entrap Spirit<br>Mana Bolt | Cure Body<br>Entrap Spirit<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                         | <br>Command: Silence<br>Entrap Spirit<br>Strengthen Resolve<br>Treehome†    |
-| 6     | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis†  | Dull Pain<br>Fear<br>Solidify                                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
-| 7     | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                  | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                     | Command: Confuse<br>Confine                                                 | 
-| 8     | Bag of Holding<br>Blur Image†<br>Mana Bolt<br>Reflect       | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Reflect<br>Repair Undead                | Boon of the Cat<br>Petrify<br>Reflect                                       |
-| 9     | Circle of Power<br>Dispel Magic<br>Mana Bolt            | Create Undead<br>Dispel Magic<br>Life<br>Resurrection                                   | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other   |
-| 10    | Arcane Torrent<br>Doom | Death | Spider Web |
+| Level | Universal                    | Arcane                                                      | Spirit                                                                                       | Nature                                                                      | 
+|-------|------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1     | Glowing Light                | Blinding Light<br>Mana Bolt                                 | Control: Minor Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds                   | Command: Drop<br>Grasping Grasses<br>Purify Food and Drink | 
+| 2     |                              | Disrupt Aether<br>Halt<br>Mana Bolt                         | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike                              | 
+| 3     |                              | Limited Time Stop<br>Mana Bolt                              | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                            | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
+| 4     | Barrier                      | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†   | Rot Limb                                                                                     | Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
+| 5     | Entrap Spirit                | Conjure Shield<br>Enchanted Blade<br>Mana Bolt | Cure Body<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                                      | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†                     |
+| 6     |                              | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis†  | Dull Pain<br>Fear<br>Solidify                                                                | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
+| 7     |                              | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                  | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                 | Command: Confuse<br>Confine                                                 | 
+| 8     | Dispel Magic<br>Reflect      | Bag of Holding<br>Blur Image†<br>Mana Bolt           | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Repair Undead                       | Boon of the Cat<br>Petrify                                                  |
+| 9     | Circle of Power<br>Mana Bolt | Create Undead<br>Dispel Magic<br>Life<br>Resurrection       | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other                    |
+| 10    | Arcane Torrent<br>Doom       | Death                                                       | Spider Web                                                                                   |
 
 
 ## Universal
@@ -70,11 +70,11 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By my will, I entrap your spirit."                                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Description** | This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
 
-### Universal Level 7
+### Universal Level 8
 | **Spell**    | **Reflect**                                                                                                                                                                                          |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | School                 | Universal                                                                                                                                                                                            |
-| Level                  | 7                                                                                                                                                                                                    |
+| Level                  | 8                                                                                                                                                                                                    |
 | **Duration** | Rest                                                                                                                                                                                                 |
 | **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                      |
 | **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
