@@ -30,21 +30,21 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ---
 
 | Level | Arcane                                                      | Spirit                                                                                           | Nature                                                                      | 
-|---|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| I     | Blinding Light<br>Glowing Light<br>Mana Bolt                | <br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead  | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
-| II    | Disrupt Aether<br>Halt<br>Mana Bolt                         | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike                              | 
-| III   | Limited Time Stop<br>Mana Bolt                              | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                                | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
-| IV    | Conjure Weapon<br>Mana Bolt<br>Barrier<br>Temporal Shift†   | Rot Limb<br>Barrier                                                                              | Barrier<br>Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
-| V     | Conjure Shield<br>Enchanted Blade<br>Entrap Spirit<br>Mana Bolt | Cure Body<br>Entrap Spirit<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                         | <br>Command: Silence<br>Entrap Spirit<br>Strengthen Resolve<br>Treehome†    |
-| VI    | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis†  | Dull Pain<br>Fear<br>Solidify                                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
-| VII   | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                  | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                     | Command: Confuse<br>Confine                                                 | 
-| VIII  | Bag of Holding<br>Blur Image†<br>Mana Bolt<br>Reflect       | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Reflect<br>Repair Undead                | Boon of the Cat<br>Petrify<br>Reflect                                       |
-| IX    | Circle of Power<br>Dispel Magic<br>Mana Bolt            | Create Undead<br>Dispel Magic<br>Life<br>Resurrection                                   | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other   |
-| x     | Arcane Torrent<br>Doom | Death | Spider Web |
+|-------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1     | Blinding Light<br>Glowing Light<br>Mana Bolt                | <br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds<br>Glowing Light<br>Control: Minor Undead  | Command: Drop<br>Glowing Light<br>Grasping Grasses<br>Purify Food and Drink | 
+| 2     | Disrupt Aether<br>Halt<br>Mana Bolt                         | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike                              | 
+| 3     | Limited Time Stop<br>Mana Bolt                              | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                                | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
+| 4     | Conjure Weapon<br>Mana Bolt<br>Barrier<br>Temporal Shift†   | Rot Limb<br>Barrier                                                                              | Barrier<br>Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
+| 5     | Conjure Shield<br>Enchanted Blade<br>Entrap Spirit<br>Mana Bolt | Cure Body<br>Entrap Spirit<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                         | <br>Command: Silence<br>Entrap Spirit<br>Strengthen Resolve<br>Treehome†    |
+| 6     | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis†  | Dull Pain<br>Fear<br>Solidify                                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
+| 7     | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                  | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                     | Command: Confuse<br>Confine                                                 | 
+| 8     | Bag of Holding<br>Blur Image†<br>Mana Bolt<br>Reflect       | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Reflect<br>Repair Undead                | Boon of the Cat<br>Petrify<br>Reflect                                       |
+| 9     | Circle of Power<br>Dispel Magic<br>Mana Bolt            | Create Undead<br>Dispel Magic<br>Life<br>Resurrection                                   | Boon of the Rabbit<br>Dispel Magic<br>Treewalk†<br>Wrath of Nature, Other   |
+| 10    | Arcane Torrent<br>Doom | Death | Spider Web |
 
 
 ## Universal
-### Universal Rank I
+### Universal Level 1
 #### **Glowing Light**
 | Spell            | **Glowing Light** |
 |      :---        |       :---         |
@@ -62,7 +62,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | Incant                 | "I conjure a \<type\> barrier." |
 | **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. A character may not have more than 1 Active Resist at a time. |
 
-### Universal Rank 5
+### Universal Level 5
 #### **Entrap Spirit**
 | **Spell**            | **Entrap Spirit**                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |      :---        |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -79,7 +79,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                      |
 | **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
 
-### Universal Rank IX
+### Universal Level 9
 #### **Dispel Magic**
 | **Spell**            | **Dispel Magic**                                                                                                                                                                                                                                         |
 |      :---        |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -92,7 +92,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ## Arcane
 
 ---
-### Arcane Rank I
+### Arcane Level 1
 
 #### **Blinding Light**
 | Spell            | **Blinding Light** |
@@ -109,7 +109,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell creates a bolt of magic that does 5x the mana used to deliver magic damage to the target. If the caster has an active Elemental Shift, they may choose to throw either Magic or their element.  This spell may be used at all Ranks.|
     
 
-### Arcane Rank II
+### Arcane Level 2
 
 #### **Disrupt Aether**
 | **Spell**            | **Disrupt Aether** |
@@ -125,7 +125,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**      | "With arcane forces, I halt you."|
 | **Description** | This spell prevents the target from advancing into combat until the spell has ended or is removed. This is a STOP THRUST effect. |
 
-### Arcane Rank III
+### Arcane Level 3
 
 #### **Limited Time Stop**
 | **Spell**            | **Limited Time Stop** |
@@ -135,7 +135,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell will target a specific spell in effect on the target. Limited Time Stop will pause the duration timer of the targeted spell for 1 minute. Once the Limited Time Stop spell has ended, the duration timer of the targeted spell resumes from where it had stopped. Limited Time Stop cannot be affected by itself and a spell may only be affected by Limited Time Stop once.  This is a PRESERVE effect. |
 
 
-### Arcane Rank IV
+### Arcane Level 4
 
 #### **Conjure Weapon**
 | **Spell**            | **Conjure Weapon** |
@@ -153,7 +153,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell will immediately end a chosen timed magic effect on the caster. The spell will act as if it had naturally reached the end of its duration. |
 
 
-### Arcane Rank V
+### Arcane Level 5
 
 #### **Enchanted Blade**
 | **Spell**            | **Enchanted Blade** |
@@ -170,7 +170,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the Shield skill in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured shield. A shield summoned by this spell may not be wielded with a conjured weapon. |
 
 
-### Arcane Rank VI
+### Arcane Level 6
 
 #### **Limited Teleport†**
 | **Spell**            | **Limited Teleport†** |
@@ -193,7 +193,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "With arcane forces, I enter stasis" |
 | **Description** |  This spell pulls briefly pull the caster out of time. While the character is in stasis, they are immune to all game effects except Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The effect may be ended by the caster at any point. When this spell ends, the character must immediately announce, "Stasis Down", the caster may not cast this spell again for 5 seconds. This is a STASIS effect.|
 
-### Arcane Rank VII
+### Arcane Level 7
 
 #### **Destroy**
 | **Spell**            | **Destroy** |
@@ -216,7 +216,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "I conjure a rift lock." |
 | **Description** |  This spell interrupts and prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Tree Stride, Rift, and Rune of Recall.  This is a RIFT LOCK effect. |
 
-### Arcane Rank VIII
+### Arcane Level 8
 
 #### **Bag of Holding**
 | **Spell**            | **Bag of Holding** |
@@ -240,7 +240,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "With arcane forces, I create a spell mirror." |
 | **Description** |  This spell grants the target a single Reflect Magic. The character replies "Reflect" when using this spell. A character may not be under the effect of more than one Spell Mirror spell at a time. A reflected spell cannot be reflected a second time. The original caster of the spell remains unchanged. This spell is expended once used.  This is a REFLECT effect. |
 
-### Arcane Rank IX
+### Arcane Level 9
 
 #### **Circle of Power**
 | **Spell**            | **Circle of Power** |
@@ -250,7 +250,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell requires the caster to first place a braided white and red rope physical representation on the ground in a circular formation that is no larger than 10 feet in diameter. The Circle of Power will become a cylinder shaped container 10 feet high with a top and bottom surface. Once the physical representation is placed, the caster must cast the Circle of Power spell on the physical representation rope. For the duration of this spell, and as long as the caster maintains concentration, anyone inside the physical representation of the spell at the time of casting is protected from spells, physical attacks, and toxins while within the circle. Should a character leave the protection of the circle, they will lose their invulnerability, and they cannot re-enter. Circle of Power is not able to be dispelled by the Dispel Magic spell.  This is an INVULNERABLE effect. |
 
 
-### Arcane Rank X
+### Arcane Level 10
 | **Spell**    | **Arcane Torrent**                                                                                                                                                                                                                                              |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **School**   | Arcane                                                                                                                                                                                                                                                          |
@@ -271,7 +271,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ## Spirit
 
 ---
-### Spirit Rank I
+### Spirit Level 1
 
 #### **Control: Minor Undead**
 | **Spell**            | **Control: Minor Undead** |
@@ -309,7 +309,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell allows the caster to transfer a named existing effect from the target to themself. The caster of Transfer Malady must not already be suffering from the effect being transferred. Upon being transferred, the caster has the opportunity to resist the effect if there is a valid resist available to the caster of Transfer Malady. If the effect is not resisted, the effect’s duration is renewed upon the caster. The following effects may be transferred: Any TOXIN effect, CURSE, WEAKNESS, SLEEP, SLOW, STUN. |
 
 
-### Spirit Rank II
+### Spirit Level 2
 
 #### **Blood Sacrifice**
 | **Spell**            | **Blood Sacrifice** |
@@ -354,7 +354,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell will remove all fear effects from the target.  This removes all FEAR effects. |
 
 
-### Spirit Rank III
+### Spirit Level 3
 
 #### **Cause Weakness**
 | **Spell**            | **Cause Weakness** |
@@ -385,7 +385,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell will restore 15 health to a target undead. |
 
 
-### Spirit Rank IV
+### Spirit Level 4
 
 #### **Dull Pain**
 | **Spell**| **Dull Pain**|
@@ -409,7 +409,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell grants the caster a single Resist Toxin. The character replies "Resist" when using this spell. A character may not be under the effect of more than one Improved Constitution spell at a time. This spell is expended once used.  This is a RESIST effect. |
 
 
-### Spirit Rank V
+### Spirit Level 5
 
 #### **Cure Body**
 | **Spell**| **Cure Body** |
@@ -440,7 +440,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** | This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect. |
 
 
-### Spirit Rank VI
+### Spirit Level 6
 
 #### **Fear**
 | **Spell** | **Fear** |
@@ -456,7 +456,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the spirits, I solidify your form." |
 | **Description** |  This spell will cause a gaseous, incorporeal, or phased-out target to reform physically on a 3-count, removing the gaseous or incorporeal effect.  This is a SOLIDIFY effect. |
 
-### Spirit Rank VII
+### Spirit Level 7
 
 
 #### **Curse**
@@ -494,7 +494,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the fiends of the dark nether, I claim your vitae." |
 | **Description** |  This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature’s health pool. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster’s health pool is fully recovered. This spell will heal either a living, or an undead caster. |
 
-### Spirit Rank VIII
+### Spirit Level 8
 
 #### **Destroy Undead**
 | **Spell** | **Destroy Undead** |
@@ -508,7 +508,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 |:---|:---|
 | **Duration**     | Rest |
 | **Incant**     | "Fiends of the dark nether, create a phylactery for my spirit." |
-| **Description** |  This spell will store the caster’s spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster’s spirit is stored within the effigy, and the caster’s body rises as an undead fully under the control of the character’s spirit. The character’s spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills (including Claws), Weapon Proficiencies, Physical Strikes, Weapon Strikes, Rank IX spells. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a greater form of undead for the purposes of spells that only affect lesser forms of undead. Should the body’s health pool be reduced to 0, the caster’s body immediately crumbles and the spell ends, at which point the caster’s spirit returns to the spirit bottle and regenerates their original body with no strain. The phylactery is always destroyable. Should the phylactery be destroyed, the character’s body dies and the spirit must seek resurrection normally, including accruing strain.  This is a SPIRIT BOTTLE effect. |
+| **Description** |  This spell will store the caster’s spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster’s spirit is stored within the effigy, and the caster’s body rises as an undead fully under the control of the character’s spirit. The character’s spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills (including Claws), Weapon Proficiencies, Physical Strikes, Weapon Strikes, Level 9 spells. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a greater form of undead for the purposes of spells that only affect lesser forms of undead. Should the body’s health pool be reduced to 0, the caster’s body immediately crumbles and the spell ends, at which point the caster’s spirit returns to the spirit bottle and regenerates their original body with no strain. The phylactery is always destroyable. Should the phylactery be destroyed, the character’s body dies and the spirit must seek resurrection normally, including accruing strain.  This is a SPIRIT BOTTLE effect. |
 
 #### **Repair Undead**
 | **Spell**            | **Repair Undead** |
@@ -525,7 +525,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell will instantly restore a target with a metabolism to their full maximum health pool, and will restore any missing or disabled limbs. |
 
 
-### Spirit Rank IX
+### Spirit Level 9
 
 #### **Create Undead**
 | **Spell**            | **Create Undead** |
@@ -541,7 +541,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the spirits, I grant you a resurrection." |
 | **Description** |  This spell takes 1 minutes to cast and requires an untethered spirit. At the beginning of the spell, the target must clearly acknowledge the acceptance of the spell, if they do not, the spell fails to no effect. Once the spell begins, the target's body begins to immediately reform, incurring strain as per a normal resurrection. The caster must be in concentration and unimpeded for the entire casting time of this spell, else the spell will fail. If the caster’s concentration is interrupted, or the reforming body is affected by any detrimental effect, the spell fails and the target immediately suffers a second death. Prior to the casting time the player of the caster, and the player of the untethered spirit, are to verify that the spirit does not have too much strain to resurrect. A marshal should also be present to oversee the process. Once the Resurrection spell is complete, the spirit instantly reforms its body next to the spell caster. The body appears with a full health pool, and all skills renewed as if they had completed a long rest.  This is a LIFE effect. |
 
-### Spirit Rank X
+### Spirit Level 10
 #### Death
 | **Spell**    | **Death**                                                |
 |--------------|----------------------------------------------------------|
@@ -562,7 +562,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ## Nature
 
 ---
-### Nature Rank I
+### Nature Level 1
 
 #### **Command: Drop**
 | **Spell**            | **Command: Drop** |
@@ -593,7 +593,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell will remove any active effects from one serving of food and one serving of potable fluid. |
 
 
-### Nature Rank II
+### Nature Level 2
 
 #### **Boon of Nature**
 | **Spell**            | **Boon of Nature** |
@@ -617,7 +617,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** | This spell allows the caster to throw a summoned plant spike for 5 damage.|
 
 
-### Nature Rank III
+### Nature Level 3
 
 #### **Boon of the Armadillo**
 | **Spell**            | **Boon of the Armadillo** |
@@ -641,7 +641,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell will release the target from magical, and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, CONFINE. |
 
 
-### Nature Rank IV
+### Nature Level 4
 
 #### **Barkskin**
 | **Spell**            | **Barkskin** |
@@ -672,7 +672,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell entangles the target’s arms to their side, rendering the arms useless. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
 
-### Nature Rank V
+### Nature Level 5
 
 #### **Command: Silence**
 | **Spell**            | **Command: Silence** |
@@ -695,7 +695,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the flora, I enter a treehome." |
 | **Description** |  This spell will allow the caster to become absorbed into a physical tree that the caster is touching at the time of casting. While absorbed into the tree, the caster and tree are both protected from any game effects other than Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Treehome and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Treehome. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
 
-### Nature Rank VI
+### Nature Level 6
 
 #### **Boon of the Forest**
 | **Spell**            | **Boon of the Forest** |
@@ -719,7 +719,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell entangles the target’s entire form in place, rendering the target helpless and unable to move from the neck down. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
 
-### Nature Rank VII
+### Nature Level 7
 
 #### Command: Confuse
 | **Description** |  Command: Confuse  |
@@ -735,7 +735,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By nature, I confine you." |
 | **Description** |  This spell renders the target completely unable to move while under the effects of this spell.  This is a CONFINE effect. |
 
-### Nature Rank VIII
+### Nature Level 8
 
 #### **Boon of the Cat**
 | **Spell**            | **Boon of the Cat** |
@@ -759,7 +759,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By nature, I grant you stoneskin." |
 | **Description** |  This spell grants the target a single Reflect Physical. The character replies "Reflect" when using this spell. A reflected strike cannot be reflected a second time.A character may not be under the effect of more than one Stoneskin spell at a time. This spell is expended once used. You cannot Reflect an already Reflected effect.  This is a REFLECT effect. |
 
-### Nature Rank IX
+### Nature Level 9
 
 #### **Boon of the Rabbit**
 | **Spell**            | **Boon of the Rabbit** |
@@ -782,7 +782,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By nature, I grant you a vengeful wrath." |
 | **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target’s health pool cannot be brought to below 1 point as long as the caster is within arm’s reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
 
-### Nature Rank X
+### Nature Level 10
 
 | **Spell**    | **Spider Web**                                                                                    |
 |--------------|---------------------------------------------------------------------------------------------------|
