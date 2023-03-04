@@ -147,15 +147,9 @@ This ritual requires that the ritualist provide a relaxing environment for the c
 
 ### Rank X
 
-#### Transformation to &lt;Creature>
-A ritual that grants the target the imbuement of a powerful spirit that remains dormant most of their lives. Only in times of great danger or crisis will this spirit emerge and grant it’s host strength to try and persevere.
+### Variable Level 
+#### Curse of Transformation: \<Creature\>
+Applies a Curse of Transformation to the target, transforming them into the named creature. The Curse of Transformation will last until the target dies and dissipates (seeks resurrection or reforms at their Spirit Bottle) or is affected by a Destroy Ritual Magic, unless otherwise stated by the stat card provided.
 
-A Scroll of Transformation to &lt;Creature> will have a specific creature type listed, and may not be used for any other Creature type. These scrolls can never be Memorized or Taught. Once cast, this Ritual is Permanent unless subject to a Destroy Ritual Magic
-
-This ritual requires either at least a single Spirit Gem filled with a fragment of the creature the target wishes to embody, or the blessing and participation of a creature of the indicated type. 
-
-The effects of Transformation are entirely at Plot discretion, upon receiving a Transformation you will be given a Stat Card for what effects and abilities you will receive should the Transform ever activate. These Transformations are often more powerful than a Spirit Familiar, but due to their infrequent activation, they are often less sought after. 
-
-This ritual acts in opposition to a Spirit Familiar, and someone who has a Spirit Familiar may not have a Transformation, and vice-versa.
-
-Upon the permanent death of the character, if the character has a Transformation effect on their spirit, they will rise as an optional NPC available to the local Plot Team with the full transformation power of the character. 
+The effects of Transformation are entirely at Plot discretion, upon receiving a Curse of Transformation, the target will be given a Stat Card for the effects and abilities they will receive. Curse of Transformations are often more powerful than a newly-acquired Spirit Familiar Transform, but carry significantly more risk due to their impermanence and increased chance of death. 
+ 
