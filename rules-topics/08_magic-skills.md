@@ -73,13 +73,13 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** | This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
 
 ### Universal Level 8
-| **Spell**    | **Reflect**                                                                                                                                                                                          |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| School                 | Universal                                                                                                                                                                                            |
-| Level                  | 8                                                                                                                                                                                                    |
-| **Duration** | Rest                                                                                                                                                                                                 |
-| **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                      |
-| **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
+| **Spell**    | **Reflect**                                                                                                                                                                                           |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| School                 | Universal                                                                                                                                                                                             |
+| Level                  | 8                                                                                                                                                                                                     |
+| **Duration** | Rest                                                                                                                                                                                                  |
+| **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                       |
+| **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
 
 ### Universal Level 9
 #### **Dispel Magic**
@@ -88,7 +88,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | School                 | Universal                                                                                                                                                                                                                                                |
 | Level                  | 9                                                                                                                                                                                                                                                        |
 | **Duration**     | Instant                                                                                                                                                                                                                                                  |
-| **Incant**     | "With arcane forces, I dispel magic."                                                                                                                                                                                                                    |
+| **Incant**     | "By my will, I dispel magic."                                                                                                                                                                                                                            |
 | **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
 
 ## Arcane

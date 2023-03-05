@@ -38,11 +38,11 @@ Characters may still choose to memorize their spells, and doing so will grant th
 
 **School Specialization** - New skill. May only be purchased once. Grants the character the ability to cast Level X spells of their chosen school.
 
-| Magic Skill Costs | F     | T   | R    | S   |
-|-------------------|-------|-----|------|-----|
-| School Initiation | 5+5   | 3+4 | 5+5  | 3+1 |
-| School Mastery    | 20    | 15  | 20   | 10  |
-| Attunement        | 10+10 | 3+4 | 10+8 | 3+1 |
+| Magic Skill Costs     | F     | T   | R    | S   |
+|-----------------------|-------|-----|------|-----|
+| School Initiation     | 5+5   | 3+4 | 5+5  | 3+1 |
+| School Specialization | 20    | 15  | 20   | 10  |
+| Attunement            | 10+10 | 3+4 | 10+8 | 3+1 |
 
 # Spell Changes #
 - Introduction of spell level 10
@@ -75,7 +75,7 @@ IX  - Dispel Magic
 | Level                  | 7                                                                                                                                                                                                    |
 | **Duration** | Rest                                                                                                                                                                                                 |
 | **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                      |
-| **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
+| **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
 
 ## Arcane ##
 | **Spell**    | **Arcane Torrent**                                                                                                                                                                                                                                              |
