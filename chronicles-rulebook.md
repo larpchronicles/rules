@@ -1,9 +1,9 @@
 # 00 - Change History
-**Version: 3.0.0**
+**Version: 3.0.1**
 
 
 # 01 - Introduction
-## Chronicles Game Rules (v2.7.5)
+## Chronicles Game Rules (v3.0.1)
 
 ### Introduction
 
