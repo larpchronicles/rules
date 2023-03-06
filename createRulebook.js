@@ -1,7 +1,8 @@
 (function () {
     "use strict";
 
-    const fs = require("fs");
+    const fs = require("fs"),
+        path = require("path");
 
     let versionFileContents = require("./version.json");
 
@@ -9,9 +10,9 @@
 
     rulesVersion = versionFileContents.version;
 
+    let dir = "rules-topics";
 
-
-    fs.readdir(".", function (err, files) {
+    fs.readdir(dir, function (err, files) {
         let outputContents = `# 00 - Change History\n**Version: ${rulesVersion}**\n\n`;
 
         if (err) { return console.log('Unable to scan directory: ' + err); }
@@ -23,7 +24,7 @@
                 let fileContents,
                     headingText;
 
-                fileContents = fs.readFileSync(filename, "utf-8");
+                fileContents = fs.readFileSync(path.join(dir, filename), "utf-8");
                 // Replace all the #'s and ##'s with ##'s and ###'s, etc. (add one # to each set)
                 fileContents = fileContents.replace(/(#+)/g, "$1#");
                 fileContents = fileContents.replace(/---\n/g, "");
