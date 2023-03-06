@@ -1,27 +1,93 @@
 # Changelog
 
+## 3.0.2 [2023-03-05]
+
+---
+### Introduction
+* Removed versioning from title.
+* Updated Calculator link.
+
+### Magic
+* Boon of the Forest renamed to Regenerate and moved to Level 9.
+* Resurrection spell renamed to [].
+
+### Martial
+* New Weapon Skill of Parrying Dagger.
+
+### Other Skills
+* New Knowledge: Survivalist
+* Tracking skill costs increased to 20 for all classes and changed to a one time purchase.
+
+### Weapons
+* Added physical representation dimensions.
+* Added additional clarification for shield dimensions.
+
+
+### README
+* Updated version.
+
+## 3.0.1 [2023-03-04]
+
+---
+## Magic
+* Typo fixes for Dispel Magic incant and Reflect.
+
+## 3.0.0 [2023-03-04]
+
+---
+### Magic
+* Overview of magic rework added under proposals.
+* Updated magic rules for attunement.
+* School Masteries renamed to School Initiations.
+* New skill: School Specialization.
+* Added universal spells:  
+  * Barrier - Combined Blur Image, Toxin Shield, Boon of the Rabbit, Blur Image, and Spell Aegis.
+  * Reflect - Combined Spell Mirror and Toxin Refect.
+  * Glowing Light
+  * Entrap Spirit - Renamed from Entrapment.
+  * Dispel Magic.
+* Removed Entrapment, Glowing Light, Dispel Magic, Boon of the Rabbit, Blur Image, Toxin Shield, Spell Aegis, Spell Mirror, Barkskin, Stoneskin.
+* Doom spell reworked and moved to Level 10 of Arcane.
+* Death spell reworked and moved to Level 10 of Spirit.
+* Life spell moved to Level 10 of Spirit.
+* New Arcane spell:  Arcane Torrent.
+* New Nature spell:  Spider Web.
+* New Spirit spell:  Resurrection.
+* Return Spell skill removed.
+* Updated spell list chart.
+
+
+
 ## v2.7.5 [2023-03-03]
+
+---
 * Formatted new player guide written by AHCampbell.
 
 ## v2.7.4 [2023-03-03]
+
+---
 * Added new assets directory for storing images.
 * Added steps for how to edit rules docs.
 * Removed listings for staff, plot, & rules committee members.
 
 ## v2.7.3 [2022-01-05]
-# Introduction
+
+---
+### Introduction
 * Added several write ups and sections for new players.
 
-# Glossary
+### Glossary
 * New section.
 
 ## v2.7.2 [2022-11-16]
-# Production
+
+---
+### Production
 * Unstable Storage Device reference corrected to Bag of Holding.
 * Glowing Wand Stone spell reference corrected to Glowing Light.
 * Globe of Radiance spell reference corrected to Blinding Light.
 
-# Transform Rituals
+### Transform Rituals
 * Updated Dexterity Armor description.
 
 ## v2.7.1 [2022-11-13]
