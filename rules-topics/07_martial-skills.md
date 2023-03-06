@@ -41,6 +41,9 @@
 
 >This skill allows the character to wield a shield used to block attacks. A shield may never be used for striking in combat. As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.  The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36”.  Shields may not be used with two-handed weapons, bows, or crossbows. A character may not dual wield shields.
 
+#### Parrying Dagger
+Must meet safety requirements of any other weapon.  Can only be used to block weapons, may not be used for striking/attacking an opponent.  The tip must be red so that it can be easily identified as a parrrying dagger.
+
 #### Dual Short Weapon
 
 >This skill allows the character to wield two short weapons, one in each hand, while in combat. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the Short Weapon skill.
