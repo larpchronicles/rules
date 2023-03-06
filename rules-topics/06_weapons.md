@@ -18,6 +18,7 @@
 | Two-Handed Blunt    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      Yes      |
 | Spear (One-Handed)  |    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
 | Polearm             |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
+| Parrying Dagger     |    7"  - 13"     |   5" - 6"     |   12" - 18"  |      No       |
 
 ### Striking Surface ### 
 The striking surface specifies the minimum and maximum amount of padded striking surface the weapon *must* have. _Any weapon that has less padding than the specified minimums will not pass inspection, even if it falls within the Total Length requirements!_
@@ -36,6 +37,9 @@ All weapons must have at least 5/8" of closed cell foam (ie, pipe foam, crosslin
 Thrusting tips must be at least 2" of open cell foam, and the core of the weapon must not be able to be felt through the thrusting tip. _Weapons that do not have an open cell foam thrusting cannot be used to thrust or jab!_
 
 All weapons must have a closed cell foam pommel that completely envelopes the pommel end of the weapon core. This can be pipe foam, EVA foam, a foam fishing butt cap, or similar.
+
+## Parrying Dagger
+Must meet safety requirements of any other weapon.  Can only be used to block weapons, may not be used for striking/attacking an opponent.  The tip must be red so that it can be easily identified as a parrrying dagger.
 
 ## Weapon Crafting Materials ##
 * Ultralight Cores of carbon fiber, kitespar tube, fiberglass tube, or wrapped graphite tube.  Aluminum cores may only used for polearms.  Diameter should be between .414-.610".
@@ -89,6 +93,7 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 ## Shields
 
 ---
+* The shortest dimension a shield may have is 12".
 * The longest dimension a shield may have is 36".
 * Everything attached to the shield and its edges (such as foam edging) counts as part of the shield.
 * The maximum allowed surface area of a shield is 531 square inches and is calculated as if the shield were a flattened surface, counting any concavities into the silhouette.
