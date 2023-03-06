@@ -1,9 +1,9 @@
 # 00 - Change History
-**Version: 3.0.1**
+**Version: 3.0.2**
 
 
 # 01 - Introduction
-## Chronicles Game Rules (v3.0.1)
+## Chronicles Game Rules (v3.0.2)
 
 ### Introduction
 
@@ -959,6 +959,7 @@ Raphael is wearing a total of 40 points of armor, 20 from phys reps and 20 from 
 | Two-Handed Blunt    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      Yes      |
 | Spear (One-Handed)  |    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
 | Polearm             |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
+| Parrying Dagger     |    7"  - 13"     |   5" - 6"     |   12" - 18"  |      No       |
 
 #### Striking Surface #### 
 The striking surface specifies the minimum and maximum amount of padded striking surface the weapon *must* have. _Any weapon that has less padding than the specified minimums will not pass inspection, even if it falls within the Total Length requirements!_
@@ -977,6 +978,9 @@ All weapons must have at least 5/8" of closed cell foam (ie, pipe foam, crosslin
 Thrusting tips must be at least 2" of open cell foam, and the core of the weapon must not be able to be felt through the thrusting tip. _Weapons that do not have an open cell foam thrusting cannot be used to thrust or jab!_
 
 All weapons must have a closed cell foam pommel that completely envelopes the pommel end of the weapon core. This can be pipe foam, EVA foam, a foam fishing butt cap, or similar.
+
+### Parrying Dagger
+Must meet safety requirements of any other weapon.  Can only be used to block weapons, may not be used for striking/attacking an opponent.  The tip must be red so that it can be easily identified as a parrrying dagger.
 
 ### Weapon Crafting Materials ###
 * Ultralight Cores of carbon fiber, kitespar tube, fiberglass tube, or wrapped graphite tube.  Aluminum cores may only used for polearms.  Diameter should be between .414-.610".
@@ -1027,6 +1031,7 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 
 ### Shields
 
+* The shortest dimension a shield may have is 12".
 * The longest dimension a shield may have is 36".
 * Everything attached to the shield and its edges (such as foam edging) counts as part of the shield.
 * The maximum allowed surface area of a shield is 531 square inches and is calculated as if the shield were a flattened surface, counting any concavities into the silhouette.
@@ -1035,6 +1040,7 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 
 #### Shield Crafting Materials
     Pending.
+
 # 07 - Martial Skills
 ## Martial Skills
 
@@ -1052,6 +1058,7 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 | Dual Long Weapon  |  5  | 10  |  5  | 10  | Long Weapon  |
 | Two-Hand Block |  6  |  6  | 10  | 10  | Two-Hand Weapon |
 | Short Weapon and Bow |  6  | 10  |  6  | 10  | Short Weapon, Ranged Weapon |
+| Parrying Dagger |  2  | 2  |  2  | 2  | |
 
 ##### Unarmed Combat
 
@@ -1519,10 +1526,10 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | 3     |                         | Limited Time Stop<br>Mana Bolt                             | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                                | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
 | 4     | Barrier                 | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†             | Rot Limb                                                                                         | Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
 | 5     | Entrap Spirit           | Conjure Shield<br>Enchanted Blade<br>Mana Bolt             | Cure Body<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                                          | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†                     |
-| 6     |                         | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Solidify                                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
+| 6     |                         | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Solidify                                                                    | Command: Sleep<br>Entangle Body                       | 
 | 7     |                         | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                 | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                     | Command: Confuse<br>Confine                                                 | 
 | 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Blur Image†<br>Mana Bolt                 | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Repair Undead                           | Boon of the Cat<br>Petrify                                                  |
-| 9     |                         | Circle of Power<br>Mana Bolt                               | Create Undead<br>Resurrection                                                                    | Treewalk†<br>Wrath of Nature, Other                    |
+| 9     |                         | Circle of Power<br>Mana Bolt                               | Create Undead<br>Resurrection                                                                    | Treewalk†<br>Regenerate<br>Wrath of Nature, Other                    |
 | 10    |                         | Arcane Torrent<br>Doom                                     | Death<br>Life                                                                                    | Spider Web                                                                       |
 
 
@@ -2135,13 +2142,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 #### Nature Level 6
 
-##### **Boon of the Forest**
-| **Spell**            | **Boon of the Forest**                                                                                                                                                                                                                                                                            |
-|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**     | 1 minute                                                                                                                                                                                                                                                                                          |
-| **Incant**     | "By nature, I grant you forest’s boon."                                                                                                                                                                                                                                                           |
-| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
-
 ##### **Command: Sleep**
 | **Spell**            | **Command: Sleep** |
 |:---|:---|
@@ -2198,6 +2198,13 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the flora, grant me your stride." |
 | **Description** |  This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second counted action to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second counted action. During both counted actions, the character is immobile and cannot attack or defend themselves. If for some reason the caster is unable to reach another tree within 100 steps, then they must return to the original tree, and upon a 3 second arrival, immediately gain the DEAD status and begin their death count. |
 
+##### **Regenerate**
+| **Spell**            | **Regenerate**                                                                                                                                                                                                                                                                            |
+|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | 1 minute                                                                                                                                                                                                                                                                                          |
+| **Incant**     | "By nature, I regenerate you."                                                                                                                                                                                                                                                           |
+| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
+    
 ##### **Wrath of Nature, Other**
 | **Spell**            | **Wrath of Nature, Other** |
 |:---|:---|
@@ -2214,6 +2221,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration** | Concentration                                                                                     |
 | **Incant**   | "By Nature, I set the webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..." |
 | **Description** | The caster plants their feet and is able to throw "Physical Entangle Body" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
+
 # 09 - Other Skills
 
 ## Other Skills
@@ -2226,9 +2234,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 |Gambling|1+1|1+1|1+1|1+1||
 |Lockpicking|5+5|5+5|3+1|3+3||
 |Performing|1+1|1+1|1+1|1+1||
-|Return Skill|3+3|3+5|3+3|20+10|Any Weapon Skill|
-|Return Spell|20+10|3+3|3+5|3+3|Any Mana Attunement|
-|Tracking|3+1|5+1|3+1|5+1||
+|Tracking|20|20|20|20||
 |Trapping|10|10|3|6||
 
 ### Rest-Boosting Skills
@@ -2305,7 +2311,9 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 >This skill is purchased once. Cutpurse skill requires the use of Pick Pocket Tools from Tinkering. The player slips the tool onto the pouch, or pocket, and goes to notify a Game Marshal. The Game Marshal will approach the picked character and retrieve one random game item from the picked character. If there is nothing in the picked pouch, then the larceny has resulted in no reward. The transfer of goods from Game Marshal to thief takes place out of sight from other players.
 
 ##### Tracking
->This skill is purchased multiple times. Using this skill, the character can attempt to track a moving terrestrial target’s tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number.
+>This skill is purchased once. Using this skill, the character can attempt to track a moving terrestrial target’s tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number.
+>
+>Tracking can be combined with the survivalist knowledge skill to gain greater bonuses and be considered master tracker.
 > 
 > For every in-game hundred yards that the track is followed, the tracker can make a draw from a draw bag. The base bag is 1 success, 1 lost track, 4 continue, and 1 bag reset. For each rank above the track value, the tracker gains a success bead. For every rank below the track rank, the tracker gains 2 continue and a lost track bead. The tracker continues to draw every 30 seconds until success, or lost track is pulled. The tracking player must provide their own bead draw bag with beads or the tracking automatically fails.
 
@@ -2341,6 +2349,10 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ##### Theology Knowledge
 >Covers churches, cults, religious beliefs, deities, and demigods. Higher ranks will reveal more in-depth information on various groups, or reveal hidden aspects.
+
+##### Survivalist Knowledge
+>Covers skills needed for living in the wild, such as hunting, fishing, and identifying plants and animals.  A survivalist may be able to recognize the mark left by a creature but to truly track them they will need the tracking skill.
+
 # 10 - Production Skills
 ## Crafting
 
