@@ -9,9 +9,7 @@
 |Gambling|1+1|1+1|1+1|1+1||
 |Lockpicking|5+5|5+5|3+1|3+3||
 |Performing|1+1|1+1|1+1|1+1||
-|Return Skill|3+3|3+5|3+3|20+10|Any Weapon Skill|
-|Return Spell|20+10|3+3|3+5|3+3|Any Mana Attunement|
-|Tracking|3+1|5+1|3+1|5+1||
+|Tracking|20|20|20|20||
 |Trapping|10|10|3|6||
 
 ## Rest-Boosting Skills
@@ -90,7 +88,9 @@
 >This skill is purchased once. Cutpurse skill requires the use of Pick Pocket Tools from Tinkering. The player slips the tool onto the pouch, or pocket, and goes to notify a Game Marshal. The Game Marshal will approach the picked character and retrieve one random game item from the picked character. If there is nothing in the picked pouch, then the larceny has resulted in no reward. The transfer of goods from Game Marshal to thief takes place out of sight from other players.
 
 #### Tracking
->This skill is purchased multiple times. Using this skill, the character can attempt to track a moving terrestrial target’s tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number.
+>This skill is purchased once. Using this skill, the character can attempt to track a moving terrestrial target’s tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number.
+>
+>Tracking can be combined with the survivalist knowledge skill to gain greater bonuses and be considered master tracker.
 > 
 > For every in-game hundred yards that the track is followed, the tracker can make a draw from a draw bag. The base bag is 1 success, 1 lost track, 4 continue, and 1 bag reset. For each rank above the track value, the tracker gains a success bead. For every rank below the track rank, the tracker gains 2 continue and a lost track bead. The tracker continues to draw every 30 seconds until success, or lost track is pulled. The tracking player must provide their own bead draw bag with beads or the tracking automatically fails.
 
@@ -126,3 +126,6 @@
 
 #### Theology Knowledge
 >Covers churches, cults, religious beliefs, deities, and demigods. Higher ranks will reveal more in-depth information on various groups, or reveal hidden aspects.
+
+#### Survivalist Knowledge
+>Covers skills needed for living in the wild, such as hunting, fishing, and identifying plants and animals.  A survivalist may be able to recognize the mark left by a creature but to truly track them they will need the tracking skill.
