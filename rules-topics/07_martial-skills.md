@@ -15,6 +15,7 @@
 | Dual Long Weapon  |  5  | 10  |  5  | 10  | Long Weapon  |
 | Two-Hand Block |  6  |  6  | 10  | 10  | Two-Hand Weapon |
 | Short Weapon and Bow |  6  | 10  |  6  | 10  | Short Weapon, Ranged Weapon |
+| Parrying Dagger |  2  | 2  |  2  | 2  | |
 
 #### Unarmed Combat
 
