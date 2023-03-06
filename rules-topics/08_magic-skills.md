@@ -36,10 +36,10 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | 3     |                         | Limited Time Stop<br>Mana Bolt                             | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                                | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
 | 4     | Barrier                 | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†             | Rot Limb                                                                                         | Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
 | 5     | Entrap Spirit           | Conjure Shield<br>Enchanted Blade<br>Mana Bolt             | Cure Body<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                                          | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†                     |
-| 6     |                         | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Solidify                                                                    | Boon of the Forest<br>Command: Sleep<br>Entangle Body                       | 
+| 6     |                         | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Solidify                                                                    | Command: Sleep<br>Entangle Body                       | 
 | 7     |                         | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                 | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                     | Command: Confuse<br>Confine                                                 | 
 | 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Blur Image†<br>Mana Bolt                 | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Repair Undead                           | Boon of the Cat<br>Petrify                                                  |
-| 9     |                         | Circle of Power<br>Mana Bolt                               | Create Undead<br>Resurrection                                                                    | Treewalk†<br>Wrath of Nature, Other                    |
+| 9     |                         | Circle of Power<br>Mana Bolt                               | Create Undead<br>Resurrection                                                                    | Treewalk†<br>Regenerate<br>Wrath of Nature, Other                    |
 | 10    |                         | Arcane Torrent<br>Doom                                     | Death<br>Life                                                                                    | Spider Web                                                                       |
 
 
@@ -655,13 +655,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ### Nature Level 6
 
-#### **Boon of the Forest**
-| **Spell**            | **Boon of the Forest**                                                                                                                                                                                                                                                                            |
-|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**     | 1 minute                                                                                                                                                                                                                                                                                          |
-| **Incant**     | "By nature, I grant you forest’s boon."                                                                                                                                                                                                                                                           |
-| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
-
 #### **Command: Sleep**
 | **Spell**            | **Command: Sleep** |
 |:---|:---|
@@ -718,6 +711,13 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the flora, grant me your stride." |
 | **Description** |  This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second counted action to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second counted action. During both counted actions, the character is immobile and cannot attack or defend themselves. If for some reason the caster is unable to reach another tree within 100 steps, then they must return to the original tree, and upon a 3 second arrival, immediately gain the DEAD status and begin their death count. |
 
+#### **Regenerate**
+| **Spell**            | **Regenerate**                                                                                                                                                                                                                                                                            |
+|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | 1 minute                                                                                                                                                                                                                                                                                          |
+| **Incant**     | "By nature, I regenerate you."                                                                                                                                                                                                                                                           |
+| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
+    
 #### **Wrath of Nature, Other**
 | **Spell**            | **Wrath of Nature, Other** |
 |:---|:---|
