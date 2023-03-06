@@ -9,7 +9,7 @@
 
 ### Magic
 * Boon of the Forest renamed to Regenerate and moved to Level 9.
-* Resurrection spell renamed to [].
+* Resurrection spell renamed to Field Resurrection.
 
 ### Martial
 * New Weapon Skill of Parrying Dagger.
