@@ -38,9 +38,6 @@ Thrusting tips must be at least 2" of open cell foam, and the core of the weapon
 
 All weapons must have a closed cell foam pommel that completely envelopes the pommel end of the weapon core. This can be pipe foam, EVA foam, a foam fishing butt cap, or similar.
 
-## Parrying Dagger
-Must meet safety requirements of any other weapon.  Can only be used to block weapons, may not be used for striking/attacking an opponent.  The tip must be red so that it can be easily identified as a parrrying dagger.
-
 ## Weapon Crafting Materials ##
 * Ultralight Cores of carbon fiber, kitespar tube, fiberglass tube, or wrapped graphite tube.  Aluminum cores may only used for polearms.  Diameter should be between .414-.610".
 * Closed Cell Foam.  This can be pipe foam insulation and pool noodles and is used to pad the “blade" of a boffer.  It should have a wall at least 5/8" thick.
