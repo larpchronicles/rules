@@ -27,6 +27,7 @@ Conveying the changes here will take many words. I will try to give a high-level
 
 ## Stamina Abilities
 - The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stamina Point, Curse costs 6 Stamina Points)
+- **NOTE**: ***These are the ONLY abilities that have a Stamina Point cost. If it is not in this table, it does NOT require Stamina Points!***
 
 | Level | Ability Name     | Description                                                                                                                                              | Verbal                                                               |  
 |-------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -117,12 +118,12 @@ Conveying the changes here will take many words. I will try to give a high-level
 - All character automatically have 1 Defense Slot for free
 - Additional Defense Slots may be purchased with Skill Points
 
-| Defense Slots Cost      | F     | T     | R     | S     |
+| Defense Slots Skill Point Cost      | F     | T     | R     | S     |
 |-------------------------|-------|-------|-------|-------|
 | Additional Defense Slot | 10+30 | 10+30 | 10+30 | 10+30 |
 
 
-| Total Defense Slots | Cumulative SP Cost |
+| Total Defense Slots | Cumulative Skill Point Cost |
 |---------------------|--------------------|
 | 1                   | 0                  |
 | 2                   | 10                 |
@@ -141,6 +142,6 @@ Conveying the changes here will take many words. I will try to give a high-level
 - Dexterity Armor takes 1 minute of stretching (concentration) to "refit"
     - Player must RP stretching, yoga, etc. 
 
-| Dexterity Armor    | F     | T     | R     | S     |
+| Dexterity Armor Skill Point Costs    | F     | T     | R     | S     |
 |--------------------|-------|-------|-------|-------|
 | +5 Dexterity Armor | 10+10 | 10+10 | 10+10 | 10+10 |
