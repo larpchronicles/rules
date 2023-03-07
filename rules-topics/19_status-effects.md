@@ -51,7 +51,6 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 ---
 | Term| Description|Encounter Call  |Visible?|
 |:---|---|:-----------------------------------------------:|:---:|
-| ACID SPITTLE| Ability user's ranged attacks deal x Acid Damage.  |  X Acid| No |
 | AETHER| Ability user's attacks cannot be blocked, resisted, reflected, or in any way defended against.  |  Aether X| No |
 | AURA  | Ability user may swing <x> as their damage type | Varies by source. | No |
 | BLINK | Ability user teleports to a location specified by the caster.  User must have been physically present in the location previously.| Blink |Yes |
