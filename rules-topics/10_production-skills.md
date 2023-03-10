@@ -249,8 +249,6 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Rank X
 
-#### Deathly Coating
-   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier “Poison Death” at the end. This lasts until used, or until you complete a rest. Ex: “5 Poison Death”. A weapon can only have one coating applied at a time.
 #### Gaseous Concoction
    >This is a potion that when ingested will transform the character into a cloud of mist for the next minute. While in this form, the character is unable to move, communicate, cast spells, or activate magic items. This effect can be broken by the spell Reality Anchor. Once the effect ends, the character is silenced for the next 20 seconds as they recover from the effects of this alchemy. It takes 5 seconds to consume the concoction.
 
