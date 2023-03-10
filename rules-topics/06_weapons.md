@@ -18,6 +18,7 @@
 | Two-Handed Blunt    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      Yes      |
 | Spear (One-Handed)  |    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
 | Polearm             |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
+| Parrying Dagger     |    7"  - 13"     |   5" - 6"     |   12" - 18"  |      No       |
 
 ### Striking Surface ### 
 The striking surface specifies the minimum and maximum amount of padded striking surface the weapon *must* have. _Any weapon that has less padding than the specified minimums will not pass inspection, even if it falls within the Total Length requirements!_
@@ -89,6 +90,7 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 ## Shields
 
 ---
+* The shortest dimension a shield may have is 12".
 * The longest dimension a shield may have is 36".
 * Everything attached to the shield and its edges (such as foam edging) counts as part of the shield.
 * The maximum allowed surface area of a shield is 531 square inches and is calculated as if the shield were a flattened surface, counting any concavities into the silhouette.
