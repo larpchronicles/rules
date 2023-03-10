@@ -144,4 +144,4 @@ Conveying the changes here will take many words. I will try to give a high-level
 
 | Dexterity Armor Skill Point Costs    | F     | T     | R     | S     |
 |--------------------|-------|-------|-------|-------|
-| +5 Dexterity Armor | 10+10 | 10+10 | 10+10 | 10+10 |
+| +5 Dexterity Armor | 5+10 | 5+10 | 5+10 | 5+10 |
