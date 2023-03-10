@@ -22,7 +22,7 @@ Conveying the changes here will take many words. I will try to give a high-level
 ## Stamina Pool Costs
 | Stamina Pool        | F   | T   | R   | S     |
 |---------------------|-----|-----|-----|-------|
-| Cost per 10 Stamina | 5+3 | 5+5 | 5+8 | 20+10 |
+| Cost per 10 Stamina | 5+3 | 5+5 | 5+5 | 20+10 |
 
 
 ## Stamina Abilities
