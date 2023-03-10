@@ -12,7 +12,7 @@ To transform the Rogue class into a "Scout"-like archetype, with a heavy focus o
 - New Effect: MINIMIZE [effect]. Allows a character to end the specified effect on themselves with a 3-count
 - Playtesting Murder as the only insta-kill ability (it has restrictions, see below)
 - Playtesting Dodge as an Agility Ability, requires 2 Defense Slots, cannot stack
-- Thrown Weapons get 2x benefit from Proficiencies
+- Thrown Weapons get 2x benefit from Proficiencies (PENDING APPROVAL)
 
 # Devious Skills
 ## Mimicry
