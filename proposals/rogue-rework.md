@@ -24,15 +24,15 @@ Verbal: "My turn! ... <ability verbal/incant>"
 | Mimicry        | 5+10 | 20+10 | 3+5 | 20+10 |
 
 ## Agility
-- The Agility cost of each ability is equal to its level 
-- **NOTE**: ***These are the ONLY abilities that have an Agility Point cost. If it is not in this table, it does NOT require Agility Points!***
-
-## Agility Pool Costs
 | Agility Pool        | F     | T     | R   | S     |
 |---------------------|-------|-------|-----|-------|
 | Cost per 10 Agility | 10+10 | 20+10 | 5+5 | 20+10 |
 
-## Agility Abilities
+### Agility Abilities
+- The Agility Point cost of each ability is equal to its level
+- Characters may "memorize" their Agility Abilities at Rest for a 10% bonus to their Agility Pool (same as spells, and stamina) 
+- **NOTE**: ***These are the ONLY abilities that have an Agility Point cost. If it is not in this table, it does NOT require Agility Points!***
+
 | Level | Ability Name                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                     | Verbal                                                                         |  
 |-------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 1	    | Backstab                       | 	Allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10. <br>Ends at Rest or when invoking Backstab against a different target                                                                                                                                                                                                                              | _TBD_ (Invoke Backstab?)                                                       |
