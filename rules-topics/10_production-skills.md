@@ -1,42 +1,45 @@
 # Crafting
 
-Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are five crafting skills and four material harvesting skills.
+Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are four material harvesting skills ([Foraging](#foraging-products), [Logging](#logging-products), [Scrapping](#scrapping-products), and [Mining](#mining-products)) and five crafting skills ([Alchemy](#alchemy-products), [Rune Carving](#rune-carving-products), [Tinkering](#tinkering-products), [Smithing](#smithing-products), and [Artificing](#artificing-products)).
 
 ## Crafting Skill Costs
 
-| _**Production Skill**_                 | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_                                                 |
+| _**Harvesting Skill**_           | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_ |
+|----------------------------------|---------|---------|---------|---------|---------------|
+| Primary Gathering Skill          | 1+1     | 1+1     | 1+1     | 1+1     | -             |
+| Secondary Gathering Skill        | 1+1     | 1+1     | 1+1     | 1+1     | -             |
+| Tertiary Gathering Skill         | 2+1     | 2+1     | 2+1     | 2+1     | -             |
+| Quarternary Gathering Skill      | 3+1     | 3+1     | 3+1     | 3+1     | -             |
+
+
+| _**Production Skill**_                 | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_                                                 |
 |----------------------------------------|---------|---------|---------|---------|---------------------------------------------------------------|
-| [Alchemy](#alchemy-products)           | 3+1     | 2+1     | 1+1     | 1+1     | Foraging                                                      |
-| [Rune Carving](#rune-carving-products) | 2+1     | 1+1     | 3+1     | 1+1     | Logging                                                       |
-| [Tinkering](#tinkering-products)       | 1+1     | 3+1     | 1+1     | 2+1     | Scrapping                                                     |
-| [Smithing](#smithing-products)         | 1+1     | 1+1     | 2+1     | 3+1     | Mining                                                        |
+| &ast;Primary Crafting Skill            | 1+1     | 1+1     | 1+1     | 1+1     | Foraging                                                      |
+| Secondary Crafting Skill               | 1+1     | 1+1     | 1+1     | 1+1     | Logging                                                       |
+| Tertiary Crafting Skill                | 2+1     | 2+1     | 2+1     | 2+1     | Scrapping                                                     |
+| Quarternary Crafting Skill             | 3+1     | 3+1     | 3+1     | 3+1     | Mining                                                        |
 | [Artificing](#artificing-products)     | 25      | 25      | 25      | 25      | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 
-| _**Harvesting Skill**_           | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
-|----------------------------------|---------|---------|---------|---------|---------------|
-| [Foraging](#foraging-products)   | 3+1     | 2+1     | 1+1     | 1+1     | -             |
-| [Logging](#logging-products)     | 2+1     | 1+1     | 3+1     | 1+1     | -             |
-| [Scrapping](#scrapping-products) | 1+1     | 3+1     | 1+1     | 2+1     | -             |
-| [Mining](#mining-products)       | 2+1     | 1+1     | 3+1     | 1+1     | -             |
-
-
-| _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**S**_ | _**Prereqs**_ |
+&ast;Your first Primary Crafting Skill does not have to be the skill you unlock with your first Primary Gathering Skill.  Production Skills can be unlocked in any order as long as the prerequisite skills are met.
+<Br>
+<Br>
+| _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_ |
 |-----------------------|---------|---------|---------|---------|---------------|
-| Recycling             | 10      | 10      | 10      | 10      |               |
+| Recycling             | 10      | 10      | 10      | 10      | -             |
 
 ## Material Harvesting Skills 
 
 #### Foraging
 >This skill is the prerequisite for the Alchemy Skill and is used to gather the materials for it. Foraging represents the character collecting herbs, making powders, and mixing base ingredients for use in Alchemy.
 
+#### Logging
+>This skill is the prerequisite for the Rune Carving Skill and is used to gather the materials for it.  Logging represents the character collecting pieces of wood and shaping them into basic shapes for wands and rune marks.
+
 #### Mining
 >This skill is the prerequisite for the Smithing Skill and is used to gather the materials for it.  Mining represents the character digging out raw ore, and collecting other sundry items for use with the Smithing skill.
 
 #### Scrapping
 >This skill is the prerequisite for the Tinkering Skill and is used to gather the materials for it.  Scrapping represents the character collecting scrap metals, bits of debris, and reclaiming materials from junkyards for use with the Tinkering skill.
-
-#### Logging
->This skill is the prerequisite for the Rune Carving Skill and is used to gather the materials for it.  Logging represents the character collecting pieces of wood and shaping them into basic shapes for wands and rune marks.
 
 ## Raw Materials
 >Production materials are ranked I-V. Characters with a gathering skill will be rewarded one rank of raw material for each rank of gathering skill that they possess, per day of the event. Characters using the gathering tools from Tinkering will receive an additional raw material rank for each skill rank in gathering that they possess. Additional raw materials can be bargained for  from NPCs, or other players. Characters can also search around in-game and gather raw materials from nodes in the game.
@@ -373,8 +376,6 @@ Item production is the process by which characters are able to craft consumable 
    >This is a crafted item for use with the Scrapping skill. The screwdriver will add an additional raw material rank to the character for each rank of Tinkering skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 #### Carving Knife
    >This is a crafted item for use with the Logging skill. The knife will add an additional raw material rank to the character for each rank of Logging skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
-#### Cooking Utensils
-   >This is a crafted item for use with the Cooking skill. The utensils will add an additional High Quality Food created by the cook for each rank of Cooking skill that the character has. Tools have 10 charges.
 #### Lock
    >This recipe allows the Tinkerer to create a lock able to keep out unskilled burglars. Lock physical representations are attached to the main door of a structure. This lock indicates that all portals are locked. The tag for the lock will be attached to the back of the lock presentation, and will note the quality of the lock as well as the lock ID code. To be able to enter a locked structure, a character must have a key tag that is ID associated with the lock. A character with a Key may unlock a Locked door on a 3 count, and may re-lock it on another 3 count.
 #### Key
@@ -559,9 +560,6 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Rank IV
 
-#### Cook’s Cleaver
-   >This magically enhanced cleaver allows the bearer to use their Cooking expertise  to deadly effect on the field of battle. While wielding, three times a day, the User may spend a rank of Cooking as if it was Critical Strike V. They cannot spend ranks of Cooking that have already been used to prepare a Dish. The user does not regain the spent Cooking ranks until after they complete a Rest.<br/>
-   >20 Smithing Materials, 10 Rune Carving Materials, 10 Tinkering Materials, 4 Spirit Gems
 #### Blade of Elemental Striking
    >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental effects to harm. While wielding, the wearer may use a Flame/Frost/Shock/Stone carrier for weapon blows. The damage type is chosen at creation.<br/>
    >20 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 4 Spirit Gems
@@ -571,9 +569,6 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Rank V
 
-#### Super Special Seasonings
-   >Taking the term “secret ingredient” to new levels, these magically enhanced 11 Herbs and Spices allow a Cook to boost their dishes to previously unimaginable heights, and they even restock themselves too! Three times per day, a Cook may double the benefits of a single Cooking dish they serve, bypassing normal bonus caps, with a maximum of twice the normal limit.<br/>
-   >30 Alchemy Materials, 10 Rune Carving Materials, 4 Spirit Gems
 #### Changeling’s Mask
    >Utilizing the incredible capabilities of a shape-shifter, this Full Face Mask allows the wearer to assume the appearance of a member of the Mask’s race, though they are still recognizable. This cannot be used to emulate other people. If the Mask is removed or is not fully covering the user’s face, the effect fades immediately. This may be used 1/day and the change lasts until the user completes a Rest.<br/>
    >30 Rune Carving Materials, 20 Tinkering Materials, 5 Spirit Gems.
@@ -583,18 +578,11 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Rank VI
 
-#### Cards of Collusion
-   >The Player may use this special deck of cards to spread the power of their Gambling skill to multiple participants. For each rank of Gambling the user possesses, a single participant in the game may benefit from the skill, including themself. All normal Gambling requirements apply, including the need for actual currency or valuable items to be bet. The cards actively prevent any participant from cheating. (This is a good-faith effect, assuming no players are abusing this or metagaming.) This is a Passive effect.<br/>
-   >30 Alchemy Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems.
-
 ### Rank VII
 
 #### Blade of Beginner’s Luck
    >Enhanced with the Luck of a 5-Leaf Clover, this specially treated blade finds unlikely avenues and helps the wearer strike true where otherwise their blow may have been turned aside. The wielder does +5 Bonus Damage on all uses of any Critical Strike skill while wielding this Blade. But Luck is Fickle, and harder to come by as one grows older, as such, only an individual with 250 total SP or less may benefit from this weapon. This is a Passive effect.<br/>
    >40 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 7 Spirit Gems.
-#### Cutting Deck
-   >A deck made of specially refined and treated cards, this allows the user to bring their Card-slinging skills onto the battlefield. Three times per day, a user may spend a rank of their Gambling Skill to throw a single packet for 25 Magic. The user does not regain the spent Gambling ranks until after completing a rest.<br/>
-   >30 Rune Carving Materials, 20 Alchemy Materials, 20 Smithing Materials, 7 Spirit Gems.
 
 ### Rank VIII
 
@@ -630,15 +618,7 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Rank III
 
-#### Cat’s Eye Dice
-   >These  polished gemstone dice are infused with the ability to harness the luck of Gambling to help an unlucky Gambler in their moment of need. Twice per day, when starting a round of Gambling, the user may invoke the power of these dice to bless the upcoming round. The person who wins the round of Gambling gains a single use of the Endurance skill. Should the user win the round, they gain a use of Endurance, and a use of Second Wind. These benefits last until used or a day passes. A single individual may not stack multiple instances of benefits from this item. The item cannot be used unless you possess ranks in Gambling.<br/>
-   >10 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 3 Spirit Gems.
-
 ### Rank IV
-
-#### Mama’s Cast Iron
-   >Seasoned properly and treated just right, this Cast Iron Skillet is the bane of any ne’er-do-well who thought to pull one over on Mama. In the hands of a Cook, this allows the Cook to bring their Cooking Skills to bear when putting people down and out. While wielding, three times a day, the User may spend a rank of Cooking as if it was Waylay. They cannot spend ranks of Cooking that have already been used to prepare a Dish. The user does not regain the spent Cooking ranks until after they complete a Rest.<br/>
-   >30 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems.
 
 ### Rank V
 
