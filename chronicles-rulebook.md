@@ -276,7 +276,7 @@ Overall, other races regard the Brood as a terrifying race capable of great dest
 
 **Racial Abilities**:
 
-*Innate Claws*: Built for battle and a readiness to defend themselves, Brood have a set of limbs with large claws.  Possessing such natural weapons, they are unable to take up the physical weapons of other races.  Passively, all Brood have natural claws that deal a base of 1 Physical and qualify for all Unarmed Martial Skills requiring Unarmed Combat.  Brood cannot wield any weapons other than shields.
+*Innate Claws*: Built for battle and a readiness to defend themselves, Brood have a set of limbs with large claws.  Possessing such natural weapons, they are unable to take up the physical weapons of other races.  Passively, all Brood have natural claws that deal a base of 1 damage and qualify for all Martial Skills requiring a Weapon Skill.  Brood cannot wield any other Melee weapons other than shields.
 
 
 *Rip Free*: Brood abhor the sensation of being trapped and when they find themselves in such a situation, they will do anything in their power to regain their freedom. Once per rest, a Brood may have one free usage of Escape Artist.
@@ -309,7 +309,7 @@ This race once ruled a wide part of Evren with many villages filled with fantast
 **Racial Abilities**:
 
 
-*Improved Constitution*: Hardy and strong, Dwarves have a natural resistance toward many substances. Once per rest, a Dwarf may resist a toxin by calling “Resist Toxin.”
+*Body of Stone*: Hardy and strong, Dwarves have a natural resistance to physical influences. Once per rest, a Dwarf may reduce a Physical Effect upon themselves to three seconds by incanting "Minimize Physical"
 
 
 *Tricks of the Trade*: Dwarves are masters of all things crafting, and as such have learned how to cut the occasional corner. Once per day, a Dwarf may add 1 additional Durability to an item that is being created by themselves or another crafter.
@@ -332,10 +332,10 @@ This race once ruled a wide part of Evren with many villages filled with fantast
 **Racial Abilities**:
 
 
-*Life Bound*: _Their long lives and vibrant life force makes them particularly resistant to negative spell effects._ Once per rest, an Elf may Resist Spell.
+*Will of Ages*: _Their long lives and vibrant life force makes them particularly resistant to negative spell effects._ Once per rest, an Elf may reduce a Spell Effect upon themselves to three seconds by incanting "Minimize Spell"
 
 
-*Lore-Master*: _The longevity of the Elves means there are few stories that haven’t reached their ears_. Once per day, an Elf can attempt to recall something specific about an Evren area.  This must be done with Plot.
+*Ritual Expertise*: _The longevity of the Elves means that they often are able to find improvements in otherwise flawed Rituals_. Once per day, an Elf may reduce the Spirit Gem cost of a single ritual, to a minimum of one Spirit Gem. A single Ritual may not benefit from this ability more than once.
 
 
 
@@ -499,9 +499,9 @@ A fairly rare sight in Evren, the Kindred are the most diverse of the races in t
 
 **Racial Abilities**:
 
-*Ferocity*: Kindred may call upon their inner ferocity to power their blows. Once per rest, a Kindred can announce “Ferocity” to activate this ability, adding +5 weapon damage against one enemy.  A Kindred under this effect may not run from a fight and is immune to fear effects. Lasts 5 minutes.
+*Increased Metabolism*: Kindred's physiology is impressively streamlined, allowing them sometimes shake off Toxins that might often incapacitate them. Once per Rest a Kindred may reduce a Toxin Effect upon themselves to three seconds by incanting "Minimize Toxin"
 
-*Begin the Hunt*: Possessing similar strengths to the creatures they resemble, many Kindred have become adept at honing and relying on their instincts or acute senses.  Once per day, a Kindred may focus themselves and enhance an existing purchase of Tracking by 1 additional Slot.  If the Kindred has 0 Tracking, they may use an assumed 2 for this ability.
+*Invoke Instinct*: All Kindred possess a powerful connection to their primal pasts, and can instill those primal instincts in their prey. Once per day, a Kindred may invoke the fear of the hunt in a target by incanting "Aether Halt", preventing their target from advancing.
 
 **Makeup Suggestions and Guidelines**:  Facepaint and physical representations should be present and match the animal-type for your specific Kindred.
 
@@ -562,7 +562,7 @@ The basis of this culture does not hinge much on codes of honor or only fighting
 
 *Rub Dirt In It*: Orcs are strong and their beliefs are as strong, if not stronger.  In fact, an Orc’s faith in their own toughness and ability allows them the firm certainty that cramming a wound full of dirt is a sure way to heal it – but only small wounds, and only sometimes.  Once per rest, an Orc may restore a dying character to 1 Health Point/Body.
 
-*Last Stand*: Like an Orc’s faith in dirt’s ability to heal, an Orc has an even truer faith in themselves to outlast even the limits of their bodies.  Once per day, an Orc may take their last stand and become immune to everything for 10 seconds.  After use, the Orc falls over dead and requires a Life/Revivify spell.
+*Last Stand*: Like an Orc’s faith in dirt’s ability to heal, an Orc has an even truer faith in themselves to outlast even the limits of their bodies.  Once per day, an Orc may take their last stand and become immune to all Non-Aether effects and damage for 10 seconds.  After use, the Orc falls over dead and requires a Life/Revivify spell.
 
 **Makeup Suggestions and Guidelines**:  Protruding lower teeth should be physically represented in addition to a green complexion.
 
@@ -589,9 +589,9 @@ The values held by the majority of Halflings are the home, the belly, and the mi
 
 **Racial Abilities**:
 
-*Nimble Feet:* Halflings are known for having an uncanny talent for guessing exactly where that tree is going to fall or which way that box is going to explode.  Once per rest, a Halfling may Dodge any standard trap that has a tag.  This ability is treated as a DODGE effect and use of it may be called before or after a trap has been set off.
+*Make Myself At Home:* Halflings are exceptionally light-fingered, and have little concept for such mundane things as "personal space". Once per Rest, a Halfling may spend 60 seconds of Roleplay to pick a single lock of any difficulty.
 
-*Community Outreach*: The community is where the home is, and the belly, and the mind.  As such, it comes as no surprise that aiding the community is a talent that comes naturally to many Halflings. Once per day, a Halfling may substitute their ranks in Cooking, Performance, or Gambling with an equal number of ranks in a different Rest-boosting skill. Alternatively, they may boost the ranks of another’s Rest-boosting skill by +2.
+*Community Outreach*: All Halflings have a strong sense of community, and may use that connection to provide protection to their friends and loved ones. Once per Day, a Halfling may spend a minute of roleplay telling stories, singing a song, or sharing a meal, to deliver a single "Voice Radius Magic Barrier" of a type of their choosing.
 
 **Makeup Suggestions and Guidelines**: Sideburns and excess hair can appear on all Halflings and should be physically represented in some visible manner.
 
@@ -619,7 +619,7 @@ Outside opinions of Humans are perhaps not as gilded, as many other races would 
 
 *Survivor*: Humans are incredibly adaptable and able to survive when most others would not. Once per rest, a Human may have a free usage of Endurance by spending 1 minute of concentration to prime the ability. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
 
-*Connected*: Humans are the most prevalent race on Evren and their propensity for establishing contacts across all walks of life is a trait many have become adept at within both the underworld and legitimate enterprises. Once per day, a Human may locate an impromptu black market in which only the character can enter.  This must be done with Plot.
+**Makeup Suggestions and Guidelines**: Due to Humans not having any makeup requirements, they only have a single Racial Ability.
 
 ___
 ### Unbound
@@ -678,7 +678,7 @@ A rare sight today, the Unforgiven began appearing again and integrating themsel
 
 *Call To Darkness*: Most Unforgiven today likely owe their very existence to their ancestors’ cultivation of slipping away into their own shadow.  For some, this may seem like a trick of the eyes or that an Unforgiven has managed to hide away in plain sight; however, they remain very much visible, but for a short time, enjoy the safety the darkness grants them.  The aptitude for managing such a feat remains prevalent even into modern times.  Once per rest, an Unforgiven may spend 5 seconds in Concentration in order to slip into their own shadow and take the INVULNERABLE effect for 1 minute.  Within their own shadow, an Unforgiven is unable to move, communicate with others, nor use items or skills.  The Unforgiven is immune to all game effects, except SOLIDIFY and Dispel Magic.
 
-*Guileless Contrac*t:  Motivated by either their own amusement or safety, Unforgiven have an unabashed penchant for deceiving and deluding others; however, when it comes to moments where the truth matters, they become intensely serious and many have learned to focus their will toward ensuring such moments are devoid of falsehoods.  Once per day, an Unforgiven can enact a binding contract between themselves and a consenting individual that lasts for 10 minutes.  During this time, neither party can intentionally tell a lie to the other person.
+*Harvest Essence*:  Creatures of the Ether, Unforgiven have a stronger connection to the spiritual essence of other creatures than most, and use that connection to help them collect Spirit Gems. Once per day, an Unforgiven may deliver a single "Magic Entrap Spirit"
 
 **Makeup Suggestions and Guidelines**: Horn sizes and placements may vary at player discretion, but should be black or dark in color.  Some Unforgiven players choose to “hide” their barbed tail, but otherwise this should also be physically represented.
 
@@ -2227,11 +2227,9 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ## Other Skills
 |Skill|F|T|R|S|Prereqs|
 |:---|:---:|:---:|:---:|:---:|:---|
-|Cooking|1+1|1+1|1+1|1+1||
 |Cutpurse|10|10|3|10||
 |Escape Artist|5+2|5+2|3+1|3+1||
 |First Aid|4|4|4|4||
-|Gambling|1+1|1+1|1+1|1+1||
 |Lockpicking|5+5|5+5|3+1|3+3||
 |Performing|1+1|1+1|1+1|1+1||
 |Tracking|20|20|20|20||
@@ -2239,37 +2237,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ### Rest-Boosting Skills
 
-##### Cooking
->This skill allows the character to prepare food and drink that is of higher quality than one would find on the road, or in a less expensive establishment. Using special ingredients and skills taught by grandmas across Evren, a cook can provide some benefits to those that eat their special dishes and drink their refreshing drinks.
->
->For each rank in Cooking skill, the cook may provide one of the listed benefits to food or drink, turning it into High Quality Food. The benefits may be spread across multiple items or concentrated in a single dish.
->
-> Ex: A cook with 5 ranks in Cooking could make 5 items with 1 buff, an item with 3 buffs and an item with 2 buffs, or a single item with 5 buffs, or any other combination. A character partaking of High Quality Food must spend at least 5 minutes either cooking, eating, or drinking the food before the effects become active. Use of this skill does not interrupt Resting.
->
->The following benefits are available:
->- <u>Health Boost</u>:  +5 Maximum Health until Rest, can stack with itself only to +10.
->- <u>Rest Reduction</u>:  Reduce Rest Time by 15 Minutes, maximum reduction of 30 minutes per Rest.
->- <u>Restore Body</u>:  Character with a metabolism gains the effects of Restore Body:  instantly healed to their full maximum health pool and any missing or disabled limbs are restored.  Does not remove any effects.
->- <u>Return</u>:  Regain a single expended skill or spell, maximum of 2 per Rest.
->- <u>Weapon Boost</u>:  +1 Weapon Damage until Rest, can stack with itself only to +2. *Requires a Weapon Skill. Does not stack or double with any other effects or sources.*
 
-##### Gambling
->This skill allows the character to benefit from playing games of chance. Games of chance include most gambling games such as Dragon Poker, Varos Hold Em, Black Jack, Roulette, Liar’s Dice, etc. Wagers in the games must be of some kind of valuable currency.
-
->Gambling speeds the recovery time of Rest. For each 5 minutes that a gambler plays, the gambler’s base Rest time of 2 hours is reduced by 15 minutes.  At 30 minutes of play, the gambler's remaining Rest time is reduced to 30 minutes. Rest time may never be lowered to less than 30 minutes.
-
->Gambling requires concentration. If the game stops for longer than 1 minute or the gambler suffers an attack, the game is stopped with no benefit for that 5 minute block of time.
-
->For each rank in Gambling that a gambler has, the gambler may benefit for one 5 minute block of time per Rest. Use of this skill does not interrupt Resting.
-
-|Ranks|Gambling Time|Time Reduction|Rest Time|
-|:---:|:---:|:---:|:---:|
-|1|5min|15min|1hr 45min|
-|2|10min|30min|1hr 30min|
-|3|15min|45min|1hr 15min|
-|4|20min|60min|1hr|
-|5|25min|75min|45min|
-|6|30min|90min|30min|
 
 ##### Performing
 >This skill allows other characters to benefit from a short, relaxing performance. Performances can be of a wide variety of entertaining performance arts. These include, but are not limited to, Scene Acting, Poetry Recital, Singing, Dancing, Instrumental Performance, Spoken Word, Dramatic Reading, etc. 
@@ -2731,8 +2699,6 @@ Item production is the process by which characters are able to craft consumable 
    >This is a crafted item for use with the Scrapping skill. The screwdriver will add an additional raw material rank to the character for each rank of Tinkering skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 ##### Carving Knife
    >This is a crafted item for use with the Logging skill. The knife will add an additional raw material rank to the character for each rank of Logging skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
-##### Cooking Utensils
-   >This is a crafted item for use with the Cooking skill. The utensils will add an additional High Quality Food created by the cook for each rank of Cooking skill that the character has. Tools have 10 charges.
 ##### Lock
    >This recipe allows the Tinkerer to create a lock able to keep out unskilled burglars. Lock physical representations are attached to the main door of a structure. This lock indicates that all portals are locked. The tag for the lock will be attached to the back of the lock presentation, and will note the quality of the lock as well as the lock ID code. To be able to enter a locked structure, a character must have a key tag that is ID associated with the lock. A character with a Key may unlock a Locked door on a 3 count, and may re-lock it on another 3 count.
 ##### Key
@@ -2917,9 +2883,6 @@ Item production is the process by which characters are able to craft consumable 
 
 #### Rank IV
 
-##### Cook’s Cleaver
-   >This magically enhanced cleaver allows the bearer to use their Cooking expertise  to deadly effect on the field of battle. While wielding, three times a day, the User may spend a rank of Cooking as if it was Critical Strike V. They cannot spend ranks of Cooking that have already been used to prepare a Dish. The user does not regain the spent Cooking ranks until after they complete a Rest.<br/>
-   >20 Smithing Materials, 10 Rune Carving Materials, 10 Tinkering Materials, 4 Spirit Gems
 ##### Blade of Elemental Striking
    >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental effects to harm. While wielding, the wearer may use a Flame/Frost/Shock/Stone carrier for weapon blows. The damage type is chosen at creation.<br/>
    >20 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 4 Spirit Gems
@@ -2929,9 +2892,6 @@ Item production is the process by which characters are able to craft consumable 
 
 #### Rank V
 
-##### Super Special Seasonings
-   >Taking the term “secret ingredient” to new levels, these magically enhanced 11 Herbs and Spices allow a Cook to boost their dishes to previously unimaginable heights, and they even restock themselves too! Three times per day, a Cook may double the benefits of a single Cooking dish they serve, bypassing normal bonus caps, with a maximum of twice the normal limit.<br/>
-   >30 Alchemy Materials, 10 Rune Carving Materials, 4 Spirit Gems
 ##### Changeling’s Mask
    >Utilizing the incredible capabilities of a shape-shifter, this Full Face Mask allows the wearer to assume the appearance of a member of the Mask’s race, though they are still recognizable. This cannot be used to emulate other people. If the Mask is removed or is not fully covering the user’s face, the effect fades immediately. This may be used 1/day and the change lasts until the user completes a Rest.<br/>
    >30 Rune Carving Materials, 20 Tinkering Materials, 5 Spirit Gems.
@@ -2941,18 +2901,15 @@ Item production is the process by which characters are able to craft consumable 
 
 #### Rank VI
 
-##### Cards of Collusion
-   >The Player may use this special deck of cards to spread the power of their Gambling skill to multiple participants. For each rank of Gambling the user possesses, a single participant in the game may benefit from the skill, including themself. All normal Gambling requirements apply, including the need for actual currency or valuable items to be bet. The cards actively prevent any participant from cheating. (This is a good-faith effect, assuming no players are abusing this or metagaming.) This is a Passive effect.<br/>
-   >30 Alchemy Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems.
+##### ?
+>?
+>?
 
 #### Rank VII
 
 ##### Blade of Beginner’s Luck
    >Enhanced with the Luck of a 5-Leaf Clover, this specially treated blade finds unlikely avenues and helps the wearer strike true where otherwise their blow may have been turned aside. The wielder does +5 Bonus Damage on all uses of any Critical Strike skill while wielding this Blade. But Luck is Fickle, and harder to come by as one grows older, as such, only an individual with 250 total SP or less may benefit from this weapon. This is a Passive effect.<br/>
    >40 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 7 Spirit Gems.
-##### Cutting Deck
-   >A deck made of specially refined and treated cards, this allows the user to bring their Card-slinging skills onto the battlefield. Three times per day, a user may spend a rank of their Gambling Skill to throw a single packet for 25 Magic. The user does not regain the spent Gambling ranks until after completing a rest.<br/>
-   >30 Rune Carving Materials, 20 Alchemy Materials, 20 Smithing Materials, 7 Spirit Gems.
 
 #### Rank VIII
 
@@ -2988,15 +2945,15 @@ Item production is the process by which characters are able to craft consumable 
 
 #### Rank III
 
-##### Cat’s Eye Dice
-   >These  polished gemstone dice are infused with the ability to harness the luck of Gambling to help an unlucky Gambler in their moment of need. Twice per day, when starting a round of Gambling, the user may invoke the power of these dice to bless the upcoming round. The person who wins the round of Gambling gains a single use of the Endurance skill. Should the user win the round, they gain a use of Endurance, and a use of Second Wind. These benefits last until used or a day passes. A single individual may not stack multiple instances of benefits from this item. The item cannot be used unless you possess ranks in Gambling.<br/>
-   >10 Smithing Materials, 10 Rune Carving Materials, 10 Alchemy Materials, 3 Spirit Gems.
+##### ?
+>?
+>?
 
 #### Rank IV
 
-##### Mama’s Cast Iron
-   >Seasoned properly and treated just right, this Cast Iron Skillet is the bane of any ne’er-do-well who thought to pull one over on Mama. In the hands of a Cook, this allows the Cook to bring their Cooking Skills to bear when putting people down and out. While wielding, three times a day, the User may spend a rank of Cooking as if it was Waylay. They cannot spend ranks of Cooking that have already been used to prepare a Dish. The user does not regain the spent Cooking ranks until after they complete a Rest.<br/>
-   >30 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 6 Spirit Gems.
+##### ?
+>?
+>?
 
 #### Rank V
 
