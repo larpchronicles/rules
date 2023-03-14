@@ -1563,13 +1563,13 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** | This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
 
 #### Universal Level 8
-| **Spell**    | **Reflect**                                                                                                                               |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| School                 | Universal                                                                                                                                 |
-| Level                  | 8                                                                                                                                         |
-| **Duration** | Rest                                                                                                                                      |
-| **Incant**   | "I conjure a reflect \<type\>."                                                                                                           |
-| **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect.  |
+| **Spell**    | **Reflect**                                                                                                                              |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| School                 | Universal                                                                                                                                |
+| Level                  | 8                                                                                                                                        |
+| **Duration** | Rest                                                                                                                                     |
+| **Incant**   | "I conjure a reflect \<type\>."                                                                                                          |
+| **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. |
 
 #### Universal Level 9
 ##### **Dispel Magic**
