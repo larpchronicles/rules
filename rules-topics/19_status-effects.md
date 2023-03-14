@@ -54,6 +54,7 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 | AETHER| Ability user's attacks cannot be blocked, resisted, reflected, or in any way defended against.  |  Aether X| No |
 | AURA  | Ability user may swing <x> as their damage type | Varies by source. | No |
 | BLINK | Ability user teleports to a location specified by the caster.  User must have been physically present in the location previously.| Blink |Yes |
+| BREACH ARMOR | Ability user reduces target's armor pool to 0. | \<Type\> Breach Armor | No |
 | CORROSIVE| Ability user causes all tagged items that make physical contact are destroyed (as per shatter/destroy) at the end of the encounter  |  OOC  | No |
 | DAMAGE CAP X| Ability user is only hit for maximum of x damage.  |Minimal| No |
 | DESTROY  | Target is destroyed after x time.| Varies by source. |Yes |
@@ -67,6 +68,7 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 | INCORPOREAL | Ability user is immune to non-magical damage.|  N/A  |Yes |
 | INFECT| Ability user may infect a target and inflict them with x effect.  |1 I infect you, 2... 3...| Not Applicable |
 | MAGIC DELIVERANCE | Ability user may cast spells without incants.|Magic X| Not Applicable |
+| MINIMIZE | Ability user may reduce the duration of a 20 second effect to a 3 second count. | Varies. | No |
 | NATURAL ARMOR  | Ability user has armor that does not have to be physically represented. |  N/A  |Yes |
 | OVERWHELMING STRENGTH| Ability user swings for Vital damage. Damage from user is always taken unless target makes a defensive call.|  N/A  | No |
 | POSSESSION  | Ability user goes OOC, but may voice control the target. Acts as per ENSLAVEMENT.|  1 I possess you, 2... 3...| No |
