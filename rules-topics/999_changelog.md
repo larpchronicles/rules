@@ -1,5 +1,71 @@
 # Changelog
 
+## 3.0.3 [2023-03-13]
+
+---
+### Check-In
+* Updated COVID Testing
+* Updated Beds at Camp Illinek
+
+### Combat
+* Added writeup for Defensive Slots.
+* Updated writeup for Bows and Blocking.
+
+### Effects
+* New MINIMIZE effect.
+* New BREACH ARMOR effect.
+* Effect doc cleanup and organized.
+
+### Magic
+* Heal Wounds updated to a variable cast and now heals undead as well.
+* Necrotic Tissue removed.
+
+## Martial
+* Removed Bow and Short Weapon Skill.  Using a melee weapon to block while using a bow now requires Ranged Weapon, One-Handed Weapon, and Dual Wield.
+* Dual Wield may now be used for any One-Handed melee weapon and up to short sword length weapon in the other.
+* Unarmed Combat, Short Weapon and Long Weapons combined into One-Handed Weapons.
+* New Dexterity Armor skill.
+* New Additional Defense Slot skill.
+* All Martial skills reworked to Agility Pool and Stamina Pool systems.
+* Agility:
+  * Focus on ranged combat, backstabs, and utility.
+  * New ability: Mimicry
+  * New ability: Resourceful
+* Stamina:
+  * Focus on melee weaponry and utility.
+  * Skills no longer require specific weapon types, all skills may be used with any melee weapon.
+  * Proficiencies are declared for a weapon type and hand.  Two-Handed and Ranged benefit from proficiencies invoked for both hands.
+  * Two-Handed Weapons gain 1.5x rounded down benefit from Proficiencies.
+  * Fighters:  May use any melee proficiency for any melee weapon, for either hand.
+  * Rogue: May use any Ranged proficiency for bows, crossbows, or thrown weapons.  Rogues may also used Ranged proficiencies for One-Handed Weapons, but only from behind their target.
+  * Parry and Spell Parry do not require a held weapon, but must be prepared in advance of use.
+* Reworked the skills sections for the new breakdowns.
+
+### Production
+* Costs of Gathering and Crafting skills adjusted for all classes.
+* Cooking and gambling related items removed.
+* Removed Death Coating.
+
+### Other Skills
+* Cooking Removed
+* Gambling Removed
+
+### Races
+* Brood now have natural dual-claws and may use bows if they purchase the Ranged Weapons skill.
+* Dwarf racial Resist Toxin replaced.
+* Elven racials replaced.
+* Halfling racials replaced.
+* Human Connected racial removed.
+* Unforgiven racial Guileless Contract replaced.
+
+### Ritual Magic
+* New ritual:  Spirit Journey
+* Updated wording for Elemental Shift.
+* Updated wording of Curse of Transformation.
+
+## Transform Rituals
+* Updated wording of Resist abilities.
+
 ## 3.0.2 [2023-03-05]
 
 ---
@@ -55,8 +121,6 @@
 * New Spirit spell:  Resurrection.
 * Return Spell skill removed.
 * Updated spell list chart.
-
-
 
 ## v2.7.5 [2023-03-03]
 

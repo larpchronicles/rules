@@ -28,5 +28,5 @@
 |RP|Roleplay|Roleplay refers to actions, emotes, or words that are performed not by the player, but by a character.|
 |SP|Skill Points|Points that accrue over a number of events you attend that can be used to purchase or improve skills.|
 |Spellstrike|Melee spell casting delivered with a weapon.|Typically performed by Templars.|
-|Touch Cast|Casting a spell while touching the target with a held packet.|Touch casts may be refused.|
+|Touch-Cast|Casting a spell while touching the target with a held packet.|Touch-casts may be refused.|
 |Turtling|Hiding all viable strike zones of the body behind a shield.|Not presenting a viable target to opponents in combat is disallowed.|
