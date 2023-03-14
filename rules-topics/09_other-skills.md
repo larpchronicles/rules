@@ -124,8 +124,8 @@
 #### Spirit Knowledge
 >Covers Spirit Magic in all its forms and uses, undead and nether spirits. Higher ranks will provide greater insight to spirit questions, or provide more detailed information on the target of your inquiry.
 
-#### Theology Knowledge
->Covers churches, cults, religious beliefs, deities, and demigods. Higher ranks will reveal more in-depth information on various groups, or reveal hidden aspects.
-
 #### Survivalist Knowledge
 >Covers skills needed for living in the wild, such as hunting, fishing, and identifying plants and animals.  A survivalist may be able to recognize the mark left by a creature but to truly track them they will need the tracking skill.
+
+#### Theology Knowledge
+>Covers churches, cults, religious beliefs, deities, and demigods. Higher ranks will reveal more in-depth information on various groups, or reveal hidden aspects.

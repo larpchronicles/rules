@@ -1,7 +1,7 @@
 # Magic Skills
 
 ## Initiation, Specialization, and Attunement
-| Magic Skill Costs     | F     | T   | R    | S   |
+| Magic Skill Costs     | F     | T   | R    | M   |
 |-----------------------|-------|-----|------|-----|
 | School Initiation     | 5+5   | 3+4 | 5+5  | 3+1 |
 | School Specialization | 20    | 15  | 20   | 10  |
@@ -31,16 +31,16 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 | Level | Universal               | Arcane                                                     | Spirit                                                                                           | Nature                                                                      | 
 |-------|-------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| 1     | Glowing Light           | Blinding Light<br>Mana Bolt                                | Control: Minor Undead<br>Transfer Malady<br>Necrotic Tissue<br>Heal Wounds                       | Command: Drop<br>Grasping Grasses<br>Purify Food and Drink | 
-| 2     |                         | Disrupt Aether<br>Halt<br>Mana Bolt                        | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike                              | 
-| 3     |                         | Limited Time Stop<br>Mana Bolt                             | Cause Weakness<br>Cure Weakness<br>Heal Wounds<br>Necrotic Tissue                                | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                       | 
-| 4     | Barrier                 | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†             | Rot Limb                                                                                         | Entangle Arms<br>Command: Kneel<br>Command: Stun                 |
-| 5     | Entrap Spirit           | Conjure Shield<br>Enchanted Blade<br>Mana Bolt             | Cure Body<br>Heal Wounds<br>Necrotic Tissue<br>Revivify                                          | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†                     |
-| 6     |                         | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Solidify                                                                    | Command: Sleep<br>Entangle Body                       | 
-| 7     |                         | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                 | Curse<br>Heal Wounds<br>Necrotic Tissue<br>Preserve Corpse<br>Vampiric Touch                     | Command: Confuse<br>Confine                                                 | 
-| 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Blur Image†<br>Mana Bolt                 | Destroy Undead<br>Limited Phylactery†<br>Restore Body<br>Repair Undead                           | Boon of the Cat<br>Petrify                                                  |
-| 9     |                         | Circle of Power<br>Mana Bolt                               | Create Undead<br>Resurrection                                                                    | Treewalk†<br>Regenerate<br>Wrath of Nature, Other                    |
-| 10    |                         | Arcane Torrent<br>Doom                                     | Death<br>Life                                                                                    | Spider Web                                                                       |
+| 1     | Glowing Light           | Blinding Light<br>Mana Bolt                                | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds                                          | Command: Drop<br>Grasping Grasses<br>Purify Food and Drink                 | 
+| 2     |                         | Disrupt Aether<br>Halt<br>Mana Bolt                        | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Heal Wounds<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike  | 
+| 3     |                         | Limited Time Stop<br>Mana Bolt                             | Cause Weakness<br>Cure Weakness<br>Heal Wounds                                                    | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                      | 
+| 4     | Barrier                 | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†             | Heal Wounds<br>Rot Limb                                                                          | Entangle Arms<br>Command: Kneel<br>Command: Stun                            |          
+| 5     | Entrap Spirit           | Conjure Shield<br>Enchanted Blade<br>Mana Bolt             | Cure Body<br>Field Resurrection<br>Heal Wounds<br>Revivify                                        | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†                     |
+| 6     |                         | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify                                                      | Command: Sleep<br>Entangle Body                                             | 
+| 7     |                         | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                 | Curse<br>Heal Wounds<br>Preserve Corpse<br>Vampiric Touch                                        | Command: Confuse<br>Confine                                                 | 
+| 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Blur Image†<br>Mana Bolt                 | Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Restore Body<br>Repair Undead      | Boon of the Cat<br>Petrify                                                  |
+| 9     |                         | Circle of Power<br>Mana Bolt                               | Create Undead<br>Heal Wounds<br>                                                                  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other                           |
+| 10    |                         | Arcane Torrent<br>Doom                                     | Death<br>Life                                                                                    | Spider Web                                                                  |
 
 
 ## Universal
@@ -270,15 +270,8 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Spell**            | **Heal Wounds** |
 |      :---        |       :---         |
 | **Duration**     | Instant |
-| **Incant**     | "By the spirits, I heal these wounds 5." |
-| **Description** |  This spell will heal a living target for 5 points of health. |
-
-#### **Necrotic Tissue**
-| **Spell**            | **Necrotic Tissue** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "Fiends of the dark nether, create necrotic tissue 5." |
-| **Description** |  This spell will restore 5 health to a target undead. |
+| **Incant**     | "By the spirits, I heal these wounds #." |
+| **Description** |  This spell will heal a target with a metabolism 5x the mana used.  Undead **can** be healed by this spell.  Unless specifically noted as a monster or transform ability PCs and NPCs cannot be hurt by this spell.  Creatures without a metabolism take no effect. |
 
 #### **Transfer Malady**
 | **Spell**            | **Transfer Malady** |
@@ -349,21 +342,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the spirits, I cure your weakness." |
 | **Description** |  This spell removes the WEAKEN effect. |
 
-#### **Heal Wounds**
-| **Spell**            | **Heal Wounds** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I heal these wounds 15." |
-| **Description** |  This spell will heal a living target for 15 points of health. |
-
-#### **Necrotic Tissue**
-| **Spell**            | **Necrotic Tissue** |
-|      :---        |       :---         |
-| **Duration**     | Instant |
-| **Incant**     | "Fiends of the dark nether, create necrotic tissue 15." |
-| **Description** |  This spell will restore 15 health to a target undead. |
-
-
 ### Spirit Level 4
 
 #### **Dull Pain**
@@ -390,19 +368,12 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the spirits, I cure this body." |
 | **Description** | This spell removes all lingering maladies such as diseases, weaknesses, disabled limbs, stuns, etc.  This will remove ENTANGLE, INFECT, SLEEP, STUN, and WEAKEN effects.  |
 
-#### **Heal Wounds**
-| **Spell** | **Heal Wounds** |
+#### **Field Resurrection**
+| **Spell** | **Field Resurrection** |
 |:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I heal these wounds 25." |
-| **Description** |  This spell will heal a living target for 25 points of health. |
-
-#### **Necrotic Tissue**
-| **Spell** | **Necrotic Tissue** |
-|:---|:---|
-| **Duration**    | Instant |
-| **Incant**      | "Fiends of the dark nether, create necrotic tissue 25." |
-| **Description** |  This spell will restore 25 health to a target undead. |
+| **Duration**     | 1 Minute |
+| **Incant**     | "By the spirits, I grant you a resurrection." |
+| **Description** | This spell causes the caster to enter concentration, which must be maintained for 1 minute for the spell the succeed. The caster must maintain contact with the target for the duration of concentration. The caster must be in concentration and unimpeded for the entire casting time of this spell, else the spell will fail.  If the caster's concentration is broken, the target does not incur strain.  Once the spell is cast, the target spirit must clearly indicate acknowledgement of the spell to the caster. The target may refuse this spell, for any IG or OOG reason, by responding with "Refused" to the caster of the spell. The target does not need to justify their refusal of the spell.<br><br>Once the 1 minute concentration is complete the target's body begins to reform, on a 3 count, next to the caster, and the target incurs strain as per a normal resurrection.  While reforming, the target is In-Game, and can be affected by effects normally.|
 
 #### **Revivify**
 | **Spell**| **Revivify**|
@@ -437,20 +408,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**    | 20 Seconds|
 | **Incant**      | "By the spirits, I curse you."|
 | **Description** | This spell will cause the target to take double damage from all sources.  Damage doubling effects cannot be stacked.  This is a CURSE effect. |
-
-#### **Heal Wounds**
-| **Spell**            | **Heal Wounds** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I heal these wounds 35." |
-| **Description** |  This spell will heal a living target for 35 points of health. |
-
-#### **Necrotic Tissue**
-| **Spell**            | **Necrotic Tissue** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "Fiends of the dark nether, create necrotic tissue 35." |
-| **Description** |  This spell will restore 35 health to a target undead. |
 
 #### **Preserve Corpse**
 | **Spell**            | **Preserve Corpse** |
@@ -506,14 +463,9 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "Fiends of the dark nether, force this minion to rise and serve." |
 | **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target’s spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
 
-#### **Resurrection**
-| **Spell**            | **Resurrection**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|:---|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Duration**     | 1 Minute                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Incant**     | "By the spirits, I grant you a resurrection."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Description** | This spell takes 1 minute to cast and requires an untethered spirit. At the beginning of the spell, the target must clearly acknowledge the acceptance of the spell, if they do not, the spell fails to no effect. Once the spell begins, the target's body begins to immediately reform, incurring strain as per a normal resurrection. The caster must be in concentration and unimpeded for the entire casting time of this spell, else the spell will fail. If the caster’s concentration is interrupted, or the reforming body is affected by any detrimental effect, the spell fails and the target immediately suffers a second death. Prior to the casting time the player of the caster, and the player of the untethered spirit, are to verify that the spirit does not have too much strain to resurrect. A marshal should also be present to oversee the process. Once the Resurrection spell is complete, the spirit instantly reforms its body next to the spell caster. The body appears with a full health pool, and all skills renewed as if they had completed a long rest.  This is a LIFE effect. |
 
 ### Spirit Level 10
+    
 #### Death
 | **Spell**    | **Death**                                                |
 |--------------|----------------------------------------------------------|
@@ -521,7 +473,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**    | 10                                                       |
 | **Duration** | Instant                                                  |
 | **Incant**   | "I grant you the gift of death X... Magic Heal Wounds X" |
-| **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touchcast a Magic Heal Wounds 25 _or_ Magic Necrotic Touch 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
+| **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touchcast a Magic Heal Wounds 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
 
 #### **Life**
 | **Spell**            | **Life** |
