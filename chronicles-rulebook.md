@@ -1550,7 +1550,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | Level                  | 4 |
 | Duration               | Rest |
 | Incant                 | "I conjure a \<type\> barrier." |
-| **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. A character may not have more than 1 Active Resist at a time. |
+| **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect.  |
 
 #### Universal Level 5
 ##### **Entrap Spirit**
@@ -1569,7 +1569,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | Level                  | 8                                                                                                                                                                                                     |
 | **Duration** | Rest                                                                                                                                                                                                  |
 | **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                       |
-| **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
+| **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect.|
 
 #### Universal Level 9
 ##### **Dispel Magic**
