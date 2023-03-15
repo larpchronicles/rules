@@ -16,6 +16,9 @@
 * New BREACH ARMOR effect.
 * Effect doc cleanup and organized.
 
+## Introduction
+* Updated Link for Battle-boards and printable character sheets.  Removed PDF Character sheet link until new one can be created.
+
 ### Magic
 * Heal Wounds updated to a variable cast and now heals undead as well.
 * Necrotic Tissue removed.
