@@ -22,7 +22,8 @@ Wondering where you can find a particular sheet or form?  Check the list below, 
 * [Battle-Board](https://docs.google.com/spreadsheets/d/1u2i06TCMrnEXJbOQTK3yy_mL-jG9mHHlVJd0IJu0JEM/edit?usp=sharing)
 * [Character Calculator](https://docs.google.com/spreadsheets/d/1vQZ4nFIenDGb6cDTbJFXPV8WO4wkKgZyU7DfEoS2jak/edit?usp=sharing)
 * Character Sheet:
-  * [Blank, Printable](https://docs.google.com/document/d/1n-4HLtLv5Pi0ovRDxPwSYqkd0y_WCsEnwX2TU9eKCrg/edit?usp=share_link) - Print it, write on it.
+  * [Blank, Printable](https://drive.google.com/file/d/1A60Vn6B71SQNKK3vsHFfdtsFZT-U935O/view?usp=share_link) - Print it, write on it.
+  * [PDF Form](https://drive.google.com/file/d/1DDXtCJW08d7J6NTLOiHLRCU2uiwJBvLf/view?usp=sharing) - Save it, then edit it.
 * [Code of Conduct](https://drive.google.com/file/d/1baIH6NfjVpb-K-hI59ebrd4vWQlcjtTT/view?usp=sharing)
 * [Liability Waiver](https://drive.google.com/file/d/1OWAV9ee22HZSvlR-k2gvHWzhyuxUuQFr/view?usp=sharing) 
 * [Pre-Registration & Bed-Reservation](https://forms.gle/W8HvcE4tzAK4uBVt8)
