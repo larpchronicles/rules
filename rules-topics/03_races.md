@@ -27,7 +27,7 @@ Overall, other races regard the Brood as a terrifying race capable of great dest
 
 **Racial Abilities**:
 
-*Innate Claws*: Built for battle and a readiness to defend themselves, Brood have a set of limbs with large claws.  Possessing such natural weapons, they are unable to take up the physical weapons of other races.  Passively, all Brood have natural dual claws that deal a base of 1 Physical each. Brood cannot wield any weapons other than shields and ranged, but much purchase the proper weapon skill.
+*Innate Claws*: Built for battle and a readiness to defend themselves, Brood have a set of limbs with large claws.  Possessing such natural weapons, they are unable to take up the physical weapons of other races.  Passively, all Brood have natural dual claws that deal a base of 1 Physical each. Brood cannot wield any weapons other than shields and ranged weapons.  To use a shield or ranged weapons, they must purchase the proper weapon skill.
 
 
 *Rip Free*: _Brood abhor the sensation of being trapped and when they find themselves in such a situation, they will do anything in their power to regain their freedom._ Once per rest, a Brood may have one free usage of Escape Artist.

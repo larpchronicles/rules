@@ -56,6 +56,7 @@
 * Elven racials replaced.
 * Halfling racials replaced.
 * Human Connected racial removed.
+* Kindred racials replaced.
 * Unforgiven racial Guileless Contract replaced.
 
 ### Ritual Magic

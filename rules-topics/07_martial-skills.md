@@ -413,15 +413,6 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Description** |This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect.|
 |**Requirements**|Shield|
 
-#### **Sleep**
-| Ability | **Sleep**|
-|:---|---|
-| **Type**| Stamina|
-| **Level**| 6 |
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Sleep”|
-| **Description** |This skill is a strike that renders the target unconscious and helpless for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. A slept target will awaken instantly if damaged or healed. This is a SLEEP effect.|
-
 ### Level 7 Stamina Abilities
 
 #### **Curse**
