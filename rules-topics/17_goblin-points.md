@@ -19,30 +19,11 @@ From time to time, the chapter may need some things more than others.  When this
 * **“Needed” Items.** These are items that if we do not receive or maintain on a semi-regular basis would impact the game quality significantly. Examples include: Packets, weapons, and tabards.
 * **“Critically Needed” Items.**  These are items that are in an immediate need in order to continue running the game in the short term sense, we cannot run an event properly without an immediate donation of these items. Examples include: as per Needed, but assuming stock is extremely low, we have run out, all our supplies were lost, or similar.
 
-<table>
-  <tr>
-   <td colspan="3" >
-<strong>Have a Little Extra for...</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Needed Items
-   </td>
-   <td>x1.5 Multiplier
-   </td>
-   <td>15 Goblin Points per $1 USD Value, Rounded Up
-   </td>
-  </tr>
-  <tr>
-   <td>Critically Needed Items
-   </td>
-   <td>x2 Multiplier
-   </td>
-   <td>20 Goblin Points per $1 USD Value, Rounded Up
-   </td>
-  </tr>
-</table>
-
+Have a Little Extra for...
+| | | |
+|---|---|--|
+|Needed Items|x1.5 Multiplier|15 Goblin Points per $1 USD Value, Rounded Up|
+|Critically Needed Items|x2 Multiplier|20 Goblin Points per $1 USD Value, Rounded Up|
 
 
 ## Donations of Time
