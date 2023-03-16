@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.3 [2023-03-15]
+
+---
+### Goblin Points
+* Badly edited the table.
+
 ## 3.0.2 [2023-03-05]
 
 ---
