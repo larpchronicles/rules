@@ -113,7 +113,7 @@ As long as the character has either hand on a shield, any physical type attack t
 
 Limitations:
 * A shield may never be used for striking in combat. 
-* Shields may not be used with two-hand weapons, bows, or crossbows.
+* Shields may not be used with two-handed weapons, bows, or crossbows.
 * A character may not dual wield shields.
 * Shields are not capable of blocking spell packets or toxins without the use of an ability.
 
@@ -136,7 +136,7 @@ Spellstrikes are spells cast upon a target via a physically represented weapon. 
 ### Touch-Casting
 
 ---
-If you are touching the target directly, they have the ability to "refuse your touch-cast", causing you to expend the magic to no effect.  Any spell may be touch cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
+If you are touching the target directly, they have the ability to "refuse your touch-cast", causing you to expend the magic to no effect.  Any spell may be touch-cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
 
 
 ### Turtling
