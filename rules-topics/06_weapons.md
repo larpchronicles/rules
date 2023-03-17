@@ -1,5 +1,6 @@
 # Weapon Rules
 
+
 ## Weapon Requirements
 
 ---
