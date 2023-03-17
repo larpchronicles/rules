@@ -20,6 +20,19 @@
 ---
 The Agility Point cost of each ability is equal to its level.  Characters may "memorize" their Agility Abilities at Rest for a 10% bonus to their Agility Pool (same as spells, and stamina).
 
+| Level | Abilities |
+|---|---|
+| 1 | Backstab |
+| 2 | Entangling Shot<br>Poison Shot |
+| 3 | Shake It Off |
+| 4 | Kneeling Shot<br>Resourceful |
+| 5 | Breaching Shot<br>Warbow Training |
+| 6 | Waylay |
+| 7 | Ballista<br>Cursing Shot |
+| 8 | Surprising Proficiency |
+| 9 | Dodge |
+| 10 | Murder |
+
 ### Level 1 Agility Abilities
 #### **Backstab**
 | Ability | **Backstab** |
@@ -40,15 +53,6 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Call**| “Physical Entangle Foot” |
 | **Description** |This skill allows the user to throw a single Physical Entangle Foot.|
 | **Requirements**| Ranged Weapon|
-
-#### **Mimicry**
-| Ability | **Mimicry** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 2+ |
-| **Duration** | Instant |
-| **Call**| “My turn! \<ability verbal\>” |
-| **Description** |This skill allows the user to use any single Spell or Stamina ability at the cost of 2x the Mana or Stamina cost of the ability.  (Minimum 2 Agility for Level 1 Spells or Stamina abilities.)  May be used once per purchase of Mimicry Skill. |
 
 #### **Poison Shot**
 | Ability | **Poison Shot** |
