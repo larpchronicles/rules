@@ -1,4 +1,4 @@
-# Martial Skills
+# Stamina Skills
 
 ## Weapon Skills
 
@@ -36,58 +36,6 @@
 >This skill allows the character to wield two One-Handed Weapons, one in each hand, while in combat. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the One-Handed Weapon skill.
 
 
-## Non-Weapon Skills
-
-### Additional Defense Slot
->This skill grants an additional Defense Slot which may be used to activate additional defenses.  A character may only have as many Active Defenses as they have Defensive Slots.  Any skill, ability, or effect that grants a Resist, Reflect, or Dodge requires a Defensive Slot to be prepared.  This includes Transforms.  All characters automatically have 1 Defense Slot for free and additional slots may be purchased with Skill Points.
-
-|Defense Slots| Skill Point Cost|	F	|T	|R	|S|
-|---|---|---|---|---|---|
-|Additional Defense Slot|	10+30	|10+30	|10+30	|10+30|
-
-|Total Defense Slots|Cumulative Skill Point Cost|
-|---|---|
-|1|	0|
-|2|	10|
-|3|	50|
-|4|	120|
-|5|	350|
-|6|	510|
-
-### Agility Points
-> Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points.
-
-|Agility Pool|F|T|R|S|
-|---|---|---|---|---|
-|Cost Per 10 Agility|10+10|20+10|5+5|20+10|
-
-### Armor Training
-> This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. Armor above certain thresholds must be properly phys-repped. This skill is not blocked by resting.  Armor stacks with the 5 points of Armor every character gets by default.
-
-### Dexterity Armor
-> This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. Dexterity armor does not need to be represented by a physical representation.  Dexterity armor does not stack with any other source of armor except the 5 points of Armor every character gets by default.  This skill is not blocked by resting.  Dexterity armor take 1 minute of stretching (Concentration) to refit in which the player must roleplay stretching, yoga, etc.
-
-|Dexterity Armor Skill Point Costs|F|T|R|S|
-|---|---|---|---|---|
-|+5 Dexterity Armor|5+10|5+10|5+10|5+10|
-
-### Mimicry
-> This skill allows the user to use any single Spell or Stamina ability once per purchase of Mimicry.  The user must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate. Use requires the verbal:  My turn!  <ability verbal/incant>
-
-|Mimicry Point Costs|F|T|R|S|
-|---|---|---|---|---|
-|Mimicry|5+10|20+10|3+5|20+10|
-
-### Stamina Points
-> Stamina Points are purchased with Skill Points and may then be used to toward uses of Stamina Pool Abilities.  Each purchase of Stamina Points grants 10 Stamina Points. 
-
-|Stamina Pool|F|T|R|S|
-|---|---|---|---|---|
-|Cost Per 10 Stamina|5+3|5+5|5+5|20+10|
-
-### Toughness
-> This skill adds 5 points of maximum health to the character for each time that this skill is purchased. Toughness stacks with the 10 points of Health every character gets by default.  This skill is not blocked by resting.
-
 
 ## Physical Strikes
 
@@ -95,180 +43,28 @@
 Physical strikes are weapon delivered combat effects used by characters. A physical strike is delivered once using a weapon attack, and must strike the target character successfully without being blocked in order to be a successful attack. Physical strikes are considered used whether the attack was successful or not. Physical strikes that are blocked by shields or weapons, have been blocked and are considered unsuccessful attacks. Unsuccessful physical strikes and physical strikes that have been resisted can be regained by the character resting. Physical strike effects are not magical in nature; therefore, they cannot be removed by the Dispel Magic spell or any removal skill that is limited to effects of magical origin only.
 
 
-## Agility Point Skills
-
----
-The Agility Point cost of each ability is equal to its level.  Characters may "memorize" their Agility Abilities at Rest for a 10% bonus to their Agility Pool (same as spells, and stamina).
-
-### Level 1 Agility Abilities
-#### **Backstab**
-| Ability | **Backstab** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 1 |
-| **Duration** | Instant |
-| **Call**| “(Pending)” |
-| **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses).  May be combined with Critical Strike. Effect ends at rest or when invoking Backstab against a different target.|
-
-### Level 2 Agility Abilities
-#### **Entangling Shot**
-| Ability | **Entangling Shot** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 2 |
-| **Duration** | 20 Seconds |
-| **Call**| “Physical Entangle Foot” |
-| **Description** |This skill allows the user to throw a single Physical Entangle Foot.|
-| **Requirements**| Ranged Weapon|
-
-#### **Mimicry**
-| Ability | **Mimicry** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 2+ |
-| **Duration** | Instant |
-| **Call**| “My turn! \<ability verbal\>” |
-| **Description** |This skill allows the user to use any single Spell or Stamina ability at the cost of 2x the Mana or Stamina cost of the ability.  (Minimum 2 Agility for Level 1 Spells or Stamina abilities.)  May be used once per purchase of Mimicry Skill. |
-
-#### **Poison Shot**
-| Ability | **Poison Shot** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 2 |
-| **Duration** | Rest |
-| **Call**| “(Pending)” |
-| **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. Ends at Rest or upon invoking Poisoned Quiver against a new target. |
-| **Requirements**| Ranged Weapon|
-
-### Level 3 Agility Abilities
-#### **Shake It Off**
-| Ability | **Shake It Off** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 3 |
-| **Duration** | 3 Seconds |
-| **Call**| “I steel my mind against stuns.  1 I shake it off...2 I shake it off... 3 I shake it off” |
-| **Description** |This skill allows the user a reduce a 20 second STUN to a 3 second count and end the Stun effect.  During the 3 count, the user is still considered stunned until the completion of the count and may not make any other calls.  This is a MINIMIZE effect.|
-
-### Level 4 Agility Abilities
-
-#### **Kneeling Shot**
-| Ability | **Kneeling Shot** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 4 |
-| **Duration** | 20 Seconds |
-| **Call**| “Physical Kneel” |
-| **Description** |Allows the user to throw a single Physical Kneel.|
-| **Requirements**| Ranged Weapon|
-
-#### **Resourceful**
-| Ability | **Resourceful** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 4 |
-| **Duration** | Instant |
-| **Call**| “I've got it here somewhere!” |
-| **Description** |This skill allows the user to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the level of the consumable. User announces, "I've got it here somewhere!" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed.|
-
-### Level 5 Agility Abilities
-
-#### **Breaching Shot**
-| Ability | **Breaching Shot** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 5 |
-| **Duration** | Instant |
-| **Call**| “Toxin Breach Armor” |
-| **Description** |Allows the user to throw a single Toxin Breach Armor, which immediately reduces the target's armor value to 0.|
-| **Requirements**| Ranged Weapon|
-
-#### **Warbow Training**
-| Ability | **Warbow Training** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 5 |
-| **Duration** | Rest |
-| **Call**| “Physical Kneel” |
-| **Description** |This skill allows the user to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  User must spend 1 minute roleplaying inspecting their bow and recalling their training.|
-| **Requirements**| Ranged Weapon|
-
-### Level 6 Agility Abilities
-
-#### **Waylay**
-| Ability | **Waylay** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 6 |
-| **Duration** | 20 Seconds |
-| **Call**| “Physical Waylay” |
-| **Description** | This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character’s weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying “Refresh Waylay”. This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect. |
-
-### Level 7 Agility Abilities
-
-#### **Ballista**
-| Ability | **Ballista** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 7 |
-| **Duration** | Rest |
-| **Call**| “(Pending)” |
-| **Description** |This skill allows the user to throw Vital against a single target.  Damage may not be increased by any other skill or effect except Proficiency, Critical Strike, and Backstab.|
-| **Requirements**| Ranged Weapon|
-
-#### **Cursing Shot**
-| Ability | **Cursing Shot** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 7 |
-| **Duration** | Instant |
-| **Call**| “Physical Curse” |
-| **Description** |This skill allows the user to throw a single Physical Curse.|
-| **Requirements**| Ranged Weapon|
-
-### Level 8 Agility Abilities
-
-#### **Surprising Proficiency**
-| Ability | **Surprising Proficiency** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 8 |
-| **Duration** | Instant |
-| **Call**| “I am not left-handed.” |
-| **Description** | This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target and for Rogues, without needing to be behind the target.  May not be used with Backstab, Waylay, or Murder.|
-| **Requirements**|Ranged Weapon, Stamina Points (Ranged Proficiency), One-Handed Weapon.|
-
-### Level 9 Agility Abilities
-
-#### **Dodge**
-| Ability | **Dodge** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 9 |
-| **Duration** | Instant |
-| **Call**| “I'm untouchable!  Dodge” |
-| **Description** |This skill allows the character to Dodge a Physical, Spell, or Toxin attack.  Use of the skill requires 2 Defensive Slots to be Active.  Regardless of the number of Defensive Slots a character has, they may not have more than one active Dodge.  The character may choose which type of resist to use at the time of use.  This is a DODGE effect.|
-
-### Level 10 Agility Abilities
-
-#### **Murder**
-| Ability | **Murder** |
-|:---|---|
-| **Type**| Agility|
-| **Level**| 10 |
-| **Duration** | Instant|
-| **Call**| “(Pending) Physical Murder” |
-| **Description** | This is a strike that immediately reduces the target to -1 body.  It may only be performed with a melee weapon from behind the target.  It requires preparation of a verbal and a 3 second count.  May only have 1 prepared at a time.  Preparation resets at Rest.|
-
 
 ## Stamina Point Skills
 
 The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stamina Point, Curse costs 6 Stamina Points)
 
+| Level | Abilities |
+|---|---|
+| 1 | Blind<br>Critical Strike<br>Disarm<br>Slow |
+| 2 | Stop Thrust |
+| 3 | Rapid Refit |
+| 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry<br>Stun |
+| 5 | Silence<br>Vital Blow |
+| 6 | Fear<br>Intercept | 
+| 7 | Curse<br>Destroy |
+| 8 | Endurance |
+| 9 | Regenerate |
+| 10 | Slay<br>Weapon Proficiency |
+
 ### Level 1 Stamina Abilities
 
 #### **Critical Strike**
-| Ability | **Disarm**| 
+| Ability | **Critical Strike**| 
 |:---|:---|
 | **Type**| Stamina|
 | **Level**| 1 |
