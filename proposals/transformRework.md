@@ -41,6 +41,36 @@ Instead of unlocking transform abilities one ritual at a time, have a single "un
         - Mythical - 6 Spirit Gems
         - _Some abilities may have specific required components in addition to their Spirit Gem cost_
 
+### Unlocking Transform Abilities
+Before a character may purchase a monstrous ability on their transform, that ability must be "unlocked". Some abilities are unlocked by default (per transform). 
+
+Unlocking an ability requires consuming a number of Spirit Gems dependent on the level of the ability:
+Basic - 1 Spirit Gem
+Advanced - 2 Spirit Gems
+Expert - 3 Spirit Gems
+Master - 4 Spirit Gems
+Grandmaster - 5 Spirit Gems
+
+Mythical Abilities, and any ability that specifies a specific component required to unlock, will require casting the Unlock Transform Abilities ritual.
+
+Unlock Transform Abilities is part of the standard ritual library and thus always available to any character that has at least 1 rank of Ritual Magic.
+
+Alternatively, a character may still perform the Unlock Transform Abilities ritual. Doing so reduces the Spirit Gem cost of each ability unlocked by 1 (0 for Basic, 5 for Grandmaster).
+
+
+"Unlock Transform Abilities" Ritual Scroll
+Each participant in the ritual may benefit from its effect
+Participants must meaningfully contribute to the roleplay of the ritual, only the caster(s) require ranks of Ritual Magic
+Ritual is 1st level, and requires 1 Spirit Gem to cast plus 1 Spirit Gem for each character to be affected by the ritual
+Unlocks an arbitrary number of transform abilities for each participant
+Each ability unlocked requires a number of spirit gems based on the tier of the ability, to be paid by the affected character:
+Basic - 0 Spirit Gems
+Advanced - 1 Spirit Gems
+Expert - 2 Spirit Gems
+Master - 3 Spirit Gems
+Grandmaster - 4 Spirit Gems
+Mythical - 5 Spirit Gems
+
 ### Reasoning ###
 - This would substantially reduce the number of rituals each character has to perform, and allowing multiple people to benefit from a single casting of the ritual reduces the burden on ritual marshals.
 - It reduces the total number of spirit gems required to unlock all transform abilities (on average) to about 46.
