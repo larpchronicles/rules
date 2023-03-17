@@ -4,111 +4,89 @@
 
 ---
 | Skill Point Cost  |  F  |  T  |  R  |  S  | Prereqs|
-|:---------------------|:---:|:---:|:---:|:---:|-----------------------------|
-| Unarmed Combat |  3  |  6  |  3  |  6  ||  |
-| Short Weapon|  3  |  3  |  3  |  8  ||  |
-| Long Weapon |  3  |  3  |  6  |  8  ||  |
-| Two-Hand Weapon|  3  |  3  | 10  | 10  ||  |
-| Ranged Weapon  |  3  | 10  |  6  | 10  ||  |
-| Shield|  3  |  3  | 10  | 10  ||  |
-| Dual Short Weapon |  3  |  6  |  3  | 10  | Short Weapon |
-| Dual Long Weapon  |  5  | 10  |  5  | 10  | Long Weapon  |
-| Two-Hand Block |  6  |  6  | 10  | 10  | Two-Hand Weapon |
-| Short Weapon and Bow |  6  | 10  |  6  | 10  | Short Weapon, Ranged Weapon |
-| Parrying Dagger |  2  | 2  |  2  | 2  | |
+|:---|:---:|:---:|:---:|:---:|---|
+| One-Handed Weapon |  3  |  3  |  5  |  8  |-|
+| Two-Hand Weapon|  3  |  3  | 5  | 8 |-|
+| Ranged Weapon  |  3  | 5  |  3  | 8  |-|
+| Shield|  3  |  3  | 5  | 8  |-|
+| Dual Wield |  3  |  3  |  5  | 8  | One-Handed Weapon |
+| Parrying Dagger |  2  | 2  |  2  | 2  |-|
 
-#### Unarmed Combat
+### One-Handed Weapon 
 
->This skill allows the character to use two Short Weapon length boffer weapons to represent claws or fists in order to fight in melee combat. The character may block with their Unarmed Combat weapons without taking damage normally.
+>This skill allows the character to use one hand weapon between 24” long and less than 48” long in melee combat.  One-Handed weapons include short swords, short axes, short hammer, short club, long swords, rapier, battleaxe, warhammer, warmace, spear, and club.  This skill allows the use of the weapon in either hand, but not the ability to wield a One-Handed Weapon in both hands at once.
 
-#### Short Weapon
-
->The character may use a short one hand weapon between 24” long and less than 36” long in melee combat. Short one hand weapons include short sword, short axe, short hammer, and short club. This skill allows the use of the weapon in either hand, but not the ability to wield a short weapon in both hands at once.
-
-#### Long Weapon 
-
->The character may use a long one hand weapon between 36” long and less than 48” long in melee combat. Long one hand weapons include long sword, rapier, battleaxe, warhammer, warmace, spear, and club. This skill allows the use of the weapon in either hand, but not the ability to wield a long weapon in both hands at once.
-
-#### Two-Handed Weapon
+### Two-Handed Weapon
 
 >The character may use a two-handed weapon between 48” long and 72” long in melee combat. Two-Handed weapons include two-handed swords, polearms, staves, and two-handed clubs. Two-handed weapons require both hands to be on the weapon in order to attack or block in melee combat. If the character blocks an attack with only one hand, the character will take the damage as if they had not blocked the attack at all.
 
-#### Ranged Weapon
+### Ranged Weapon
 
->This skill allows the character to use a ranged weapon in combat. Ranged weapons include bow, crossbow, and throwing weapons. Ranged weapons cannot be used to block attacks. If the character blocks an attack with a ranged weapon, the character will take the damage as if they had not blocked the attack at all.
+>This skill allows the character to use a ranged weapon in combat. Ranged weapons include bow, crossbow, and throwing weapons. Bows and crossbows may be used to block attacks, but must be restrung prior to continued use.
 
-#### Shield
+### Shield
 
 >This skill allows the character to wield a shield used to block attacks. A shield may never be used for striking in combat. As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.  The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36”.  Shields may not be used with two-handed weapons, bows, or crossbows. A character may not dual wield shields.
 
-#### Parrying Dagger
->This skill allows the user to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12”-18” in length, the handle is a maximum of 6”, and the tips of the weapon must be red for easy identification
+### Parrying Dagger
+>This skill allows the user to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12”-18” in length, the handle is a maximum of 6”, and the tips of the weapon must be red for easy identification.
 
-#### Dual Short Weapon
+### Dual Wield
 
->This skill allows the character to wield two short weapons, one in each hand, while in combat. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the Short Weapon skill.
-
-#### Dual Long Weapon
-
->This skill allows the character to wield two long weapons, one in each hand, while in combat. Furthermore, a character with this skill may wield a long weapon in one hand and a short in the other, so long as they possess proficiency for both Long and Short weapons. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the Long Weapon skill.
-
-#### Two-Handed Block
-
->This skill allows the character to block with one hand using a two-handed weapon without penalty.<br/>Requires the Two-Hand Weapon skill.
-
-#### One Hand Short and Bow
-
->This skill allows the character to wield a short weapon in one hand, and a bow in the other using the bow only for blocking. Any blocked attack using the bow will require the character to complete a 3 second count to re-string the bow in order to use the weapon at range once again.<br/>Requires the Ranged and Short Weapon skills.
+>This skill allows the character to wield two One-Handed Weapons, one in each hand, while in combat. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the One-Handed Weapon skill.
 
 
-## Weapon Proficiencies
+## Non-Weapon Skills
 
----
-|<b>Skill Point Cost</b>|F|T|R|S|Prereq|
-|:---|:---:|:---:|:---:|:---:|:---:|
-|Unarmed Combat Proficiency|15+3|18+4|18+4|20+10|Unarmed|
-|Short Weapon Proficiency|15+3|18+6|18+4|20+10|Short Weapon|
-|Long Weapon Proficiency|15+3|18+4|18+6|20+10|Long Weapon|
-|Two-Handed Weapon Proficiency|15+3|18+4|18+6|20+10|Two-Handed Weapon|
-|Ranged Weapon Proficiency|15+3|18+6|18+4|20+10|Ranged Weapon|
-|Devious Weapon Proficiency|20+10|20+10|15+3|20+10|Short Weapon|
+### Additional Defense Slot
+>This skill grants an additional Defense Slot which may be used to activate additional defenses.  A character may only have as many Active Defenses as they have Defensive Slots.  Any skill, ability, or effect that grants a Resist, Reflect, or Dodge requires a Defensive Slot to be prepared.  This includes Transforms.  All characters automatically have 1 Defense Slot for free and additional slots may be purchased with Skill Points.
 
+|Defense Slots| Skill Point Cost|	F	|T	|R	|S|
+|---|---|---|---|---|---|
+|Additional Defense Slot|	10+30	|10+30	|10+30	|10+30|
 
-Above: In the example of 15+3, the first number is the Skill Point base cost of buying the skill. The second number of +3 is the cumulative Skill Point cost that is added to itself each time that you purchase the skill after the first purchase. 
+|Total Defense Slots|Cumulative Skill Point Cost|
+|---|---|
+|1|	0|
+|2|	10|
+|3|	50|
+|4|	120|
+|5|	350|
+|6|	510|
 
-The first purchase is 15 Skill Points (15+0).
+### Agility Points
+> Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points.
 
-The second purchase is 18 Skill Points (15+3).
+|Agility Pool|F|T|R|S|
+|---|---|---|---|---|
+|Cost Per 10 Agility|10+10|20+10|5+5|20+10|
 
-The third purchase is 21 Skill Points (15+6).
+### Armor Training
+> This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. Armor above certain thresholds must be properly phys-repped. This skill is not blocked by resting.  Armor stacks with the 5 points of Armor every character gets by default.
 
-The fourth purchase is 24 Skill Points (15+9).
+### Dexterity Armor
+> This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. Dexterity armor does not need to be represented by a physical representation.  Dexterity armor does not stack with any other source of armor except the 5 points of Armor every character gets by default.  This skill is not blocked by resting.  Dexterity armor take 1 minute of stretching (Concentration) to refit in which the player must roleplay stretching, yoga, etc.
 
-The fifth purchase is 27 Skill Points (15+12).
+|Dexterity Armor Skill Point Costs|F|T|R|S|
+|---|---|---|---|---|
+|+5 Dexterity Armor|5+10|5+10|5+10|5+10|
 
-#### Unarmed Combat Proficiency
+### Mimicry
+> This skill allows the user to use any single Spell or Stamina ability once per purchase of Mimicry.  The user must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate. Use requires the verbal:  My turn!  <ability verbal/incant>
 
->This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. <br/> Requires the Unarmed Combat skill.
+|Mimicry Point Costs|F|T|R|S|
+|---|---|---|---|---|
+|Mimicry|5+10|20+10|3+5|20+10|
 
-#### Short Weapon Proficiency
+### Stamina Points
+> Stamina Points are purchased with Skill Points and may then be used to toward uses of Stamina Pool Abilities.  Each purchase of Stamina Points grants 10 Stamina Points. 
 
->This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. <br/>Requires the Short Weapon skill.
+|Stamina Pool|F|T|R|S|
+|---|---|---|---|---|
+|Cost Per 10 Stamina|5+3|5+5|5+5|20+10|
 
-#### Long Weapon Proficiency
-
->This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill.<br/>Requires the Long Weapon skill.
-
-#### Two-Handed Weapon Proficiency
-
->This skill adds +1 base weapon damage to the character’s chosen primary weapon hand, which is chosen at the time of purchasing this skill.<br/>Requires the Two-Handed Weapon skill.
-
-#### Ranged Weapon Proficiency
-
->This skill adds +1 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. This skill should be purchased for the throwing arm of the character.<br/>Requires the Ranged Weapon skill.
-
-#### Devious Weapon Proficiency
-
->This skill adds +2 base weapon damage to the character’s chosen weapon hand, which is chosen at the time of purchasing this skill. This damage bonus is only applied to attacks that originate from behind and strike the back of the target. This skill can only be applied to Short Weapons.<br/>Requires the Short Weapon skill.
+### Toughness
+> This skill adds 5 points of maximum health to the character for each time that this skill is purchased. Toughness stacks with the 10 points of Health every character gets by default.  This skill is not blocked by resting.
 
 
 ## Physical Strikes
@@ -116,340 +94,407 @@ The fifth purchase is 27 Skill Points (15+12).
 ---
 Physical strikes are weapon delivered combat effects used by characters. A physical strike is delivered once using a weapon attack, and must strike the target character successfully without being blocked in order to be a successful attack. Physical strikes are considered used whether the attack was successful or not. Physical strikes that are blocked by shields or weapons, have been blocked and are considered unsuccessful attacks. Unsuccessful physical strikes and physical strikes that have been resisted can be regained by the character resting. Physical strike effects are not magical in nature; therefore, they cannot be removed by the Dispel Magic spell or any removal skill that is limited to effects of magical origin only.
 
-## Critical Strikes
+
+## Agility Point Skills
 
 ---
-|Skill|F|T|R|S|Prereqs|
-|:---|:---:|:---:|:---:|:---:|:---|
-|Critical Strike I|3+3|3+3|3+3|10+10|Unarmed Combat, Short Weapon, Long Weapon, Two-Handed Weapon, or Ranged Weapon|
-|Critical Strike III|3+3|3+3|3+3|10+10|Critical Strike I|
-|Critical Strike V|3+3|3+4|3+4|10+10|Critical Strike III|
-|Critical Strike VII|3+3|3+4|3+4|10+10|Critical Strike V|
-|Critical Strike IX|3+3|3+5|3+5|10+10|Critical Strike VII|
+The Agility Point cost of each ability is equal to its level.  Characters may "memorize" their Agility Abilities at Rest for a 10% bonus to their Agility Pool (same as spells, and stamina).
+
+### Level 1 Agility Abilities
+#### **Backstab**
+| Ability | **Backstab** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 1 |
+| **Duration** | Instant |
+| **Call**| “(Pending)” |
+| **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses).  May be combined with Critical Strike. Effect ends at rest or when invoking Backstab against a different target.|
+
+### Level 2 Agility Abilities
+#### **Entangling Shot**
+| Ability | **Entangling Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 2 |
+| **Duration** | 20 Seconds |
+| **Call**| “Physical Entangle Foot” |
+| **Description** |This skill allows the user to throw a single Physical Entangle Foot.|
+| **Requirements**| Ranged Weapon|
+
+#### **Mimicry**
+| Ability | **Mimicry** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 2+ |
+| **Duration** | Instant |
+| **Call**| “My turn! \<ability verbal\>” |
+| **Description** |This skill allows the user to use any single Spell or Stamina ability at the cost of 2x the Mana or Stamina cost of the ability.  (Minimum 2 Agility for Level 1 Spells or Stamina abilities.)  May be used once per purchase of Mimicry Skill. |
+
+#### **Poison Shot**
+| Ability | **Poison Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 2 |
+| **Duration** | Rest |
+| **Call**| “(Pending)” |
+| **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. Ends at Rest or upon invoking Poisoned Quiver against a new target. |
+| **Requirements**| Ranged Weapon|
+
+### Level 3 Agility Abilities
+#### **Shake It Off**
+| Ability | **Shake It Off** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 3 |
+| **Duration** | 3 Seconds |
+| **Call**| “I steel my mind against stuns.  1 I shake it off...2 I shake it off... 3 I shake it off” |
+| **Description** |This skill allows the user a reduce a 20 second STUN to a 3 second count and end the Stun effect.  During the 3 count, the user is still considered stunned until the completion of the count and may not make any other calls.  This is a MINIMIZE effect.|
+
+### Level 4 Agility Abilities
+
+#### **Kneeling Shot**
+| Ability | **Kneeling Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 4 |
+| **Duration** | 20 Seconds |
+| **Call**| “Physical Kneel” |
+| **Description** |Allows the user to throw a single Physical Kneel.|
+| **Requirements**| Ranged Weapon|
+
+#### **Resourceful**
+| Ability | **Resourceful** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 4 |
+| **Duration** | Instant |
+| **Call**| “I've got it here somewhere!” |
+| **Description** |This skill allows the user to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the level of the consumable. User announces, "I've got it here somewhere!" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed.|
+
+### Level 5 Agility Abilities
+
+#### **Breaching Shot**
+| Ability | **Breaching Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 5 |
+| **Duration** | Instant |
+| **Call**| “Toxin Breach Armor” |
+| **Description** |Allows the user to throw a single Toxin Breach Armor, which immediately reduces the target's armor value to 0.|
+| **Requirements**| Ranged Weapon|
+
+#### **Warbow Training**
+| Ability | **Warbow Training** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 5 |
+| **Duration** | Rest |
+| **Call**| “Physical Kneel” |
+| **Description** |This skill allows the user to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  User must spend 1 minute roleplaying inspecting their bow and recalling their training.|
+| **Requirements**| Ranged Weapon|
+
+### Level 6 Agility Abilities
+
+#### **Waylay**
+| Ability | **Waylay** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 6 |
+| **Duration** | 20 Seconds |
+| **Call**| “Physical Waylay” |
+| **Description** | This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character’s weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying “Refresh Waylay”. This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect. |
+
+### Level 7 Agility Abilities
+
+#### **Ballista**
+| Ability | **Ballista** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 7 |
+| **Duration** | Rest |
+| **Call**| “(Pending)” |
+| **Description** |This skill allows the user to throw Vital against a single target.  Damage may not be increased by any other skill or effect except Proficiency, Critical Strike, and Backstab.|
+| **Requirements**| Ranged Weapon|
+
+#### **Cursing Shot**
+| Ability | **Cursing Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 7 |
+| **Duration** | Instant |
+| **Call**| “Physical Curse” |
+| **Description** |This skill allows the user to throw a single Physical Curse.|
+| **Requirements**| Ranged Weapon|
+
+### Level 8 Agility Abilities
+
+#### **Surprising Proficiency**
+| Ability | **Surprising Proficiency** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 8 |
+| **Duration** | Instant |
+| **Call**| “I am not left-handed.” |
+| **Description** | This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target and for Rogues, without needing to be behind the target.  May not be used with Backstab, Waylay, or Murder.|
+| **Requirements**|Ranged Weapon, Stamina Points (Ranged Proficiency), One-Handed Weapon.|
+
+### Level 9 Agility Abilities
+
+#### **Dodge**
+| Ability | **Dodge** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 9 |
+| **Duration** | Instant |
+| **Call**| “I'm untouchable!  Dodge” |
+| **Description** |This skill allows the character to Dodge a Physical, Spell, or Toxin attack.  Use of the skill requires 2 Defensive Slots to be Active.  Regardless of the number of Defensive Slots a character has, they may not have more than one active Dodge.  The character may choose which type of resist to use at the time of use.  This is a DODGE effect.|
+
+### Level 10 Agility Abilities
+
+#### **Murder**
+| Ability | **Murder** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 10 |
+| **Duration** | Instant|
+| **Call**| “(Pending) Physical Murder” |
+| **Description** | This is a strike that immediately reduces the target to -1 body.  It may only be performed with a melee weapon from behind the target.  It requires preparation of a verbal and a 3 second count.  May only have 1 prepared at a time.  Preparation resets at Rest.|
 
 
-####  Critical Strike I
+## Stamina Point Skills
 
->This skill allows the character to perform a single attack adding +5 base weapon damage. This skill is expended once used.<br/>Requires any Weapon skill.
+The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stamina Point, Curse costs 6 Stamina Points)
 
-#### Critical Strike III
+### Level 1 Stamina Abilities
 
->This skill allows the character to perform a single attack adding +15 base weapon damage. This skill is expended once used.<br/>Requires the Critical Strike I skill.
+#### **Critical Strike**
+| Ability | **Disarm**| 
+|:---|:---|
+| **Type**| Stamina|
+| **Level**| 1 |
+| **Duration** | Instant|
+| **Call**| - |
+| **Description** | Critical Strikes are purchased with Stamina Points and allow the user to add +1 damage against a single target.  This damage may be stacked up to +5 damage.  The effect ends at rest or when invoking Critical Strike against a different target.|
 
-#### Critical Strike V
+#### **Disarm**
+| Ability | **Disarm**| 
+|:---|:---|
+| **Type**| Stamina|
+| **Level**| 1 |
+| **Duration** | 5 Seconds|
+| **Call**| “Physical Disarm [Weapon]”|
+| **Description** | This skill causes the target to drop any one weapon in their hand for 5 seconds. The weapon is not to be thrown or tossed aside. The choice of which weapon that is to be dropped is left up to the target should the target be wielding two weapons. This skill is not effective against Shields or Claws.  This is a DISARM effect.|
 
->This skill allows the character to perform a single attack adding +25 base weapon damage. This skill is expended once used.<br/>Requires the Critical Strike III skill.
+#### **Blind**
+| Ability | **Blind**| 
+|:---|:---|
+| **Type**| Stamina|
+| **Level**| 1 |
+| **Duration** | 20 Seconds|
+| **Call**| “Physical Blind”|
+| **Description** | This skill is a strike that renders the target blind and unable to attack targets not in melee range of the blind character for 20 seconds. This effect may be affected by the Transfer Malady, Cure Body, or Cure Blindness spells. The effect of this skill may not be stacked or extended. This is a BLIND effect.|
 
-#### Critical Strike VII
+#### **Slow**
+| Ability | **Slow**| 
+|:---|:---|
+| **Type**| Stamina|
+| **Level**| 1 |
+| **Duration** | 20 Seconds|
+| **Call**| “Physical Slow”|
+| **Description** | This is a strike that renders the target unable to move faster than a normal walking speed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells and can be removed by healing the affected character. The effect of this skill may not be stacked or extended.  This is a SLOW effect.|
 
->This skill allows the character to perform a single attack adding +35 base weapon damage. This skill is expended once used.<br/>Requires the Critical Strike V skill.
+### Level 2 Stamina Abilities
 
-#### Critical Strike IX
+#### **Stop Thrust**
+| Ability | **Stop Thrust**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 2 |
+| **Duration** | 20 Seconds|
+| **Call**| “Physical Stop Thrust” |
+| **Description** | This is a strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This is a STOP THRUST effect. |
 
->This skill allows the character to perform a single attack adding +45 base weapon damage. This skill is expended once used.<br/>Requires the Critical Strike VII skill.
+### Level 3 Stamina Abilities
 
+#### **Rapid Refit**
+| Ability | **Rapid Refit**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 3 |
+| **Duration** | 5 Seconds|
+| **Call**| “Refitting Armor 1...2...3...4...5” |
+| **Description** |This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character's armor pool is reset to its maximum.  Does not apply to Dexterity Armor.|
 
-## Devious Strikes
+### Level 4 Stamina Abilities
 
----
-|Skill|F|T|R|S|Prereqs|
-|:---|:---:|:---:|:---:|:---:|:---|
-|Devious Strike I|10+10|20+10|3+3|3+5|Short Weapon|
-|Devious Strike III|10+10|20+10|3+3|3+5|Devious Strike I|
-|Devious Strike V|10+10|20+10|3+3|3+5|Devious Strike III|
-|Devious Strike VII|10+10|20+10|3+3|3+5|Devious Strike V|
-|Devious Strike IX|10+10|20+10|3+3|3+5|Devious Strike VII|
+#### **Disable Limb**
+| Ability | **Disable Limb** | 
+|:---|:---|
+| **Type**| Stamina|
+| **Level**| 4 |
+| **Duration** | 20 Seconds|
+| **Call**| “Physical Disable [Limb]”|
+| **Description** | This skill causes the target to lose control of the named limb for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. Weapons and/or shields held in the hand of a disabled limb cannot be used to attack or block. |
 
+#### **Kneel**
+| Ability | **Kneel**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 4 |
+| **Duration** | 20 Seconds|
+| **Call**| “Physical Kneel”|
+| **Description** | This skill that forces the opponent to take a knee or crouch, and cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this skill may not be stacked or extended. This is a KNEEL effect. |
 
-#### Devious Strike I
+#### **Parry**
+| Ability | **Parry**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 4 |
+| **Duration** | 20 Seconds|
+| **Call**| “I focus my defenses against weapons.”|
+| **Description** |This skill allows the character to Resist Physical once.  This is a RESIST effect. |
 
->This skill allows the character to perform a single attack adding +5 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Short Weapon skill.
+#### **Spell Parry**
+| Ability | **Spell Parry**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 4 |
+| **Duration** | 20 Seconds|
+| **Call**| “I focus my defenses against magic.”|
+| **Description** |This skill allows the character to Resist Spell once. This is a RESIST effect. |
 
-#### Devious Strike  III
+#### **Stun**
+| Ability | **Nerve Strike**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 4 |
+| **Duration** | 20 Seconds|
+| **Call**| “Physical Stun” |
+| **Description** | This skill is a strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This is a STUN effect. |
 
->This skill allows the character to perform a single attack adding +15 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike I skill.
+### Level 5 Stamina Abilities
 
-#### Devious Strike V
+#### **Silence**
+| Ability | **Silence**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 5 |
+| **Duration** | 20 Seconds |
+| **Call**| “Physical Silence”|
+| **Description** | This is a strike that will silence an opponent for 20 seconds. A silenced opponent may not speak in game, but may still make game system calls that are not in game speech. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended.  This is a SILENCE effect. |
 
->This skill allows the character to perform a single attack adding +25 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike III skill.
+#### **Vital Blow**
+| Ability | **Vital Blow**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 5 |
+| **Duration** | Instant|
+| **Call**| “X [Type] Vital”|
+| **Description** | This is a strike that allows the user to swing their base weapon damage and proficiencies as Vital.  The damage may not be increased by any other skills, abilities, or effects.|
 
-#### Devious Strike VII
+### Level 6 Stamina Abilities
 
->This skill allows the character to perform a single attack adding +35 base weapon damage. This skill may only be used with a Short WEapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike V skill.
+#### **Fear**
+| Ability | **Fear**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 6 |
+| **Duration** | 20 Seconds|
+| **Call**| “Physical Fear”|
+| **Description** | This is a strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 20 seconds. The fear effect can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended.  This is a FEAR effect. |
 
-#### Devious Strike IX
+#### **Intercept**
+| Ability | **Intercept**|
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 6 |
+| **Duration** | Instant|
+| **Call**| “Intercept”|
+| **Description** |This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect.|
+|**Requirements**|Shield|
 
->This skill allows the character to perform a single attack adding +45 base weapon damage. This skill may only be used with a Short Weapon. This physical strike attack may only be performed while behind the target and may only strike the rear of the target. This skill is expended once used.<br/>Requires the Devious Strike VII skill.
+### Level 7 Stamina Abilities
 
-## Weapon Strikes
-
----
-| <b>Skill</b> | <b>F</b> | <b>T</b> | <b>R</b> | <b>S</b> | <b>Prereqs</b>  |
-|:---|:---:|:---:|:---:|:---:|:---|
-| Destroy |3+3 |3+5 |  10+10|  20+10| Two-Handed or Ranged Weapon, and Critical Strike III|
-| Disable Limb |3+3 |3+5 |3+5 |  10+10| Unarmed, Long, Two-Handed or Ranged Weapon, and Critical Strike V  |
-| Disarm |3+3 |3+5 |3+5 |  10+10| Unarmed Combat, and Critical Strike I|
-| Eye Gouge |3+3 |3+5 |3+5 |  10+10| Unarmed Combat or Ranged Weapon, and Critical Strike I |
-| Hamstring |3+3 |3+5 |3+3 |  20+10| Short Weapon, or Ranged Weapon |
-| Intimidation |3+3 |3+5 |  10+10|  20+10| Two-Handed Weapon  |
-| Marked for Death|  20+10|  20+10|3+3 |3+5 | Short Weapon, and Murder |
-| Moment of Opportunity |  20+10|  20+10|3+3 |  20+10| Short Weapon, and Devious Strike V|
-| Murder |  20+10|  20+10|3+3 |  20+10| Short Weapon, and Devious Strike IX  |
-| Nerve Strike |3+3 |3+5 |3+5 |  10+10| Unarmed Combat, and Critical Strike III |
-| Open Artery  |  20+10|  20+10|3+3 |  20+10| Short Weapon, and Devious Strike III |
-| Pinning Projectile |3+3 |3+5 |3+3 |  20+10| Ranged Weapon|
-| Slay|3+3 |3+5 |3+5 |  20+10| Long, Unarmed, Two-Handed or Ranged Weapon, and Critical Strike IX |
-| Split Projectile|3+3 |3+5 |3+3 |  20+10| Ranged Weapon|
-| Stop Thrust  |3+3 |3+3 |3+3 |3+3 | Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon |
-| Throat Punch |3+3 |3+5 |3+3 |  10+10| Unarmed Combat  |
-| Trip|3+3 |3+5 |3+5 |  10+10| Unarmed Combat  |
-| Vital Blow|3+3 |3+5 |3+5 |  10+10| Two-Handed or Ranged Weapon, and Slay|
-| Volley |3+3 |  10+10|3+5 |  20+10| Ranged Weapon, and Critical Strike V |
-| Waylay |  20+10|  20+10|3+3 |3+5 | Unarmed Combat, or Short Weapon|
+#### **Curse**
+| Ability | **Curse**|
+|:---|:---|
+| **Type**| Stamina|
+| **Level**| 7 |
+| **Duration** | 20 Seconds|
+| **Call**| “Physical Curse” |
+| **Description** | This strike renders the opponent especially vulnerable to all damage for 20 Seconds, taking double damage from all sources.  The effect of this skill may not be stacked or extended.  This is a CURSE effect.|
 
 
 #### **Destroy**
-| Strike | **Destroy**|
+| Ability | **Destroy**|
 |:---|:---|
+| **Type**| Stamina|
+| **Level**| 7 |
 | **Duration** | Instant|
 | **Call**| “Physical Destroy <target item>” |
-| **Description** | This is a Ranged Weapon or Two-Handed Weapon only strike that instantly destroys the target's armor, weapon, or shield.  This skill is expended on use.  This is a DESTROY effect. |
-| **Requirement** | Requires the Two-Handed or Ranged Weapon skill and the Critical Strike III skill.|
+| **Description** | This is strike that instantly destroys the target's armor, weapon, or shield.  This is a DESTROY effect. |
+| **Requirement** | - |
 
 
-#### **Disable Limb**
-| Strike | **Disable Limb** | 
+### Level 8 Stamina Abilities
+
+#### **Endurance**
+| Ability | **Endurance**|
 |:---|:---|
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Disable [Limb]”|
-| **Description** | This skill causes the target to lose control of the named limb for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. Weapons and/or shields held in the hand of a disabled limb cannot be used to attack or block. This skill is expended on use. |
-| **Requirement** | Requires the Critical Strike V Skill and one of the following weapon skills: Unarmed, Long, Two-Hand or Ranged.|
-
-#### **Disarm**
-| Strike | **Disarm**| 
-|:---|:---|
-| **Duration** | 5 Seconds|
-| **Call**| “Physical Drop [Weapon]”|
-| **Description** | This skill causes the target to drop any one weapon in their hand for 5 seconds. The weapon is not to be thrown or tossed aside. The choice of which weapon that is to be dropped is left up to the target should the target be wielding two weapons. This skill is not effective against Shields and Unarmed Combat hands and claws. This skill is expended on use.  This is a DISARM effect. |
-| **Requirement** | Requires the Unarmed Combat and Critical Strike I skills.|
-
-#### **Eye Gouge**
-| Strike | **Eye Gouge**|
-|:---|---|
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Blindness”|
-| **Description** | This skill is an Unarmed Combat or Ranged Weapon only strike that renders the target blind and unable to attack targets not in melee range of the blind character for 20 seconds. This effect may be affected by the Transfer Malady, Cure Body, or Cure Blindness spells. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a BLIND effect. |
-| **Requirement** | Requires the Unarmed Combat or Ranged Weapon skills, and the Critical Strike I skill.|
-
-
-#### **Hamstring**
-| Strike | **Hamstring**|
-|:---|---|
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Slow”|
-| **Description** | This is a Short Weapon, or Ranged Weapon only strike from behind that must be delivered from the rear of the target and strike the rear of the target. Hamstring renders the target unable to move faster than a normal walking speed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. Hamstring can also be removed by healing the affected character. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a SLOW effect. |
-| **Requirement** | Requires the Short or Ranged Weapon skill.|
-
-#### **Intimidation**
-| Strike | **Intimidation**|
-|:---|---|
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Fear”|
-| **Description** | This is a Two-Handed Weapon only strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 20 seconds. The fear effect of Intimidation can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a FEAR effect. |
-| **Requirement** | Requires the Two-Handed Weapon skill.|
-
-#### **Marked for Death**
-| Strike | **Marked for Death** |
-|:---|---|
-| **Duration** | 20 Seconds|
-| **Call**| “Your defense shall do you no good”|
-| **Description** | This is a Short Weapon only skill that allows the character to treat a designated target as if they were attacking them from behind, regardless of facing, for 20 seconds. During that time, Devious Weapon Proficiencies, Devious Strikes, Waylay and Murder all will work on the target regardless of position. This skill may not be used on the same target more than once every minute. This skill is expended on use. |
-| **Requirement** | Requires the Short Weapon and Murder skills. (PreReqs for Murder:  Devious Strike IX) |
-
-#### **Moment of Opportunity**
-| Strike | **Moment of Opportunity**|
-|:---|---|
-| **Duration** | 20 Seconds |
-| **Call**| “Physical Curse”|
-| **Description** | This is a Short Weapon only strike from behind that must be delivered from the rear of the target and strike the rear of the target. This strike renders the opponent especially vulnerable to all damage for 20 Seconds, taking double damage from all sources. Damage doubling effects cannot be stacked to create a situation where damage is increased x4, x8, x16, etc. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a CURSE effect. |
-| **Requirement** | Requires the Short Weapon and Devious Strike V skills.|
-
-#### **Murder**
-| Strike | **Murder** |
-|:---|---|
+| **Type**| Stamina|
+| **Level**| 8 |
 | **Duration** | Instant|
-| **Call**| “Physical Doom” |
-| **Description** | This is a Short Weapon only strike from behind that must be delivered from the rear of the target and strike the rear of the target. A target affected by Murder will have their body reduced to -1,  and armor pools to 0 points. This skill is expended on use. This is a DOOM effect. |
-| **Requirement** | Requires the Short Weapon and Devious Strike IX skills.  |
+| **Call**| “Endurance” |
+| **Description** | This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.|
 
-#### **Nerve Strike**
-| Strike | **Nerve Strike**|
-|:---|---|
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Stun” |
-| **Description** | This skill is an Unarmed Combat only strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a STUN effect. |
-| **Requirement** | Requires the Unarmed Combat and Critical Strike I skills.  |
+### Level 9 Stamina Abilities
 
-#### **Open Artery**
-| Strike | **Open Artery** |
-|:---|---|
-| **Duration** | 20 Seconds |
-| **Call**| “Physical Bleed” |
-| **Description** | This is a Short Weapon only strike from behind that must be delivered from the rear of the target and strike the rear of the target. Bleed Strike causes the opponent to be unable to be healed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a BLEED effect. |
-| **Requirement** | Requires the Short Weapon and Devious Strike III skills.|
+#### **Regenerate**
+| Ability | **Regenerate**|
+|:---|:---|
+| **Type**| Stamina|
+| **Level**| 9 |
+| **Duration** | 1 Minute|
+| **Call**| “Begin Regenerate...Regenerate Complete” |
+| **Description** | This skill allows the user to Concentrate for 1 Minute and restore to their maximum health points.  During Concentration, the user may not do anything else including communicate, use abilities, use or activate items, etc.|
 
-#### **Pinning Projectile**
-| Strike | **Pinning Projectile**|
-|:---|---|
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Entangle Foot”|
-| **Description** | This is a Ranged Weapon only strike that binds the target’s right foot to the ground for 20 seconds. This effect can be affected by the Freedom spell. This skill is expended on use.  This is an ENTANGLE effect.|
-| **Requirement** | Requires the Ranged Weapon skill.|
+### Level 10 Stamina Abilities
 
 #### **Slay**
-| Strike | **Slay** |
+| Ability | **Slay** |
 |:---|---|
+| **Type**| Stamina|
+| **Level**| 10 |
 | **Duration** | Instant |
-| **Call**| “Physical Doom”|
-| **Description** | This is a strike that will reduce the target’s body to -1,  and armor pools to 0 points. This skill is expended on use. This is a DOOM effect. |
-| **Requirement** | Requires the Critical Strike IX skill, along with at least one of the following weapon skills: Unarmed, Two-Handed, Long or Ranged.|
+| **Call**| “(Pending verbal)...100 Normal Slay”|
+| **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 Normal damage.|
 
-#### **Split Projectile**
-| Strike | **Split Projectile**|
-|:---|---|
-| **Duration** | Instant|
-| **Call**| “N/A”  |
-| **Description** | This is a Ranged Weapon only skill that allows the character to throw two projectiles at one time as a base damage attack. This skill can be used in conjunction with any other Critical Strike, Devious Strike, or Weapon Strike skill. Doing so requires two uses of the other skill, and will expend both of them. |
-| **Requirement** | Requires the Ranged Weapon skill.|
+#### **Weapon Proficiencies**
+| Ability | **Disarm**| 
+|:---|:---|
+| **Type**| Stamina|
+| **Level**| 10 |
+| **Duration** | 5 Seconds|
+|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests.|
 
-#### **Stop Thrust**
-| Strike | **Stop Thrust**|
-|:---|---|
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Stop Thrust” |
-| **Description** | This is a melee weapon only strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a STOP THRUST effect. |
-| **Requirement** | Requires Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon skill.|
+Fighters may use any melee proficiency for any melee weapon, for either hand.<br> 
+>Example: Atilla the Fighter spends 20 Stamina Points for two "One-handed Proficiencies". Atilla may use their +2 damage with any longsword, claw, two-handed sword, polearm, etc. (Everything but a bow or thrown.)
+ 
+Rogues may use any ranged proficiencies for bows, crossbows, or thrown weapons.  Rogues may also use ranged proficiencies with any one-handed melee weapon, but only from behind their target.  (ie:  Rogued Ranged Proficiencies are also a +1 melee Backstab.)
 
-#### **Throat Punch**
-| Strike | **Throat Punch**|
-|:---|---|
-| **Duration** | 20 Seconds |
-| **Call**| “Physical Silence”|
-| **Description** | This is an Unarmed Combat only strike that will silence an opponent for 20 seconds. A silenced opponent may not speak in game, but may still make game system calls that are not in game speech. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a SILENCE effect. |
-| **Requirement** | Requires the Unarmed Combat skill.|
+Two-Handed Weapons receive 1.5x (rounded down) benefit from Proficiencies.
 
-#### **Trip**
-| Strike | **Trip**|
-|:---|---|
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Kneel”|
-| **Description** | This skill is an Unarmed Combat only strike that forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this skill may not be stacked or extended. This skill is expended on use.  This is a KNEEL effect. |
-| **Requirement** | Requires the Unarmed Combat skill.|
+>Example:  Branuk spends 20 Stamina Points for 2x Two-handed Weapon Proficiencies. He can now swing his Two-handed Sword for +3 damage.|
 
-#### **Vital Blow**
-| Strike | **Vital Blow**|
-|:---|---|
-| **Duration** | Instant|
-| **Call**| “30 [Type] Vital”|
-| **Description** | This is a Two-Handed Weapon or Ranged Weapon only strike that does 30 points of Vital &lt;type> damage. Vital damage cannot be blocked by weapons or shields. Vital Blow's damage can be increased using Critical Strikes, but is not modified by Weapon Proficiencies or any other source. The target of a Vital Blow must still be able to be affected by the type of damage being done. This skill is expended on use. |
-| **Requirement** | Requires either the Two-Handed or Ranged Weapon skill, and the Slay skill. (PreReqs for Slay: Critical Strike IX)|
-
-#### **Volley**
-| Strike | **Volley**|
-|:---|---|
-| **Duration** | Instant|
-| **Call**| “N/A”|
-| **Description** | This is a Ranged Weapon only skill that allows the character to throw three consecutive projectiles that cannot be blocked by weapons or shields. This skill can be combined with a Critical Strike. The character takes their base damage, potentially combined with their crit strike, and can throw three instances of that total value divided in half, rounded down, as Vital. Only one Critical Strike is consumed for the full Volley. If any of the three shots are interrupted, or the user uses a different skill, Volley ends and any remaining shots are lost.  This skill is expended on use. <br/>Ex: Base Value of 5, Using Crit Strike VII, “20 Normal Vital, 20 Normal Vital, 20 Normal Vital” |
-| **Requirement** | Requires the Ranged Weapon and Critical Strike V skills.|
-
-#### **Waylay**
-| Strike | **Waylay** |
-|:---|---|
-| **Duration** | 20 Seconds |
-| **Call**| “Physical Waylay” |
-| **Description** | This skill is an Unarmed Combat and Short Weapon only strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character’s weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying “Refresh Waylay”. This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed. This skill is expended on use.  This is a SLEEP effect. |
-| **Requirement** | Requires the Unarmed Combat or Short Weapon skill.|
-
-## **Defenses**
-
----
-|Skill|F|T|R|S|Prereqs|
-|:---|:---:|:---:|:---:|:---:|:---|
-|Armor Training|3+1|3+3|3+5|3+5||
-|Block Projectile|3+3|3+5|3+5|3+5|Unarmed Combat or Shield|
-|Dodge|20+10|20+10|3+3|20+10|Short Weapon and Murder|
-|Endurance|3+3|3+5|10+10|20+10|Critical Strike V|
-|Fencing|3+3|3+5|3+3|3+3|Short Weapon or Long Weapon|
-|Intercept|3+3|3+3|10+10|10+10|Shield|
-|Parry|3+3|3+5|10+10|20+10|Critical Strike III and Unarmed Combat, Short Weapon, Long Weapon, or Two-Handed Weapon|
-|Parry Spell|3+5|3+3|10+10|3+5|Critical Strike IX|
-|Rapid Refit|3+3|3+5|10+10|20+10||
-|Riposte|3+3|3+5|3+5|20+10|Short Weapon, Long Weapon, or Two-Handed Weapon|
-|Second Wind|3+3|10+10|10+10|20+10||
-|Shield Block|3+3||3+5|10+10|10+10|Shield|
-|Stalwart Defense|3+3|3+5|10+10|20+10|Two-Handed Weapon|
-|Toughness|3+3||3+5|3+5|3+5||
-|Unbreakable|3+5|5+5|10+10|10+10|Shield and Critical Strike I|
-
-#### Armor Training
-
->This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. Armor above certain thresholds must be properly phys-repped. This skill is not blocked by resting.
-
-#### Block Projectile
-
->This skill requires either the Shield skill and a shield to be in the character’s hand or the Unarmed Combat skill. The Block Projectile skill allows the character to Resist Physical once for each time that this skill is purchased against physical projectiles such as arrows and thrown weapons used under the Ranged Weapons skill. This skill is expended on use.  This is a RESIST effect. <br/>Call: “Resist”<br/>Requires the Unarmed Combat or Shield skill.
-
-#### Dodge
-
->This skill allows the character to Resist Physical, Spell or Toxin once for each time that this skill is purchased. The character may choose which type of resist to use at the time of use. This skill is expended on use.  This is a DODGE effect.<br/>Call: “Dodge”<br/>Requires the Murder skill and the Short Weapon skill.
-
-#### Endurance
-
->This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This skill is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.<br/>Requires the Critical Strike V skill.
-
-#### Fencing
-
->This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a single Short Weapon or Long Weapon and has the skill to be able to use that weapon. Armor points gained from Fencing must be repaired before being available. Effects like Command Drop or Disarm do not remove the benefit of Fencing unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.<br/>Requires the Short or Long Weapon skill. 
-
-#### Intercept
-
->This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect. This skill is expended on use.<br/>Call: “Intercept &lt;optional defense>”<br/>Requires the Shield skill.
-
-#### Parry
-
->This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry allows the character to Resist Physical once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. <br/>Call: “Resist”<br/>Requires the Critical Strike III skill and one of the following Weapon skills: Unarmed, Short, Long or Two-Handed.
-
-#### Parry Spell
-
->This skill requires that the character is wielding a weapon, or is using Unarmed Combat, and has the skill required to be able to use that weapon. Parry Spell allows the character to Resist Spell once for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect.<br/>Call: “Resist”<br/>Requires the Critical Strike IX skill.
-
-#### Rapid Refit
-
->This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character’s armor pool is reset to its maximum.<br/>Call: “Refitting Armor 1...2...3...4...5”
-
-#### Return Skill
->This is a martial skill that allows a character to reclaim a single SP-purchased Physical Strike that was Resisted by their target. If the user successfully strikes an opponent with a Physical Strike, and the Strike is then Resisted, not Reflected, the user may announce “Return”, and get the use of that skill back. This skill is expended on use.<br />>Call: “Return”<br />Requires Any Weapon Skill
-
-#### Riposte
-
->This skill Requires that a character is wielding a weapon and has the skill required to be able to use that weapon. Riposte Attack allows the character to Reflect Physical once for each time that this skill is purchased. This skill is expended on use. You cannot Reflect an already Reflected effect.  This is a REFLECT effect.<br/>Call: “Reflect”<br/>Requires the Short, Long, or Two-Handed Weapon skill.
-
-#### Second Wind
-
->This skill allows the character to instantly restore their health pool to 50% of its total maximum. The character must be conscious to use this skill. This skill is expended on use.<br/>Call: “Second Wind”
-
-#### Shield Block
-
->This skill requires that the character is wielding a shield, and has the skill to use a shield. The character may use this skill to resist one physical attack for each time that this skill is purchased. This skill is expended on use.  This is a RESIST effect. <br/>Call: “Resist”<br/>Requires the Shield skill.
-
-#### Stalwart Defense
-
->This skill grants the character 5 additional armor points to their maximum armor pool for each time that this skill is purchased without having to physically represent the worn armor. This skill requires that the character is wielding only a two-handed weapon and has the skill to be able to use that weapon. Armor points gained from Stalwart Defense must be repaired before being available. DISARM effects like Command Drop or Disarm do not remove the benefit of Stalwart Defense unless the character goes longer than 20 seconds without fulfilling the single weapon requirement.<br/>Requires the Two-Handed Weapon skill.
-
-#### Toughness
-
->This skill adds 5 points of maximum health to the character for each time that this skill is purchased. This skill is not blocked by resting.
-
-#### Unbreakable
-
->This skill allows a character using a Shield to plant themselves, and push through incredible odds to come out the other side unscathed. A character with this skill may announce “I am Unbreakable!” and plant their feet. For the duration of the time that their feet remain planted, up to one minute maximum, they may choose to expend any Critical Strikes or Physical Strikes they possess as if they were instead a Resist Physical. If at any point they move their feet, or are forced to move by an outside effect, this ability ends immediately. This skill is expended on use.<br/>Call: "I am Unbreakable" <br/>Requires the Shield and Critical Strike I skills.
+|Two-handed Weapon Profs|Damage Increase|
+|---|---|
+|1|	+1 Damage|
+|2|	+3 Damage|
+|3|	+3 Damage|
+|4|	+6 Damage|
+|5|	+6 Damage|
+|6|	+9 Damage|
+|7|	+9 Damage|
+|8|	+12 Damage|
+|9|	+12 Damage|
+|10| +15 Damage|

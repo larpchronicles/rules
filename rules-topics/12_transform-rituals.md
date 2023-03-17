@@ -24,7 +24,7 @@ Tiers Correspond to the following Ritual Levels
 |---|---|
 | Type: | Passive|
 | Cost: | 5 (Single Purchase) |
-| Description: | Claws function as Unarmed, may be used to qualify for any skills that require Unarmed as a prerequisite, gain the benefit of Unarmed Proficiency, and may be used for any skills that require Unarmed to utilize. Like Unarmed, Claws may be wielded in only one hand, leaving the other hand empty or to use a different item. |
+| Description: | Claws function as a single One-Handed Weapon and may be used to qualify for any abilities thar require One-Handed Weapon as a prerequisite.  Claws may be wielded in only one hand, leaving the other hand empty or to use a different item. |
 
 #### Innate &lt;Spell>
 | Name: | Innate Spell |
@@ -92,28 +92,28 @@ Tiers Correspond to the following Ritual Levels
 |---|---|
 | Type: | Active |
 | Cost: | 3 + 5  |
-| Description: | User may Resist Magic once per rest. |
+| Description: | User may Resist Magic once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot.|
 
 #### Resist Physical
 | Name: | Resist Physical|
 |---|---|
 | Type: | Active|
 | Cost: | 3 + 5|
-| Description: | User may Resist Physical once per rest. |
+| Description: | User may Resist Physical once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
 
 #### Resist Toxin
 | Name: | Resist Toxin|
 |---|---|
 | Type: | Active|
 | Cost: | 3 + 5|
-| Description: | User may Resist Physical once per rest. |
+| Description: | User may Resist Physical once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
 
 #### Resist &lt;Effect>
 | Name: | Resist &lt;Effect>|
 |---|---|
 | Type: | Active|
 | Cost: | 3 + 5|
-| Description: | User may Resist a specific effect once per rest. Effect is dictated by the transform and scroll. |
+| Description: | User may Resist a specific effect once per rest. Effect is dictated by the transform and scroll.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
 
 #### Spellstrike &lt;Effect>
 | Name: | Spellstrike|

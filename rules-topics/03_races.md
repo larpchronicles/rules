@@ -27,13 +27,13 @@ Overall, other races regard the Brood as a terrifying race capable of great dest
 
 **Racial Abilities**:
 
-*Innate Claws*: Built for battle and a readiness to defend themselves, Brood have a set of limbs with large claws.  Possessing such natural weapons, they are unable to take up the physical weapons of other races.  Passively, all Brood have natural claws that deal a base of 1 Physical and qualify for all Unarmed Martial Skills requiring Unarmed Combat.  Brood cannot wield any weapons other than shields.
+*Innate Claws*: Built for battle and a readiness to defend themselves, Brood have a set of limbs with large claws.  Possessing such natural weapons, they are unable to take up the physical weapons of other races.  Passively, all Brood have natural dual claws that deal a base of 1 Physical each. Brood cannot wield any weapons other than shields and ranged weapons.  To use a shield or ranged weapons, they must purchase the proper weapon skill.
 
 
-*Rip Free*: Brood abhor the sensation of being trapped and when they find themselves in such a situation, they will do anything in their power to regain their freedom. Once per rest, a Brood may have one free usage of Escape Artist.
+*Rip Free*: _Brood abhor the sensation of being trapped and when they find themselves in such a situation, they will do anything in their power to regain their freedom._ Once per rest, a Brood may have one free usage of Escape Artist.
 
 
-*Acidic Secretion*:  Along with being capable of great destruction in general, Brood have acidic blood that is capable of destroying items._  Once per day, a Brood may spend 1 minute in concentration to destroy an item.
+*Acidic Secretion*:  _Along with being capable of great destruction in general, Brood have acidic blood that is capable of destroying items._  Once per day, a Brood may spend 1 minute in concentration to destroy an item.
 
 
 **Makeup Suggestions and Guidelines**:  All Brood player characters must use a different colored paint to add markings and may not only have brown or black paint.  The design and color of these markings is player choice.  Physical representations for the carapace should be present and may be colored brown or black and given an iridescent coating.
@@ -61,10 +61,10 @@ This race once ruled a wide part of Evren with many villages filled with fantast
 **Racial Abilities**:
 
 
-*Improved Constitution*: Hardy and strong, Dwarves have a natural resistance toward many substances. Once per rest, a Dwarf may resist a toxin by calling “Resist Toxin.”
+*Body of Stone*: _Hardy and strong, Dwarves have a natural ability to overcome certain effects._ Once per rest, a Dwarf may MINIMIZE a single 20 second Physical effect with a 3 second count by incanting, "Minimize Physical."
 
 
-*Tricks of the Trade*: Dwarves are masters of all things crafting, and as such have learned how to cut the occasional corner. Once per day, a Dwarf may add 1 additional Durability to an item that is being created by themselves or another crafter.
+*Tricks of the Trade*: _Dwarves are masters of all things crafting, and as such have learned how to cut the occasional corner._ Once per day, a Dwarf may add 1 additional Durability to an item that is being created by themselves or another crafter.
 
 
 **Makeup Suggestions and Guidelines**:  Both male and female Dwarves appear with beards.
@@ -85,12 +85,10 @@ This race once ruled a wide part of Evren with many villages filled with fantast
 **Racial Abilities**:
 
 
-*Life Bound*: _Their long lives and vibrant life force makes them particularly resistant to negative spell effects._ Once per rest, an Elf may Resist Spell.
+*Will of Ages*: _Their long lives and vibrant life force makes them particularly resistant to negative spell effects._ Once per rest, an Elf may reduce a Spell Effect upon themselves to three seconds by incanting, "Minimize Spell"
 
 
-*Lore-Master*: _The longevity of the Elves means there are few stories that haven’t reached their ears_. Once per day, an Elf can attempt to recall something specific about an Evren area.  This must be done with Plot.
-
-
+*Ritual Expertise*: _The longevity of the Elves means that they often are able to find improvements in otherwise flawed Rituals_. Once per day, an Elf may reduce the Spirit Gem cost of a single ritual, to a minimum of one Spirit Gem. A single Ritual may not benefit from this ability more than once.
 
 
 ### Dark Elf
@@ -201,9 +199,9 @@ Most people view the Glimmerlings with no difference to how they view the fairie
 
 **Racial Abilities**:
 
-*Remembrance*: Being connected to the realm of dreams, Glimmerlings are able to delve into the memories of another person. Once per rest, a Glimmerling may concentrate and establish a connection to a consenting character and aid them in recovering memories for as long as the other chooses to keep the contact.  This is a purely roleplayed ability and may not be used to determine truth.  If attempting to use this ability to recall specific plot information, seek a plot member beforehand, so they can be on hand to describe what you witness.
+*Remembrance*: _Being connected to the realm of dreams, Glimmerlings are able to delve into the memories of another person._ Once per rest, a Glimmerling may concentrate and establish a connection to a consenting character and aid them in recovering memories for as long as the other chooses to keep the contact.  This is a purely roleplayed ability and may not be used to determine truth.  If attempting to use this ability to recall specific plot information, seek a plot member beforehand, so they can be on hand to describe what you witness.
 
-*Trickster*: Glimmerlings as a race, are very cunning and crafty and delight in causing the occasional confusion and chaos. Once per day, a Glimmerling may recall to a pre-designated location ala the same rules as Rune of Recall and call, “Activate Recall, 1 I recall, 2 I recall, 3 I recall.”  They must drop any items acquired prior to vanishing.
+*Trickster*: _Glimmerlings as a race, are very cunning and crafty and delight in causing the occasional confusion and chaos._ Once per day, a Glimmerling may recall to a pre-designated location ala the same rules as Rune of Recall and call, “Activate Recall, 1 I recall, 2 I recall, 3 I recall.”  They must drop any items acquired prior to vanishing.
 
 **Makeup Suggestions and Guidelines**: Physical representations of any unique characteristics should be done.
 
@@ -230,100 +228,11 @@ In ages long since past, Goblins were subjugated and enslaved by Orcs on the hee
 
 **Racial Abilities**:
 
-*Improvised Equipment*: Exceptionally enterprising in a pinch, Goblins are innovative and quick-thinking individuals that are undaunted by a “broken” piece of equipment.  Once per rest, a Goblin may use a weapon, shield, or piece of armor that is broken until their next rest.  After this use, the item crumbles and may not be repaired or salvaged.
+*Improvised Equipment*: _Exceptionally enterprising in a pinch, Goblins are innovative and quick-thinking individuals that are undaunted by a “broken” piece of equipment._  Once per rest, a Goblin may use a weapon, shield, or piece of armor that is broken until their next rest.  After this use, the item crumbles and may not be repaired or salvaged.
 
-*Run Away*: Being so incredibly clever sometimes has its pitfalls, and the sudden need to “get out of dodge” is a unique skill all Goblins seem to develop.  Once per day, a Goblin may elect to flee an encounter by yelling, “RUN AWAY!”  For 10 seconds, this Goblin may Dodge an unlimited number of times, but must be physically fleeing.
+*Run Away*: _Being so incredibly clever sometimes has its pitfalls, and the sudden need to “get out of dodge” is a unique skill all Goblins seem to develop._  Once per day, a Goblin may elect to flee an encounter by yelling, “RUN AWAY!”  For 10 seconds, this Goblin may Dodge an unlimited number of times, but must be physically fleeing.
 
 **Makeup Suggestions and Guidelines**: Achieving pointed ears that slope back or downward can be done by wearing Elf ears backwards.
-
-## Kindred
-
----
-**Physical Description**:
-
-Individuals appear with a variety of complexions, markings, and body parts.  They are recognized most commonly by appearing as a distinct humanoid-animal hybrid.
-
-**Average Age of Adulthood**: 30 Years.
-
-**Median Life Expectancy**: 150 Years.
-
-**Maximum Lifespan**:  250 Years.
-
-**Overview**:
-
-A fairly rare sight in Evren, the Kindred are the most diverse of the races in the sense that there are many different types, each appearing as an anthropomorphic form of another creature.  Being such wildly varied people, it should come as no surprise that their cultures, beliefs, appearances, and practices will all differ from one to another.  What the Kindred do share is the common trait of perseverance in the face of animosity.
-
-**Racial Abilities**:
-
-*Ferocity*: Kindred may call upon their inner ferocity to power their blows. Once per rest, a Kindred can announce “Ferocity” to activate this ability, adding +5 weapon damage against one enemy.  A Kindred under this effect may not run from a fight and is immune to fear effects. Lasts 5 minutes.
-
-*Begin the Hunt*: Possessing similar strengths to the creatures they resemble, many Kindred have become adept at honing and relying on their instincts or acute senses.  Once per day, a Kindred may focus themselves and enhance an existing purchase of Tracking by 1 additional Slot.  If the Kindred has 0 Tracking, they may use an assumed 2 for this ability.
-
-**Makeup Suggestions and Guidelines**:  Facepaint and physical representations should be present and match the animal-type for your specific Kindred.
-
-
-## Kobold
-
----
-**Physical Description**:
-
-Kobolds appear as reptilian humanoids with red or blue scaled complexions, black nostrils, blackened eye sockets, and an elongated, flattened snout akin to caiman or crocodiles.
-
-**Average Age of Adulthood**: 3 years
-
-**Median Life Expectancy**: 7 Years.
-
-**Maximum Lifespan**:  15 Years.
-
-**Overview**:
-
-Kobolds can typically be found living in small, roving clans or in rustic, out of the way settlements. From the outsider’s perspective, Kobolds and their communities are grossly lacking in laws and rife with theft.  This extends to the belief that the primary interests of every Kobold fall to impulsively gathering up anything interesting or shiny that isn’t nailed down hard enough to keep them from making off with it and with the thing it is nailed to.  That is to say, most people believe that to Kobolds, there are only two properties of ownership:  “mine and things I don’t care about.”
-
-Bright-eyed and precocious, Kobolds are among the shortest lived races, with all the chaotic cleverness and volubility it takes to get by.  When it comes to their supposed kleptomania, the majority of Kobolds will vehemently dispute any such accusation.
-
-Kobolds typically respect the notions of ownership and possession, for anything they have an emotional attachment to is something they consider theirs and they would go to great lengths to keep it that way.  For everything else, a Kobold is likely to tell you that possession is entropic.
-
-The worth most Kobolds place on things has very little to do with its intrinsic value or utility and everything to do with whether or not the object has captured their attention and or imagination. Uniquely held concepts such as this persist among most Kobolds, often presenting views and ideas about the world around them and how it works with a perceived naivety or ingenuousness.
-
-**Racial Abilities**:
-
-*MY SHINY* - Kobolds are distinctly aware of the entropic nature of having things and so will closely guard things that are of great importance to them – or things that are important to them today.  Once per rest, a Kobold may declare one item on their person as protected, preventing the item from being taken from them, even in death.  This status lasts only until the start of their next rest, when they may declare another thing.  If the protected item is a container, only the container is protected, nothing inside of it.
-
-*Ooo, Shiny* - Kobolds are well-known for their impulsive nature of taking things they believe are interesting or needed.  Once per day, a Kobold may scrounge up a random item.  This must be done with Plot.
-
-**Makeup Suggestions and Guidelines**:  The particular shade or hue of blue or red is up to the player.  The eye sockets should be blacked out up to the eyebrows and may extend to create angular shapes.  The nostrils should be black and come to small triangular tips just above the nostril.  Physical representations for horns and tails are encouraged.
-
-___
-
-## Orc
-
----
-**Physical Description**:
-
-Orcs appear with green complexions and are recognized by their protruding lower teeth.
-
-**Average Age of Adulthood**: 15 Years.
-
-**Median Life Expectancy**: 40 Years.
-
-**Maximum Lifespan**:  80 Years.
-
-**Overview**:
-
-Like the grassy streaks that never seem to quite wash out of that favorite pair of pants, a viridian stain of Orcish clans spread across the central lands of Evren.  Most of the other races steer clear of them, though it is not unheard of to find pockets of Goblins existing either among them or in villages situated somewhere an Orc claims as their territory.
-
-The capital-D Dominance-based culture of these Orcs is more than just how their hierarchical society gets structured, it is a way of life that comes more naturally than breathing.  With this consideration, some other races may be confused at how Orc society has become matriarchal until one stops to consider that the needs and urges that feed into this culture are present within Orcs even as children, and who would they most likely challenge but their own caretakers?
-
-The basis of this culture does not hinge much on codes of honor or only fighting “the right way.”  To most Orcs, the way to establish Dominance is to do whatever it takes to still be standing and if that involves trickery and cunning, then that is exactly how they’ll accomplish it.  After all, they learned all about the value of outsmarting their opponents from the Goblins they once subjugated.  But, Orcs do not exactly pride themselves on being smarter than their opponent, just being strong enough to make their opponent dumber by way of repeated blows to the head.
-
-**Racial Abilities**:
-
-*Rub Dirt In It*: Orcs are strong and their beliefs are as strong, if not stronger.  In fact, an Orc’s faith in their own toughness and ability allows them the firm certainty that cramming a wound full of dirt is a sure way to heal it – but only small wounds, and only sometimes.  Once per rest, an Orc may restore a dying character to 1 Health Point/Body.
-
-*Last Stand*: Like an Orc’s faith in dirt’s ability to heal, an Orc has an even truer faith in themselves to outlast even the limits of their bodies.  Once per day, an Orc may take their last stand and become immune to everything for 10 seconds.  After use, the Orc falls over dead and requires a Life/Revivify spell.
-
-**Makeup Suggestions and Guidelines**:  Protruding lower teeth should be physically represented in addition to a green complexion.
-
 
 ## Halfling
 
@@ -348,9 +257,9 @@ The values held by the majority of Halflings are the home, the belly, and the mi
 
 **Racial Abilities**:
 
-*Nimble Feet:* Halflings are known for having an uncanny talent for guessing exactly where that tree is going to fall or which way that box is going to explode.  Once per rest, a Halfling may Dodge any standard trap that has a tag.  This ability is treated as a DODGE effect and use of it may be called before or after a trap has been set off.
+*Make Myself At Home:* _Halflings are exceptionally light-fingered, and have little concept for such mundane things as "personal space."_ Once per Rest, a Halfling may spend 60 seconds of Roleplay to pick a single lock of any difficulty.
 
-*Community Outreach*: The community is where the home is, and the belly, and the mind.  As such, it comes as no surprise that aiding the community is a talent that comes naturally to many Halflings. Once per day, a Halfling may substitute their ranks in Cooking, Performance, or Gambling with an equal number of ranks in a different Rest-boosting skill. Alternatively, they may boost the ranks of another’s Rest-boosting skill by +2.
+*Community Outreach*: _All Halflings have a strong sense of community, and may use that connection to provide protection to their friends and loved ones._ Once per Day, a Halfling may spend a minute of roleplay telling stories, singing a song, or sharing a meal, to deliver a single, "Voice Radius Magic Barrier" of a type of their choosing.
 
 **Makeup Suggestions and Guidelines**: Sideburns and excess hair can appear on all Halflings and should be physically represented in some visible manner.
 
@@ -377,9 +286,93 @@ Outside opinions of Humans are perhaps not as gilded, as many other races would 
 
 **Racial Abilities**:
 
-*Survivor*: Humans are incredibly adaptable and able to survive when most others would not. Once per rest, a Human may have a free usage of Endurance by spending 1 minute of concentration to prime the ability. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”. This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
+*Survivor*: _Humans are incredibly adaptable and able to survive when most others would not._ Once per rest, a Human may have a free usage of Endurance by spending 1 minute of concentration to prime the ability. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare, “Endurance”. This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
 
-*Connected*: Humans are the most prevalent race on Evren and their propensity for establishing contacts across all walks of life is a trait many have become adept at within both the underworld and legitimate enterprises. Once per day, a Human may locate an impromptu black market in which only the character can enter.  This must be done with Plot.
+
+## Kindred
+
+---
+**Physical Description**:
+
+Individuals appear with a variety of complexions, markings, and body parts.  They are recognized most commonly by appearing as a distinct humanoid-animal hybrid.
+
+**Average Age of Adulthood**: 30 Years.
+
+**Median Life Expectancy**: 150 Years.
+
+**Maximum Lifespan**:  250 Years.
+
+**Overview**:
+
+A fairly rare sight in Evren, the Kindred are the most diverse of the races in the sense that there are many different types, each appearing as an anthropomorphic form of another creature.  Being such wildly varied people, it should come as no surprise that their cultures, beliefs, appearances, and practices will all differ from one to another.  What the Kindred do share is the common trait of perseverance in the face of animosity.
+
+**Racial Abilities**:
+
+*Increased Metabolism*: _Kindred's physiology is impressively streamlined, allowing them sometimes shake off Toxins that might often incapacitate them._ Once per Rest a Kindred may reduce a 20 second Toxin Effect upon themselves to 3 seconds by incanting, "Minimize Toxin".
+
+*Invoke Instinct*: _All Kindred possess a powerful connection to their primal pasts, and can invoke the prey instincts of a target._ Once per day, a Kindred may invoke the fear of the hunt in a target by incanting, "Aether Stop Thrust", preventing their target from advancing.
+
+**Makeup Suggestions and Guidelines**:  Facepaint and physical representations should be present and match the animal-type for your specific Kindred.
+
+## Kobold
+
+---
+**Physical Description**:
+
+Kobolds appear as reptilian humanoids with red or blue scaled complexions, black nostrils, blackened eye sockets, and an elongated, flattened snout akin to caiman or crocodiles.
+
+**Average Age of Adulthood**: 3 years
+
+**Median Life Expectancy**: 7 Years.
+
+**Maximum Lifespan**:  15 Years.
+
+**Overview**:
+
+Kobolds can typically be found living in small, roving clans or in rustic, out of the way settlements. From the outsider’s perspective, Kobolds and their communities are grossly lacking in laws and rife with theft.  This extends to the belief that the primary interests of every Kobold fall to impulsively gathering up anything interesting or shiny that isn’t nailed down hard enough to keep them from making off with it and with the thing it is nailed to.  That is to say, most people believe that to Kobolds, there are only two properties of ownership:  “mine and things I don’t care about.”
+
+Bright-eyed and precocious, Kobolds are among the shortest lived races, with all the chaotic cleverness and volubility it takes to get by.  When it comes to their supposed kleptomania, the majority of Kobolds will vehemently dispute any such accusation.
+
+Kobolds typically respect the notions of ownership and possession, for anything they have an emotional attachment to is something they consider theirs and they would go to great lengths to keep it that way.  For everything else, a Kobold is likely to tell you that possession is entropic.
+
+The worth most Kobolds place on things has very little to do with its intrinsic value or utility and everything to do with whether or not the object has captured their attention and or imagination. Uniquely held concepts such as this persist among most Kobolds, often presenting views and ideas about the world around them and how it works with a perceived naivety or ingenuousness.
+
+**Racial Abilities**:
+
+*MY SHINY*: _Kobolds are distinctly aware of the entropic nature of having things and so will closely guard things that are of great importance to them – or things that are important to them today._  Once per rest, a Kobold may declare one item on their person as protected, preventing the item from being taken from them, even in death.  This status lasts only until the start of their next rest, when they may declare another thing.  If the protected item is a container, only the container is protected, nothing inside of it.
+
+*Ooo, Shiny*: _Kobolds are well-known for their impulsive nature of taking things they believe are interesting or needed._  Once per day, a Kobold may scrounge up a random item.  This must be done with Plot.
+
+**Makeup Suggestions and Guidelines**:  The particular shade or hue of blue or red is up to the player.  The eye sockets should be blacked out up to the eyebrows and may extend to create angular shapes.  The nostrils should be black and come to small triangular tips just above the nostril.  Physical representations for horns and tails are encouraged.
+
+## Orc
+
+---
+**Physical Description**:
+
+Orcs appear with green complexions and are recognized by their protruding lower teeth.
+
+**Average Age of Adulthood**: 15 Years.
+
+**Median Life Expectancy**: 40 Years.
+
+**Maximum Lifespan**:  80 Years.
+
+**Overview**:
+
+Like the grassy streaks that never seem to quite wash out of that favorite pair of pants, a viridian stain of Orcish clans spread across the central lands of Evren.  Most of the other races steer clear of them, though it is not unheard of to find pockets of Goblins existing either among them or in villages situated somewhere an Orc claims as their territory.
+
+The capital-D Dominance-based culture of these Orcs is more than just how their hierarchical society gets structured, it is a way of life that comes more naturally than breathing.  With this consideration, some other races may be confused at how Orc society has become matriarchal until one stops to consider that the needs and urges that feed into this culture are present within Orcs even as children, and who would they most likely challenge but their own caretakers?
+
+The basis of this culture does not hinge much on codes of honor or only fighting “the right way.”  To most Orcs, the way to establish Dominance is to do whatever it takes to still be standing and if that involves trickery and cunning, then that is exactly how they’ll accomplish it.  After all, they learned all about the value of outsmarting their opponents from the Goblins they once subjugated.  But, Orcs do not exactly pride themselves on being smarter than their opponent, just being strong enough to make their opponent dumber by way of repeated blows to the head.
+
+**Racial Abilities**:
+
+*Rub Dirt In It*: _Orcs are strong and their beliefs are as strong, if not stronger.  In fact, an Orc’s faith in their own toughness and ability allows them the firm certainty that cramming a wound full of dirt is a sure way to heal it – but only small wounds, and only sometimes._  Once per rest, an Orc may restore a dying character to 1 Health Point/Body.
+
+*Last Stand*: _Like an Orc’s faith in dirt’s ability to heal, an Orc has an even truer faith in themselves to outlast even the limits of their bodies._  Once per day, an Orc may take their last stand and become immune to everything for 10 seconds.  After use, the Orc falls over dead and requires a Life/Revivify spell.
+
+**Makeup Suggestions and Guidelines**:  Protruding lower teeth should be physically represented in addition to a green complexion.
 
 ___
 ## Unbound
@@ -407,9 +400,9 @@ The Unbound that may be found alone are typically those that have established th
 
 **Racial Abilities**:
 
-*Elemental Blood*: The Unbound can tap into their elemental nature to either spend their vitality to attack others or they may absorb the elemental energies from an incoming attack, and be healed by it. Once per rest, Unbound may spend X number of body to use as a packet delivered spell (“Spell X*2 &lt;Element>”).  Alternatively, they may instead receive healing from an incoming attack of the character’s chosen element.(“Appears to Heal Me”).
+*Elemental Blood*: _The Unbound can tap into their elemental nature to either spend their vitality to attack others or they may absorb the elemental energies from an incoming attack, and be healed by it._ Once per rest, Unbound may spend X number of body to use as a packet delivered spell (“Spell X*2 &lt;Element>”).  Alternatively, they may instead receive healing from an incoming attack of the character’s chosen element.(“Appears to Heal Me”).
 
-*Elemental Transmutation*: The Unbound are amalgamations of elemental forces and living beings. As such they are able to tap into the makeup of matter. Once per day, an Unbound may transmogrify a single component of any rank into a different, single component of the same rank.
+*Elemental Transmutation*: _The Unbound are amalgamations of elemental forces and living beings. As such they are able to tap into the makeup of matter._ Once per day, an Unbound may transmogrify a single component of any rank into a different, single component of the same rank.
 
 **Makeup Suggestions and Guidelines**: To make glowing lines of power, it’s suggested to use white paint and either line it with a thin black line or put a thin line of color through the middle of the white in order to create a colored line that appears to glow.  Facepaint aside from the glowing lines should match the elemental type of your character.  Ie:  Fire should be red or red-orange tones and hues, electricity should be grey, but may be blue, water should be blue, and stone should be earthy browns or rocky grey. 
 
@@ -440,6 +433,6 @@ A rare sight today, the Unforgiven began appearing again and integrating themsel
 
 *Call To Darkness*: Most Unforgiven today likely owe their very existence to their ancestors’ cultivation of slipping away into their own shadow.  For some, this may seem like a trick of the eyes or that an Unforgiven has managed to hide away in plain sight; however, they remain very much visible, but for a short time, enjoy the safety the darkness grants them.  The aptitude for managing such a feat remains prevalent even into modern times.  Once per rest, an Unforgiven may spend 5 seconds in Concentration in order to slip into their own shadow and take the INVULNERABLE effect for 1 minute.  Within their own shadow, an Unforgiven is unable to move, communicate with others, nor use items or skills.  The Unforgiven is immune to all game effects, except SOLIDIFY and Dispel Magic.
 
-*Guileless Contrac*t:  Motivated by either their own amusement or safety, Unforgiven have an unabashed penchant for deceiving and deluding others; however, when it comes to moments where the truth matters, they become intensely serious and many have learned to focus their will toward ensuring such moments are devoid of falsehoods.  Once per day, an Unforgiven can enact a binding contract between themselves and a consenting individual that lasts for 10 minutes.  During this time, neither party can intentionally tell a lie to the other person.
+*Harvest Essence*:  _Unforgiven have a stronger connection to the spiritual essence of other creatures than most, and use that connection to help them collect Spirit Gems._  Once per day, an Unforgiven may deliver a single, "Magic Entrap Spirit".
 
 **Makeup Suggestions and Guidelines**: Horn sizes and placements may vary at player discretion, but should be black or dark in color.  Some Unforgiven players choose to “hide” their barbed tail, but otherwise this should also be physically represented.
