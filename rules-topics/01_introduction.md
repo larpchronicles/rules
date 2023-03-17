@@ -20,7 +20,7 @@ Chronicles is a sword & sorcery fantasy game set in a pre-industrial world calle
 Wondering where you can find a particular sheet or form?  Check the list below, and if there's something missing, please ask!
 
 * [Battle-Board](https://docs.google.com/spreadsheets/d/1u2i06TCMrnEXJbOQTK3yy_mL-jG9mHHlVJd0IJu0JEM/edit?usp=sharing)
-* [Character Calculator](https://docs.google.com/spreadsheets/d/1vQZ4nFIenDGb6cDTbJFXPV8WO4wkKgZyU7DfEoS2jak/edit?usp=sharing)
+* [Character Calculator](https://tinyurl.com/ChronCalc3Sheet)
 * Character Sheet:
   * [Blank, Printable](https://drive.google.com/file/d/1A60Vn6B71SQNKK3vsHFfdtsFZT-U935O/view?usp=share_link) - Print it, write on it.
   * [PDF Form](https://drive.google.com/file/d/1DDXtCJW08d7J6NTLOiHLRCU2uiwJBvLf/view?usp=sharing) - Save it, then edit it.
