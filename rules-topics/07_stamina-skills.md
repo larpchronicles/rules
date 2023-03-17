@@ -48,10 +48,23 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stamina Point, Curse costs 6 Stamina Points)
 
+| Level | Abilities |
+|---|---|
+| 1 | Blind<br>Critical Strike<br>Disarm<br>Slow |
+| 2 | Stop Thrust |
+| 3 | Rapid Refit |
+| 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry<br>Stun |
+| 5 | Silence<br>Vital Blow |
+| 6 | Fear<br>Intercept | 
+| 7 | Curse<br>Destroy |
+| 8 | Endurance |
+| 9 | Regenerate |
+| 10 | Slay<br>Weapon Proficiency |
+
 ### Level 1 Stamina Abilities
 
 #### **Critical Strike**
-| Ability | **Disarm**| 
+| Ability | **Critical Strike**| 
 |:---|:---|
 | **Type**| Stamina|
 | **Level**| 1 |
