@@ -128,9 +128,9 @@ Goblin Points can be spent on a variety of options that may change over time to 
     * 10 pieces of Rank 1 Wood
     * 1 piece of Rank 10 Ore
     * 1 piece of Rank 5 Scrap Parts, 2 pieces of Rank 1 Wood, and 2 pieces of Rank 2 Catalyst.
-* <u>Rare Craft Material</u>.  One Spirit Gem.
+* <u>Rare Craft Material</u>.  One Spirit Gem.  This is limited to one purchase per event.
 * <u>Currency</u>.  One credit or five mana.  This is limited to one purchase per event.
-* <u>Mini-Mod</u>: GREATER IBGA, limit 1 per event. Guidelines to come.
+* <u>Mini-Mod</u>: GREATER IBGA, limit 1 per event.
 
 **<u>200 Goblin Point Rewards</u>**
 
