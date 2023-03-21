@@ -18,7 +18,7 @@ During combat, when damage is taken by a character, it is first deducted from th
 ## Bows: Blocking
 
 ---
-Bows may be used to block attacks.  Bows may also be used to block attacks while wielding a Short Weapon, if the Short Weapon & Bow skill is purchased.  If used to block an attack, you must spend a 3 second count to restring the bow before you can use it again.  
+Bows may be used to block attacks.  Bows may also be used to block attacks while wielding a One-Handed Weapon the skills One-Handed Weapons, Ranged Weapons, and Dual Wield are purchased.  If used to block an attack, you must spend a 3 second count to restring the bow before you can use it again.  
 
 ## Casting Spells
 
@@ -70,6 +70,12 @@ Suppose you have a normal longsword, a transform with the Magic Aura and Flame A
 | Silver       | Stone          | Vital           |
 
 
+## Defensive Ability Slots
+
+---
+Using any skill, ability, or effect that grants a Resist, Reflect, or Dodge requires a Defense Slot to be prepared.  All characters have one Defense Slot by default and may purchase additional slots with Skill Points.  Each Defense Slot a character may prepare and consider active.  A character may only have as many Active Defenses as they have Defense Slots.  Once prepared, any Active Defense may be used to defend against the appropriate type of attack, allowing them to call Resist, Reflect, or Dodge respectively.
+
+
 ## Headbands:  Non-Combatants & Pages
 
 ---
@@ -107,7 +113,7 @@ As long as the character has either hand on a shield, any physical type attack t
 
 Limitations:
 * A shield may never be used for striking in combat. 
-* Shields may not be used with two-hand weapons, bows, or crossbows.
+* Shields may not be used with two-handed weapons, bows, or crossbows.
 * A character may not dual wield shields.
 * Shields are not capable of blocking spell packets or toxins without the use of an ability.
 
@@ -127,10 +133,10 @@ Anything in your possession being struck by a spell causes you to take the effec
 ---
 Spellstrikes are spells cast upon a target via a physically represented weapon.  Packets do not count, as this would be touch casting.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If you physically parry a Spellstrike, you take the effect of the spell.
 	
-### Touch Casting
+### Touch-Casting
 
 ---
-If you are touching the target directly, they have the ability to "refuse your touch cast", causing you to expend the magic to no effect.  Any spell may be touch cast. The target of a touch cast spell may refuse the touch cast, so long as they are capable of movement. Any and every offensive or negative touch cast spell is assumed to automatically be refused unless explicitly accepted by the target.
+If you are touching the target directly, they have the ability to "refuse your touch-cast", causing you to expend the magic to no effect.  Any spell may be touch-cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
 
 
 ### Turtling

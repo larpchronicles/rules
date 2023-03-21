@@ -2,11 +2,9 @@
 # Other Skills
 |Skill|F|T|R|S|Prereqs|
 |:---|:---:|:---:|:---:|:---:|:---|
-|Cooking|1+1|1+1|1+1|1+1||
 |Cutpurse|10|10|3|10||
 |Escape Artist|5+2|5+2|3+1|3+1||
 |First Aid|4|4|4|4||
-|Gambling|1+1|1+1|1+1|1+1||
 |Lockpicking|5+5|5+5|3+1|3+3||
 |Performing|1+1|1+1|1+1|1+1||
 |Tracking|20|20|20|20||
@@ -15,38 +13,6 @@
 ## Rest-Boosting Skills
 
 ---
-#### Cooking
->This skill allows the character to prepare food and drink that is of higher quality than one would find on the road, or in a less expensive establishment. Using special ingredients and skills taught by grandmas across Evren, a cook can provide some benefits to those that eat their special dishes and drink their refreshing drinks.
->
->For each rank in Cooking skill, the cook may provide one of the listed benefits to food or drink, turning it into High Quality Food. The benefits may be spread across multiple items or concentrated in a single dish.
->
-> Ex: A cook with 5 ranks in Cooking could make 5 items with 1 buff, an item with 3 buffs and an item with 2 buffs, or a single item with 5 buffs, or any other combination. A character partaking of High Quality Food must spend at least 5 minutes either cooking, eating, or drinking the food before the effects become active. Use of this skill does not interrupt Resting.
->
->The following benefits are available:
->- <u>Health Boost</u>:  +5 Maximum Health until Rest, can stack with itself only to +10.
->- <u>Rest Reduction</u>:  Reduce Rest Time by 15 Minutes, maximum reduction of 30 minutes per Rest.
->- <u>Restore Body</u>:  Character with a metabolism gains the effects of Restore Body:  instantly healed to their full maximum health pool and any missing or disabled limbs are restored.  Does not remove any effects.
->- <u>Return</u>:  Regain a single expended skill or spell, maximum of 2 per Rest.
->- <u>Weapon Boost</u>:  +1 Weapon Damage until Rest, can stack with itself only to +2. *Requires a Weapon Skill. Does not stack or double with any other effects or sources.*
-
-#### Gambling
->This skill allows the character to benefit from playing games of chance. Games of chance include most gambling games such as Dragon Poker, Varos Hold Em, Black Jack, Roulette, Liar’s Dice, etc. Wagers in the games must be of some kind of valuable currency.
-
->Gambling speeds the recovery time of Rest. For each 5 minutes that a gambler plays, the gambler’s base Rest time of 2 hours is reduced by 15 minutes.  At 30 minutes of play, the gambler's remaining Rest time is reduced to 30 minutes. Rest time may never be lowered to less than 30 minutes.
-
->Gambling requires concentration. If the game stops for longer than 1 minute or the gambler suffers an attack, the game is stopped with no benefit for that 5 minute block of time.
-
->For each rank in Gambling that a gambler has, the gambler may benefit for one 5 minute block of time per Rest. Use of this skill does not interrupt Resting.
-
-|Ranks|Gambling Time|Time Reduction|Rest Time|
-|:---:|:---:|:---:|:---:|
-|1|5min|15min|1hr 45min|
-|2|10min|30min|1hr 30min|
-|3|15min|45min|1hr 15min|
-|4|20min|60min|1hr|
-|5|25min|75min|45min|
-|6|30min|90min|30min|
-
 #### Performing
 >This skill allows other characters to benefit from a short, relaxing performance. Performances can be of a wide variety of entertaining performance arts. These include, but are not limited to, Scene Acting, Poetry Recital, Singing, Dancing, Instrumental Performance, Spoken Word, Dramatic Reading, etc. 
 >
