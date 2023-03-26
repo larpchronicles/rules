@@ -36,7 +36,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | 3     | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Cure Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom| 
 | 4     | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb| Entangle Arms<br>Command: Kneel<br>Command: Stun |
 | 5     | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cure Body<br>Field Resurrection<br>Heal Wounds<br>Revivify | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
-| 6     | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify| Command: Sleep<br>Entangle Body| 
+| 6     | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | <br>Fear<br>Heal Wounds<br>Solidify| Command: Sleep<br>Entangle Body| 
 | 7     | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Preserve Corpse<br>Vampiric Touch | Command: Confuse<br>Confine| 
 | 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Petrify|
 | 9     |  | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>| Treewalk†<br>Regenerate<br>Wrath of Nature, Other|
@@ -290,7 +290,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 |      :---        |       :---         |
 | **Duration**     | 20 seconds |
 | **Incant**     | "Fiends of the dark nether, create a blood sacrifice." |
-| **Description** |  This spell prevents the target from being healed. This spell only affects the ability to be healed. It does not affect spells that purify or restore. If a spell does both healing and restoration effects, only the healing part of the spell fails. |
+| **Description** |  This spell prevents the target from being healed. This spell only affects the ability to be healed. It does not affect spells that purify or restore. If a spell does both healing and restoration effects, only the healing part of the spell fails.  This is a BLEED effect.|
 
 #### **Close Wounds**
 | **Spell**            | **Close Wounds** |
@@ -346,13 +346,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ### Spirit Level 4
 
-#### **Dull Pain**
-| **Spell**| **Dull Pain**|
-|:---|:---|
-| **Duration**     | 20 seconds|
-| **Incant**     | "By the spirits, I dull your pain."|
-| **Description** | This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the target to cast spells while being hit and/or damaged.  It also allows a target to use defensises during a -count ability without breaking Concentration or interrupting the ability.  The defense may be called either during or after the count.  ie: "One I rift out, two I rift out, Dodge, three I rift out." |
-
 #### **Rot Limb**
 | **Spell** | **Rot Limb** |
 |:---|:---|
@@ -386,6 +379,13 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 
 ### Spirit Level 6
+    
+#### **Dull Pain**
+| **Spell**| **Dull Pain**|
+|:---|:---|
+| **Duration**     | 20 seconds|
+| **Incant**     | "By the spirits, I dull your pain."|
+| **Description** | This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the target to cast spells while being hit and/or damaged.  It also allows a target to use defensises during a -count ability without breaking Concentration or interrupting the ability.  The defense may be called either during or after the count.  ie: "One I rift out, two I rift out, Dodge, three I rift out." |
 
 #### **Fear**
 | **Spell** | **Fear** |
@@ -431,7 +431,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Spell** | **Destroy Undead** |
 |:---|:---|
 | **Duration**     | Instant |
-| **Incant**     | "By the spirits, I destroy undead." |
+| **Incant**     | "By the spirits, I destroy undead 80." |
 | **Description** |  This spell will instantly reduce a Minor or Lesser Undead creature to 0 body. Greater, Master, and other more powerful Undead suffer 80 points of damage, bypassing armor, instead of being destroyed outright. |
 
 #### **Limited Phylactery†**
