@@ -6,6 +6,10 @@
 ### Introduction
 * Formatting fix.
 
+### Defense Skills
+* Added Armor Cap table.
+* Added clarification to Dexterity Armor.
+
 ### Magic
 * Added effect to Blood Sacrifice.
 * Fixed Dull Pain level to 6.
