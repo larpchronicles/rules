@@ -1,5 +1,20 @@
 # Changelog
 
+## 3.0.5 [2023-03-26]
+
+---
+### Introduction
+* Formatting fix.
+
+### Magic
+* Added effect to Blood Sacrifice.
+* Fixed Dull Pain level to 6.
+* Added damage to Destroy Undead incant.
+
+### README
+* Updated version
+
+
 ## 3.0.3 [2023-03-13]
 
 ---
