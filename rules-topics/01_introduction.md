@@ -51,7 +51,7 @@ If you haven't yet, you are sure to hear plenty of words or acronyms that you're
 
 ## New Player Guide
 
---
+---
 Welcome to Chronicles. Whether you've been LARPing for years, or have never seen a
 tabard in your life, Chronicles welcomes you. For the newer players, here are a few tips
 to get you started
