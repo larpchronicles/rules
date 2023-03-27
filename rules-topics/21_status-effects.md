@@ -85,57 +85,56 @@ Skilless refers to any abilities purchased with Skill Points.  You do not lose a
 ## Status
 
 ---
-| Term| Description|Encounter Call  |Visible?|
-|:---|---|:-----------------------------------------------:|:---:|
+| Term| Description                 |Encounter Call  |Visible?|
+|:---|---------|:---:|:---:|
 | ANIMATE  | Target takes UNDEAD effect and is unable to use skills, communicate, or move faster than walk.  | Varies by source. |Yes |
-| BERSERK  | Ability user gains x damage against one target and becomes immune to fear and charming effects for y time.  Ability user may not retreat while Berserking.  |Berserk|Yes |
-| BLEED | Target is unable to be healed for x time. | Varies by source. |Yes |
+| BERSERK  | Ability user gains x damage against one target and becomes immune to fear and charming effects for y time.  Ability user may not retreat while Berserking. |Berserk|Yes |
 | BLEED OUT| Target is in BLEED OUT status and has -1 HP/body.  Unless the effect is ended, after 1 minute, target will take DEAD status.| None  | No |
-| BLIND | Target is unable to use skills and attacks that require range beyond touch.| Varies by source. | No |
-| CONCENTRATION  | Ability user is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect.| None  |Yes |
+| BLIND | Target is unable to use skills and attacks that require range beyond touch. | Varies by source. | No |
+| CONCENTRATION  | Ability user is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect.  | None  |Yes |
 | CONFINE  | Target is bound by the called skill for x time and may not attack, block, or drop held items.| Varies by source. |Yes |
-| CONFUSE  | Target is disoriented and cannot tell allies from enemies, but is not forced to attack.| Varies by source. |Yes |
-| CONSCIOUS| Target in this status has at least 1 HP/body.| Varies by source. |Yes |
-| CURSE | Target receives double damage.|(Type) Curse | No |
-| CURSE OF TRANSFORMATION | Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary.| Killing Blow 1, 2, 3, Curse of Transformation X | No |
-| DEAD  | Target is in Dead status and target's spirit will dissipate and may seek resurrection after 5 minutes unless effect is ended by REVIVE or LIFE effects.  | Varies by source. |Yes |
-| DISARM| Target must drop any x item for x time.| Varies by source. |Yes |
-| DRAINED  | Target is skilless. Target may not make active use of skills, granted or otherwise  |(Type) Drain | No |
-| ENGULF| Target and possessions are eaten and target must stand to side OOC.  Target is reduced to -1 HP/body and takes BLEED OUT status.  Target is released upon death of creature.  |1 I engulf you, 2... 3...|Yes |
-| ENSLAVEMENT | Target is compelled to follow any instructions given by ability user.| Varies by source. | No |
+| CONFUSE  | Target is disoriented and cannot tell allies from enemies, but is not forced to attack.  | Varies by source. |Yes |
+| CONSCIOUS| Target in this status has at least 1 HP/body.  | Varies by source. |Yes |
+| CURSE | Target receives double damage. |(Type) Curse | No |
+| CURSE OF TRANSFORMATION | Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary.  | Killing Blow 1, 2, 3, Curse of Transformation X | No |
+| DEAD  | Target is in Dead status and target's spirit will dissipate and may seek resurrection after 5 minutes unless effect is ended by REVIVE or LIFE effects. | Varies by source. |Yes |
+| DISARM| Target is unable to wield x item for x time.| Varies by source. |Yes |
+| DRAINED  | Target is skilless. Target may not make active use of skills, granted or |(Type) Drain | No |
+| ENGULF| Target and possessions are eaten and target must stand to side OOC.  Target is reduced to -1 HP/body and takes BLEED OUT status.  Target is released upon death of creature.   |1 I engulf you, 2... 3...|Yes |
+| ENSLAVEMENT | Target is compelled to follow any instructions given by ability user.      | Varies by source. | No |
 | ENTANGLE | Target is entangled at the x location for y time.  | Entangle X  |Yes |
-| FEAR  | Target is unable to attack and will attempt to leave the area for x time.  | Varies by source. |Yes |
-| INERT | Target unable to use or cast x for y time.||  No|  |
-| INVULNERABLE| Ability user is immune to all spells, physical attacks, and toxin for x time. | Varies by source. |Yes |
+| FEAR  | Target is unable to attack and will attempt to leave the area for x time.         | Varies by source. |Yes |
+| INERT | Target unable to use or cast x for y time.   ||  No|  |
+| INVULNERABLE| Ability user is immune to all spells, physical attacks, and toxin for x time.  | Varies by source. |Yes |
 | KNEEL | Target must kneel or crouch and cross their dominant hand over their chest.  Target may otherwise attack and defend normally. | Varies by source. |Yes |
 | PRESERVE | Target in DEAD status has their Death count halted for x time.  May only be done once. | Varies by source. | No |
-| RIFT LOCK | Prevents the target from using any RIFT abilities for x time.|N/A|No| 
-| SILENCE  | Target is unable to speak in game.  May make game system calls.| Varies by source. |Yes |
-| SLEEP | Target must be prone or crouched and cannot communicate or use skills or items.  | Varies by source. | No |
-| SLOW  | Target is unable to run for x time. | Varies by source. |Yes |
-| STAGGER  | Target must retreat x steps, if able.  May attack and defend while retreating.| Varies by source. |Yes |
-| STASIS | Target may not move, communicate in any manner, activate items, or use any game skills for duration.  Target does not take damage and cannot be moved.  Target may choose to end the effect early.| Varies by source. |Yes|
-| STOP THRUST | Target unable to advance into combat for x time.| Varies by source. |Yes |
-| STUN  | Target may not move, communicate in any manner, activate items, or use game skills for x time.  Damage does not remove effect. | Varies by source. |Yes |
-| SUICIDE  | Allows creature to die and dissipate at will regardless of other status effects. | 1 I suicide, 2... 3...  | Not Applicable |
-| TELEPORT BLOCK | Target is prevented from moving by any form of magical travel for x time.  | Varies by source. | No |
+| RIFT LOCK | Prevents the target from using any RIFT abilities for x time. |N/A|No| 
+| SILENCE  | Target is unable to speak in game.  May make game system calls. | Varies by source. |Yes |
+| SLEEP | Target must be prone or crouched and cannot communicate or use skills or items.        | Varies by source. | No |
+| SLOW  | Target is unable to run for x time.   | Varies by source. |Yes |
+| STAGGER  | Target must retreat x steps, if able.  May attack and defend while retreating.      | Varies by source. |Yes |
+| STASIS | Target may not move, communicate in any manner, activate items, or use any game skills for duration.  Target does not take damage and cannot be moved.  Target may choose to end the effect early.    | Varies by source. |Yes|
+| STOP THRUST | Target unable to advance into combat for x time.  | Varies by source. |Yes |
+| STUN  | Target may not move, communicate in any manner, activate items, or use game skills for x time.  Damage does not remove effect.   | Varies by source. |Yes |
+| SUICIDE  | Allows creature to die and dissipate at will regardless of other status effects.  | 1 I suicide, 2... 3...  | Not Applicable |
+| TELEPORT BLOCK | Target is prevented from moving by any form of magical travel for x time.   | Varies by source. | No |
 | UNCONSCIOUS | Target must be prone or crouched and cannot communicate or use skills or items.  Target has 0 HP/body for 5 minutes, after which target will take CONSCIOUS status and restore to 1 HP/body.  If target takes damage while in UNCONSCIOUS status, target's health becomes -1 HP/body and target takes BLEED OUT status immediately. | Varies by source. | No |
-| UNDEAD| Target is visibly a lesser undead, may talk, move, and use skills for x time. | Varies by source. |Yes |
-| WEAKEN| Target damage is lowered by x amount for y time.| Varies by source. | No |
+| UNDEAD| Target is visibly a lesser undead, may talk, move, and use skills for x time.     | Varies by source. |Yes |
+| WEAKEN| Target damage is lowered by x amount for y time. | Varies by source. | No |
  
 ## Effects
 
 ---
-| Term| Description|Encounter Call  |Visible?|
-|:---|---|:-----------------------------------------------:|:---:|
+| Term| Description     |Encounter Call  |Visible?|
+|:---|-----|:----:|:---:|
 | DEATH | Target immediately takes DEAD status.  | Varies by source. | No |
-| DECIMATE | Target takes DEAD status upon receiving this effect.  If target dissipates and resurrects, target incurs double Strain. (4 Total)|  (Type) Decimate  | No |
-| DODGE | Ability user may resist more than one type of effect, and so dodges it. | Dodge | No |
-| DOOM  | Target is reduced to -1 HP/body. | Varies by source. | No |
-| LIFE  | Target with DEAD status is healed to full HP/body and all status effects are removed.  | Varies by source. |Yes |
-| MUMMY CURSE | Target immediately dissipates and seeks resurrection. |  Killing Blow 1, 2, 3, Mummy Curse  | No |
-| REFLECT  | Ability user may reflect x ability.  The reflected ability may be resisted, but may not be reflected again. | Varies by source. | Not Applicable |
-| RESIST| Ability user resists x effect.|Resist | Not Applicable |
-| SOLIDIFY | Ability user or Target's GASEOUS effect is removed. | Varies by source. | Not Applicable |
-| SPELLSTRIKE | Ability user may deliver a spell with a physical weapon. |Spellstrike (Spell Name) | Not Applicable |
-| VOICE RADIUS| All targets that hear the call take X effect.|  Voice Radius X| No |
+| DECIMATE | Target takes DEAD status upon receiving this effect.  If target dissipates and resurrects, target incurs double Strain. (4 Total) |  (Type) Decimate  | No |
+| DODGE | Ability user may resist more than one type of effect, and so dodges it.  | Dodge | No |
+| DOOM  | Target is reduced to -1 HP/body.  | Varies by source. | No |
+| LIFE  | Target is healed to full HP/body and all status effects of target's choice are removed. This works on DEAD targets.               | Varies by source. |Yes |
+| MUMMY CURSE | Target immediately dissipates and seeks resurrection.   |  Killing Blow 1, 2, 3, Mummy Curse  | No |
+| REFLECT  | Ability user may reflect x ability.  The reflected ability may be resisted, but may not be reflected again.   | Varies by source. | Not Applicable |
+| RESIST| Ability user resists x effect.       |Resist | Not Applicable |
+| SOLIDIFY | Ability user or Target's GASEOUS effect is removed.   | Varies by source. | Not Applicable |
+| SPELLSTRIKE | Ability user may deliver a spell with a physical weapon.   |Spellstrike (Spell Name) | Not Applicable |
+| VOICE RADIUS| All targets that hear the call take X effect.   |  Voice Radius X| No |

@@ -29,18 +29,18 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ## Spells By Level and School
 ---
 
-| Level| Universal | Arcane | Spirit | Nature| 
-|---|---|---|---|---|
-| 1     | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Drop<br>Grasping Grasses<br>Purify Food and Drink | 
-| 2     |   | Disrupt Aether<br>Halt<br>Mana Bolt| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Heal Wounds<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike  | 
-| 3     | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Cure Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom| 
-| 4     | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb| Entangle Arms<br>Command: Kneel<br>Command: Stun |
-| 5     | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cure Body<br>Field Resurrection<br>Heal Wounds<br>Revivify | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
-| 6     | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify| Command: Sleep<br>Entangle Body| 
-| 7     | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Preserve Corpse<br>Vampiric Touch | Command: Confuse<br>Confine| 
-| 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Petrify|
-| 9     |  | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>| Treewalk†<br>Regenerate<br>Wrath of Nature, Other|
-| 10    |     | Arcane Torrent<br>Doom| Death<br>Life | Spider Web |
+| Level| Universal | Arcane | Spirit                                                                | Nature                                                       | 
+|---|---|---|-----------------------------------------------------------------------|--------------------------------------------------------------|
+| 1     | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds               | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink | 
+| 2     |   | Disrupt Aether<br>Halt<br>Mana Bolt| Blood Sacrifice<br>Harm Undead<br>Heal Wounds<br>Healing Touch        | Boon of Nature<br>Entangle Foot<br>Plant Spike               | 
+| 3     | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds                                         | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom        | 
+| 4     | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb                                               | Entangle Arms<br>Command: Kneel             |
+| 5     | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify              | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†      |
+| 6     | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify                          | Command: Sleep<br>Entangle Body                              | 
+| 7     | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Preserve Corpse<br>Vampiric Touch             | Command: Confuse<br>Confine                                  | 
+| 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun                                   |
+| 9     |  | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>                                      | Treewalk†<br>Regenerate<br>Wrath of Nature, Other            |
+| 10    |     | Arcane Torrent<br>Doom| Death<br>Life                                                         | Spider Web                                                   |
 
 
 ## Universal
@@ -62,17 +62,17 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**|   4 |
 | **Duration**  | Rest |
 | **Incant**   | "I conjure a \<type\> barrier." |
-| **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. A character may not have more than 1 Active Resist at a time. |
+| **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. |
 
 ### Universal Level 5
 #### **Entrap Spirit**
-| **Spell**            | **Entrap Spirit**|
+| **Spell**            | **Entrap Spirit** |
 |      :---        |:---|
-| **School** | Universal|
-| **Level**  | 5 |
-| **Duration**     | 20 Seconds |
-| **Incant**     | "By my will, I entrap your spirit."|
-| **Description** | This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
+| **School** | Universal   |
+| **Level**  | 5     |
+| **Duration**     | Until Rest   |
+| **Incant**     | "By my will, I entrap your spirit."  |
+| **Description** | This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. |
 
 ### Universal Level 8
 | **Spell**    | **Reflect**|
@@ -81,7 +81,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 8  |
 | **Duration** | Rest |
 | **Incant**   | "I conjure a reflect \<type\>."|
-| **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
+| **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. |
 
 ### Universal Level 9
 #### **Dispel Magic**
@@ -363,12 +363,12 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ### Spirit Level 5
 
-#### **Cure Body**
-| **Spell**| **Cure Body** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I cure this body." |
-| **Description** | This spell removes all lingering maladies such as diseases, weaknesses, disabled limbs, stuns, etc.  This will remove ENTANGLE, INFECT, SLEEP, STUN, and WEAKEN effects.  |
+#### **Cleanse**
+| **Spell**| **Cleanse**                                                                                                                  |
+|:---|:-----------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | Instant                                                                                                                      |
+| **Incant**     | "By the spirits, I cure this body."                                                                                          |
+| **Description** | This spell removes a single lingering effect of the target's choice. This may not remove DRAIN, DEAD, UNCONSCIOUS or INFECT. |
 
 #### **Field Resurrection**
 | **Spell** | **Field Resurrection** |
@@ -428,11 +428,11 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Spirit Level 8
 
 #### **Destroy Undead**
-| **Spell** | **Destroy Undead** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I destroy undead." |
-| **Description** |  This spell will instantly reduce a Minor or Lesser Undead creature to 0 body. Greater, Master, and other more powerful Undead suffer 80 points of damage, bypassing armor, instead of being destroyed outright. |
+| **Spell** | **Destroy Undead**                                                                                                              |
+|:---|:--------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | Instant                                                                                                                         |
+| **Incant**     | "By the spirits, I destroy undead."                                                                                             |
+| **Description** | This spell will instantly cause any undead to suffer 80 points of damage, bypassing armor. |
 
 #### **Limited Phylactery†**
 | **Spell**| **Limited Phylactery†** |
@@ -448,13 +448,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "Fiends of the dark nether, repair this undead." |
 | **Description** |  This spell will instantly restore the target undead creature’s health pool to its full maximum value, and will restore any missing or diabled limbs. |
 
-#### **Restore Body**
-| **Spell**            | **Restore Body** |
-|:---|:---|
-| **Duration**     | Instant |
-| **Incant**     | "By the spirits, I restore your body." |
-| **Description** |  This spell will instantly restore a target with a metabolism to their full maximum health pool, and will restore any missing or disabled limbs. |
-
 
 ### Spirit Level 9
 
@@ -469,20 +462,20 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Spirit Level 10
     
 #### Death
-| **Spell**    | **Death**                                                |
-|--------------|----------------------------------------------------------|
-| **School**   | Spirit                                                   |
-| **Level**    | 10                                                       |
-| **Duration** | Instant                                                  |
-| **Incant**   | "I grant you the gift of death X... Magic Heal Wounds X" |
-| **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touch-cast a Magic Heal Wounds 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
+| **Spell**    | **Death**                                                                                                                                                                                                                                              |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **School**   | Spirit                                                                                                                                                                                                                                                 |
+| **Level**    | 10                                                                                                                                                                                                                                                     |
+| **Duration** | Instant                                                                                                                                                                                                                                                |
+| **Incant**   | "I grant you the gift of death X... Magic Heal Wounds X"                                                                                                                                                                                               |
+| **Description** | The caster saps the vital force of the target for 50 damage. This damage cannot be increased by any means. If the spell causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state. This is a DEATH effect. |
 
 #### **Life**
-| **Spell**            | **Life** |
-|:---|:---|
-| **Duration**     | 5 seconds |
-| **Incant**     | "I grant you the gift of Life." |
-| **Description** |  This spell will restore a living or dead target to full maximum health, remove all magical, toxin, and physical effects, including beneficial ones, and grants the target temporary immunity to spells, toxins, and physical attacks for 5 seconds. This spell cannot be extended by Limited time Stop.  This is a LIFE effect. |
+| **Spell**            | **Life**                                                                                                                                               |
+|:---|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | 5 seconds                                                                                                                                              |
+| **Incant**     | "I grant you the gift of Life."                                                                                                                        |
+| **Description** | This spell will restore a living or dead target to full maximum health,  and remove all ongoing effects of the target's choice. This is a LIFE effect. |
 
 
 ## Nature
@@ -490,12 +483,12 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ---
 ### Nature Level 1
 
-#### **Command: Drop**
-| **Spell**            | **Command: Drop** |
-|:---|:---|
-| **Description** |  Duration: 5 seconds |
-| **Description** |  Incant: "By nature, I command you to drop your &lt;named item, item>." |
-| **Description** |  This spell causes the target to drop a handheld item for 5 seconds. The dropped item is not to be thrown or tossed aside. The caster may name the handheld item that they wish the target to drop, but if no item is named, the target may choose which handheld item to drop. This spell is a DISARM effect. |
+#### **Command: Disarm**
+| **Spell**            | **Command: Disarm**                                                                                                                                                                                                                                                                                                                                                       |
+|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Description** | Duration: 5 seconds                                                                                                                                                                                                                                                                                                                                                       |
+| **Description** | Incant: "By nature, I command you to disarm &lt;named item, item>."                                                                                                                                                                                                                                                                                                       |
+| **Description** | This spell causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This spell is a DISARM effect. |
 
 #### **Grasping Grasses**
 | **Spell**            | **Grasping Grasses** |
@@ -529,11 +522,11 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell entangles the target’s right foot to the ground. The character is unable to move their foot, except for pivoting on the ball of their foot. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
 #### **Plant Spike**
-| **Spell**            | **Plant Spike**|
-|:---|:---|
-| **Duration**     | Instant|
-| **Incant**     | "By the flora, I throw a plant spike 5."|
-| **Description** | This spell allows the caster to throw a summoned plant spike for 5 damage.|
+| **Spell**            | **Plant Spike**                                                                                                                                                                                                            |
+|:---|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Duration**     | Instant                                                                                                                                                                                                                    |
+| **Incant**     | "By the flora, I throw a plant spike, 10 Normal."                                                                                                                                                                          |
+| **Description** | This spell allows the caster conjure a throwable plant spike for 10 Normal damage. The Spike does not need to be thrown immediately, and lasts until Rest. A caster may not have more than 1 Plant Spike active at a time. |
 
 
 ### Nature Level 3
@@ -568,13 +561,6 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**     | Instant  |
 | **Incant**     | "By nature, I command you to kneel."   |
 | **Description** | This spell forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this spell may not be stacked or extended.  This spell is a KNEEL effect. |
-
-#### **Command: Stun**
-| **Spell**            | **Command: Stun** |
-|:---|:---|
-| **Duration**     | 20 seconds |
-| **Incant**     | "By nature, I command you to be stunned." |
-| **Description** |  This spell causes the target to be unwilling to take action (move, attack, defend, speak). This spell is a STUN effect. |
 
 #### **Entangle Arms**
 | **Spell**            | **Entangle Arms** |
@@ -649,12 +635,12 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**     | "By the fauna, I grant you a cat's boon." |
 | **Description** |  This spell prevents the target from becoming Dead when they otherwise might. The caster must prepare the spell by spending 1 minute of concentration to prime this spell. While primed, if the target reaches 59 seconds of their Dying count, this spell triggers to return the target to 1 Body instead of becoming Dead, and the target must declare "Endurance". This spell is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once. |
 
-#### **Petrify**
-| **Spell**            | **Petrify** |
+#### **Command: Stun**
+| **Spell**            | **Command: Stun** |
 |:---|:---|
-| **Duration**     | 1 minute |
-| **Incant**     | "By nature, I petrify you." |
-| **Description** | This spell will petrify the target and prevent them from moving, communicate in any manner, activate items, or use any game skills for the duration.  The target receives damage normally and can be physically moved.  This effect can be removed by Dispel Magic and Restore Body. This is a STUN effect. |
+| **Duration**     | 20 seconds |
+| **Incant**     | "By nature, I command you to be stunned." |
+| **Description** |  This spell causes the target to be unwilling to take action (move, attack, defend, speak). This spell is a STUN effect. |
 
 ### Nature Level 9
 

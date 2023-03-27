@@ -93,11 +93,11 @@ Mythical - 5 Spirit Gems
 
 
 #### Body
-| Name: | Body |
-|---|---|
-| Type: | Passive |
-| Cost: | 3 + 5|
-| Description: |  Purchases of Toughness grant +2 extra body (+7 instead of +5) |
+| Name: | Body                                                          |
+|---|---------------------------------------------------------------|
+| Type: | Passive                                                       |
+| Cost: | 10                                                            |
+| Description: | Purchases of Toughness grant +2 extra body (+7 instead of +5) |
 
 #### Backstab Expert
 | Name: | Backstab Expert |
@@ -186,6 +186,13 @@ Mythical - 5 Spirit Gems
 | Type: | Passive|
 | Cost: | 15 (Single Purchase)|
 | Description: | Magic carrier, applies to any weapon, or unarmed, that is wielded.|
+
+##### Proficiency Expert
+| Name: | Proficiency Expert |
+|---|---|
+| Type: | Passive|
+| Cost: | 15 |
+| Description: | Reduces the Stamina cost of Proficiency by 2 (10->8). |
 
 #### Spirit Bottle
 | Name: | Spirit Bottle |
