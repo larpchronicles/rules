@@ -9,15 +9,15 @@ Armor is described as extra garb pieces made of defined materials and worn in ta
 
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
-Once a character’s Armor Points are below their maximum total, they may recover them through one of three methods:  
-1. The Rapid Refit martial skill, which requires 5 seconds of uninterrupted roleplay to restore a character’s Armor Point total back to its maximum.
-2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character’s armor total back to its maximum.
+Once a character's Armor Points are below their maximum total, they may recover them through one of three methods:  
+1. The Rapid Refit martial skill, which requires 5 seconds of uninterrupted roleplay to restore a character's Armor Point total back to its maximum.
+2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character's armor total back to its maximum.
 3. Using a Repair Kit, a crafted item by Smiths, cuts the roleplay time required to repair armor in half, to 30 seconds.
 
 ## Armor Point Calculations
 
 ---
-A character’s Armor Points are determined by the following:  
+A character's Armor Points are determined by the following:  
 * Their purchased Armor Cap
 * Their active skills
 * The type of armor worn
@@ -29,11 +29,11 @@ A character’s Armor Points are determined by the following:
 ---
 ### Cloth
 
-Thick, quilted layers designed to blunt the worst of an adversary’s blow and prevent immediately fatal strikes.  
+Thick, quilted layers designed to blunt the worst of an adversary's blow and prevent immediately fatal strikes.  
 **Required** A three-layer, quilted fabric.
 
 | **Cloth Coverage** | **Armor Points** |
-| ----------- | ----------- |
+| --- | --- |
 | Arms | 2 |
 | Shoulders | 2 |
 | Torso | 4 |
@@ -41,12 +41,12 @@ Thick, quilted layers designed to blunt the worst of an adversary’s blow and p
 | **Max Armor Bonus** | **10** |
 
 ### Leather
-Treated animal hide widely used as a cost effective means of protection, while remaining soft and supple enough to be worked similarly to fabric without loss of the wearer’s mobility.
+Treated animal hide widely used as a cost effective means of protection, while remaining soft and supple enough to be worked similarly to fabric without loss of the wearer's mobility.
 **Required**: Suede, supple leather, faux leather, or leather appearing fabric.
 
 
 | **Leather Coverage** | **Armor Points** |
-| ----------- | ----------- |
+| --- | --- |
 | Arms | 4 |
 | Shoulders | 4 |
 | Torso | 8 |
@@ -55,11 +55,11 @@ Treated animal hide widely used as a cost effective means of protection, while r
 
 
 ### Hard Leather
-Hardened, formed leather that retains its shape and offers significantly more protection against piercing and slashing than it’s non-hardened counterpart. Less heavy than traditional metal armor, and more cost-effective for adventurers who lack coin.
+Hardened, formed leather that retains its shape and offers significantly more protection against piercing and slashing than it's non-hardened counterpart. Less heavy than traditional metal armor, and more cost-effective for adventurers who lack coin.
 **Required**: At least 4oz hardened veg tan leather, or analog that has the ability to retain its shape under mild pressure.  
 
 | **Hard Leather Coverage** | **Armor Points** |
-| ----------- | ----------- |
+| --- | --- |
 | Arms | 6 |
 | Shoulders | 6 |
 | Torso | 12 |
@@ -72,7 +72,7 @@ Concentric, interlocking metal rings that provide a lighter alternative to full 
 **Required**: Chainmail, rigid interlocked or overlapping rings/plates, fabric with simulated/printed chainmail pattern.
 
 | **Chain Coverage** | **Armor Points** |
-| ----------- | ----------- |
+| --- | --- |
 | Arms | 8 |
 | Shoulders | 8 |
 | Torso | 16 |
@@ -85,7 +85,7 @@ Heavy, durable metal armor that provides superior protection from all manner of 
 **Required:** Solid formed metal plates, foam, plastic or other material that maintains its shape with firm pressure, preferably with an outward metallic appearance.
 
 | **Plate Coverage** | **Armor Points** |
-| ----------- | ----------- |
+| --- | --- |
 | Arms | 16 |
 | Shoulders | 16 |
 | Torso | 32 |
@@ -96,7 +96,7 @@ Heavy, durable metal armor that provides superior protection from all manner of 
 ## Armor Locations
 
 ---
-While a player may wear armor wherever and however they choose as is thematically appropriate for their character, there are only 4 locations that will count toward a character’s final Armor Point total:
+While a player may wear armor wherever and however they choose as is thematically appropriate for their character, there are only 4 locations that will count toward a character's final Armor Point total:
 
 * Arms- Left and Right
 * Shoulders- Left and Right

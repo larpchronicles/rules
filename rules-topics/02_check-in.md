@@ -123,7 +123,7 @@ Unless otherwise noted by the Plot Team or Staff, all other areas are considered
 ---
 Help ensure we can return to these sites for future events by being respectful of the facilities and cleaning up after yourself.  If you notice a problem anywhere in the facility, please alert a member of the Plot Team or Staff immediately.
 
-Pick up packets at the end of each fight or mod.  If they are wet, torn, or damaged, please throw them away.
+Pick up packets at the end of each fight or mod.  If they are wet, torn, or damaged, please throw them away.  Do NOT return these to the packet bucket, as this encourages the growth of mold.
 
 You are responsible for cleaning your cabin at the end of the event.  This includes removal of personal items, trash removal, turning off lights, fans, the AC/Heat unit, and if necessary, sweeping and mopping.  For cabins with bathrooms and kitchens, this includes cleaning of these areas.
 
@@ -149,4 +149,4 @@ COVID Resources, How to get Tests, and Test Submission info can be found here: h
 ## Disciplinary Rules
 
 ---
-While we never hope this to be the case, if anyone is breaking Chronicles rules, the Code of Conduct, violating the rules of the rental site, or causing problems and/or disruptions to the event, they will be subject to an escalating response from Plot and Staff.  This is outlined with more detail in the [Code of Conduct](https://drive.google.com/file/d/1baIH6NfjVpb-K-hI59ebrd4vWQlcjtTT/view?usp=sharing).
+While we never hope this to be the case, if anyone is breaking Chronicles rules, the Code of Conduct, violating the rules of the rental site, or causing problems and/or disruptions to the event, they will be subject to an escalating response from Plot and Staff.  This is outlined with more detail in the [Code of Conduct](https://drive.google.com/drive/folders/1rn8_-PmbtBhRNPs0cJDY6ccTxmmNL0Sr?usp=share_link).

@@ -20,31 +20,31 @@ Tiers Correspond to the following Ritual Levels
 Before a character may purchase a monstrous ability on their transform, that ability must be "unlocked". Some abilities are unlocked by default (per transform). 
 
 Unlocking an ability requires consuming a number of Spirit Gems dependent on the level of the ability:
-Basic - 1 Spirit Gem
-Advanced - 2 Spirit Gems
-Expert - 3 Spirit Gems
-Master - 4 Spirit Gems
-Grandmaster - 5 Spirit Gems
+* Basic - 1 Spirit Gem
+* Advanced - 2 Spirit Gems
+* Expert - 3 Spirit Gems
+* Master - 4 Spirit Gems
+* Grandmaster - 5 Spirit Gems
 
-Mythical Abilities, and any ability that specifies a specific component required to unlock, will require casting the Unlock Transform Abilities ritual.
+Mythical Abilities and any ability that specifies a specific component required to unlock, will require casting the Unlock Transform Abilities ritual.
 
 Unlock Transform Abilities is part of the standard ritual library and thus always available to any character that has at least 1 rank of Ritual Magic.
 
 Alternatively, a character may still perform the Unlock Transform Abilities ritual. Doing so reduces the Spirit Gem cost of each ability unlocked by 1 (0 for Basic, 5 for Grandmaster).
 
 
-"Unlock Transform Abilities" Ritual Scroll
-Each participant in the ritual may benefit from its effect
-Participants must meaningfully contribute to the roleplay of the ritual, only the caster(s) require ranks of Ritual Magic
-Ritual is 1st level, and requires 1 Spirit Gem to cast plus 1 Spirit Gem for each character to be affected by the ritual
-Unlocks an arbitrary number of transform abilities for each participant
-Each ability unlocked requires a number of spirit gems based on the tier of the ability, to be paid by the affected character:
-Basic - 0 Spirit Gems
-Advanced - 1 Spirit Gems
-Expert - 2 Spirit Gems
-Master - 3 Spirit Gems
-Grandmaster - 4 Spirit Gems
-Mythical - 5 Spirit Gems
+#### Unlock Transform Abilities Ritual Scroll
+* Each participant in the ritual may benefit from its effect.
+* Participants must meaningfully contribute to the roleplay of the ritual, only the caster(s) require ranks of Ritual Magic.
+* Ritual is 1st level and requires 1 Spirit Gem to cast plus 1 Spirit Gem for each character to be affected by the ritual.
+* Unlocks an arbitrary number of transform abilities for each participant.
+* Each ability unlocked requires a number of spirit gems based on the tier of the ability, to be paid by the affected character:
+  * Basic - 0 Spirit Gems
+  * Advanced - 1 Spirit Gems
+  * Expert - 2 Spirit Gems
+  * Master - 3 Spirit Gems
+  * Grandmaster - 4 Spirit Gems
+  * Mythical - 5 Spirit Gems
 
 ---
 ### Multi-Tier
@@ -93,10 +93,10 @@ Mythical - 5 Spirit Gems
 
 
 #### Body
-| Name: | Body                                                          |
-|---|---------------------------------------------------------------|
-| Type: | Passive                                                       |
-| Cost: | 10                                                            |
+| Name: | Body  |
+|---|---|
+| Type: | Passive  |
+| Cost: | 10  |
 | Description: | Purchases of Toughness grant +2 extra body (+7 instead of +5) |
 
 #### Backstab Expert

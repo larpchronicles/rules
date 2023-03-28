@@ -19,14 +19,20 @@ Chronicles is a sword & sorcery fantasy game set in a pre-industrial world calle
 ---
 Wondering where you can find a particular sheet or form?  Check the list below, and if there's something missing, please ask!
 
-* [Battle-Board](https://docs.google.com/spreadsheets/d/1u2i06TCMrnEXJbOQTK3yy_mL-jG9mHHlVJd0IJu0JEM/edit?usp=sharing)
-* [Character Calculator](https://tinyurl.com/ChronCalc3Sheet)
-* Character Sheet:
-  * [Blank, Printable](https://drive.google.com/file/d/1A60Vn6B71SQNKK3vsHFfdtsFZT-U935O/view?usp=share_link) - Print it, write on it.
-  * [PDF Form](https://drive.google.com/file/d/1DDXtCJW08d7J6NTLOiHLRCU2uiwJBvLf/view?usp=sharing) - Save it, then edit it.
-* [Code of Conduct](https://drive.google.com/file/d/1baIH6NfjVpb-K-hI59ebrd4vWQlcjtTT/view?usp=sharing)
-* [Liability Waiver](https://drive.google.com/file/d/1OWAV9ee22HZSvlR-k2gvHWzhyuxUuQFr/view?usp=sharing) 
-* [Pre-Registration & Bed-Reservation](https://forms.gle/W8HvcE4tzAK4uBVt8)
+[Calculators](https://drive.google.com/drive/u/0/folders/1YGpHUxRS_3i9uJIPsQWbnz_Na8XRgp7F)
+  * Character Calculator, with printable character sheet.
+  * Skill Point Calculator
+  * Battle-Board
+
+[Forms](https://drive.google.com/drive/folders/1rn8_-PmbtBhRNPs0cJDY6ccTxmmNL0Sr?usp=share_link)
+  * Character Sheets (Printable and PDF Forms)
+  * Code of Conduct
+  * Liability Waiver
+  * Photo Release Form
+
+Pre-Registration and Post-Event Surveys
+* [Pre-Registration & Bed Reservation](https://forms.gle/W8HvcE4tzAK4uBVt8)
+* [Post-Event Survey](https://forms.gle/wr3D4CRHD7NkR2n49)
 
 ## Quick-Start For New Players
 
