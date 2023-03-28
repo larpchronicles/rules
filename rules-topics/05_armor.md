@@ -10,9 +10,9 @@ Armor is described as extra garb pieces made of defined materials and worn in ta
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
 Once a character’s Armor Points are below their maximum total, they may recover them through one of two methods:  
-1. The Rapid Refit martial skill, which requires 5 seconds of uninterrupted roleplay to restore a character’s Armor Point total back to its maximum.
+1. The Rapid Refit Stamina Ability, which requires 5 seconds of uninterrupted roleplay to restore a character’s Armor Point total back to its maximum.
 2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character’s armor total back to its maximum.
-You may encounter items, or rare abilities that alter the time necessary for these actions.
+The time required may be lowered by specific items, skills, or abilities.
 
 ## Armor Point Calculations
 
