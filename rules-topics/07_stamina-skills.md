@@ -33,7 +33,7 @@
 
 ### Dual Wield
 
->This skill allows the character to wield two One-Handed Weapons, one in each hand, while in combat. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the One-Handed Weapon skill.
+>This skill allows the character to wield two One-Handed Weapons, one in each hand, while in combat. At least one weapon must be of Short Length or lower. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the One-Handed Weapon skill.
 
 
 
@@ -53,11 +53,11 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | 1 | Blind<br>Critical Strike<br>Disarm<br>Slow |
 | 2 | Stop Thrust |
 | 3 | Rapid Refit |
-| 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry<br>Stun |
+| 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry |
 | 5 | Silence<br>Vital Blow |
 | 6 | Fear<br>Intercept | 
 | 7 | Curse<br>Destroy |
-| 8 | Endurance |
+| 8 | Endurance<br>Stun |
 | 9 | Regenerate |
 | 10 | Slay<br>Weapon Proficiency |
 
@@ -73,13 +73,13 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Description** | Critical Strikes are purchased with Stamina Points and allow the user to add +1 damage against a single target.  This damage may be stacked up to +5 damage.  The effect ends at rest or when invoking Critical Strike against a different target.|
 
 #### **Disarm**
-| Ability | **Disarm**| 
-|:---|:---|
-| **Type**| Stamina|
-| **Level**| 1 |
-| **Duration** | 5 Seconds|
-| **Call**| “Physical Disarm [Weapon]”|
-| **Description** | This skill causes the target to drop any one weapon in their hand for 5 seconds. The weapon is not to be thrown or tossed aside. The choice of which weapon that is to be dropped is left up to the target should the target be wielding two weapons. This skill is not effective against Shields or Claws.  This is a DISARM effect.|
+| Ability | **Disarm**                                                                                                                                                                                                                                                                                                                                                               | 
+|:---|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Type**| Stamina                                                                                                                                                                                                                                                                                                                                                                  |
+| **Level**| 1                                                                                                                                                                                                                                                                                                                                                                        |
+| **Duration** | 5 Seconds                                                                                                                                                                                                                                                                                                                                                                |
+| **Call**| “Physical Disarm [Weapon]”                                                                                                                                                                                                                                                                                                                                               |
+| **Description** | This skill causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This is a DISARM effect.      |
 
 #### **Blind**
 | Ability | **Blind**| 
@@ -159,15 +159,6 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Call**| “I focus my defenses against magic.”|
 | **Description** |This skill allows the character to Resist Spell once. This is a RESIST effect. |
 
-#### **Stun**
-| Ability | **Nerve Strike**|
-|:---|---|
-| **Type**| Stamina|
-| **Level**| 4 |
-| **Duration** | 20 Seconds|
-| **Call**| “Physical Stun” |
-| **Description** | This skill is a strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This is a STUN effect. |
-
 ### Level 5 Stamina Abilities
 
 #### **Silence**
@@ -243,6 +234,14 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Call**| “Endurance” |
 | **Description** | This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.|
 
+| Ability | **Stun**                                                                                                                                                                                                                                                                                                                        |
+|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Type**| Stamina                                                                                                                                                                                                                                                                                                                         |
+| **Level**| 8                                                                                                                                                                                                                                                                                                                               |
+| **Duration** | 20 Seconds                                                                                                                                                                                                                                                                                                                      |
+| **Call**| “Physical Stun”                                                                                                                                                                                                                                                                                                                 |
+| **Description** | This skill is a strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This is a STUN effect. |
+
 ### Level 9 Stamina Abilities
 
 #### **Regenerate**
@@ -257,21 +256,21 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 ### Level 10 Stamina Abilities
 
 #### **Slay**
-| Ability | **Slay** |
-|:---|---|
-| **Type**| Stamina|
-| **Level**| 10 |
-| **Duration** | Instant |
-| **Call**| “(Pending verbal)...100 Normal Slay”|
-| **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 Normal damage.|
+| Ability | **Slay**                                                                                                                                                                               |
+|:---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Type**| Stamina                                                                                                                                                                                |
+| **Level**| 10                                                                                                                                                                                     |
+| **Duration** | Instant                                                                                                                                                                                |
+| **Call**| “Prepare to Die...100 [Type] Slay”                                                                                                                                                     |
+| **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 damage. Slay may not be stacked with any carriers or Flame/Frost/Shock/Stone. |
 
 #### **Weapon Proficiencies**
-| Ability | **Disarm**| 
+| Ability | **Proficiency**  | 
 |:---|:---|
-| **Type**| Stamina|
-| **Level**| 10 |
-| **Duration** | 5 Seconds|
-|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests.|
+| **Type**| Stamina |
+| **Level**| 10|
+| **Duration** | Rest|
+|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests. |
 
 Fighters may use any melee proficiency for any melee weapon, for either hand.<br> 
 >Example: Atilla the Fighter spends 20 Stamina Points for two "One-handed Proficiencies". Atilla may use their +2 damage with any longsword, claw, two-handed sword, polearm, etc. (Everything but a bow or thrown.)

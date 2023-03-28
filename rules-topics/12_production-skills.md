@@ -195,15 +195,15 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank V
 
 #### Oil of Flame
-   >This substance coats a weapon in a flaming oil for the next 5 minutes. During that time, the weapon will do flame type Damage. Applying the oil takes 5 seconds. Example: “5 normal flame”.
+   >This substance coats a weapon in a flaming oil for the next 5 minutes. During that time, the weapon will do flame type Damage. This may not be applied to Claws or Unarmed strikes. Applying the oil takes 5 seconds. Example: “5 normal flame”.
 #### Oil of Frost
-   >This substance coats a weapon in a freezing oil for the next 5 minutes. During that time, the weapon will do frost type Damage. Applying the oil takes 5 seconds. Example: “5 normal frost”.
+   >This substance coats a weapon in a freezing oil for the next 5 minutes. During that time, the weapon will do frost type Damage. This may not be applied to Claws or Unarmed strikes. Applying the oil takes 5 seconds. Example: “5 normal frost”.
 #### Oil of Shock
-   >This substance coats a weapon in a static oil for the next 5 minutes. During that time, the weapon will do shock type damage. Applying the oil takes 5 seconds. Example: “5 normal shock”.
+   >This substance coats a weapon in a static oil for the next 5 minutes. During that time, the weapon will do shock type damage. This may not be applied to Claws or Unarmed strikes. Applying the oil takes 5 seconds. Example: “5 normal shock”.
 #### Oil of Stone
-   >This substance coats a weapon in a gritty oil for the next 5 minutes. During that time, the weapon will do stone type damage. Applying the oil takes 5 seconds. Example: “5 normal stone”.
+   >This substance coats a weapon in a gritty oil for the next 5 minutes. During that time, the weapon will do stone type damage. This may not be applied to Claws or Unarmed strikes. Applying the oil takes 5 seconds. Example: “5 normal stone”.
 #### Oil of Silver
-   >This substance coats a weapon in a silver infused oil for the next 5 minutes. During that time, the weapon will do silver type damage instead of its usual type. Applying the oil takes 5 seconds. Example: “5 silver”.
+   >This substance coats a weapon in a silver infused oil for the next 5 minutes. During that time, the weapon will do silver type damage instead of its usual type. This may not be applied to Claws or Unarmed strikes. Applying the oil takes 5 seconds. Example: “5 silver”.
 #### Blinding Toxin
    >This is a small globe with a light-creating toxin. The character will throw a packet to indicate throwing a globe at the target. This globe will explode in a flash, causing the target to suffer from blindness for the next 20 seconds. The attack call for this is “Toxin Blindness”.
 #### Weakness Coating
@@ -222,13 +222,13 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank VII
 
 #### Anti-Flame Lotion
-   >This substance will protect the character from one instance of flame damage. This effect cannot stack with similar flame resistant effects. It takes 5 seconds to apply the lotion. The defensive call for this is “Resist”.
+   >This substance will protect the character from one instance of flame damage. This effect cannot stack with similar flame resistant effects. This takes up a defense slot. It takes 5 seconds to apply the lotion. The defensive call for this is “Resist”.
 #### Anti-Frost Lotion
-   >This substance will protect the character from one instance of frost damage. This effect cannot stack with similar frost resistant effects. It takes 5 seconds to apply the lotion. The defensive call for this is “Resist”.
+   >This substance will protect the character from one instance of frost damage. This effect cannot stack with similar frost resistant effects. This takes up a defense slot. It takes 5 seconds to apply the lotion. The defensive call for this is “Resist”.
 #### Anti-Shock Lotion
-   >This substance will protect the character from one instance of shock damage. This effect cannot stack with similar shock resistant effects. It takes 5 seconds to apply the lotion. The defensive call for this is “Resist”.
+   >This substance will protect the character from one instance of shock damage. This effect cannot stack with similar shock resistant effects. This takes up a defense slot. It takes 5 seconds to apply the lotion. The defensive call for this is “Resist”.
 #### Anti-Stone Lotion
-   >This substance will protect the character from one instance of stone damage. This effect cannot stack with similar stone resistant effects. It takes 5 seconds to apply the lotion. The defensive call for this is “Resist”.
+   >This substance will protect the character from one instance of stone damage. This effect cannot stack with similar stone resistant effects. This takes up a defense slot. It takes 5 seconds to apply the lotion. The defensive call for this is “Resist”.
 #### Sleep Toxin
    >This is a small globe with a toxin laced tip. The character will throw a packet to indicate throwing a globe at the target. This globe causes the target to instantly fall asleep for the next 20 seconds. The attack call for this is “Toxin Sleep”.
 
@@ -290,8 +290,6 @@ Item production is the process by which characters are able to craft consumable 
    >This creates a finely made Long Weapon that has a base damage of 1, with 5 Durability
 #### Fine Shield
    >This creates a finely made Shield, with 5 Durability.
-#### Flechette Projectile
-   >This creates an arrow, bolt, or throwing weapon that causes the opponent to be unable to be healed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. The effect of this item may not be stacked or extended. This item is consumed on use. <br/>Call: “Physical Bleed”
 #### Fine Armor, Cloth
    >This creates a finely made suit of armor that has a Armor rating of 10, with 5 Durability.
 
@@ -318,9 +316,9 @@ Item production is the process by which characters are able to craft consumable 
 #### Fine Armor, Hardened Leather
    >This creates a finely made suit of armor that has a Armor rating of 30, with 5 Durability.
 #### Shield Spikes
-   >This creates a set of Shield Spikes that can be applied to a Shield that will allow the character to Reflect Physical. Shield spikes have 3 charges. Only one Shield Spikes or Mirror Coating can be on a shield at a time. The call for this is “Reflect”
+   >This creates a set of Shield Spikes that can be applied to a Shield with 1 Minute of Roleplay that will allow the character to Reflect Physical. Shield spikes have 1 charge. Only one Shield Spikes or Mirror Coating can be on a shield at a time. The call for this is “Reflect”. This does take up a defense slot.
 #### Mirror Coating
-   >This creates a Mirror Coating that can be applied to a Shield that will allow the character to Reflect Spell. Mirror Coatings have 3 charges. Only one Shield Spikes or Mirror Coating can be on a shield at a time. The call for this is “Reflect”
+   >This creates a Mirror Coating that can be applied to a Shield with 1 Minute of Roleplay that will allow the character to Reflect Spell. Mirror Coatings have 1 charge. Only one Shield Spikes or Mirror Coating can be on a shield at a time. The call for this is “Reflect”. This does take up a defense slot.
 
 ### Rank VIII
 
@@ -345,23 +343,23 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Rank X
 
-#### Master Work Short Weapon
+#### Masterwork Short Weapon
    >This creates a master work Short Weapon that has a base damage of 2, with 10 Durability.
-#### Master Work Long Weapon
+#### Masterwork Long Weapon
    >This creates a master work Long Weapon that has a base damage of 2, with 10 Durability.
-#### Work Two Hand Weapon
+#### Masterwork Two Hand Weapon
    >This creates a master work Two Hand Weapon that has a base damage of 2, with 10 Durability.
-#### Master Work Ranged Weapon
+#### Masterwork Ranged Weapon
    >This creates a master work Ranged Weapon that has a base damage of 2, with 10 Durability.
-#### Master Work Armor, Cloth
+#### Masterwork Armor, Cloth
    >This creates a master work suit of armor that has a Armor rating of 10, with 5 Bonus Armor, and with 10 Durability.
-#### Master Work Armor, Leather
+#### Masterwork Armor, Leather
    >This creates a master work suit of armor that has a Armor rating of 20, with 5 Bonus Armor, and with 10 Durability.
-#### Master Work Armor, Hardened Leather
+#### Masterwork Armor, Hardened Leather
    >This creates a master work suit of armor that has a Armor rating of 30, with 5 Bonus Armor, and with 10 Durability.
-#### Master Work Armor, Chain Mail
+#### Masterwork Armor, Chain Mail
    >This creates a master work suit of armor that has a Armor rating of 40, with 10 Bonus Armor, and with 10 Durability.
-#### Master Work Armor, Plate Mail
+#### Masterwork Armor, Plate Mail
    >This creates a master work suit of armor that has a Armor rating of 80, with 10 Bonus Armor, and with 10 Durability.
 
 
@@ -369,13 +367,13 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank I
 
 #### Mining Pickaxe
-   >This is a crafted item for use with the Mining skill. The pickaxe will add an additional raw material rank to the character for each rank of Mining skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
+   >This is a crafted item for use with the Mining skill. The pickaxe will add additional raw material ranks to the character for each rank of Mining skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 #### Foraging Trowel
-   >This is a crafted item for use with the Foraging skill. The trowel will add an additional raw material rank to the character for each rank of Foraging skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
+   >This is a crafted item for use with the Foraging skill. The trowel will add additional raw material ranks to the character for each rank of Foraging skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 #### Salvaging Screwdriver
-   >This is a crafted item for use with the Scrapping skill. The screwdriver will add an additional raw material rank to the character for each rank of Tinkering skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
+   >This is a crafted item for use with the Scrapping skill. The screwdriver will add additional raw material ranks to the character for each rank of Tinkering skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 #### Carving Knife
-   >This is a crafted item for use with the Logging skill. The knife will add an additional raw material rank to the character for each rank of Logging skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
+   >This is a crafted item for use with the Logging skill. The knife will add additional raw material ranks to the character for each rank of Logging skill that the character has. This item is also required for raw material gathering from a node in-game. Tools effects do not stack. Tools have 10 charges.
 #### Lock
    >This recipe allows the Tinkerer to create a lock able to keep out unskilled burglars. Lock physical representations are attached to the main door of a structure. This lock indicates that all portals are locked. The tag for the lock will be attached to the back of the lock presentation, and will note the quality of the lock as well as the lock ID code. To be able to enter a locked structure, a character must have a key tag that is ID associated with the lock. A character with a Key may unlock a Locked door on a 3 count, and may re-lock it on another 3 count.
 #### Key
@@ -397,7 +395,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank III
 
 #### Repair Lock
-   >The tinkerer is able to fix a previously broken lock. The repair of the lock takes 1 minute of  time in addition to the three ranks of raw materials.
+   >The tinkerer is able to fix a previously broken lock. The repair of the lock takes 1 minute of  time in addition to the three ranks of raw materials. This is not a tagged item.
 
 ### Rank IV
 
@@ -425,7 +423,7 @@ Item production is the process by which characters are able to craft consumable 
 #### Mechanical Lifting Device
    >This item assists the character with lifting heavy objects. It is also good for providing extra power for those weapon swings. This item will grant the character +2 bonus strength for 5 minutes each rest period. Activating the Mechanical Lifting Device requires the character to say “Activate Mechanical Lifting Device”. This does not stack with other +Strength effects. This item is consumed at the end of the game day after use.
 #### C-2 Explosive
-   >This item is a small block of clay material that will violently explode when set off by a trigger. The design of this item is such that it is exclusively used for destroying larger items. Applying the C-2 Explosive takes one minute by a Rank VII skilled Tinkerer. Once triggered this item will destroy an item less than 64 inches in length. This item is consumed once used.
+   >This item is a small block of clay material that will violently explode when set off by a trigger. The design of this item is such that it is exclusively used for destroying larger items. Applying the C-2 Explosive takes one minute. Once triggered this item will destroy an item less than 64 inches in length. This item is consumed once used.
 
 ### Rank VIII
 
@@ -437,7 +435,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank IX
 
 #### Magitech Eye
-   >This item detects variations in nearby Aether flows. This allows the user to detect magic for 5 minutes as if they were skilled in Arcane Mastery. This item is consumed in use.
+   >This item detects variations in nearby Aether flows. This allows the user to detect magic at range for 5 minutes. This item is consumed in use.
 #### Unstable Storage Device
    >This item can be applied to a bag or other container to grant it the effect of a Bag of Holding spell. It lasts longer than the normal spell, lasting up to 5 days, but at the end of those 5 days the item ceases functioning.
 
@@ -509,7 +507,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank IX
 
 #### Rune of Recall
-   >This rune, when activated, will mark a spot to which a character bearing the rune may recall themselves, and their equipment, inside of the next day. Equipment will only travel with the character if those items are on the character at the time of recall. The character must be conscious to recall themselves. This item is expended on recalling. The character says “Active Recall, 1 I recall, 2 I recall, 3 I recall”. The character then immediately places on a white headband and proceeds to the location of the rune activation. An individual may only have one Rune of Recall active at a time. If the recall has not been triggered before a day has passed since location designation, it expires.
+   >This rune, when activated, will mark a spot to which a character bearing the rune may recall themselves, and their equipment, within the next day. Equipment will only travel with the character if those items are on the character at the time of recall. The character must be conscious to recall themselves. This item is expended on recalling. The character says “Active Recall, 1 I recall, 2 I recall, 3 I recall”. The character then immediately places on a white headband and proceeds to the location of the rune activation. An individual may only have one Rune of Recall active at a time. If the recall has not been triggered before a day has passed since location designation, it expires.
 
 ### Rank X
 
@@ -543,10 +541,10 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank II
 
 #### Deep Breath Balm
-   >A special balm infused with magically treated herbs designed to clear the airways and enhance the user’s breathing. Once per day, the bearer may partake of these benefits to enhance their use of the Second Wind skill, consuming two uses to immediately heal to Full Health instead of Half. If the user has less than two remaining uses, this may not be activated.<br/>
+   >A special balm infused with magically treated herbs designed to clear the airways and enhance the user’s breathing. Once per day, the bearer may partake of these benefits to enhance their use of the Stamina ability Regeneration, reducing the concentration time from a minute to 30 seconds.<br/>
    >15 Alchemy Materials, 5 Rune Carving Materials, 2 Spirit Gems.
 #### Blade of Enchanted Striking
-   >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require magical effects to harm. While wielding, the wearer may use a Magic carrier for weapon blows.<br/>
+   >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require magical effects to harm. While wielding, the wearer may use Magic damage for weapon blows.<br/>
    >10 Smithing Materials, 10 Rune Carving Materials, 2 Spirit Gems
 
 ### Rank III
@@ -569,9 +567,6 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Rank V
 
-#### Changeling’s Mask
-   >Utilizing the incredible capabilities of a shape-shifter, this Full Face Mask allows the wearer to assume the appearance of a member of the Mask’s race, though they are still recognizable. This cannot be used to emulate other people. If the Mask is removed or is not fully covering the user’s face, the effect fades immediately. This may be used 1/day and the change lasts until the user completes a Rest.<br/>
-   >30 Rune Carving Materials, 20 Tinkering Materials, 5 Spirit Gems.
 #### Accompanying Amulet
    >A boon to Bards of all kinds, the Accompanying Amulet allows the wearer to benefit from their own use of the Performance skill, by replaying their own music, stories or other Performance back to them. This is a Passive effect.<br/>
    >20 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 5 Spirit Gems.
@@ -581,13 +576,13 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank VII
 
 #### Blade of Beginner’s Luck
-   >Enhanced with the Luck of a 5-Leaf Clover, this specially treated blade finds unlikely avenues and helps the wearer strike true where otherwise their blow may have been turned aside. The wielder does +5 Bonus Damage on all uses of any Critical Strike skill while wielding this Blade. But Luck is Fickle, and harder to come by as one grows older, as such, only an individual with 250 total SP or less may benefit from this weapon. This is a Passive effect.<br/>
+   >Enhanced with the Luck of a 5-Leaf Clover, this specially treated blade finds unlikely avenues and helps the wearer strike true where otherwise their blow may have been turned aside. The wielder does an extra +5 Bonus Damage while using Critical Strike ability while wielding this Blade. But Luck is Fickle, and harder to come by as one grows older, as such, only an individual with 250 total SP or less may benefit from this weapon. This is a Passive effect.<br/>
    >40 Smithing Materials, 20 Rune Carving Materials, 10 Tinkering Materials, 7 Spirit Gems.
 
 ### Rank VIII
 
 #### Blade of Mystic Striking
-   >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental OR Magic effects to harm. While wielding, the wearer may deal Flame/Frost/Shock/Stone damage with weapon blows. The damage type is chosen at creation. They may also choose to instead deal Magic damage with their weapon blows. They may only choose to use one of these at a time.<br/>
+   >This specially forged and enhanced blade is designed to help the wearer overcome the defenses of foes who require Elemental and Magic effects in order to harm. While wielding, the wearer may deal Magic and Flame/Frost/Shock/Stone damage with weapon blows. The damage type is chosen at creation.<br/>
    >40 Smithing Materials, 20 Rune Carving Materials, 10 Alchemy Materials, 10 Tinkering Materials, 8 Spirit Gems.
 
 ### Rank IX
@@ -607,7 +602,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank I
 
 #### Bloodhound's Nose Ring
-   >This specially crafted and treated ring is designed to enhance the user’s natural sense of smell. Two times a Day, the character can invoke the power of the Bloodhound to gain the benefits of +5 ranks in Tracking as the ring enhances their natural sense of smell. However, this ring would overpower those without a refined sense of scent, and as such it is only usable by Kindred.<br/>
+   >This specially crafted and treated ring is designed to enhance the user’s natural sense of smell. Two times a Day, the character can invoke the power of the Bloodhound to gain the benefits of two extra success beads in their Tracking bag as the ring enhances their natural sense of smell. However, this ring would overpower those without a refined sense of scent, and as such it is only usable by Kindred.<br/>
    >5 Smithing Materials, 5 Rune Carving Materials, 1 Spirit Gem.
 
 ### Rank II
@@ -635,7 +630,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank VII
 
 #### Turtle’s Torc
-   >Infused with the Protective nature of a Dragon Turtle’s Shell, this Torc is designed to enhance and amplify the protective magics of the user, allowing them to spread the effects wider by channeling the magic through their voice and the Torc. Three times a day, after an individual spends a full 5 Minutes Performing, they may Voice Radius deliver a single cast of either Barkskin, Other or Spell Aegis, Other.<br/>
+   >Infused with the Protective nature of a Dragon Turtle’s Shell, this Torc is designed to enhance and amplify the protective magics of the user, allowing them to spread the effects wider by channeling the magic through their voice and the Torc. Three times a day, after an individual spends a full 5 Minutes Performing, they may Voice Radius deliver a single cast of Barrier.<br/>
    >30 Smithing Materials, 30 Rune Carving Materials, 10 Alchemy materials, 7 Spirit Gems.
 
 ### Rank VIII
@@ -653,5 +648,5 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank X
 
 #### Mage’s Folly
-   >An item of fearsome power and renown, it earned its name for the often fatal after effects of those with the hubris to use this item without proper respect for the consequences. At will, the wearer of Mage’s Folly may Voice Radius deliver any spell they are capable of casting. However, upon doing so they are struck by a Non-Resistable, Incurable Silence effect, which is only removed after the wearer benefits from a full 2 Hour Rest. This item may not be used to deliver any Self only spells, any spells that only affect items (ex: Focused Destruction), or Circle of Power.<br/>
+   >An item of fearsome power and renown, it earned its name for the often fatal after effects of those with the hubris to use this item without proper respect for the consequences. At will, the wearer of Mage’s Folly may Voice Radius deliver any spell they are capable of casting. However, upon doing so they are struck by a Non-Resistable, Incurable Silence effect, which is only removed after the wearer benefits from a full 2 Hour Rest. This item may not be used to deliver any Self only spells, any spells that only affect items (ex: Destroy), or Circle of Power.<br/>
    >50 Rune Carving Materials, 30 Smithing Materials, 20 Tinkering Materials, 10 Spirit Gems.
