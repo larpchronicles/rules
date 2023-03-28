@@ -23,24 +23,24 @@ In order to cast a spell, a character must possess the appropriate School Initia
 
 At each Rest (and before first coming into game), the character may distribute their Mana Points across each school for which they possess the School Initiation skill. Their allocation can only be changed once their Rest is completed. Once distributed, the character may cast the spells in that school on the fly, deducting the Mana Point cost of the spell from their points allocated to that school.
 
-Characters may alternatively choose to explicitly memorize their spell list. Doing so grants a bonus 10% total Mana Points to be distruted. The character must mark down how many of which spells they have chosen to memorize, and they may then only cast those spells (until their next Rest).
+Characters may alternatively choose to explicitly memorize their spell list. Doing so grants a bonus 10% total Mana Points to be distributed. The character must mark down how many of which spells they have chosen to memorize, and they may then only cast those spells (until their next Rest).
 
 
 ## Spells By Level and School
 ---
 
-| Level | Universal               | Arcane                                                     | Spirit                                                                                           | Nature                                                                      | 
-|-------|-------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| 1     | Glowing Light           | Blinding Light<br>Mana Bolt                                | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds                                          | Command: Drop<br>Grasping Grasses<br>Purify Food and Drink                 | 
-| 2     |                         | Disrupt Aether<br>Halt<br>Mana Bolt                        | Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Heal Wounds<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike  | 
-| 3     |                         | Limited Time Stop<br>Mana Bolt                             | Cause Weakness<br>Cure Weakness<br>Heal Wounds                                                    | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom                      | 
-| 4     | Barrier                 | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†             | Heal Wounds<br>Rot Limb                                                                          | Entangle Arms<br>Command: Kneel<br>Command: Stun                            |          
-| 5     | Entrap Spirit           | Conjure Shield<br>Enchanted Blade<br>Mana Bolt             | Cure Body<br>Field Resurrection<br>Heal Wounds<br>Revivify                                        | <br>Command: Silence<br>Strengthen Resolve<br>Treehome†                     |
-| 6     |                         | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify                                                      | Command: Sleep<br>Entangle Body                                             | 
-| 7     |                         | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock                 | Curse<br>Heal Wounds<br>Preserve Corpse<br>Vampiric Touch                                        | Command: Confuse<br>Confine                                                 | 
-| 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Blur Image†<br>Mana Bolt                 | Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Restore Body<br>Repair Undead      | Boon of the Cat<br>Petrify                                                  |
-| 9     |                         | Circle of Power<br>Mana Bolt                               | Create Undead<br>Heal Wounds<br>                                                                  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other                           |
-| 10    |                         | Arcane Torrent<br>Doom                                     | Death<br>Life                                                                                    | Spider Web                                                                  |
+| Level| Universal | Arcane | Spirit | Nature| 
+|---|---|---|---|---|
+| 1     | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Drop<br>Grasping Grasses<br>Purify Food and Drink | 
+| 2     |   | Disrupt Aether<br>Halt<br>Mana Bolt| Blood Sacrifice<br>Close Wounds<br>Cure Blindness<br>Harm Undead<br>Heal Wounds<br>Healing Touch<br>Remove Fear | Boon of Nature<br>Entangle Foot<br>Plant Spike  | 
+| 3     | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Cure Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom| 
+| 4     | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb| Entangle Arms<br>Command: Kneel<br>Command: Stun |
+| 5     | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cure Body<br>Field Resurrection<br>Heal Wounds<br>Revivify | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
+| 6     | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify| Command: Sleep<br>Entangle Body| 
+| 7     | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Preserve Corpse<br>Vampiric Touch | Command: Confuse<br>Confine| 
+| 8     | Dispel Magic<br>Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Restore Body<br>Repair Undead| Boon of the Cat<br>Petrify|
+| 9     |  | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>| Treewalk†<br>Regenerate<br>Wrath of Nature, Other|
+| 10    |     | Arcane Torrent<br>Doom| Death<br>Life | Spider Web |
 
 
 ## Universal
@@ -48,6 +48,8 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 #### **Glowing Light**
 | Spell            | **Glowing Light** |
 |      :---        |       :---         |
+| **School**|  Universal |
+| **Level**|   1 |
 | **Duration**     | 12 hours | |
 | **Incant**       | "I conjure a glowing light." |
 | **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another.   |
@@ -56,39 +58,39 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 | **Spell** | **Barrier** |
 |-----------|-------------|
-| School                 | Universal |
-| Level                  | 4 |
-| Duration               | Rest |
-| Incant                 | "I conjure a \<type\> barrier." |
+| **School**|  Universal |
+| **Level**|   4 |
+| **Duration**  | Rest |
+| **Incant**   | "I conjure a \<type\> barrier." |
 | **Description**        | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. A character may not have more than 1 Active Resist at a time. |
 
 ### Universal Level 5
 #### **Entrap Spirit**
-| **Spell**            | **Entrap Spirit**                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|      :---        |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| School                 | Universal                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Level                  | 5                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Duration**     | 20 Seconds                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Incant**     | "By my will, I entrap your spirit."                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Spell**            | **Entrap Spirit**|
+|      :---        |:---|
+| **School** | Universal|
+| **Level**  | 5 |
+| **Duration**     | 20 Seconds |
+| **Incant**     | "By my will, I entrap your spirit."|
 | **Description** | This spell attempts to claim a portion of the target’s essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. Once cast on the target, if the target is killed within 20 seconds, the caster may collect a Spirit Gem tag from a plot member. If you are harvesting a specific creature’s essence for story or ritual purposes, be sure to notify plot so the tag can be noted appropriately. |
 
 ### Universal Level 8
-| **Spell**    | **Reflect**                                                                                                                                                                                           |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| School                 | Universal                                                                                                                                                                                             |
-| Level                  | 8                                                                                                                                                                                                     |
-| **Duration** | Rest                                                                                                                                                                                                  |
-| **Incant**   | "I conjure a reflect \<type\>."                                                                                                                                                                       |
+| **Spell**    | **Reflect**|
+|      :---        |:---|
+| **School** | Universal |
+| **Level** | 8  |
+| **Duration** | Rest |
+| **Incant**   | "I conjure a reflect \<type\>."|
 | **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. A character may not have more than 1 Active Reflect at a time. |
 
 ### Universal Level 9
 #### **Dispel Magic**
-| **Spell**            | **Dispel Magic**                                                                                                                                                                                                                                         |
-|      :---        |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| School                 | Universal                                                                                                                                                                                                                                                |
-| Level                  | 9                                                                                                                                                                                                                                                        |
-| **Duration**     | Instant                                                                                                                                                                                                                                                  |
-| **Incant**     | "By my will, I dispel magic."                                                                                                                                                                                                                            |
+| **Spell**            | **Dispel Magic**|
+|      :---        |:---|
+| **School**  | Universal|
+| **Level**  | 9 |
+| **Duration**     | Instant|
+| **Incant**     | "By my will, I dispel magic."|
 | **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
 
 ## Arcane
@@ -237,12 +239,12 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 
 ### Arcane Level 10
-| **Spell**    | **Arcane Torrent**                                                                                                                                                                                                                                              |
-|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **School**   | Arcane                                                                                                                                                                                                                                                          |
-| **Level**    | 10                                                                                                                                                                                                                                                              |
-| **Duration** | Concentration                                                                                                                                                                                                                                                   |
-| **Incant**   | "I rain destruction about you all! ... Magic mana bolt 5, Magic mana bolt 5, ..."                                                                                                                                                                               |
+| **Spell**    | **Arcane Torrent**|
+|--------------|---|
+| **School**   | Arcane|
+| **Level**    | 10 |
+| **Duration** | Concentration|
+| **Incant**   | "I rain destruction about you all! ... Magic mana bolt 5, Magic mana bolt 5, ..."|
 | **Description** | The caster plants their feet and is able to throw "Magic Mana Bolt 5" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
 
 | **Spell**    | **Doom**                      |
@@ -473,7 +475,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**    | 10                                                       |
 | **Duration** | Instant                                                  |
 | **Incant**   | "I grant you the gift of death X... Magic Heal Wounds X" |
-| **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touchcast a Magic Heal Wounds 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
+| **Description** | The caster saps the vital force of the target for 25 damage, then within 3 seconds, the caster may touch-cast a Magic Heal Wounds 25. The damage and healing can be increased by +5 points for each additional mana point expended at time of cast, up to the character's current available mana. Regardless of the result of the damage portion of the spell, the caster may still cast the healing portion (ie, if the damage is resisted or missed, the caster may still cast the Magic Heal Wounds). |
 
 #### **Life**
 | **Spell**            | **Life** |

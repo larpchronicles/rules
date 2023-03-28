@@ -12,12 +12,12 @@ Item production is the process by which characters are able to craft consumable 
 | Quarternary Gathering Skill      | 3+1     | 3+1     | 3+1     | 3+1     | -             |
 
 
-| _**Production Skill**_                 | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_                                                 |
-|----------------------------------------|---------|---------|---------|---------|---------------------------------------------------------------|
-| &ast;Primary Crafting Skill            | 1+1     | 1+1     | 1+1     | 1+1     | Foraging                                                      |
-| Secondary Crafting Skill               | 1+1     | 1+1     | 1+1     | 1+1     | Logging                                                       |
-| Tertiary Crafting Skill                | 2+1     | 2+1     | 2+1     | 2+1     | Scrapping                                                     |
-| Quarternary Crafting Skill             | 3+1     | 3+1     | 3+1     | 3+1     | Mining                                                        |
+| _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_|
+|---|---|---|---|---|---|
+| &ast;Primary Crafting Skill | 1+1     | 1+1     | 1+1     | 1+1     | Associated Gathering Skill | |
+| Secondary Crafting Skill | 1+1     | 1+1     | 1+1     | 1+1     | Associated Gathering Skill | |
+| Tertiary Crafting Skill | 2+1     | 2+1     | 2+1     | 2+1     | Associated Gathering Skill  | |
+| Quarternary Crafting Skill | 3+1     | 3+1     | 3+1     | 3+1     | Associated Gathering Skill | |
 | [Artificing](#artificing-products)     | 25      | 25      | 25      | 25      | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 
 &ast;Your first Primary Crafting Skill does not have to be the skill you unlock with your first Primary Gathering Skill.  Production Skills can be unlocked in any order as long as the prerequisite skills are met.

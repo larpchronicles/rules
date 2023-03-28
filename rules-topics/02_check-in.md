@@ -71,7 +71,7 @@ There are no assigned cabins, but there is a requirement that you allow others t
 * Tenting is allowed if preferred.
 
 ### Camp Illinek
-* CampMaster Lodge has eight twin beds and is for Plot Team and Full-Time NPCs only, but may be used if all other areas are full.
+* CampMaster Lodge has eight twin beds.  One half of this building is for Plot Team and Full-Time NPCs only, the other half is for player sleeping.
 * The Sailing Center has sixteen bunk beds and four twin beds.
 * There is space to set up a cot, air mattress, or sleeping mat.  As the number of beds is limited, if you have a cot, mattress, or mat available, it is suggested to bring it.
 
@@ -140,9 +140,9 @@ We follow guidelines from the CDC and the state of Illinois.  Please get your va
 Face masks are welcome.  NPC Camp/Logistics will have N95 and KN95 masks available at check in.
 
 ### Covid Tests
-(As of 2022-07-30)
+(As of 2023-03-01)
 
-Currently, we are requiring a negative COVID test result in order to participate in the event.  Tests may be taken as early as two days prior to the event.  NPC Camp/Logistics will have some tests available during check in, however it is strongly suggested that you test prior to driving out.
+We are not requiring the submission of negative COVID tests.  Testing remains encouraged in order to protect yourself and the members of our community that are immunocompromised or high-risk.
 
 COVID Resources, How to get Tests, and Test Submission info can be found here: http://larpchronicles.com/covid
 
