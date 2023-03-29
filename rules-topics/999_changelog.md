@@ -1,5 +1,11 @@
 # Changelog
 
+## v3.0.4 [2023-03-28]
+
+---
+### Armor
+* Updated language, terms, and examples.
+
 ## 3.0.3 [2023-03-13]
 
 ---
