@@ -15,7 +15,7 @@ Any character with 1 or more Current Body is “**Alive**.”
 ## Unconscious
 
 ---
-A character whose Current Body is exactly 0 is considered **Unconscious**. A character who is Unconscious is unable to take any actions that require active thought or movement, and the character is considered helpless. Being **Unconscious **lasts for 5 minutes, at the end of which time the character is returned to consciousness with 1 Body. If a character takes any additional damage while at 0 and **Unconscious**, they proceed to begin **Bleeding Out**.
+A character whose Current Body is exactly 0 is considered **Unconscious**. A character who is Unconscious is unable to take any actions that require active thought or movement, and the character is considered helpless. Being **Unconscious** lasts for 1 minute, at the end of which time the character is returned to consciousness with 1 Body. If a character takes any additional damage while at 0 and **Unconscious**, they proceed to begin **Bleeding Out**.
 
 
 ## Bleeding Out (aka Dying)
