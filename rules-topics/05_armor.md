@@ -3,16 +3,16 @@
 ## Armor Mechanics
 
 ---
-Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of armor up to their Armor Cap determined by what skills they have purchased. If the character is not using Fencing or Stalwart defense, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of armor. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from their armor, the character must possess the appropriate armor item tag.
+Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of Armor Points up to their Armor Cap determined by what skills they have purchased. If the character is not using Dexterity Armor, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of Armor Points. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from Phys-repped armor, the character must possess the appropriate armor item tag.
 
 ### Armor and Combat
 
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
-Once a character's Armor Points are below their maximum total, they may recover them through one of three methods:  
-1. The Rapid Refit martial skill, which requires 5 seconds of uninterrupted roleplay to restore a character's Armor Point total back to its maximum.
-2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character's armor total back to its maximum.
-3. Using a Repair Kit, a crafted item by Smiths, cuts the roleplay time required to repair armor in half, to 30 seconds.
+Once a character’s Armor Points are below their maximum total, they may recover them through one of two methods:  
+1. The Rapid Refit Stamina Ability, which requires 5 seconds of uninterrupted roleplay to restore a character’s Armor Point total back to its maximum.
+2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character’s armor total back to its maximum.
+The time required may be lowered by specific items, skills, or abilities.
 
 ## Armor Point Calculations
 
@@ -104,28 +104,30 @@ While a player may wear armor wherever and however they choose as is thematicall
 * Torso - Front and Back
 
 If a character only wears half of a paired location (arms, shoulders, legs), they will only get half the given value for that armor. \
->Example: Verse wears a plate pauldron on only his left shoulder, leaving his right shoulder uncovered.
- 
-This means it would count as 8 armor instead of the full 16. If he happened to wear a chain shirt that covered his other shoulder, that would give him another 4 points of armor (half of chain mail 8 for shoulder location.) For a total of 12 Armor from his two shoulders.
+>Example: Verse wears a plate pauldron on only his left shoulder, leaving his right shoulder uncovered. This means it would count as 8 armor instead of the full 16. If he happened to wear a chain shirt that covered his other shoulder, that would give him another 4 points of armor (half of chain mail 8 for shoulder location.) For a total of 12 Armor from his two shoulders.
 
 ### ARMOR LOCATION REFERENCE
 >Example: Spurt the Kobold has purchased enough Armor Training to raise their total Armor Cap to 30 points.
-* They have not purchased any ranks in Fencing or Stalwart Defense, and so they must wear a phys rep of all their armor.
+* They have not purchased any ranks in Dexterity Armor, and so they must wear a phys rep of all their armor.
 * Spurt is wearing a chain shirt (16 points), hard leather greaves (6 points), hard leather pauldrons (6 points), and cloth bracers (2 points).
 * Spurt possesses an Armor Tag for 30 points of Armor.
 
 Altogether, Spurt is wearing a total of 30 Armor Points, and has an Armor Cap of 30, which means they are able to use all of their Armor Points during combat.
 
 >Example:  Villi the Forged has purchased enough Armor Training to raise their Armor Cap to 45 points.
-* They have purchased 2 ranks of Stalwart Defense, which allows them to have another 10 Armor Points without an armor phys rep.
-* They are wearing a plate torso piece (36 points), hard leather bracers (6 points) and hard leather greaves on their legs (6 points).
+* They are wearing a plate torso piece (32 points), and plate bracers (16 points).
 * Villi possesses an Armor Tag for 45 points of Armor.
 
-Villi is wearing a total of 48 Armor Points, plus their ranks in Stalwart Defense which brings their total to 58. Because this is over their Armor Cap, they will only be able to use 55 Armor Points.
+Villi is wearing a total of 48 Armor Points. Because this is over their Armor Cap, they will only be able to use 45 Armor Points.
 
 >Example:  Raphael the Elf has purchased enough Armor Training to raise their Armor Cap to 20 points.
-* They have purchased 4 ranks of Fencing, which allows them to have another 20 Armor Points without an armor phys rep.
-* They are wearing a chain torso piece (16 points) and leather bracers (4 points).
+* They have purchased 4 ranks of Dexterity Armor, which allows them to have 20 Armor Points without an armor phys rep or Armor Tag.
 * Raphael currently does not possess an armor tag.
 
-Raphael is wearing a total of 40 points of armor, 20 from phys reps and 20 from Fencing, however, because they do not possess an item tag for their armor, they may not benefit from any phys-repped armor. As such, their current armor total is 20 from Fencing. If Raphael gets an Armor Tag worth at least 20 points, they will be able to benefit from their full armor.
+Raphael is wearing a total of 20 points of armor from Dexterity Armor. 
+
+>Example:  Malokis the Tank has purchased enough Armor Training to raise their Armor Cap to 90 points.
+* They are wearing a plate torso piece (32 points), plate bracers (16 points) and plate greaves on their legs (16 points), and plate pauldrons on their shoulders (16 points).
+* Malokis possesses an Armor Tag for 80 points of Masterwork Armor. Which provides a bonus 10 armor points that do not need to be repped.
+
+Malokis is wearing a total of 90 points of armor from his plate and Masterwork Bonus. 
