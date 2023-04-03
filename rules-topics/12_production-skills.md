@@ -1,6 +1,6 @@
 # Crafting
 
-Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are four material harvesting skills ([Foraging](#foraging-products), [Logging](#logging-products), [Scrapping](#scrapping-products), and [Mining](#mining-products)) and five crafting skills ([Alchemy](#alchemy-products), [Rune Carving](#rune-carving-products), [Tinkering](#tinkering-products), [Smithing](#smithing-products), and [Artificing](#artificing-products)).
+Item production is the process by which characters are able to craft consumable items within the game system. These items make up the backbone of the game economy and help support the various skills in the game. There are four material harvesting skills ([Foraging](#foraging-products), [Logging](#logging-products), [Mining](#mining-products), and [Scrapping](#scrapping-products)) and five crafting skills ([Alchemy](#alchemy-products), [Rune Carving](#rune-carving-products), [Smithing](#smithing-products), [Tinkering](#tinkering-products), and [Artificing](#artificing-products)).
 
 ## Crafting Skill Costs
 
@@ -12,17 +12,16 @@ Item production is the process by which characters are able to craft consumable 
 | Quarternary Gathering Skill      | 3+1     | 3+1     | 3+1     | 3+1     | -             |
 
 
-| _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_|
-|---|---|---|---|---|---|
-| &ast;Primary Crafting Skill | 1+1     | 1+1     | 1+1     | 1+1     | Associated Gathering Skill | |
-| Secondary Crafting Skill | 1+1     | 1+1     | 1+1     | 1+1     | Associated Gathering Skill | |
-| Tertiary Crafting Skill | 2+1     | 2+1     | 2+1     | 2+1     | Associated Gathering Skill  | |
-| Quarternary Crafting Skill | 3+1     | 3+1     | 3+1     | 3+1     | Associated Gathering Skill | |
-| [Artificing](#artificing-products)     | 25      | 25      | 25      | 25      | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
+| _**Harvesting Skill**_           | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_ |
+|----------------------------------|---------|---------|---------|---------|---------------|
+| Primary Crafting Skill           | 1+1     | 1+1     | 1+1     | 1+1     | -             |
+| Secondary Crafting Skill         | 1+1     | 1+1     | 1+1     | 1+1     | -             |
+| Tertiary Crafting Skill          | 2+1     | 2+1     | 2+1     | 2+1     | -             |
+| Quarternary Crafting Skill       | 3+1     | 3+1     | 3+1     | 3+1     | -             |
+| [Artificing](#artificing-products)| 25     | 25      | 25      | 25      | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 
-&ast;Your first Primary Crafting Skill does not have to be the skill you unlock with your first Primary Gathering Skill.  Production Skills can be unlocked in any order as long as the prerequisite skills are met.
-<Br>
-<Br>
+
+
 | _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_ |
 |-----------------------|---------|---------|---------|---------|---------------|
 | Recycling             | 10      | 10      | 10      | 10      | -             |
@@ -30,16 +29,16 @@ Item production is the process by which characters are able to craft consumable 
 ## Material Harvesting Skills 
 
 #### Foraging
->This skill is the prerequisite for the Alchemy Skill and is used to gather the materials for it. Foraging represents the character collecting herbs, making powders, and mixing base ingredients for use in Alchemy.
+>This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, making powders, and mixing base ingredients for use in Alchemy.
 
 #### Logging
->This skill is the prerequisite for the Rune Carving Skill and is used to gather the materials for it.  Logging represents the character collecting pieces of wood and shaping them into basic shapes for wands and rune marks.
+>This skill is the is used to gather the materials for the Rune Carving Skill. Logging represents the character collecting pieces of wood and shaping them into basic shapes for wands and rune marks.
 
 #### Mining
->This skill is the prerequisite for the Smithing Skill and is used to gather the materials for it.  Mining represents the character digging out raw ore, and collecting other sundry items for use with the Smithing skill.
+>This skill is the is used to gather the materials for the Smithing Skill. Mining represents the character digging out raw ore, and collecting other sundry items for use with the Smithing skill.
 
 #### Scrapping
->This skill is the prerequisite for the Tinkering Skill and is used to gather the materials for it.  Scrapping represents the character collecting scrap metals, bits of debris, and reclaiming materials from junkyards for use with the Tinkering skill.
+>This skill is the is used to gather the materials for the Tinkering Skill. Scrapping represents the character collecting scrap metals, bits of debris, and reclaiming materials from junkyards for use with the Tinkering skill.
 
 ## Raw Materials
 >Production materials are ranked I-V. Characters with a gathering skill will be rewarded one rank of raw material for each rank of gathering skill that they possess, per day of the event. Characters using the gathering tools from Tinkering will receive an additional raw material rank for each skill rank in gathering that they possess. Additional raw materials can be bargained for  from NPCs, or other players. Characters can also search around in-game and gather raw materials from nodes in the game.
