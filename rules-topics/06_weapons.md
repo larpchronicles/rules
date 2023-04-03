@@ -5,7 +5,7 @@
 
 ---
 * All combat reps must be certified as safe. Safety checks for all combat reps may be performed at check-in.  Safety checks MUST be performed EVERY EVENT; they do not carry over from prior events.  A marshal may request to inspect your reps at any time during the event, and, if deemed unsafe, may lose their safety certification.
-* Claws / Bites or Unarmed weapons must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.
+* Claws / Bites must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.
 * Real archery reps are disallowed.  Packet Bows are allowed on a case-by-case basis.
 
 
