@@ -201,9 +201,9 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 |:---|:---|
 | **School** | Arcane|
 | **Level** | 5 |
-| **Duration**  | Instant |
+| **Duration**  | 20 Seconds |
 | **Incant**  | "With arcane forces, I move across time and space." |
-| **Description** |  This spell will slowly teleport the caster 10 steps in any direction even with the material plane. The teleport must not be impeded by walls or other physical barriers. The teleport will not allow the caster to teleport inside of solid matter. Once this spell is cast, the caster will complete a three second count teleporting out, move their 10 steps, and then three second count for their teleport back in. While in transit, the caster may not communicate with others, use any skills, or activate any items. The character is immune to all game effects except Dispel Magic and Rift Lock while in transit. When this spell ends, the caster may not cast this spell again for 5 seconds. |
+| **Description** |  This spell will teleport the caster up to 10 steps in any direction. The teleport may not be impeded by walls or other physical barriers. Once this spell is cast, the caster will complete a three second count rifting out, move to a location with 10 steps, and then three count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The caster must immediately move upon completion of the Rift Out three count. The caster must begin their Rift In three count within 20 seconds of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. |
 
 #### **Nullify Spell**
 | **Spell** | **Nullify Spell** |
@@ -250,7 +250,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | 20 Seconds |
 | **Incant**  | "I conjure a rift lock." |
-| **Description** |  This spell interrupts and prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Tree Stride, Rift, and Rune of Recall.  This is a RIFT LOCK effect. |
+| **Description** |  This spell prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Treewalk, Rift, and Rune of Recall.  If this spell hits a target who has begun a Rift Out or similar count, this spell interrupts it. This is a RIFT LOCK effect. |
 
 ### Arcane Level 8
 
@@ -715,9 +715,9 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 |:---|:---|
 | **School** | Nature |
 | **Level** | 9 |
-| **Duration**  | Instant |
+| **Duration**  | 1 Minute |
 | **Incant**  | "By the flora, grant me your stride." |
-| **Description** |  This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second counted action to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second counted action. During both counted actions, the character is immobile and cannot attack or defend themselves. If for some reason the caster is unable to reach another tree within 100 steps, then they must return to the original tree, and upon a 3 second arrival, immediately gain the DEAD status and begin their death count. |
+| **Description** |  This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second Rift Out to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second Rift In. During both Rift counts, the character is immobile and cannot attack or defend themselves. The caster must begin their Rift In three count within 1 Minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. |
 
 #### **Regenerate**
 | **Spell** | **Regenerate** |

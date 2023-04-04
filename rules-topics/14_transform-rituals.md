@@ -296,7 +296,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 10|
-| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. This is a self-only ability.|
+| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. User must proceed directly to the location and Rift In immediately upon arrival. This is a self-only ability.|
 
 #### Voice Control &lt;Entity>
 | Name: | Voice Control &lt;Entity>|
@@ -354,4 +354,4 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 20|
-| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. The user may choose to allow any other individuals in contact with them to join the Rift.|
+| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count.  The user may choose to allow any other individuals in contact with them to join the Rift. User and any others must proceed directly to the location and Rift In immediately upon arrival.|

@@ -74,7 +74,7 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | REDUCE | Ability user takes half damage from x effect, rounded up.|Reduce| No |
 | REGENERATE | Ability user with CONSCIOUS status restores full HP/body after 1 minute of CONCENTRATION effect. | Regenerating / Regenerate Complete |Yes ||
 | REVIVE| Unless target was affected by <x> within 20 seconds of becoming Dead, or was Killing Blowed at any time by <x>, then at 4 minutes 59 seconds of Death count, instead of dissipating, the player announces "Revive" and the target is healed to full HP/body and all status effects are removed. |Revive | No |
-| RIFT | Ability user teleports to a location specified by the caster. User must have been physically present in the location previously.|1 I Rift, 2... 3...|Yes |
+| RIFT | Ability user teleports to a location specified by the caster. User must have been physically present in the location previously. User must move directly to their destination and Rift In immediately upon arrival. |1 I Rift, 2... 3...|Yes |
 | RIP FREE | Ability user may escape ENTANGLE effects. | 1 I Rip free, 2.. 3.. | Not Applicable |
 | SPIRIT BOTTLE | Ability user dissipates at 0 HP/body instead of taking UNCONSCIOUS status and reforms at the location of their spirit bottle. Ability user suffers no Strain. Spirit bottle is destroyed after x uses. | N/A | No |
 | THRESHOLD| Ability user only takes minimum damage for any damage taken equal to or less than x.|Minimal| No |

@@ -501,7 +501,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Rank IX
 
 #### Rune of Recall
-   >This rune, when activated, will mark a spot to which a character bearing the rune may recall themselves, and their equipment, within the next day. Equipment will only travel with the character if those items are on the character at the time of recall. The character must be conscious to recall themselves. This item is expended on recalling. The character says "Active Recall, 1 I recall, 2 I recall, 3 I recall". The character then immediately places on a white headband and proceeds to the location of the rune activation. An individual may only have one Rune of Recall active at a time. If the recall has not been triggered before a day has passed since location designation, it expires.
+   >This rune, when activated, will mark a spot to which a character bearing the rune may recall themselves, and their equipment, within the next day. Equipment will only travel with the character if those items are on the character at the time of recall. The character must be conscious to recall themselves. This item is expended on recalling. The character says "Active Recall, 1 I recall, 2 I recall, 3 I recall". The character then immediately places on a white headband and immediately proceeds to the location of the rune activation. Once the character arrives at the location, they must immediately Rift In on a 3 count. An individual may only have one Rune of Recall active at a time. If the recall has not been triggered before a day has passed since location designation, it expires.
 
 ### Rank X
 
