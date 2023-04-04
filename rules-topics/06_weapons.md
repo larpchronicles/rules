@@ -8,18 +8,21 @@
 * Claws / Bites must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.
 * Real archery reps are disallowed.  Packet Bows are allowed on a case-by-case basis.
 
-
 | WEAPON              | STRIKING SURFACE | HANDLE LENGTH | TOTAL LENGTH | HEAD REQUIRED |
 |:--------------------|:----------------:|:-------------:|:------------:|:-------------:|
 | Short Sword / Claws |    18" - 24"     |   5" - 14"    |   24" - 36"  |      No       |
 | Short Blunt / Axe   |    18" - 24"     |   5" - 14"    |   24" - 36"  |      Yes      |
 | Long Sword / Bites  |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      No       |
 | Long Blunt / Axe    |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      Yes      |
-| Two-Handed Sword    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      No       |
-| Two-Handed Blunt    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      Yes      |
+| Two-Handed Sword    |    40" - 48"     |   5" - 30"    |  >48" - 60"  |      No       |
+| Two-Handed Blunt    |    40" - 48"     |   5" - 30"    |  >48" - 60"  |      Yes      |
 | Spear (One-Handed)  |    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
 | Polearm             |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
 | Parrying Dagger     |    7"  - 13"     |   5" - 6"     |   12" - 18"  |      No       |
+
+-You cannot stab with a short blunt weapon, long blunt weapon, or a polearm.
+<BR>
+-You cannot swing (must stab) with a spear.
 
 ### Striking Surface ### 
 The striking surface specifies the minimum and maximum amount of padded striking surface the weapon *must* have. _Any weapon that has less padding than the specified minimums will not pass inspection, even if it falls within the Total Length requirements!_
@@ -56,10 +59,16 @@ A few online storefronts will have ready made things, but please do ask others h
 ## Bows and Crossbows
 
 ---
+
+### Bows
+A Bow must be curved and formed in the shape of a bow. Overall length in a straight line from tip to tip must be between 34 and 58 inches and the curve of the bow can be a maximum of 12 inches.  A bow must pass all standard safety checks.
+
 ### Crossbows
 The stock must be at least 12" long, and each limb must extend at least 6" from the stock (making the whole thing at least 12" wide).
 
 If you wrap a string around the perimeter of the rep, the area it encloses must be at least 72 sq. in. (A 12" base, 12" height isosceles triangle).
+
+The maximun dimensions for a crossbow are 24" x 24".
 
 If attached to your arm, you cannot use the bow while holding anything else in that hand, you cannot use the crossbow to block attacks, and you cannot attack with any melee weapons in either hand. If you want to be able to block with a shield, a weapon, or attack with a weapon, you must first remove the crossbow from your arm (or securely fold the limbs to the stock). If you are struck by any weapon, even if it does not strike the bow, you must spend at least 3 seconds roleplaying restringing the bow before you may fire it again.
 
@@ -91,12 +100,9 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 ## Shields
 
 ---
-* The shortest dimension a shield may have is 12".
-* The longest dimension a shield may have is 36".
-* Everything attached to the shield and its edges (such as foam edging) counts as part of the shield.
-* The maximum allowed surface area of a shield is 531 square inches and is calculated as if the shield were a flattened surface, counting any concavities into the silhouette.
-* If a shield is curved or has three dimensions such as a partial cylinder or dome, that surface area is calculated into the total surface area.
-* It is highly suggested that when making a shield rep, any fabric is detachable to prevent mold buildup.
+A shield cannot be less then 12" or longer than 36" in any dimension (including diagonally), and must encompass an area less than 531 sq. in. A perfectly circular shield could have a diameter of 26in). Everything that is part of the shield counts as the shield. The surface area of the shield is calculated as if the shield were a flattened surface, and counts concavities in the shield's silhouette. If the shield is curved or the face of the shield has three dimensions (ex: A partial cylinder, a dome shield, etc.), then the area is calculated including that space. If you cover the face of your shield with tape, then the area of the shield would be (at minimum) equal to the area of tape. If you took a string and wrapped it around the shield edge, the shape enclosed by that string is (at minimum) the area of the shield.
+
+It is highly suggested that when making a shield rep, any fabric is detachable to prevent mold buildup.
 
 ### Shield Crafting Materials
     Pending.
