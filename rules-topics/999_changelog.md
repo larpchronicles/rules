@@ -1,10 +1,84 @@
 # Changelog
 
-## v3.0.4 [2023-03-28]
+## 3.0.5 [2023-03-26]
+
+---
+### Introduction
+* Formatting fixes.
+* Link Updates
+
+### Check-In
+* Link Update.
+
+### Armor 
+* Formatting fixes.
+
+### Combat
+* Clarified that Dual-Wield requires at least one weapon be Short length.
+
+### Defense Skills
+* Added Armor Cap table.
+* Added clarification to Dexterity Armor.
+
+### Effects
+* BLEED removed.
+* LIFE updated (no longer provides immunity).
+
+### Stamina
+* Disarm updated.
+* Slay description and incant updated.
+* Stun is now Level 8.
+
+### Agility
+* Ballista incant updated.
+
+### Magic
+* Entrap Spirit updated. Now lasts until rest, requires dissipation, may hit target up to 20 seconds after dissipating.
+* Command: Drop is now Command: Disarm, description updated.
+* Cure Body is now Cleanse, updated. Removes single effect of target's choice, except DRAIN, DEAD, UNCONSCIOUS, or INFECT.
+* Close Wounds, Remove Fear, Cure Blindness, Cure Weakness, Restore Body removed.
+* Destroy Undead now only does 80 damage, no instant-kill.
+* Life updated (No longer provides immunity)
+* Death updated, now does flat 50 damage, no healing, but if it reduces target to 0 or less, renders them Dead
+* Command: Stun is now Level 8
+* Petrify removed.
+* Plant Spike updated. 10 Normal, may be held until Rest.
+* Fixed Dull Pain level to 6.
+* Added damage to Destroy Undead incant.
+* Removed Blood Sacrifice.  BLEED no longer an effect.
+
+### Production
+* Flechette Projectile removed (No More Bleeds)
+* Mirror Shield and Shield Spikes now have 1 charge, require 1 minute to apply, and take a Defense Slot.
+* Elemental Oils cannot be used on Claws or Unarmed
+* Anti-Element Lotions take a defense slot.
+* C2 updated to not require a tinker.
+* Magitech Eye updated, no more Arcane Mastery reference.
+* Turtle's Torc updated, Barrier spell
+* Bloodhound's Nose Ring updated, adds success beads.
+* Blade of Beginner's Luck updated to match new Critical Strike ability.
+* Deep Breath balm now halves Stamina's Regeneration ability time.
+* Formatting Fixes.
+* Removed Bloodletting Coating.  BLEED no longer an effect.
+
+### Ritual Magic, Necromancy
+* Formatting Fixes.
+
+### Transform Abilities
+* Body is now a Passive
+* Proficiency Expert added.
+* Formatting fixes.
+
+### README
+* Updated version
+
+
+## v3.0.4 [2023-03-26]
 
 ---
 ### Armor
 * Updated language, terms, and examples.
+
 
 ## 3.0.3 [2023-03-13]
 

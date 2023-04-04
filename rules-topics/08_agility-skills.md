@@ -136,7 +136,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Type**| Agility|
 | **Level**| 7 |
 | **Duration** | Rest |
-| **Call**| “(Pending)” |
+| **Call**| “[Number] [Damage type] Vital” |
 | **Description** |This skill allows the user to throw Vital against a single target.  Damage may not be increased by any other skill or effect except Proficiency, Critical Strike, and Backstab.|
 | **Requirements**| Ranged Weapon|
 
