@@ -27,7 +27,7 @@
 
 ### Stamina
 * Disarm updated.
-* Slay pdated.
+* Slay updated.
 * Stun is now Level 8.
 * Incants updated for: Slay, Critical Strike, Vital Blow, Weapon Proficiency
 
