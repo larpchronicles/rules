@@ -40,7 +40,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Type**| Agility|
 | **Level**| 1 |
 | **Duration** | Instant |
-| **Call**| “(Pending)” |
+| **Call**| “Surprise” |
 | **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses).  May be combined with Critical Strike. Effect ends at rest or when invoking Backstab against a different target.|
 
 ### Level 2 Agility Abilities
@@ -60,7 +60,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Type**| Agility|
 | **Level**| 2 |
 | **Duration** | Rest |
-| **Call**| “(Pending)” |
+| **Call**| “I hope this gets infected” |
 | **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. Ends at Rest or upon invoking Poisoned Quiver against a new target. |
 | **Requirements**| Ranged Weapon|
 
@@ -136,8 +136,8 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Type**| Agility|
 | **Level**| 7 |
 | **Duration** | Rest |
-| **Call**| “[Number] [Damage type] Vital” |
-| **Description** |This skill allows the user to throw Vital against a single target.  Damage may not be increased by any other skill or effect except Proficiency, Critical Strike, and Backstab.|
+| **Call**| “"Your Defenses Shall Do You No Good...X [Type] Vital”” |
+| **Description** |This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
 | **Requirements**| Ranged Weapon|
 
 #### **Cursing Shot**
@@ -181,5 +181,5 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Type**| Agility|
 | **Level**| 10 |
 | **Duration** | Instant|
-| **Call**| “(Pending) Physical Murder” |
+| **Call**| “Physical Murder” |
 | **Description** | This is a strike that immediately reduces the target to -1 body.  It may only be performed with a melee weapon from behind the target.  It requires preparation of a verbal and a 3 second count.  May only have 1 prepared at a time.  Preparation resets at Rest.|

@@ -23,14 +23,17 @@
 ### Effects
 * BLEED removed.
 * LIFE updated (no longer provides immunity).
+* UNCONSCIOUS now lasts 1 minute instead of 5.
 
 ### Stamina
 * Disarm updated.
-* Slay description and incant updated.
+* Slay updated.
 * Stun is now Level 8.
+* Incants updated for: Slay, Critical Strike, Vital Blow, Weapon Proficiency
 
 ### Agility
-* Ballista incant updated.
+* Incants updated for: Backstab, Poison Shot, Ballista, Murder
+* Ballista effect updated.
 
 ### Magic
 * Entrap Spirit updated. Now lasts until rest, requires dissipation, may hit target up to 20 seconds after dissipating.
@@ -46,6 +49,9 @@
 * Fixed Dull Pain level to 6.
 * Added damage to Destroy Undead incant.
 * Removed Blood Sacrifice.  BLEED no longer an effect.
+* Limited Teleport now lasts 20 Seconds
+* Treewalk now lasts 1 Minute
+* Rift Lock cannot hit a target mid-rift.
 
 ### Production
 * Flechette Projectile removed (No More Bleeds)
@@ -60,6 +66,8 @@
 * Deep Breath balm now halves Stamina's Regeneration ability time.
 * Formatting Fixes.
 * Removed Bloodletting Coating.  BLEED no longer an effect.
+* Production skills no longer require a Gathering skill to purchase.
+* Rune of Recall now specifies you must immediately go to and rift in to your target location.
 
 ### Ritual Magic, Necromancy
 * Formatting Fixes.
@@ -68,6 +76,7 @@
 * Body is now a Passive
 * Proficiency Expert added.
 * Formatting fixes.
+* Rift Self/Group now specify you must immediately go to and rift in to your target location.
 
 ### README
 * Updated version

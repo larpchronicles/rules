@@ -69,16 +69,16 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 1 |
 | **Duration** | Instant|
-| **Call**| - |
+| **Call**| I Invoke Critical Strike |
 | **Description** | Critical Strikes are purchased with Stamina Points and allow the user to add +1 damage against a single target.  This damage may be stacked up to +5 damage.  The effect ends at rest or when invoking Critical Strike against a different target.|
 
 #### **Disarm**
-| Ability | **Disarm**                                                                                                                                                                                                                                                                                                                                                               | 
-|:---|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Type**| Stamina                                                                                                                                                                                                                                                                                                                                                                  |
-| **Level**| 1                                                                                                                                                                                                                                                                                                                                                                        |
-| **Duration** | 5 Seconds                                                                                                                                                                                                                                                                                                                                                                |
-| **Call**| “Physical Disarm [Weapon]”                                                                                                                                                                                                                                                                                                                                               |
+| Ability | **Disarm**  | 
+|:---|:----|
+| **Type**| Stamina  |
+| **Level**| 1  |
+| **Duration** | 5 Seconds |
+| **Call**| “Physical Disarm [Weapon]” |
 | **Description** | This skill causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This is a DISARM effect.      |
 
 #### **Blind**
@@ -176,8 +176,9 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 5 |
 | **Duration** | Instant|
-| **Call**| “X [Type] Vital”|
-| **Description** | This is a strike that allows the user to swing their base weapon damage and proficiencies as Vital.  The damage may not be increased by any other skills, abilities, or effects.|
+| **Call**| "Your Defenses Shall Do You No Good...X [Type] Vital”|
+| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Requirements**| Melee Weapon|
 
 ### Level 6 Stamina Abilities
 
@@ -256,12 +257,12 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 ### Level 10 Stamina Abilities
 
 #### **Slay**
-| Ability | **Slay**                                                                                                                                                                               |
-|:---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Type**| Stamina                                                                                                                                                                                |
-| **Level**| 10                                                                                                                                                                                     |
-| **Duration** | Instant                                                                                                                                                                                |
-| **Call**| “Prepare to Die...100 [Type] Slay”                                                                                                                                                     |
+| Ability | **Slay** |
+|:---|------|
+| **Type**| Stamina |
+| **Level**| 10   |
+| **Duration** | Instant   |
+| **Call**| “Prepare to Die...100 [Type] Slay” |
 | **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 damage. Slay may not be stacked with any carriers or Flame/Frost/Shock/Stone. |
 
 #### **Weapon Proficiencies**
@@ -270,7 +271,8 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina |
 | **Level**| 10|
 | **Duration** | Rest|
-|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests. |
+| **Call**| “I Hone My Fighting Skill” |
+|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call.|
 
 Fighters may use any melee proficiency for any melee weapon, for either hand.<br> 
 >Example: Atilla the Fighter spends 20 Stamina Points for two "One-handed Proficiencies". Atilla may use their +2 damage with any longsword, claw, two-handed sword, polearm, etc. (Everything but a bow or thrown.)
