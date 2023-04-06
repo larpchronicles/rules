@@ -20,31 +20,31 @@ Tiers Correspond to the following Ritual Levels
 Before a character may purchase a monstrous ability on their transform, that ability must be "unlocked". Some abilities are unlocked by default (per transform). 
 
 Unlocking an ability requires consuming a number of Spirit Gems dependent on the level of the ability:
-Basic - 1 Spirit Gem
-Advanced - 2 Spirit Gems
-Expert - 3 Spirit Gems
-Master - 4 Spirit Gems
-Grandmaster - 5 Spirit Gems
+* Basic - 1 Spirit Gem
+* Advanced - 2 Spirit Gems
+* Expert - 3 Spirit Gems
+* Master - 4 Spirit Gems
+* Grandmaster - 5 Spirit Gems
 
-Mythical Abilities, and any ability that specifies a specific component required to unlock, will require casting the Unlock Transform Abilities ritual.
+Mythical Abilities and any ability that specifies a specific component required to unlock, will require casting the Unlock Transform Abilities ritual.
 
 Unlock Transform Abilities is part of the standard ritual library and thus always available to any character that has at least 1 rank of Ritual Magic.
 
 Alternatively, a character may still perform the Unlock Transform Abilities ritual. Doing so reduces the Spirit Gem cost of each ability unlocked by 1 (0 for Basic, 5 for Grandmaster).
 
 
-"Unlock Transform Abilities" Ritual Scroll
-Each participant in the ritual may benefit from its effect
-Participants must meaningfully contribute to the roleplay of the ritual, only the caster(s) require ranks of Ritual Magic
-Ritual is 1st level, and requires 1 Spirit Gem to cast plus 1 Spirit Gem for each character to be affected by the ritual
-Unlocks an arbitrary number of transform abilities for each participant
-Each ability unlocked requires a number of spirit gems based on the tier of the ability, to be paid by the affected character:
-Basic - 0 Spirit Gems
-Advanced - 1 Spirit Gems
-Expert - 2 Spirit Gems
-Master - 3 Spirit Gems
-Grandmaster - 4 Spirit Gems
-Mythical - 5 Spirit Gems
+#### Unlock Transform Abilities Ritual Scroll
+* Each participant in the ritual may benefit from its effect.
+* Participants must meaningfully contribute to the roleplay of the ritual, only the caster(s) require ranks of Ritual Magic.
+* Ritual is 1st level and requires 1 Spirit Gem to cast plus 1 Spirit Gem for each character to be affected by the ritual.
+* Unlocks an arbitrary number of transform abilities for each participant.
+* Each ability unlocked requires a number of spirit gems based on the tier of the ability, to be paid by the affected character:
+  * Basic - 0 Spirit Gems
+  * Advanced - 1 Spirit Gems
+  * Expert - 2 Spirit Gems
+  * Master - 3 Spirit Gems
+  * Grandmaster - 4 Spirit Gems
+  * Mythical - 5 Spirit Gems
 
 ---
 ### Multi-Tier
@@ -93,11 +93,11 @@ Mythical - 5 Spirit Gems
 
 
 #### Body
-| Name: | Body |
+| Name: | Body  |
 |---|---|
-| Type: | Passive |
-| Cost: | 3 + 5|
-| Description: |  Purchases of Toughness grant +2 extra body (+7 instead of +5) |
+| Type: | Passive  |
+| Cost: | 10  |
+| Description: | Purchases of Toughness grant +2 extra body (+7 instead of +5) |
 
 #### Backstab Expert
 | Name: | Backstab Expert |
@@ -186,6 +186,13 @@ Mythical - 5 Spirit Gems
 | Type: | Passive|
 | Cost: | 15 (Single Purchase)|
 | Description: | Magic carrier, applies to any weapon, or unarmed, that is wielded.|
+
+##### Proficiency Expert
+| Name: | Proficiency Expert |
+|---|---|
+| Type: | Passive|
+| Cost: | 15 |
+| Description: | Reduces the Stamina cost of Proficiency by 2 (10->8). |
 
 #### Spirit Bottle
 | Name: | Spirit Bottle |
@@ -289,7 +296,7 @@ Mythical - 5 Spirit Gems
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 10|
-| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. This is a self-only ability.|
+| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. User must proceed directly to the location and Rift In immediately upon arrival. This is a self-only ability.|
 
 #### Voice Control &lt;Entity>
 | Name: | Voice Control &lt;Entity>|
@@ -347,4 +354,4 @@ Mythical - 5 Spirit Gems
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 20|
-| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. The user may choose to allow any other individuals in contact with them to join the Rift.|
+| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count.  The user may choose to allow any other individuals in contact with them to join the Rift. User and any others must proceed directly to the location and Rift In immediately upon arrival.|
