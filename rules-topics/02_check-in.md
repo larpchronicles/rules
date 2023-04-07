@@ -81,7 +81,7 @@ There are no assigned cabins, but there is a requirement that you allow others t
 ### Orange Headbands - Non Combatants & Pages
 Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.  Pages may not use combat skills, weapons, or throw packets.
 
-**You may not ever physically strike a Page.**  If you engage in combat with a page, you may point your weapon or packet and say, "Page, I kill you."  They cannot participate in combat.  They are treated as if they have 1 health point/body.
+**You may not ever physically strike a Page.**  If you engage in combat with a page, you may point your weapon or packet and say, "Page, I kill you."  They cannot participate in combat.  They are treated as if they have 1 body.
 
 ### White Headbands - Out of Game
 Once you arrive on site, you are entering an In Game Area.  If you are not in game as your character yet, you must have a white headband on.  If you do not have a white headband, you may request one from the Plot Team or Staff.  If there are none available, you may signify your out of game status by holding a hand to your forehead or touching the top of your head with a held item.  This gesture is accepted as an out of character signal and frequently used by NPCs when not in game.

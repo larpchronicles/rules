@@ -124,10 +124,10 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>100 Goblin Point Rewards</u>**
 
-* <u>Crafting Materials</u>.  You may claim a cumulative 10 Ranks of crafting materials.  You may freely pick from among the types:  Catalyst, Ore, Scrap Parts, and Wood.  Examples include:
-    * 10 pieces of Rank 1 Wood
-    * 1 piece of Rank 10 Ore
-    * 1 piece of Rank 5 Scrap Parts, 2 pieces of Rank 1 Wood, and 2 pieces of Rank 2 Catalyst.
+* <u>Crafting Materials</u>.  You may claim a cumulative 10 Tiers of crafting materials.  You may freely pick from among the types:  Catalyst, Ore, Scrap Parts, and Wood.  Examples include:
+    * 10 pieces of Tier 1 Wood
+    * 1 piece of Tier 10 Ore
+    * 1 piece of Tier 5 Scrap Parts, 2 pieces of Tier 1 Wood, and 2 pieces of Tier 2 Catalyst.
 * <u>Rare Craft Material</u>.  One Spirit Gem.  This is limited to one purchase per event.
 * <u>Currency</u>.  One credit or five mana.  This is limited to one purchase per event.
 * <u>Mini-Mod</u>: GREATER IBGA, limit 1 per event.

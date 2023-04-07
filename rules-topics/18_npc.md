@@ -17,17 +17,17 @@ Some other tasks may be helping to organize and clean NPC camp, making spell pac
 ## NPC Shifts
 
 ---
-First, let’s start by identifying the two kinds of NPCs:
+First, let's start by identifying the two kinds of NPCs:
 
 A **Part Time NPC** is someone that volunteers for a full shift at least one day of the event.  Part Time NPCs also play their characters during the event.  For a Part Time NPC, a full shift is **three hours**.  A Part-Time NPC may work as many hours in a single day as they like.  Each three hour shift is counted as a completed shift.  Rewards can be claimed on a "one shift per single event day" basis.  
->For example, in a three day event, a three hour shift on Friday, six hour shift on Saturday, and a three hour shift on Sunday only counts as three full shifts for the Skill Point or Goblin Point reward.  Because it’s a three day event, that particular reward can only be claimed three times.  Mystery Sacks may be claimed for EVERY completed three hour shift.
+>For example, in a three day event, a three hour shift on Friday, six hour shift on Saturday, and a three hour shift on Sunday only counts as three full shifts for the Skill Point or Goblin Point reward.  Because it's a three day event, that particular reward can only be claimed three times.  Mystery Sacks may be claimed for EVERY completed three hour shift.
 
 A **Full Time NPC** is someone that serves as a NPC for the entire event.  They do not play their character at all during the event.  For a Full Time NPC, a full shift is the number of days in an event, which may be two or three.  To be a Full Time NPC, you must coordinate with Plot ahead of an event.
 
 ## Double-Hooking, the Plot Queue, and NPC Shifts
 
 ---
-Double-hooking is a term used for when two groups of PCs are waiting on Plot for a particular mod and are either asked by Plot or agree Out Of Character (OOC) for each group to serve as NPCs for the other group’s mod.  When it comes to the plot team’s queue, these groups are very likely to be taken ahead of others because less preparation for handling NPC logistics for a given mod may become much easier when you have two groups ready.
+Double-hooking is a term used for when two groups of PCs are waiting on Plot for a particular mod and are either asked by Plot or agree Out Of Character (OOC) for each group to serve as NPCs for the other group's mod.  When it comes to the plot team's queue, these groups are very likely to be taken ahead of others because less preparation for handling NPC logistics for a given mod may become much easier when you have two groups ready.
 
 In general, participating in a double-hook does not count towards a Part-Time NPC shift; however, in rare circumstances, such as double-hooking in a mod that runs for the length of a normal Part-Time NPC shift or more, Plot has full discretion to credit you with a completed shift.  If you have already completed a shift that day, be sure to clarify what rewards you are gaining, because you might be limited to partial or you may get everything.
 
@@ -41,9 +41,9 @@ Aside from the shiny feel-good emotions of having helped out your chapter, Chron
 * Your pick of either 1 Skill Point OR 100 Goblin Points.  This reward may be claimed only once for each completed shift per event day.  If the event is two days, you may claim this twice for six hours or two completed NPC shifts.  If the event is three days, you may claim this three times for nine hours or three completed NPC shifts.
 
 * Mystery Sack.  This is a grab bag reward that will contain one of the following:
-  * A bundle of five Rank 1 crafting materials.
-  * A single Rank 5 crafting material.
-  * A bundle of seven Rank 1 crafting materials.
+  * A bundle of five Tier 1 crafting materials.
+  * A single Tier 5 crafting material.
+  * A bundle of seven Tier 1 crafting materials.
   * One gold coin.
 
 ### Full-Time NPC Rewards
@@ -53,9 +53,9 @@ Aside from the shiny feel-good emotions of having helped out your chapter, Chron
 * 1 point removal of Strain from their character per day of the event.
 * Free Event Fee.
 * Three Mystery Sacks per event day.  These are a grab bag reward that each contain one of the following:
-  * A bundle of five Rank 1 crafting materials.
-  * A single Rank 5 crafting material.
-  * A bundle of seven Rank 1 crafting materials.
+  * A bundle of five Tier 1 crafting materials.
+  * A single Tier 5 crafting material.
+  * A bundle of seven Tier 1 crafting materials.
   * One gold coin.
 
 ### Guest Plot Rewards
@@ -65,9 +65,9 @@ Aside from the shiny feel-good emotions of having helped out your chapter, Chron
 * 2 point removal of Strain from their character per day of the event.
 * Free Event Fee & Meal Ticket.
 * Five Mystery Sacks per event day.  These are a grab bag reward that each contain one of the following:
-  * A bundle of five Rank 1 crafting materials.
-  * A single Rank 5 crafting material.
-  * A bundle of seven Rank 1 crafting materials.
+  * A bundle of five Tier 1 crafting materials.
+  * A single Tier 5 crafting material.
+  * A bundle of seven Tier 1 crafting materials.
   * One gold coin.
 
 ## How Do I Claim Mystery Sacks?

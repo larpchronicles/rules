@@ -117,7 +117,7 @@ High Elves appear with pointed ears and complexions ranging from fair to ebony.
 
 **Overview**:
 
-High Elves are one of the most common Elves found in Evren.  Being more abundant across Evren, it should come as no surprise that these Elves frequently break down into regional or political groups such as Elves in the Red Desert often being referred to as “Desert Elves.”
+High Elves are one of the most common Elves found in Evren.  Being more abundant across Evren, it should come as no surprise that these Elves frequently break down into regional or political groups such as Elves in the Red Desert often being referred to as "Desert Elves."
 
 The High Elves are typically perceived by others to be snobbish or elitist.  The reality of this is that they probably are.  Most, if accused of being elitist, would more than likely assert this as truth, as to deny it, in their views, would be akin to the delusion that High Elves are not superior to other Elves that, while Elf-shaped, are far too primitive and barbaric.
 
@@ -195,13 +195,13 @@ Glimmerlings appear with a variety of complexions.  They are sometimes recognize
 
 Old wives tales will claim the Glimmerling people are the result of Humans having intermingled with the Fae of ancient legend.  Just as those stories contain many different descriptions, so too are the Glimmerlings wildly diverse in appearance and temperament.
 
-Most people view the Glimmerlings with no difference to how they view the fairies of folktales, which is to say, there is very little open trust granted and more than a little suspicion.  This is of course aided by the tendency of many Glimmerlings to be merciless, mischievous tricksters – though in their opinion, they are simply having some fun and don’t all people like fun?
+Most people view the Glimmerlings with no difference to how they view the fairies of folktales, which is to say, there is very little open trust granted and more than a little suspicion.  This is of course aided by the tendency of many Glimmerlings to be merciless, mischievous tricksters – though in their opinion, they are simply having some fun and don't all people like fun?
 
 **Racial Abilities**:
 
 *Remembrance*: _Being connected to the realm of dreams, Glimmerlings are able to delve into the memories of another person._ Once per rest, a Glimmerling may concentrate and establish a connection to a consenting character and aid them in recovering memories for as long as the other chooses to keep the contact.  This is a purely roleplayed ability and may not be used to determine truth.  If attempting to use this ability to recall specific plot information, seek a plot member beforehand, so they can be on hand to describe what you witness.
 
-*Trickster*: _Glimmerlings as a race, are very cunning and crafty and delight in causing the occasional confusion and chaos._ Once per day, a Glimmerling may recall to a pre-designated location ala the same rules as Rune of Recall and call, “Activate Recall, 1 I recall, 2 I recall, 3 I recall.”  They must drop any items acquired prior to vanishing.
+*Trickster*: _Glimmerlings as a race, are very cunning and crafty and delight in causing the occasional confusion and chaos._ Once per day, a Glimmerling may recall to a pre-designated location ala the same rules as Rune of Recall and call, "Activate Recall, 1 I recall, 2 I recall, 3 I recall."  They must drop any items acquired prior to vanishing.
 
 **Makeup Suggestions and Guidelines**: Physical representations of any unique characteristics should be done.
 
@@ -228,9 +228,9 @@ In ages long since past, Goblins were subjugated and enslaved by Orcs on the hee
 
 **Racial Abilities**:
 
-*Improvised Equipment*: _Exceptionally enterprising in a pinch, Goblins are innovative and quick-thinking individuals that are undaunted by a “broken” piece of equipment._  Once per rest, a Goblin may use a weapon, shield, or piece of armor that is broken until their next rest.  After this use, the item crumbles and may not be repaired or salvaged.
+*Improvised Equipment*: _Exceptionally enterprising in a pinch, Goblins are innovative and quick-thinking individuals that are undaunted by a "broken" piece of equipment._  Once per rest, a Goblin may use a weapon, shield, or piece of armor that is broken until their next rest.  After this use, the item crumbles and may not be repaired or salvaged.
 
-*Run Away*: _Being so incredibly clever sometimes has its pitfalls, and the sudden need to “get out of dodge” is a unique skill all Goblins seem to develop._  Once per day, a Goblin may elect to flee an encounter by yelling, “RUN AWAY!”  For 10 seconds, this Goblin may Dodge an unlimited number of times, but must be physically fleeing.
+*Run Away*: _Being so incredibly clever sometimes has its pitfalls, and the sudden need to "get out of dodge" is a unique skill all Goblins seem to develop._  Once per day, a Goblin may elect to flee an encounter by yelling, "RUN AWAY!"  For 10 seconds, this Goblin may Dodge an unlimited number of times, but must be physically fleeing.
 
 **Makeup Suggestions and Guidelines**: Achieving pointed ears that slope back or downward can be done by wearing Elf ears backwards.
 
@@ -282,11 +282,11 @@ Humans have been around Evren for as long as anyone can remember, and though the
 
 From their own perspectives, Humans are tenacious, steadfast, full of determination, and always striving toward greatness – though the exact definition of what greatness is will always vary.  Building villages into towns and cities, then establishing laws and governing entities are the main strengths of Humans and in their expert opinion, are things they do for the betterment of all races and helps establish fairness.
 
-Outside opinions of Humans are perhaps not as gilded, as many other races would describe Humans as greedy, controlling creatures that wander about, declaring any open plot of ground their new property.  Expecting all others to follow any laws and regulations they set forth, and having the amazing gall to refer to themselves as the “normal-looking ones.”  Not all opinions of Humans boil down to this perspective, of course.  There are plenty of people that happily coexist within Human towns that have become melting pots of mixed cultures and races.
+Outside opinions of Humans are perhaps not as gilded, as many other races would describe Humans as greedy, controlling creatures that wander about, declaring any open plot of ground their new property.  Expecting all others to follow any laws and regulations they set forth, and having the amazing gall to refer to themselves as the "normal-looking ones."  Not all opinions of Humans boil down to this perspective, of course.  There are plenty of people that happily coexist within Human towns that have become melting pots of mixed cultures and races.
 
 **Racial Abilities**:
 
-*Survivor*: _Humans are incredibly adaptable and able to survive when most others would not._ Once per rest, a Human may have a free usage of Endurance by spending 1 minute of concentration to prime the ability. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare, “Endurance”. This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
+*Survivor*: _Humans are incredibly adaptable and able to survive when most others would not._ Once per rest, a Human may have a free usage of Endurance by spending 1 minute of concentration to prime the ability. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare, "Endurance". This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.
 
 
 ## Kindred
@@ -329,7 +329,7 @@ Kobolds appear as reptilian humanoids with red or blue scaled complexions, black
 
 **Overview**:
 
-Kobolds can typically be found living in small, roving clans or in rustic, out of the way settlements. From the outsider’s perspective, Kobolds and their communities are grossly lacking in laws and rife with theft.  This extends to the belief that the primary interests of every Kobold fall to impulsively gathering up anything interesting or shiny that isn’t nailed down hard enough to keep them from making off with it and with the thing it is nailed to.  That is to say, most people believe that to Kobolds, there are only two properties of ownership:  “mine and things I don’t care about.”
+Kobolds can typically be found living in small, roving clans or in rustic, out of the way settlements. From the outsider's perspective, Kobolds and their communities are grossly lacking in laws and rife with theft.  This extends to the belief that the primary interests of every Kobold fall to impulsively gathering up anything interesting or shiny that isn't nailed down hard enough to keep them from making off with it and with the thing it is nailed to.  That is to say, most people believe that to Kobolds, there are only two properties of ownership:  "mine and things I don't care about."
 
 Bright-eyed and precocious, Kobolds are among the shortest lived races, with all the chaotic cleverness and volubility it takes to get by.  When it comes to their supposed kleptomania, the majority of Kobolds will vehemently dispute any such accusation.
 
@@ -364,13 +364,13 @@ Like the grassy streaks that never seem to quite wash out of that favorite pair 
 
 The capital-D Dominance-based culture of these Orcs is more than just how their hierarchical society gets structured, it is a way of life that comes more naturally than breathing.  With this consideration, some other races may be confused at how Orc society has become matriarchal until one stops to consider that the needs and urges that feed into this culture are present within Orcs even as children, and who would they most likely challenge but their own caretakers?
 
-The basis of this culture does not hinge much on codes of honor or only fighting “the right way.”  To most Orcs, the way to establish Dominance is to do whatever it takes to still be standing and if that involves trickery and cunning, then that is exactly how they’ll accomplish it.  After all, they learned all about the value of outsmarting their opponents from the Goblins they once subjugated.  But, Orcs do not exactly pride themselves on being smarter than their opponent, just being strong enough to make their opponent dumber by way of repeated blows to the head.
+The basis of this culture does not hinge much on codes of honor or only fighting "the right way."  To most Orcs, the way to establish Dominance is to do whatever it takes to still be standing and if that involves trickery and cunning, then that is exactly how they'll accomplish it.  After all, they learned all about the value of outsmarting their opponents from the Goblins they once subjugated.  But, Orcs do not exactly pride themselves on being smarter than their opponent, just being strong enough to make their opponent dumber by way of repeated blows to the head.
 
 **Racial Abilities**:
 
-*Rub Dirt In It*: _Orcs are strong and their beliefs are as strong, if not stronger.  In fact, an Orc’s faith in their own toughness and ability allows them the firm certainty that cramming a wound full of dirt is a sure way to heal it – but only small wounds, and only sometimes._  Once per rest, an Orc may restore a dying character to 1 Health Point/Body.
+*Rub Dirt In It*: _Orcs are strong and their beliefs are as strong, if not stronger.  In fact, an Orc's faith in their own toughness and ability allows them the firm certainty that cramming a wound full of dirt is a sure way to heal it – but only small wounds, and only sometimes._  Once per rest, an Orc may restore a dying character to 1 body.
 
-*Last Stand*: _Like an Orc’s faith in dirt’s ability to heal, an Orc has an even truer faith in themselves to outlast even the limits of their bodies._  Once per day, an Orc may take their last stand and become immune to everything for 10 seconds.  After use, the Orc falls over dead and requires a Life/Revivify spell.
+*Last Stand*: _Like an Orc's faith in dirt's ability to heal, an Orc has an even truer faith in themselves to outlast even the limits of their bodies._  Once per day, an Orc may take their last stand and become immune to everything for 10 seconds.  After use, the Orc falls over dead and requires a Life/Revivify spell.
 
 **Makeup Suggestions and Guidelines**:  Protruding lower teeth should be physically represented in addition to a green complexion.
 
@@ -400,11 +400,11 @@ The Unbound that may be found alone are typically those that have established th
 
 **Racial Abilities**:
 
-*Elemental Blood*: _The Unbound can tap into their elemental nature to either spend their vitality to attack others or they may absorb the elemental energies from an incoming attack, and be healed by it._ Once per rest, Unbound may spend X number of body to use as a packet delivered spell (“Spell X*2 &lt;Element>”).  Alternatively, they may instead receive healing from an incoming attack of the character’s chosen element.(“Appears to Heal Me”).
+*Elemental Blood*: _The Unbound can tap into their elemental nature to either spend their vitality to attack others or they may absorb the elemental energies from an incoming attack, and be healed by it._ Once per rest, Unbound may spend X number of body to use as a packet delivered spell ("Spell X*2 &lt;Element>").  Alternatively, they may instead receive healing from an incoming attack of the character's chosen element.("Appears to Heal Me").
 
 *Elemental Transmutation*: _The Unbound are amalgamations of elemental forces and living beings. As such they are able to tap into the makeup of matter._ Once per day, an Unbound may transmogrify a single component of any rank into a different, single component of the same rank.
 
-**Makeup Suggestions and Guidelines**: To make glowing lines of power, it’s suggested to use white paint and either line it with a thin black line or put a thin line of color through the middle of the white in order to create a colored line that appears to glow.  Facepaint aside from the glowing lines should match the elemental type of your character.  Ie:  Fire should be red or red-orange tones and hues, electricity should be grey, but may be blue, water should be blue, and stone should be earthy browns or rocky grey. 
+**Makeup Suggestions and Guidelines**: To make glowing lines of power, it's suggested to use white paint and either line it with a thin black line or put a thin line of color through the middle of the white in order to create a colored line that appears to glow.  Facepaint aside from the glowing lines should match the elemental type of your character.  Ie:  Fire should be red or red-orange tones and hues, electricity should be grey, but may be blue, water should be blue, and stone should be earthy browns or rocky grey. 
 
 ## Unforgiven
 
@@ -431,8 +431,8 @@ A rare sight today, the Unforgiven began appearing again and integrating themsel
 
 **Racial Abilities**:
 
-*Call To Darkness*: Most Unforgiven today likely owe their very existence to their ancestors’ cultivation of slipping away into their own shadow.  For some, this may seem like a trick of the eyes or that an Unforgiven has managed to hide away in plain sight; however, they remain very much visible, but for a short time, enjoy the safety the darkness grants them.  The aptitude for managing such a feat remains prevalent even into modern times.  Once per rest, an Unforgiven may spend 5 seconds in Concentration in order to slip into their own shadow and take the INVULNERABLE effect for 1 minute.  Within their own shadow, an Unforgiven is unable to move, communicate with others, nor use items or skills.  The Unforgiven is immune to all game effects, except SOLIDIFY and Dispel Magic.
+*Call To Darkness*: Most Unforgiven today likely owe their very existence to their ancestors' cultivation of slipping away into their own shadow.  For some, this may seem like a trick of the eyes or that an Unforgiven has managed to hide away in plain sight; however, they remain very much visible, but for a short time, enjoy the safety the darkness grants them.  The aptitude for managing such a feat remains prevalent even into modern times.  Once per rest, an Unforgiven may spend 5 seconds in Concentration in order to slip into their own shadow and take the INVULNERABLE effect for 1 minute.  Within their own shadow, an Unforgiven is unable to move, communicate with others, nor use items or skills.  The Unforgiven is immune to all game effects, except SOLIDIFY and Dispel Magic.
 
 *Harvest Essence*:  _Unforgiven have a stronger connection to the spiritual essence of other creatures than most, and use that connection to help them collect Spirit Gems._  Once per day, an Unforgiven may deliver a single, "Magic Entrap Spirit".
 
-**Makeup Suggestions and Guidelines**: Horn sizes and placements may vary at player discretion, but should be black or dark in color.  Some Unforgiven players choose to “hide” their barbed tail, but otherwise this should also be physically represented.
+**Makeup Suggestions and Guidelines**: Horn sizes and placements may vary at player discretion, but should be black or dark in color.  Some Unforgiven players choose to "hide" their barbed tail, but otherwise this should also be physically represented.

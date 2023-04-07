@@ -9,31 +9,34 @@
 
 ### Check-In
 * Link Update.
+* Updated use of health points/hp/health pool to body.
+* Replaced smartquotes.
 
-### Armor 
-* Formatting fixes.
 
 ### Combat
 * Clarified that Dual-Wield requires at least one weapon be Short length.
+* Updated use of health points/hp/health pool to body.
+* Replaced smartquotes.
+
+### Armor 
+* Formatting fixes.
 
 ### Defense Skills
 * Added Armor Cap table.
 * Added clarification to Dexterity Armor.
 
-### Effects
-* BLEED removed.
-* LIFE updated (no longer provides immunity).
-* UNCONSCIOUS now lasts 1 minute instead of 5.
-
 ### Stamina
 * Disarm updated.
 * Slay updated.
 * Stun is now Level 8.
-* Incants updated for: Slay, Critical Strike, Vital Blow, Weapon Proficiency
+* Incants updated for: Slay, Critical Strike, Vital Blow, Weapon Proficiency.
+* Updated use of health points/hp/health pool to body.
+* Replaced smartquotes.
 
 ### Agility
 * Incants updated for: Backstab, Poison Shot, Ballista, Murder
 * Ballista effect updated.
+* Replaced smartquotes.
 
 ### Magic
 * Entrap Spirit updated. Now lasts until rest, requires dissipation, may hit target up to 20 seconds after dissipating.
@@ -52,6 +55,9 @@
 * Limited Teleport now lasts 20 Seconds
 * Treewalk now lasts 1 Minute
 * Rift Lock cannot hit a target mid-rift.
+* Updated use of health points/hp/health pool to body.
+* Replaced smartquotes.
+* Updated one use of rank to level for referencing spell levels.
 
 ### Production
 * Flechette Projectile removed (No More Bleeds)
@@ -68,15 +74,51 @@
 * Removed Bloodletting Coating.  BLEED no longer an effect.
 * Production skills no longer require a Gathering skill to purchase.
 * Rune of Recall now specifies you must immediately go to and rift in to your target location.
+* Updated mentions of health points/hp/health pool to body.
+* Replaced smartquotes.
+* Updated use of ranks to tiers when referring to crafting and material tiers.
+* Updated use of ranks to levels when referring to spell levels.
+* Updated use of health points/hp/health pool to body.
+* Corrected catalyst to reagent for alchemy materials.
+* Removed descriptors from ore and wood.  These will be randomized going forward.
 
-### Ritual Magic, Necromancy
+### Ritual Magic
 * Formatting Fixes.
+* Updated Ranks to Levels when referencing spell levels.
 
 ### Transform Abilities
 * Body is now a Passive
 * Proficiency Expert added.
 * Formatting fixes.
-* Rift Self/Group now specify you must immediately go to and rift in to your target location.
+* Rift Self/Group now specify you must immediately go to and rift in to your target location
+
+### Necromancy
+* Formatting Fixes.
+* Updated use of health points/hp/health pool to body.
+
+### Life and Death
+* Updated UNCONSCIOUS.
+* Updated use of health points/hp/health pool to body.
+
+### Resting
+* Replaced smartquotes.
+
+### NPC
+* Replaced smartquotes.
+* Updated use of ranks to tiers when referencing crafting tiers.
+
+### Goblin Points
+* Updated use of ranks to tiers when referencing crafting tiers.
+
+### Effects
+* BLEED removed.
+* LIFE updated (no longer provides immunity).
+* UNCONSCIOUS now lasts 1 minute instead of 5.
+* Updated mentions of health points/hp/health pool to body.
+* Replaced smartquotes.
+
+### Glossary
+* Updated use of health points/hp/health pool to body.
 
 ### README
 * Updated version

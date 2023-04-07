@@ -116,7 +116,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 1 |
 | **Duration**  | Instant |
 | **Incant**  | "I conjure a Mana Bolt #." |
-| **Description** |  This spell creates a bolt of magic that does 5x the mana used to deliver magic damage to the target. If the caster has an active Elemental Shift, they may choose to throw either Magic or their element.  This spell may be used at all Ranks.|
+| **Description** |  This spell creates a bolt of magic that does 5x the mana used to deliver magic damage to the target. If the caster has an active Elemental Shift, they may choose to throw either Magic or their element.  This spell may be used at all Levels.|
  
 
 ### Arcane Level 2
@@ -343,7 +343,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 2  |
 | **Duration**  | Concentration |
 | **Incant**  | "By the spirits, I provide a healing touch." |
-| **Description** |  This spell will continuously heal the target for 1 health every 3 seconds as long as the caster is within arm's reach of the target and role-playing touching them, and the caster is able to maintain concentration. Every three seconds, the caster will repeat the phrase "Healing 1" while in contact with the target in order to let the target know that they have received 1 point of healing. |
+| **Description** |  This spell will continuously heal the target for 1 body every 3 seconds as long as the caster is within arm's reach of the target and role-playing touching them, and the caster is able to maintain concentration. Every three seconds, the caster will repeat the phrase "Healing 1" while in contact with the target in order to let the target know that they have received 1 point of healing. |
 
 
 ### Spirit Level 3
@@ -456,7 +456,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 7  |
 | **Duration**  | 20 seconds |
 | **Incant**  | "By the fiends of the dark nether, I claim your vitae." |
-| **Description** |  This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's health pool. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's health pool is fully recovered. This spell will heal either a living, or an undead caster. |
+| **Description** |  This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's body. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's body is fully recovered. This spell will heal either a living or an undead caster. |
 
 
 ### Spirit Level 8
@@ -477,7 +477,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 8  |
 | **Duration**  | Rest |
 | **Incant**  | "Fiends of the dark nether, create a phylactery for my spirit." |
-| **Description** |  This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body's health pool be reduced to 0, the caster's body immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body with no strain. The phylactery is always destroyable. Should the phylactery be destroyed, the character's body dies and the spirit must seek resurrection normally, including accruing strain.  This is a SPIRIT BOTTLE effect. |
+| **Description** |  This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body be reduced to 0, the caster immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body with no strain. The phylactery is always destroyable. Should the phylactery be destroyed, the character dies and the spirit must seek resurrection normally, including accruing strain.  This is a SPIRIT BOTTLE effect. |
 
 
 ### Spirit Level 9
@@ -510,7 +510,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 10 |
 | **Duration**  | 5 seconds |
 | **Incant**  | "I grant you the gift of Life." |
-| **Description** | This spell will restore a living or dead target to full maximum health, and remove all ongoing effects of the target's choice. This is a LIFE effect. |
+| **Description** | This spell will restore a living or dead target to full maximum body, and remove all ongoing effects of the target's choice. This is a LIFE effect. |
 
 
 ## Nature
@@ -555,7 +555,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 2 |
 | **Duration**  | 1 minute |
 | **Incant**  | "By nature, I bless this nourishment." |
-| **Description** |  This spell will enchant one serving of food or one serving of potable fluid for consumption. If the nourishment is consumed within the duration of the enchantment the substance will heal the consumer for 5 health points. |
+| **Description** |  This spell will enchant one serving of food or one serving of potable fluid for consumption. If the nourishment is consumed within the duration of the enchantment the substance will heal the consumer for 5 body. |
 
 #### **Entangle Foot**
 | **Spell** | **Entangle Foot** |
@@ -726,7 +726,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 9 |
 | **Duration**  | 1 minute  |
 | **Incant**  | "By nature, I regenerate you." |
-| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
+| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
  
 #### **Wrath of Nature, Other**
 | **Spell** | **Wrath of Nature, Other** |
@@ -735,7 +735,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 9 |
 | **Duration**  | Concentration, up to 1 Minute |
 | **Incant**  | "By nature, I grant you a vengeful wrath." |
-| **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target's health pool cannot be brought to below 1 point as long as the caster is within arm's reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
+| **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target's body cannot be brought to below 1 point as long as the caster is within arm's reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
 
 ### Nature Level 10
 

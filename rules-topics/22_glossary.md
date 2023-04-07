@@ -7,8 +7,8 @@
 |Boffer|A weapon physical representation.|Also referred to as "claws" or "bites" depending on length.  These are simple weapon reps.|
 |Charging|Refers to when a player is physically too close to another player during combat.|Combatants should never be inside the physical reach another combatant or be able to make skin to skin contact.|
 |Concentration|A state where a character is focused on a specific action or spell.||
-|CoT|Curse of Transformation|An effect that changes the appearance of a character and may modify their health and abilities.  Typically removed on death.|
-|Down|Refers to when a character has been reduced to 0hp and has begun their death timer.|Physically represented by kneeling, being prone, or collapsed.|
+|CoT|Curse of Transformation|An effect that changes the appearance of a character and may modify their body and abilities.  Typically removed on death.|
+|Down|Refers to when a character has been reduced to 0 body and has begun their death timer.|Physically represented by kneeling, being prone, or collapsed.|
 |GP|Goblin Points|The name of points given to players in exchange for volunteering or donating their time and/or money.|
 |Healing Arts|Hold over term referencing First Aid.|May be heard when someone is using First Aid to check on a target for visible effects.|
 |Hold|This is an emergency call.|During a Hold, all gameplay and movement is immediately suspended in order to assist someone in need of medical attention.|

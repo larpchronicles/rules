@@ -81,7 +81,7 @@ Using any skill, ability, or effect that grants a Resist, Reflect, or Dodge requ
 ---
 People wearing orange headbands are referred to as Pages.  Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.
 
-**You may not ever physically strike a Page.**  Pages may not use combat skills, weapons, or throw packets.  If you engage in combat with a page, you may point your weapon or packet and say, "Page, I kill you."  They are treated as if they have 1 health point/body.
+**You may not ever physically strike a Page.**  Pages may not use combat skills, weapons, or throw packets.  If you engage in combat with a page, you may point your weapon or packet and say, "Page, I kill you."  They are treated as if they have 1 body.
 
 ## Killing Blows
 
