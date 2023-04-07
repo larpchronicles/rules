@@ -13,12 +13,21 @@
 ### Armor 
 * Formatting fixes.
 
+### Weapon 
+* Updated Two-Handed Sword and Two-Handed Blunt to 60 inches.
+* Added Bow Construction Rules.
+* Clarified Shield Construction Rules.
+* Added Note that spears cannot swing.
+* Added Note that blunt weapons and polearms cannot stab.
+* Clarified maximum size of a crossbow to be 24” x 24”.
+
 ### Combat
 * Clarified that Dual-Wield requires at least one weapon be Short length.
 
 ### Defense Skills
 * Added Armor Cap table.
 * Added clarification to Dexterity Armor.
+* Added Toughness Table
 
 ### Effects
 * BLEED removed.
