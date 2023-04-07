@@ -81,6 +81,7 @@
 * Updated use of health points/hp/health pool to body.
 * Corrected catalyst to reagent for alchemy materials.
 * Removed descriptors from ore and wood.  These will be randomized going forward.
+* Corrected triggers for Rune of Chambering
 
 ### Ritual Magic
 * Formatting Fixes.
