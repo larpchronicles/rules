@@ -33,6 +33,8 @@
 * Added Armor Cap table.
 * Added clarification to Dexterity Armor.
 * Added Toughness Table
+* Updated tables to show Mages instead of Scholars
+
 
 ### Stamina
 * Disarm updated.
@@ -41,11 +43,15 @@
 * Incants updated for: Slay, Critical Strike, Vital Blow, Weapon Proficiency.
 * Updated use of health points/hp/health pool to body.
 * Replaced smartquotes.
+* Updated table to show Mages instead of Scholars
+* Minor Formatting on skill titles
 
 ### Agility
 * Incants updated for: Backstab, Poison Shot, Ballista, Murder
 * Ballista effect updated.
 * Replaced smartquotes.
+* Updated table to show Mages instead of Scholars
+* Fixed Disarm Table
 
 ### Magic
 * Entrap Spirit updated. Now lasts until rest, requires dissipation, may hit target up to 20 seconds after dissipating.
@@ -67,6 +73,11 @@
 * Updated use of health points/hp/health pool to body.
 * Replaced smartquotes.
 * Updated one use of rank to level for referencing spell levels.
+* Updated table to show Mages instead of Scholars
+* Minor Formatting on Spell titles
+
+### Other Skills
+* Updated table to show Mages instead of Scholars
 
 ### Production
 * Flechette Projectile removed (No More Bleeds)
@@ -92,6 +103,8 @@
 * Removed descriptors from ore and wood.  These will be randomized going forward.
 * Corrected triggers for Rune of Chambering
 * Updated Unstable Strik Enhancer to not stack.
+* Fixed Formatting on Tables
+
 
 ### Ritual Magic
 * Formatting Fixes.
@@ -110,6 +123,7 @@
 ### Life and Death
 * Updated UNCONSCIOUS.
 * Updated use of health points/hp/health pool to body.
+* Formatting fixes.
 
 ### Resting
 * Replaced smartquotes.
@@ -120,6 +134,7 @@
 
 ### Goblin Points
 * Updated use of ranks to tiers when referencing crafting tiers.
+* Formatting fixes.
 
 ### Effects
 * BLEED removed.
