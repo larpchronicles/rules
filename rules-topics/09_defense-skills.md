@@ -32,3 +32,6 @@
 
 ## Toughness
 > This skill adds 5 points of maximum health to the character for each time that this skill is purchased. Toughness stacks with the 10 points of Health every character gets by default.  This skill is not blocked by resting.
+|---|---|---|---|---|
+|+5 Body|3+3|3+5|3+5|3+5|
+
