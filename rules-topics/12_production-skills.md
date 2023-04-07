@@ -13,10 +13,10 @@ Item production is the process by which characters are able to craft consumable 
 
 | _**Production Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_|
 |---|---|---|---|---|---|
-| &ast;Primary Crafting Skill | 1+1 | 1+1 | 1+1 | 1+1 | Associated Gathering Skill | |
-| Secondary Crafting Skill | 1+1 | 1+1 | 1+1 | 1+1 | Associated Gathering Skill | |
-| Tertiary Crafting Skill | 2+1 | 2+1 | 2+1 | 2+1 | Associated Gathering Skill  | |
-| Quarternary Crafting Skill | 3+1 | 3+1 | 3+1 | 3+1 | Associated Gathering Skill | |
+| &ast;Primary Crafting Skill | 1+1 | 1+1 | 1+1 | 1+1 | - | |
+| Secondary Crafting Skill | 1+1 | 1+1 | 1+1 | 1+1 | - | |
+| Tertiary Crafting Skill | 2+1 | 2+1 | 2+1 | 2+1 | -  | |
+| Quarternary Crafting Skill | 3+1 | 3+1 | 3+1 | 3+1 | - | |
 | [Artificing](#artificing-products) | 25 | 25 | 25 | 25 | 5 Ranks in each of Alchemy, Rune Carving, Tinkering, Smithing |
 
 | _**Recycling Skill**_ | _**F**_ | _**T**_ | _**R**_ | _**M**_ | _**Prereqs**_ |
