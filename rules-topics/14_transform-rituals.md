@@ -164,8 +164,6 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Cost: | 15  |
 | Description: | Allows using one-handed melee proficiencies in both hands |
 
-
-
 #### Dexterity Armor Expert
 | Name: | Dexterity Armor Expert|
 |---|---|
@@ -289,7 +287,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 30 (Single Purchase)|
-| Description: | Regeneration allows the user to spend one minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.|
+| Description: | Regeneration allows the user to spend one minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.|
 
 #### Rift Self
 | Name: | Rift Self|

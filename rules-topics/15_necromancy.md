@@ -132,7 +132,7 @@ Unless otherwise specified by the stat card, all reanimated bodies:
 
 If a caster is unable to give verbal commands, such as under the effects of a _Silence_ spell, the NPC must wait until the caster is again able to command them.
 
-If an NPC reaches 0hp, the spell reanimating them is broken, regardless of any time remaining on the spell. The NPC will give the caster their stat card and must then inform the Plot Team leading the mod (once it is safe/prudent to do so) that they are no longer animated. At which point they may join the mod NPCs or return to town to resume their character's activities. If the body is destroyed or unable to be retrieved for some reason, the NPC may be required to hand over their stat card to the Plot Team instead.
+If an NPC reaches 0 body, the spell reanimating them is broken, regardless of any time remaining on the spell. The NPC will give the caster their stat card and must then inform the Plot Team leading the mod (once it is safe/prudent to do so) that they are no longer animated. At which point they may join the mod NPCs or return to town to resume their character's activities. If the body is destroyed or unable to be retrieved for some reason, the NPC may be required to hand over their stat card to the Plot Team instead.
 
 Once this occurs, it is the responsibility of the caster to decide how to roleplay what is done with the body. For example, if they decide to carry the body with them, they must roleplay carrying the body's dead weight, picking it up, and setting it down when appropriate.
 
