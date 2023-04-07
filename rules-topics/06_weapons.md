@@ -93,7 +93,7 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 ### Packet Crafting Materials
 * **Fabric**: Cut or uncut white fabric that is a biodegradable natural fiber fabric. (Cotton, abaca, bamboo, lyocell, ramie, jute, hemp, silk.)  Please do not donate nylon, fleece, acrylic, polyester, or rayon fabrics for packets.
 * **Rubber bands**: Size #32-33 is preferred (1/8"). Must be natural rubber.
-* **Birdseed**: Millet bird seed or bird seed that does **not **contain sharp seeds such as sunflower seeds.
+* **Birdseed**: Millet bird seed or bird seed that does **not** contain sharp seeds such as sunflower seeds.
 
 
 ## Shields
