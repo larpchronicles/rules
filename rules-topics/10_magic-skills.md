@@ -500,7 +500,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level** | 10 |
 | **Duration** | Instant  |
-| **Incant** | "I grant you the gift of death X... Magic Heal Wounds X" |
+| **Incant** | "I grant you the gift of death 50" |
 | **Description** | The caster saps the vital force of the target for 50 damage. This damage cannot be increased by any means. If the spell causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state. This is a DEATH effect. |
 
 #### **Life**
