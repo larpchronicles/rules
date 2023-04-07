@@ -82,6 +82,7 @@
 * Corrected catalyst to reagent for alchemy materials.
 * Removed descriptors from ore and wood.  These will be randomized going forward.
 * Corrected triggers for Rune of Chambering
+* Updated Unstable Strik Enhancer to not stack.
 
 ### Ritual Magic
 * Formatting Fixes.

@@ -439,7 +439,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Tier X
 
 #### Unstable Strike Enhancer
-   >This odd device can be applied to a weapon to enhance the damage it does by +2, however, the unstable nature of the device causes damage to the weapon to which it is applied, causing two points of durability damage to it. The effect only lasts for a single Rest period, at which time the Enhancer crumbles.
+   >This odd device can be applied to a weapon to enhance the damage it does by +2, however, the unstable nature of the device causes damage to the weapon to which it is applied, causing two points of durability damage to it. The effect only lasts for a single Rest period, at which time the Enhancer crumbles. Does not stack with other damage increasing effects or abilities.
 #### Unstable Armor Reinforcement
    >This odd device can be applied to a suit of armor, to help protect the wearer. However, the protective properties of this device push the armor past it's breaking point quickly. When putting this item on a suit of Armor, the Armor immediately loses 2 Durability. Furthermore, while this item is in effect, the wearer may expend points of Durability to Resist Physical. Once the Armor reaches 0 Durability, the Armor ceases functioning and the Unstable Armor Reinforcement crumbles. The Unstable Armor Reinforcement also crumbles after a single Rest period.
 
