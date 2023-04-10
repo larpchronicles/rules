@@ -164,8 +164,6 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Cost: | 15  |
 | Description: | Allows using one-handed melee proficiencies in both hands |
 
-
-
 #### Dexterity Armor Expert
 | Name: | Dexterity Armor Expert|
 |---|---|
@@ -289,14 +287,14 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 30 (Single Purchase)|
-| Description: | Regeneration allows the user to spend one minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.|
+| Description: | Regeneration allows the user to spend one minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.|
 
 #### Rift Self
 | Name: | Rift Self|
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 10|
-| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. This is a self-only ability.|
+| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. User must proceed directly to the location and Rift In immediately upon arrival. This is a self-only ability.|
 
 #### Voice Control &lt;Entity>
 | Name: | Voice Control &lt;Entity>|
@@ -354,4 +352,4 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 20|
-| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. The user may choose to allow any other individuals in contact with them to join the Rift.|
+| Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count.  The user may choose to allow any other individuals in contact with them to join the Rift. User and any others must proceed directly to the location and Rift In immediately upon arrival.|

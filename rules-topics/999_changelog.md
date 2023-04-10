@@ -9,28 +9,49 @@
 
 ### Check-In
 * Link Update.
+* Updated use of health points/hp/health pool to body.
+* Replaced smartquotes.
+
+
+### Weapon 
+* Updated Two-Handed Sword and Two-Handed Blunt to 60 inches.
+* Added Bow Construction Rules.
+* Clarified Shield Construction Rules.
+* Added Note that spears cannot swing.
+* Added Note that blunt weapons and polearms cannot stab.
+* Clarified maximum size of a crossbow to be 24” x 24”.
+
+### Combat
+* Clarified that Dual-Wield requires at least one weapon be Short length.
+* Updated use of health points/hp/health pool to body.
+* Replaced smartquotes.
 
 ### Armor 
 * Formatting fixes.
 
-### Combat
-* Clarified that Dual-Wield requires at least one weapon be Short length.
-
 ### Defense Skills
 * Added Armor Cap table.
 * Added clarification to Dexterity Armor.
+* Added Toughness Table
+* Updated tables to show Mages instead of Scholars
 
-### Effects
-* BLEED removed.
-* LIFE updated (no longer provides immunity).
 
 ### Stamina
 * Disarm updated.
-* Slay description and incant updated.
+* Slay updated.
 * Stun is now Level 8.
+* Incants updated for: Slay, Critical Strike, Vital Blow, Weapon Proficiency.
+* Updated use of health points/hp/health pool to body.
+* Replaced smartquotes.
+* Updated table to show Mages instead of Scholars
+* Minor Formatting on skill titles
 
 ### Agility
-* Ballista incant updated.
+* Incants updated for: Backstab, Poison Shot, Ballista, Murder
+* Ballista effect updated.
+* Replaced smartquotes.
+* Updated table to show Mages instead of Scholars
+* Fixed Disarm Table
 
 ### Magic
 * Entrap Spirit updated. Now lasts until rest, requires dissipation, may hit target up to 20 seconds after dissipating.
@@ -46,6 +67,17 @@
 * Fixed Dull Pain level to 6.
 * Added damage to Destroy Undead incant.
 * Removed Blood Sacrifice.  BLEED no longer an effect.
+* Limited Teleport now lasts 20 Seconds
+* Treewalk now lasts 1 Minute
+* Rift Lock cannot hit a target mid-rift.
+* Updated use of health points/hp/health pool to body.
+* Replaced smartquotes.
+* Updated one use of rank to level for referencing spell levels.
+* Updated table to show Mages instead of Scholars
+* Minor Formatting on Spell titles
+
+### Other Skills
+* Updated table to show Mages instead of Scholars
 
 ### Production
 * Flechette Projectile removed (No More Bleeds)
@@ -60,14 +92,59 @@
 * Deep Breath balm now halves Stamina's Regeneration ability time.
 * Formatting Fixes.
 * Removed Bloodletting Coating.  BLEED no longer an effect.
+* Production skills no longer require a Gathering skill to purchase.
+* Rune of Recall now specifies you must immediately go to and rift in to your target location.
+* Updated mentions of health points/hp/health pool to body.
+* Replaced smartquotes.
+* Updated use of ranks to tiers when referring to crafting and material tiers.
+* Updated use of ranks to levels when referring to spell levels.
+* Updated use of health points/hp/health pool to body.
+* Corrected catalyst to reagent for alchemy materials.
+* Removed descriptors from ore and wood.  These will be randomized going forward.
+* Corrected triggers for Rune of Chambering
+* Updated Unstable Strik Enhancer to not stack.
+* Fixed Formatting on Tables
 
-### Ritual Magic, Necromancy
+
+### Ritual Magic
 * Formatting Fixes.
+* Updated Ranks to Levels when referencing spell levels.
 
 ### Transform Abilities
 * Body is now a Passive
 * Proficiency Expert added.
 * Formatting fixes.
+* Rift Self/Group now specify you must immediately go to and rift in to your target location
+
+### Necromancy
+* Formatting Fixes.
+* Updated use of health points/hp/health pool to body.
+
+### Life and Death
+* Updated UNCONSCIOUS.
+* Updated use of health points/hp/health pool to body.
+* Formatting fixes.
+
+### Resting
+* Replaced smartquotes.
+
+### NPC
+* Replaced smartquotes.
+* Updated use of ranks to tiers when referencing crafting tiers.
+
+### Goblin Points
+* Updated use of ranks to tiers when referencing crafting tiers.
+* Formatting fixes.
+
+### Effects
+* BLEED removed.
+* LIFE updated (no longer provides immunity).
+* UNCONSCIOUS now lasts 1 minute instead of 5.
+* Updated mentions of health points/hp/health pool to body.
+* Replaced smartquotes.
+
+### Glossary
+* Updated use of health points/hp/health pool to body.
 
 ### README
 * Updated version

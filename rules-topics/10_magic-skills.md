@@ -59,7 +59,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Universal Level IV
 
 | **Spell** | **Barrier** |
-|---|---|
+|:---|:---|
 | **School**|  Universal |
 | **Level**| 4 |
 | **Duration**  | Rest |
@@ -116,7 +116,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 1 |
 | **Duration**  | Instant |
 | **Incant**  | "I conjure a Mana Bolt #." |
-| **Description** |  This spell creates a bolt of magic that does 5x the mana used to deliver magic damage to the target. If the caster has an active Elemental Shift, they may choose to throw either Magic or their element.  This spell may be used at all Ranks.|
+| **Description** |  This spell creates a bolt of magic that does 5x the mana used to deliver magic damage to the target. If the caster has an active Elemental Shift, they may choose to throw either Magic or their element.  This spell may be used at all Levels.|
  
 
 ### Arcane Level 2
@@ -201,9 +201,9 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 |:---|:---|
 | **School** | Arcane|
 | **Level** | 5 |
-| **Duration**  | Instant |
+| **Duration**  | 20 Seconds |
 | **Incant**  | "With arcane forces, I move across time and space." |
-| **Description** |  This spell will slowly teleport the caster 10 steps in any direction even with the material plane. The teleport must not be impeded by walls or other physical barriers. The teleport will not allow the caster to teleport inside of solid matter. Once this spell is cast, the caster will complete a three second count teleporting out, move their 10 steps, and then three second count for their teleport back in. While in transit, the caster may not communicate with others, use any skills, or activate any items. The character is immune to all game effects except Dispel Magic and Rift Lock while in transit. When this spell ends, the caster may not cast this spell again for 5 seconds. |
+| **Description** |  This spell will teleport the caster up to 10 steps in any direction. The teleport may not be impeded by walls or other physical barriers. Once this spell is cast, the caster will complete a three second count rifting out, move to a location with 10 steps, and then three count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The caster must immediately move upon completion of the Rift Out three count. The caster must begin their Rift In three count within 20 seconds of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. |
 
 #### **Nullify Spell**
 | **Spell** | **Nullify Spell** |
@@ -250,7 +250,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | 20 Seconds |
 | **Incant**  | "I conjure a rift lock." |
-| **Description** |  This spell interrupts and prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Tree Stride, Rift, and Rune of Recall.  This is a RIFT LOCK effect. |
+| **Description** |  This spell prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Treewalk, Rift, and Rune of Recall.  If this spell hits a target who has begun a Rift Out or similar count, this spell interrupts it. This is a RIFT LOCK effect. |
 
 ### Arcane Level 8
 
@@ -276,7 +276,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ### Arcane Level 10
 | **Spell** | **Arcane Torrent**|
-|---|---|
+|:---|:---|
 | **School** | Arcane|
 | **Level** | 10 |
 | **Duration** | Concentration|
@@ -284,7 +284,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** | The caster plants their feet and is able to throw "Magic Mana Bolt 5" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
 
 | **Spell** | **Doom** |
-|---|---|
+|:---|:---|
 | **School** | Arcane |
 | **Level** | 10 |
 | **Duration** | Instant  |
@@ -343,7 +343,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 2  |
 | **Duration**  | Concentration |
 | **Incant**  | "By the spirits, I provide a healing touch." |
-| **Description** |  This spell will continuously heal the target for 1 health every 3 seconds as long as the caster is within arm's reach of the target and role-playing touching them, and the caster is able to maintain concentration. Every three seconds, the caster will repeat the phrase "Healing 1" while in contact with the target in order to let the target know that they have received 1 point of healing. |
+| **Description** |  This spell will continuously heal the target for 1 body every 3 seconds as long as the caster is within arm's reach of the target and role-playing touching them, and the caster is able to maintain concentration. Every three seconds, the caster will repeat the phrase "Healing 1" while in contact with the target in order to let the target know that they have received 1 point of healing. |
 
 
 ### Spirit Level 3
@@ -456,7 +456,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 7  |
 | **Duration**  | 20 seconds |
 | **Incant**  | "By the fiends of the dark nether, I claim your vitae." |
-| **Description** |  This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's health pool. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's health pool is fully recovered. This spell will heal either a living, or an undead caster. |
+| **Description** |  This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's body. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's body is fully recovered. This spell will heal either a living or an undead caster. |
 
 
 ### Spirit Level 8
@@ -477,7 +477,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 8  |
 | **Duration**  | Rest |
 | **Incant**  | "Fiends of the dark nether, create a phylactery for my spirit." |
-| **Description** |  This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body's health pool be reduced to 0, the caster's body immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body with no strain. The phylactery is always destroyable. Should the phylactery be destroyed, the character's body dies and the spirit must seek resurrection normally, including accruing strain.  This is a SPIRIT BOTTLE effect. |
+| **Description** |  This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body be reduced to 0, the caster immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body with no strain. The phylactery is always destroyable. Should the phylactery be destroyed, the character dies and the spirit must seek resurrection normally, including accruing strain.  This is a SPIRIT BOTTLE effect. |
 
 
 ### Spirit Level 9
@@ -496,11 +496,11 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
  
 #### Death
 | **Spell** | **Death** |
-|---|---|
+|:---|:---|
 | **School** | Spirit |
 | **Level** | 10 |
 | **Duration** | Instant  |
-| **Incant** | "I grant you the gift of death X... Magic Heal Wounds X" |
+| **Incant** | "I grant you the gift of death 50" |
 | **Description** | The caster saps the vital force of the target for 50 damage. This damage cannot be increased by any means. If the spell causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state. This is a DEATH effect. |
 
 #### **Life**
@@ -510,7 +510,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 10 |
 | **Duration**  | 5 seconds |
 | **Incant**  | "I grant you the gift of Life." |
-| **Description** | This spell will restore a living or dead target to full maximum health, and remove all ongoing effects of the target's choice. This is a LIFE effect. |
+| **Description** | This spell will restore a living or dead target to full maximum body, and remove all ongoing effects of the target's choice. This is a LIFE effect. |
 
 
 ## Nature
@@ -555,7 +555,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 2 |
 | **Duration**  | 1 minute |
 | **Incant**  | "By nature, I bless this nourishment." |
-| **Description** |  This spell will enchant one serving of food or one serving of potable fluid for consumption. If the nourishment is consumed within the duration of the enchantment the substance will heal the consumer for 5 health points. |
+| **Description** |  This spell will enchant one serving of food or one serving of potable fluid for consumption. If the nourishment is consumed within the duration of the enchantment the substance will heal the consumer for 5 body. |
 
 #### **Entangle Foot**
 | **Spell** | **Entangle Foot** |
@@ -715,9 +715,9 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 |:---|:---|
 | **School** | Nature |
 | **Level** | 9 |
-| **Duration**  | Instant |
+| **Duration**  | 1 Minute |
 | **Incant**  | "By the flora, grant me your stride." |
-| **Description** |  This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second counted action to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second counted action. During both counted actions, the character is immobile and cannot attack or defend themselves. If for some reason the caster is unable to reach another tree within 100 steps, then they must return to the original tree, and upon a 3 second arrival, immediately gain the DEAD status and begin their death count. |
+| **Description** |  This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second Rift Out to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second Rift In. During both Rift counts, the character is immobile and cannot attack or defend themselves. The caster must begin their Rift In three count within 1 Minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. |
 
 #### **Regenerate**
 | **Spell** | **Regenerate** |
@@ -726,7 +726,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 9 |
 | **Duration**  | 1 minute  |
 | **Incant**  | "By nature, I regenerate you." |
-| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their health pool to its maximum value. If the concentration is interrupted, no health is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
+| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
  
 #### **Wrath of Nature, Other**
 | **Spell** | **Wrath of Nature, Other** |
@@ -735,12 +735,12 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 9 |
 | **Duration**  | Concentration, up to 1 Minute |
 | **Incant**  | "By nature, I grant you a vengeful wrath." |
-| **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target's health pool cannot be brought to below 1 point as long as the caster is within arm's reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
+| **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target's body cannot be brought to below 1 point as long as the caster is within arm's reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
 
 ### Nature Level 10
 
 | **Spell** | **Spider Web** |
-|---|---|
+|:---|:---|
 | **School** | Nature |
 | **Level** | 10 |
 | **Duration** | Concentration |

@@ -86,9 +86,9 @@ From time to time, the chapter may need some things more than others.  When this
 **10 GP - <u>Packet Supplies</u> (per $1)**
 
 * Donations of packet supplies are valued at 10GP to $1 spent, rounded up.  This means if you spend $9.34 on packet supplies, it will count as $10 and you will be given 100 GP.  Do you have packets already made?  Check out <u>Packet Donation</u> below!  Packet supplies should conform to the following:
-    * **Fabric **- Cut or uncut white fabric that is a biodegradable natural fiber fabric. (Cotton, abaca, bamboo, lyocell, ramie, jute, hemp, silk.)  Please do not donate nylon, fleece, acrylic, polyester, or rayon fabrics for packets.
+    * **Fabric** - Cut or uncut white fabric that is a biodegradable natural fiber fabric. (Cotton, abaca, bamboo, lyocell, ramie, jute, hemp, silk.)  Please do not donate nylon, fleece, acrylic, polyester, or rayon fabrics for packets.
     * **Rubber bands** - Size #32-33 is preferred (1/8"). Must be natural rubber.
-    * **Birdseed **- Millet bird seed or bird seed that does **not **contain sharp seeds such as sunflower seeds.
+    * **Birdseed** - Millet bird seed or bird seed that does **not** contain sharp seeds such as sunflower seeds.
 
 **10 GP per $1 -<u> Physical Representation Supplies</u>**
 
@@ -124,10 +124,10 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>100 Goblin Point Rewards</u>**
 
-* <u>Crafting Materials</u>.  You may claim a cumulative 10 Ranks of crafting materials.  You may freely pick from among the types:  Catalyst, Ore, Scrap Parts, and Wood.  Examples include:
-    * 10 pieces of Rank 1 Wood
-    * 1 piece of Rank 10 Ore
-    * 1 piece of Rank 5 Scrap Parts, 2 pieces of Rank 1 Wood, and 2 pieces of Rank 2 Catalyst.
+* <u>Crafting Materials</u>.  You may claim a cumulative 10 Tiers of crafting materials.  You may freely pick from among the types:  Catalyst, Ore, Scrap Parts, and Wood.  Examples include:
+    * 10 pieces of Tier 1 Wood
+    * 1 piece of Tier 10 Ore
+    * 1 piece of Tier 5 Scrap Parts, 2 pieces of Tier 1 Wood, and 2 pieces of Tier 2 Catalyst.
 * <u>Rare Craft Material</u>.  One Spirit Gem.  This is limited to one purchase per event.
 * <u>Currency</u>.  One credit or five mana.  This is limited to one purchase per event.
 * <u>Mini-Mod</u>: GREATER IBGA, limit 1 per event.

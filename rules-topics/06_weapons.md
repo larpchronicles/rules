@@ -9,17 +9,21 @@
 * Real archery reps are disallowed.  Packet Bows are allowed on a case-by-case basis.
 
 
-| WEAPON              | STRIKING SURFACE | HANDLE LENGTH | TOTAL LENGTH | HEAD REQUIRED |
-|:--------------------|:----------------:|:-------------:|:------------:|:-------------:|
-| Short Sword / Claws |    18" - 24"     |   5" - 14"    |   24" - 36"  |      No       |
-| Short Blunt / Axe   |    18" - 24"     |   5" - 14"    |   24" - 36"  |      Yes      |
-| Long Sword / Bites  |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      No       |
-| Long Blunt / Axe    |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      Yes      |
-| Two-Handed Sword    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      No       |
-| Two-Handed Blunt    |    40" - 48"     |   5" - 30"    |  >48" - 62"  |      Yes      |
-| Spear (One-Handed)  |    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
-| Polearm             |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
-| Parrying Dagger     |    7"  - 13"     |   5" - 6"     |   12" - 18"  |      No       |
+| WEAPON               | STRIKING SURFACE | HANDLE LENGTH | TOTAL LENGTH | HEAD REQUIRED |
+|:---------------------|:----------------:|:-------------:|:------------:|:-------------:|
+| Short Sword / Claws  |    18" - 24"     |   5" - 14"    |   24" - 36"  |      No       |
+| * Short Blunt / Axe  |    18" - 24"     |   5" - 14"    |   24" - 36"  |      Yes      |
+| Long Sword / Bites   |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      No       |
+| * Long Blunt / Axe   |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      Yes      |
+| Two-Handed Sword     |    40" - 48"     |   5" - 30"    |  >48" - 60"  |      No       |
+| Two-Handed Blunt     |    40" - 48"     |   5" - 30"    |  >48" - 60"  |      Yes      |
+| ** Spear (One-Handed)|    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
+| * Polearm            |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
+| Parrying Dagger      |    7"  - 13"     |   5" - 6"     |   12" - 18"  |      No       |
+
+&#42; You can only swing (Cannot stab) with a Polearm or a blunt weapon. 
+<BR>
+** You can only stab (cannot swing) with a spear.
 
 ### Striking Surface ### 
 The striking surface specifies the minimum and maximum amount of padded striking surface the weapon *must* have. _Any weapon that has less padding than the specified minimums will not pass inspection, even if it falls within the Total Length requirements!_
@@ -56,8 +60,12 @@ A few online storefronts will have ready made things, but please do ask others h
 ## Bows and Crossbows
 
 ---
+### Bows
+A Bow must be curved and formed in the shape of a bow. Overall length in a straight line from tip to tip must be between 34 and 58 inches and the curve of the bow can be a maximum of 12 inches.  A bow must pass all standard safety checks.
+
+
 ### Crossbows
-The stock must be at least 12" long, and each limb must extend at least 6" from the stock (making the whole thing at least 12" wide).
+The stock must be at least 12" long, and each limb must extend at least 6" from the stock (making the whole thing at least 12" wide).  The maximum dimensions of a crossbow can be 24" x 24".
 
 If you wrap a string around the perimeter of the rep, the area it encloses must be at least 72 sq. in. (A 12" base, 12" height isosceles triangle).
 
@@ -85,18 +93,13 @@ Each tagged quiver you bring into game should have its own phy rep.  A phys rep 
 ### Packet Crafting Materials
 * **Fabric**: Cut or uncut white fabric that is a biodegradable natural fiber fabric. (Cotton, abaca, bamboo, lyocell, ramie, jute, hemp, silk.)  Please do not donate nylon, fleece, acrylic, polyester, or rayon fabrics for packets.
 * **Rubber bands**: Size #32-33 is preferred (1/8"). Must be natural rubber.
-* **Birdseed**: Millet bird seed or bird seed that does **not **contain sharp seeds such as sunflower seeds.
+* **Birdseed**: Millet bird seed or bird seed that does **not** contain sharp seeds such as sunflower seeds.
 
 
 ## Shields
 
 ---
-* The shortest dimension a shield may have is 12".
-* The longest dimension a shield may have is 36".
-* Everything attached to the shield and its edges (such as foam edging) counts as part of the shield.
-* The maximum allowed surface area of a shield is 531 square inches and is calculated as if the shield were a flattened surface, counting any concavities into the silhouette.
-* If a shield is curved or has three dimensions such as a partial cylinder or dome, that surface area is calculated into the total surface area.
-* It is highly suggested that when making a shield rep, any fabric is detachable to prevent mold buildup.
+A shield cannot be longer than 36" in any dimension (including diagonally), shorter then 12" in any direction, and must encompass an area less than 531 sq. in. (So, a perfectly circular shield could have a diameter of 26in). Everything that is part of the shield counts as the shield. The surface area of the shield is calculated as if the shield were a flattened surface, and counts concavities in the shield's silhouette. If the shield is curved or the face of the shield has three dimensions (ex: A partial cylinder, a dome shield, etc.), then the area is calculated including that space. If you cover the face of your shield with tape, then the area of the shield would be (at minimum) equal to the area of tape. If you took a string and wrapped it around the shield edge, the shape enclosed by that string is (at minimum) the area of the shield.
 
 ### Shield Crafting Materials
     Pending.

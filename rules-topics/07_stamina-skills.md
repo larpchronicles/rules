@@ -3,7 +3,7 @@
 ## Weapon Skills
 
 ---
-| Skill Point Cost  |  F  |  T  |  R  |  S  | Prereqs|
+| Skill Point Cost  |  F  |  T  |  R  |  M  | Prereqs|
 |:---|:---:|:---:|:---:|:---:|---|
 | One-Handed Weapon |  3  |  3  |  5  |  8  |-|
 | Two-Hand Weapon|  3  |  3  | 5  | 8 |-|
@@ -14,11 +14,11 @@
 
 ### One-Handed Weapon 
 
->This skill allows the character to use one hand weapon between 24” long and less than 48” long in melee combat.  One-Handed weapons include short swords, short axes, short hammer, short club, long swords, rapier, battleaxe, warhammer, warmace, spear, and club.  This skill allows the use of the weapon in either hand, but not the ability to wield a One-Handed Weapon in both hands at once.
+>This skill allows the character to use one hand weapon between 24" long and less than 48" long in melee combat.  One-Handed weapons include short swords, short axes, short hammer, short club, long swords, rapier, battleaxe, warhammer, warmace, spear, and club.  This skill allows the use of the weapon in either hand, but not the ability to wield a One-Handed Weapon in both hands at once.
 
 ### Two-Handed Weapon
 
->The character may use a two-handed weapon between 48” long and 72” long in melee combat. Two-Handed weapons include two-handed swords, polearms, staves, and two-handed clubs. Two-handed weapons require both hands to be on the weapon in order to attack or block in melee combat. If the character blocks an attack with only one hand, the character will take the damage as if they had not blocked the attack at all.
+>The character may use a two-handed weapon between 48" long and 72" long in melee combat. Two-Handed weapons include two-handed swords, polearms, staves, and two-handed clubs. Two-handed weapons require both hands to be on the weapon in order to attack or block in melee combat. If the character blocks an attack with only one hand, the character will take the damage as if they had not blocked the attack at all.
 
 ### Ranged Weapon
 
@@ -26,10 +26,10 @@
 
 ### Shield
 
->This skill allows the character to wield a shield used to block attacks. A shield may never be used for striking in combat. As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.  The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36”.  Shields may not be used with two-handed weapons, bows, or crossbows. A character may not dual wield shields.
+>This skill allows the character to wield a shield used to block attacks. A shield may never be used for striking in combat. As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.  The maximum surface area of a shield is 531 square inches. The longest dimension a shield may have is 36".  Shields may not be used with two-handed weapons, bows, or crossbows. A character may not dual wield shields.
 
 ### Parrying Dagger
->This skill allows the user to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12”-18” in length, the handle is a maximum of 6”, and the tips of the weapon must be red for easy identification.
+>This skill allows the user to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12"-18" in length, the handle is a maximum of 6", and the tips of the weapon must be red for easy identification.
 
 ### Dual Wield
 
@@ -65,38 +65,38 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Critical Strike**
 | Ability | **Critical Strike**| 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
 | **Duration** | Instant|
-| **Call**| - |
+| **Call**| I Invoke Critical Strike |
 | **Description** | Critical Strikes are purchased with Stamina Points and allow the user to add +1 damage against a single target.  This damage may be stacked up to +5 damage.  The effect ends at rest or when invoking Critical Strike against a different target.|
 
 #### **Disarm**
-| Ability | **Disarm**                                                                                                                                                                                                                                                                                                                                                               | 
-|:---|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Type**| Stamina                                                                                                                                                                                                                                                                                                                                                                  |
-| **Level**| 1                                                                                                                                                                                                                                                                                                                                                                        |
-| **Duration** | 5 Seconds                                                                                                                                                                                                                                                                                                                                                                |
-| **Call**| “Physical Disarm [Weapon]”                                                                                                                                                                                                                                                                                                                                               |
-| **Description** | This skill causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This is a DISARM effect.      |
+| Ability | **Disarm**| 
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 1 |
+| **Duration** | 5 Seconds |
+| **Call**| "Physical Disarm \[Weapon\]" |
+| **Description** | This skill causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This is a DISARM effect.|
 
 #### **Blind**
 | Ability | **Blind**| 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
 | **Duration** | 20 Seconds|
-| **Call**| “Physical Blind”|
+| **Call**| "Physical Blind"|
 | **Description** | This skill is a strike that renders the target blind and unable to attack targets not in melee range of the blind character for 20 seconds. This effect may be affected by the Transfer Malady, Cure Body, or Cure Blindness spells. The effect of this skill may not be stacked or extended. This is a BLIND effect.|
 
 #### **Slow**
 | Ability | **Slow**| 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
 | **Duration** | 20 Seconds|
-| **Call**| “Physical Slow”|
+| **Call**| "Physical Slow"|
 | **Description** | This is a strike that renders the target unable to move faster than a normal walking speed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells and can be removed by healing the affected character. The effect of this skill may not be stacked or extended.  This is a SLOW effect.|
 
 ### Level 2 Stamina Abilities
@@ -107,7 +107,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 2 |
 | **Duration** | 20 Seconds|
-| **Call**| “Physical Stop Thrust” |
+| **Call**| "Physical Stop Thrust" |
 | **Description** | This is a strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This is a STOP THRUST effect. |
 
 ### Level 3 Stamina Abilities
@@ -118,18 +118,18 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 3 |
 | **Duration** | 5 Seconds|
-| **Call**| “Refitting Armor 1...2...3...4...5” |
+| **Call**| "Refitting Armor 1...2...3...4...5" |
 | **Description** |This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character's armor pool is reset to its maximum.  Does not apply to Dexterity Armor.|
 
 ### Level 4 Stamina Abilities
 
 #### **Disable Limb**
 | Ability | **Disable Limb** | 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 4 |
 | **Duration** | 20 Seconds|
-| **Call**| “Physical Disable [Limb]”|
+| **Call**| "Physical Disable \[Limb\]"|
 | **Description** | This skill causes the target to lose control of the named limb for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells. Weapons and/or shields held in the hand of a disabled limb cannot be used to attack or block. |
 
 #### **Kneel**
@@ -138,7 +138,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 4 |
 | **Duration** | 20 Seconds|
-| **Call**| “Physical Kneel”|
+| **Call**| "Physical Kneel"|
 | **Description** | This skill that forces the opponent to take a knee or crouch, and cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this skill may not be stacked or extended. This is a KNEEL effect. |
 
 #### **Parry**
@@ -147,7 +147,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 4 |
 | **Duration** | 20 Seconds|
-| **Call**| “I focus my defenses against weapons.”|
+| **Call**| "I focus my defenses against weapons."|
 | **Description** |This skill allows the character to Resist Physical once.  This is a RESIST effect. |
 
 #### **Spell Parry**
@@ -156,7 +156,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 4 |
 | **Duration** | 20 Seconds|
-| **Call**| “I focus my defenses against magic.”|
+| **Call**| "I focus my defenses against magic."|
 | **Description** |This skill allows the character to Resist Spell once. This is a RESIST effect. |
 
 ### Level 5 Stamina Abilities
@@ -167,7 +167,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 5 |
 | **Duration** | 20 Seconds |
-| **Call**| “Physical Silence”|
+| **Call**| "Physical Silence"|
 | **Description** | This is a strike that will silence an opponent for 20 seconds. A silenced opponent may not speak in game, but may still make game system calls that are not in game speech. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended.  This is a SILENCE effect. |
 
 #### **Vital Blow**
@@ -176,8 +176,9 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 5 |
 | **Duration** | Instant|
-| **Call**| “X [Type] Vital”|
-| **Description** | This is a strike that allows the user to swing their base weapon damage and proficiencies as Vital.  The damage may not be increased by any other skills, abilities, or effects.|
+| **Call**| "Your Defenses Shall Do You No Good...X \[Type\] Vital"|
+| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Requirements**| Melee Weapon|
 
 ### Level 6 Stamina Abilities
 
@@ -187,7 +188,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 6 |
 | **Duration** | 20 Seconds|
-| **Call**| “Physical Fear”|
+| **Call**| "Physical Fear"|
 | **Description** | This is a strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 20 seconds. The fear effect can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended.  This is a FEAR effect. |
 
 #### **Intercept**
@@ -196,7 +197,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Type**| Stamina|
 | **Level**| 6 |
 | **Duration** | Instant|
-| **Call**| “Intercept”|
+| **Call**| "Intercept"|
 | **Description** |This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect.|
 |**Requirements**|Shield|
 
@@ -204,21 +205,21 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Curse**
 | Ability | **Curse**|
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 7 |
 | **Duration** | 20 Seconds|
-| **Call**| “Physical Curse” |
+| **Call**| "Physical Curse" |
 | **Description** | This strike renders the opponent especially vulnerable to all damage for 20 Seconds, taking double damage from all sources.  The effect of this skill may not be stacked or extended.  This is a CURSE effect.|
 
 
 #### **Destroy**
 | Ability | **Destroy**|
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 7 |
 | **Duration** | Instant|
-| **Call**| “Physical Destroy <target item>” |
+| **Call**| "Physical Destroy <target item>" |
 | **Description** | This is strike that instantly destroys the target's armor, weapon, or shield.  This is a DESTROY effect. |
 | **Requirement** | - |
 
@@ -227,50 +228,51 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Endurance**
 | Ability | **Endurance**|
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 8 |
 | **Duration** | Instant|
-| **Call**| “Endurance” |
-| **Description** | This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare “Endurance”.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.|
+| **Call**| "Endurance" |
+| **Description** | This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare "Endurance".  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.|
 
-| Ability | **Stun**                                                                                                                                                                                                                                                                                                                        |
-|:---|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Type**| Stamina                                                                                                                                                                                                                                                                                                                         |
-| **Level**| 8                                                                                                                                                                                                                                                                                                                               |
-| **Duration** | 20 Seconds                                                                                                                                                                                                                                                                                                                      |
-| **Call**| “Physical Stun”                                                                                                                                                                                                                                                                                                                 |
+| Ability | **Stun**   |
+|:---|---|
+| **Type**| Stamina |
+| **Level**| 8 |
+| **Duration** | 20 Seconds |
+| **Call**| "Physical Stun"  |
 | **Description** | This skill is a strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This is a STUN effect. |
 
 ### Level 9 Stamina Abilities
 
 #### **Regenerate**
 | Ability | **Regenerate**|
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 9 |
 | **Duration** | 1 Minute|
-| **Call**| “Begin Regenerate...Regenerate Complete” |
-| **Description** | This skill allows the user to Concentrate for 1 Minute and restore to their maximum health points.  During Concentration, the user may not do anything else including communicate, use abilities, use or activate items, etc.|
+| **Call**| "Begin Regenerate...Regenerate Complete" |
+| **Description** | This skill allows the user to Concentrate for 1 Minute and restore to their maximum body.  During Concentration, the user may not do anything else including communicate, use abilities, use or activate items, etc.|
 
 ### Level 10 Stamina Abilities
 
 #### **Slay**
-| Ability | **Slay**                                                                                                                                                                               |
-|:---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Type**| Stamina                                                                                                                                                                                |
-| **Level**| 10                                                                                                                                                                                     |
-| **Duration** | Instant                                                                                                                                                                                |
-| **Call**| “Prepare to Die...100 [Type] Slay”                                                                                                                                                     |
+| Ability | **Slay** |
+|:---| ---|
+| **Type**| Stamina |
+| **Level**| 10   |
+| **Duration** | Instant   |
+| **Call**| "Prepare to Die...100 \[Type\] Slay" |
 | **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 damage. Slay may not be stacked with any carriers or Flame/Frost/Shock/Stone. |
 
 #### **Weapon Proficiencies**
 | Ability | **Proficiency**  | 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina |
 | **Level**| 10|
 | **Duration** | Rest|
-|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests. |
+| **Call**| "I Hone My Fighting Skill" |
+|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call.|
 
 Fighters may use any melee proficiency for any melee weapon, for either hand.<br> 
 >Example: Atilla the Fighter spends 20 Stamina Points for two "One-handed Proficiencies". Atilla may use their +2 damage with any longsword, claw, two-handed sword, polearm, etc. (Everything but a bow or thrown.)
