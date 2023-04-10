@@ -1,6 +1,6 @@
 
 # Other Skills
-|Skill|F|T|R|S|Prereqs|
+|Skill|F|T|R|M|Prereqs|
 |:---|:---:|:---:|:---:|:---:|:---|
 |Cutpurse|10|10|3|10||
 |Escape Artist|5+2|5+2|3+1|3+1||

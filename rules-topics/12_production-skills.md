@@ -112,7 +112,6 @@ Item production is the process by which characters are able to craft consumable 
 | X | Ultimate Alchemical Reagent |
 
 ### Mining Products
-* Type of Ore is randomized, only the tier matters.
 | _**Material Tier**_ | _**Product**_ | 
 |---|---|
 | I | Ore  |
@@ -121,6 +120,7 @@ Item production is the process by which characters are able to craft consumable 
 | IV   | Ore |
 | V | Ore |
 | X | Ore  |
+* Type of Ore is randomized, only the tier matters.
 
 ### Scrapping Products
 | _**Material Tier**_ | _**Product**_  | 
@@ -133,7 +133,6 @@ Item production is the process by which characters are able to craft consumable 
 | X | Massive Scrap Parts |
 
 ### Logging Products
-* Type of Wood is randomized, only the tier matters.
 | _**Material Tier**_ | _**Product**_  | 
 |---|---|
 | I | Wood |
@@ -142,7 +141,7 @@ Item production is the process by which characters are able to craft consumable 
 | IV   | Wood |
 | V | Wood |
 | X | Wood |
-
+* Type of Wood is randomized, only the tier matters.
 
 ## Alchemy Products
 

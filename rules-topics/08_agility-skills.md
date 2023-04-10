@@ -3,7 +3,7 @@
 ## Agility Points
 > Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points.
 
-|Agility Pool|F|T|R|S|
+|Agility Pool|F|T|R|M|
 |---|---|---|---|---|
 |Cost Per 10 Agility|10+10|20+10|5+5|20+10|
 
@@ -11,7 +11,7 @@
 ## Mimicry
 > This skill allows the user to use any single Spell or Stamina ability once per purchase of Mimicry.  The user must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate. Use requires the verbal:  My turn!  <ability verbal/incant>
 
-|Mimicry Point Costs|F|T|R|S|
+|Mimicry Point Costs|F|T|R|M|
 |---|---|---|---|---|
 |Mimicry|5+10|20+10|3+5|20+10|
 

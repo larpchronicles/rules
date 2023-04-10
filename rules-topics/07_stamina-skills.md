@@ -3,7 +3,7 @@
 ## Weapon Skills
 
 ---
-| Skill Point Cost  |  F  |  T  |  R  |  S  | Prereqs|
+| Skill Point Cost  |  F  |  T  |  R  |  M  | Prereqs|
 |:---|:---:|:---:|:---:|:---:|---|
 | One-Handed Weapon |  3  |  3  |  5  |  8  |-|
 | Two-Hand Weapon|  3  |  3  | 5  | 8 |-|
@@ -65,7 +65,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Critical Strike**
 | Ability | **Critical Strike**| 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
 | **Duration** | Instant|
@@ -73,17 +73,17 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Description** | Critical Strikes are purchased with Stamina Points and allow the user to add +1 damage against a single target.  This damage may be stacked up to +5 damage.  The effect ends at rest or when invoking Critical Strike against a different target.|
 
 #### **Disarm**
-| Ability | **Disarm**  | 
-|:---|: ---|
-| **Type**| Stamina  |
-| **Level**| 1  |
+| Ability | **Disarm**| 
+|:---|---|
+| **Type**| Stamina|
+| **Level**| 1 |
 | **Duration** | 5 Seconds |
 | **Call**| "Physical Disarm \[Weapon\]" |
-| **Description** | This skill causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This is a DISARM effect.   |
+| **Description** | This skill causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This is a DISARM effect.|
 
 #### **Blind**
 | Ability | **Blind**| 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
 | **Duration** | 20 Seconds|
@@ -92,7 +92,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Slow**
 | Ability | **Slow**| 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
 | **Duration** | 20 Seconds|
@@ -125,7 +125,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Disable Limb**
 | Ability | **Disable Limb** | 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 4 |
 | **Duration** | 20 Seconds|
@@ -205,7 +205,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Curse**
 | Ability | **Curse**|
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 7 |
 | **Duration** | 20 Seconds|
@@ -215,7 +215,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Destroy**
 | Ability | **Destroy**|
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 7 |
 | **Duration** | Instant|
@@ -228,7 +228,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Endurance**
 | Ability | **Endurance**|
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 8 |
 | **Duration** | Instant|
@@ -236,7 +236,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Description** | This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare "Endurance".  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once.|
 
 | Ability | **Stun**   |
-|:---|:---|
+|:---|---|
 | **Type**| Stamina |
 | **Level**| 8 |
 | **Duration** | 20 Seconds |
@@ -247,7 +247,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Regenerate**
 | Ability | **Regenerate**|
-|:---|:---|
+|:---|---|
 | **Type**| Stamina|
 | **Level**| 9 |
 | **Duration** | 1 Minute|
@@ -267,7 +267,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 
 #### **Weapon Proficiencies**
 | Ability | **Proficiency**  | 
-|:---|:---|
+|:---|---|
 | **Type**| Stamina |
 | **Level**| 10|
 | **Duration** | Rest|

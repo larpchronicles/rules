@@ -59,7 +59,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Universal Level IV
 
 | **Spell** | **Barrier** |
-|---|---|
+|:---|:---|
 | **School**|  Universal |
 | **Level**| 4 |
 | **Duration**  | Rest |
@@ -276,7 +276,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ### Arcane Level 10
 | **Spell** | **Arcane Torrent**|
-|---|---|
+|:---|:---|
 | **School** | Arcane|
 | **Level** | 10 |
 | **Duration** | Concentration|
@@ -284,7 +284,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** | The caster plants their feet and is able to throw "Magic Mana Bolt 5" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
 
 | **Spell** | **Doom** |
-|---|---|
+|:---|:---|
 | **School** | Arcane |
 | **Level** | 10 |
 | **Duration** | Instant  |
@@ -496,7 +496,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
  
 #### Death
 | **Spell** | **Death** |
-|---|---|
+|:---|:---|
 | **School** | Spirit |
 | **Level** | 10 |
 | **Duration** | Instant  |
@@ -740,7 +740,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Nature Level 10
 
 | **Spell** | **Spider Web** |
-|---|---|
+|:---|:---|
 | **School** | Nature |
 | **Level** | 10 |
 | **Duration** | Concentration |
