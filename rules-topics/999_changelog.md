@@ -1,5 +1,16 @@
 # Changelog
 
+## 3.x.x [2023-05-xx]
+
+---
+### Transform Rituals
+* Added indicator to Gaseous Form.
+* Formatting cleanup.
+
+### Effects
+* Added note to GASEOUS
+
+
 ## 3.0.5 [2023-03-26]
 
 ---
