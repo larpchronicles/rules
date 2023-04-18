@@ -298,7 +298,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 1  |
 | **Duration**  | 5 minutes |
-| **Incant**  | "Fiends of the dark nether, reward me with your service." |
+| **Incant**  | "By the spirits I command you, reward me with your service." |
 | **Description** |  This spell allows the caster to vocally control a minor undead creature. The creature cannot understand complex instructions, but it will follow simple directions to the best of its ability. The undead creature is destroyed once this spell ends.  This is a VOICE CONTROL effect. |
 
 #### **Heal Wounds**
@@ -368,7 +368,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 4  |
 | **Duration**  | 20 seconds |
-| **Incant**  | "Fiends of the dark nether, rot this <limb>." |
+| **Incant**  | "By the spirits I rot this <limb>." |
 | **Description** |  This spell causes the target's limb to become completely useless. Any items that are held by the rotting limb do not drop to the ground.  This is a DISARM effect. |
 
 
@@ -449,7 +449,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 7  |
 | **Duration**  | 20 seconds |
-| **Incant**  | "By the fiends of the dark nether, I claim your vitae." |
+| **Incant**  | "By the spirits, I claim your vitae." |
 | **Description** |  This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's body. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's body is fully recovered. This spell will heal either a living or an undead caster. |
 
 
@@ -470,7 +470,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 8  |
 | **Duration**  | Rest |
-| **Incant**  | "Fiends of the dark nether, create a phylactery for my spirit." |
+| **Incant**  | "By the spirits, I create a phylactery for my spirit." |
 | **Description** |  This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body be reduced to 0, the caster immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body with no strain. The phylactery is always destroyable. Should the phylactery be destroyed, the character dies and the spirit must seek resurrection normally, including accruing strain.  This is a SPIRIT BOTTLE effect. |
 
 
@@ -482,7 +482,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 9  |
 | **Duration**  | 5 minutes |
-| **Incant**  | "Fiends of the dark nether, force this minion to rise and serve." |
+| **Incant**  | "By the spirits, I force this minion to rise and serve." |
 | **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target's spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
 
 

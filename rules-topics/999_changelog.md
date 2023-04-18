@@ -14,6 +14,7 @@
 * Dispel Magic doesn't work on Glyphs
 * Halt is now Stop, incant updated.
 * Mastery abilities removed (Prior ruling, just cleaning)
+* All Fiendish Spells have had their incants updated.
 
 ### Agility Skills
 * Warbow Training, incant updated.
