@@ -69,6 +69,18 @@ Suppose you have a normal longsword, a transform with the Magic Aura and Flame A
 | Poison       | Shock          | Drain           |
 | Silver       | Stone          | Vital           |
 
+Unless explicitly stated, you are always able to drop your carrier. You may have many carriers, but you must always choose to swing one or fewer.
+>Example: Bob the Lich has Monstrous Carrier: Drain and Monstrous Carrier: Death. Bob can choose to swing 5 Magic, OR 5 Magic Drain, OR 5 Magic Death. Bob cannot swing 5 Magic Death Drain.
+> 
+This is not necessarily true with auras (ie, damage types). So, if you have a sword with Magic Aura, you cannot choose to swing Normal or Silver with it.
+  EXCEPT if you have another effect, such as Monstrous Silver Aura, you may then choose to swing Silver regardless of weapon. Examples include:
+  >Alice the Adventurer has a silvered long sword. She may only swing 5 Silver with it. If she wishes to swing 5 Normal, she must use a different weapon.
+  
+  >Gary the Golem has the transform ability Monstrous Silver Aura. While wielding a normal Long Sword, he may choose to swing 5 Normal OR 5 Silver.
+  
+  >Barrack the Brood has the ability Monstrous Poison Aura and a Magic Long Sword. He may only choose to swing 5 Poison OR 5 Magic with that sword.
+  
+  >Archibald the Artificer has a silvered short sword. He decides to use his artificing skill to enchant the sword with a Magic Aura. The resulting weapon is no longer silvered, and will only have Magic Aura on the item tag.
 
 ## Defensive Ability Slots
 
