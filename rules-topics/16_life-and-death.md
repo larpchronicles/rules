@@ -93,9 +93,11 @@ Dismembering a character for the purpose of attempting to use a smaller body par
 Most people and creatures have a regular metabolism. Characters with "no metabolism" or "undead metabolism" are affected by some game effects differently.
 
 ### No Metabolism
-- Immune to Toxin
-- Immune to Berserk, Command: Confuse, Death, Drain, First Aid, Heal Wounds, Infect, Life, Sleep, Stun, Waylay
 - Crumble at 0 Body
+- Immune to Toxin
+- Immune to Berserk, Command: Confuse, Death, Boon of Nature, Drain, First Aid, Heal Wounds, Hearthstone, Infect, Life, Regenerate, Revive, Revivify, Sleep, Stun, Vampiric Touch, Waylay
+
+> _Generally, a creature that has no metabolism cannot be healed by typical means, but will have an alternate method of being healed. For instance, a Fire Elemental would be immune to standard healing effects, but could be healed by Flame._ 
 
 
 ### Undead Metabolism
