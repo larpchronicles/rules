@@ -52,30 +52,30 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 #### Magic Ability
 | Name: | Magic Ability|
 |---|---|
-| Type: | Active  |
+| Type: | Active |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a packet-delivered magic ability, as dictated by the monstrous ability. |
+| Description: | User gains 1/Rest use of a packet-delivered magic ability, as dictated by the ability. |
 
 #### Physical Ability
 | Name: | Physical Ability|
 |---|---|
 | Type: | Active  |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a packet-delivered physical ability, as dictated by the monstrous ability. |
+| Description: | User gains 1/Rest use of a packet-delivered physical ability, as dictated by the ability. |
 
 #### Physical Strike
 | Name: | Physical Strike|
 |---|---|
 | Type: | Active  |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a physical strike. Strike is dictated by the monstrous ability. |
+| Description: | User gains 1/Rest use of a physical strike. Strike is dictated by the ability. |
 
 #### Spellstrike 
 | Name: | Spellstrike|
 |---|---|
 | Type: | Active|
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the monstrous ability. |
+| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the ability. |
 
 
 ### Basic - Tier I
@@ -85,18 +85,18 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive|
 | Cost: | 5 (Single Purchase) |
+| Tier: | 1 |
 | Description: | Claws function as One-Handed Weapons and may be used to qualify for any abilities that require One-Handed Weapon as a prerequisite. Additionally, the character may wield two claws as though they possessed the Dual Wield ability. |
 
 
 ### Advanced - Tier III
 
-
-
 #### Body
-| Name: | Body  |
+| Name: | Body |
 |---|---|
-| Type: | Passive  |
+| Type: | Passive |
 | Cost: | 10  |
+| Tier: | 3 |
 | Description: | Purchases of Toughness grant +2 extra body (+7 instead of +5) |
 
 #### Backstab Expert
@@ -104,6 +104,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 10 |
+| Tier: | 3 |
 | Description: | Increases the cap on backstab from +10 to +20 |
 
 #### Critical Strike Expert
@@ -111,6 +112,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 10 |
+| Tier: | 3 |
 | Description: | Increases the cap on critical strike from +5 to +10 |
 
 #### Gaseous Form
@@ -118,13 +120,15 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active|
 | Cost: | 3 + 5|
-| Description: | User can go Gaseous on a three count, gaining the effects of Gaseous Form for up to 5 minutes. User reforms on a three count. “One I go Gaseous…” and “One I Reform…”  |
+| Tier: | 3 |
+| Description: | User can go Gaseous on a three count, gaining the effects of Gaseous Form for up to 5 minutes. User reforms on a three count. "One I go Gaseous…" and "One I Reform…"  While the effect is active, the user must hold their arms crossed over their chest in a `X`.|
 
 #### Parry/Spell Parry
 | Name: | Parry/Spell Parry |
 |---|---|
 | Type: | Active |
 | Cost: | 3 + 5  |
+| Tier: | 3 |
 | Description: | Allows the use of a single Parry or Spell Parry once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot.|
 
 #### Resist Magic
@@ -132,6 +136,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 3 + 5  |
+| Tier: | 3 |
 | Description: | User may Resist Magic once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot.|
 
 #### Resist Physical
@@ -139,6 +144,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active|
 | Cost: | 3 + 5|
+| Tier: | 3 |
 | Description: | User may Resist Physical once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
 
 #### Resist Toxin
@@ -146,6 +152,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active|
 | Cost: | 3 + 5|
+| Tier: | 3 |
 | Description: | User may Resist Physical once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
 
 #### Resist &lt;Effect>
@@ -153,6 +160,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active|
 | Cost: | 3 + 5|
+| Tier: | 3 |
 | Description: | User may Resist a specific effect once per rest. Effect is dictated by the transform and scroll.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
 
 
@@ -162,6 +170,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 15  |
+| Tier: | 5 |
 | Description: | Allows using one-handed melee proficiencies in both hands |
 
 #### Dexterity Armor Expert
@@ -169,6 +178,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active|
 | Cost: | 5 + 10|
+| Tier: | 5 |
 | Description: | Per Armor Training.  User gains 5 additional Armor.  User is unable to benefit from any other source of armor.|
 
 #### &lt;Elemental> Striker
@@ -176,6 +186,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 15 (Single Purchase)  |
+| Tier: | 5 |
 | Description: | Frost/Flame/Shock/Stone Striker carrier, applies to any weapon, or unarmed, that is wielded. |
 
 #### Magic Striker
@@ -183,6 +194,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive|
 | Cost: | 15 (Single Purchase)|
+| Tier: | 5 |
 | Description: | Magic carrier, applies to any weapon, or unarmed, that is wielded.|
 
 ##### Proficiency Expert
@@ -190,6 +202,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive|
 | Cost: | 15 |
+| Tier: | 5 |
 | Description: | Reduces the Stamina cost of Proficiency by 2 (10->8). |
 
 #### Spirit Bottle
@@ -197,8 +210,8 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active|
 | Cost: | 15 (Single Purchase)|
-| Description: | User gains a Spirit Bottle with x uses. This is not Fiendish in nature, and the User is not considered undead, unless already undead. Incant for this ability is “By my Will, create a phylactery for my spirit.” This is limited to one purchase, usable once per rest.|
-
+| Tier: | 5 |
+| Description: | User gains a Spirit Bottle with x uses. This is not fiendish in nature and the user is not considered undead, unless already undead. Incant for this ability is "By my will, create a phylactery for my spirit." This is limited to one purchase, usable once per rest.|
 
 
 ### Master - Tier VIII
@@ -208,6 +221,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 10 + 10|
+| Tier: | 8 |
 | Description: | User may plan their feet, establish Concentration, and throw Harm Undead an unlimited number of times.  Effect ends after 5 minutes or after the user moves or disrupts their Concentration.|
 
 #### Body Weaponry
@@ -215,13 +229,15 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 20 (Single Purchase)|
-| Description: | User’s weapons are considered part of their body, and the user may, at their discretion, elect to take 20 points of damage in lieu of letting a weapon suffer from a destruction effect. This may designate all weapons, specific weapons, or shields based on the transform.|
+| Tier: | 8 |
+| Description: | User's weapons are considered part of their body, and the user may, at their discretion, elect to take 20 points of damage in lieu of letting a weapon suffer from a destruction effect. This may designate all weapons, specific weapons, or shields based on the transform.|
 
 #### Destroy Ritual Magic
 | Name: | Destroy Ritual Magic|
 |---|---|
 | Type: | Active |
 | Cost: | 20 (Single Purchase)|
+| Tier: | 8 |
 | Description: | Allows the user to destroy specific effects or products of ritual magic.  <i>Pending list.  Please see Plot to use this ability.</i>|
 
 #### Dodge
@@ -229,6 +245,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 20 |
+| Tier: | 8 |
 | Description: | Reduces Defense Slot cost of Dodge by 1 (But cannot stack dodges) |
 
 #### Dull Pain
@@ -236,6 +253,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 20 (Single Purchase)|
+| Tier: | 8 |
 | Description: | User is not subject to spellcasting disruption upon taking damage.|
 
 #### &lt;Effect> Carrier
@@ -243,6 +261,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 20 (Single Purchase)|
+| Tier: | 8 |
 | Description: | User is able to deliver a specific effect with their weapons or unarmed claws/fists.  Effect type is dictated by the transform.|
 
 #### Healed by &lt;Element>
@@ -250,14 +269,16 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 20 (Single Purchase)|
-| Description: | When the User would be subject to damage by designated element, they are instead healed. User must announce “Appears to heal me.”|
+| Tier: | 8 |
+| Description: | When the User would be subject to damage by designated element, they are instead healed. User must announce "Appears to heal me."|
 
 #### Slay Expert
 | Name: | Slay Expert |
 |---|---|
 | Type: | Passive |
 | Cost: | 20 |
-| Description: | DOubles the damage of Slay |
+| Tier: | 8 |
+| Description: | Doubles the damage of Slay. |
 
 ### Grandmaster - Tier IX
 
@@ -266,13 +287,15 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 30 |
-| Description: | User gains the ability to deliver all mana pool spells  as “Magic &lt;Spell Name: >” |
+| Tier: | 9 |
+| Description: | User gains the ability to deliver all mana pool spells  as "Magic &lt;Spell Name: >" |
 
 #### &lt;Effect> Carrier
 | Name: |&lt;Effect> Carrier|
 |---|---|
 | Type: | Passive |
 | Cost: | 30 (Single Purchase)|
+| Tier: | 9 |
 | Description: | User is able to deliver a specific effect with their weapons or unarmed claws/fists.  Effect type is dictated by the transform.|
 
 #### Immunity to &lt;Damage Type>
@@ -280,13 +303,15 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: |30 (Single Purchase)|
-| Description: | When the User would be subject to damage by designated damage type, they are uneffected.  User announces, "No effect."|
+| Tier: | 9 |
+| Description: | When the user would be subject to damage by designated damage type, they are uneffected.  User announces, "No effect."|
 
 #### Regeneration
 | Name: | Regeneration|
 |---|---|
 | Type: | Passive |
 | Cost: | 30 (Single Purchase)|
+| Tier: | 9 |
 | Description: | Regeneration allows the user to spend one minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.|
 
 #### Rift Self
@@ -294,6 +319,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 10|
+| Tier: | 9 |
 | Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count. User must proceed directly to the location and Rift In immediately upon arrival. This is a self-only ability.|
 
 #### Voice Control &lt;Entity>
@@ -301,6 +327,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 30 (Single Purchase)|
+| Tier: | 9 |
 | Description: | This ability allows the user to voice control lesser members of their species, type, or specific targets, as specified by plot.|
 
 #### Voice Radius Spell
@@ -308,6 +335,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 10|
+| Tier: | 9 |
 | Description: | User can deliver a single spell as Voice Radius Spell &lt;Spell Name: >|
 
 #### Weapon Mastery
@@ -315,7 +343,8 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 30 (Single Purchase)|
-| Description: | This ability allows the user to wield any weapon with remarkable ease. The User may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest Weapon Proficiency, along with any critical strikes or devious strikes, with all weapon types.|
+| Tier: | 9 |
+| Description: | This ability allows the user to wield any weapon with remarkable ease. The user may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest weapon proficiency with all weapon types.|
 
 ### Mythical - Tier X
 
@@ -324,6 +353,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 20|
+| Tier: | 10 |
 | Description: | User can deliver a single spell as Aether &lt;Spell Name: >. This cannot be stacked with Voice Radius.|
 
 #### &lt;Effect> Carrier
@@ -331,6 +361,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 40 (Single Purchase)|
+| Tier: | 10 |
 | Description: | User is able to deliver a specific effect with their weapons or unarmed claws/fists.  Effect type is dictated by the transform.|
 
 #### Plot Ability (Active)
@@ -338,6 +369,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 20  |
+| Tier: | 10 |
 | Description: | Ability Unique to the specific Transform.|
 
 #### Plot Ability (Passive)
@@ -345,6 +377,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 40 |
+| Tier: | 10 |
 | Description: | Ability Unique to the specific Transform.|
 
 #### Rift Group
@@ -352,4 +385,5 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 20|
+| Tier: | 10 |
 | Description: | User can Rift Out on a 3 count, and then Rift In at any location they have previously been on another 3 count.  The user may choose to allow any other individuals in contact with them to join the Rift. User and any others must proceed directly to the location and Rift In immediately upon arrival.|
