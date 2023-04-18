@@ -12,7 +12,7 @@ To add a way for Rogues to reliably get access to damage without _requiring_ Sta
 
 # Agility Abilities
 ## Agile Proficiency
-| Ability | ** AgileProficiency**  | 
+| Ability | ** Agile Proficiency**  | 
 |:---|---|
 | **Type**| Agility |
 | **Level**| 10|

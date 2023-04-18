@@ -16,8 +16,12 @@
 * Mastery abilities removed (Prior ruling, just cleaning)
 * All Fiendish Spells have had their incants updated.
 
+### Stamina Skills
+* Weapon Proficiency can no longer be used on Ranged Weapons
+
 ### Agility Skills
 * Warbow Training, incant updated.
+* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
 
 ### Production Skills
 * Dispel Magic doesn't work on Glyphs

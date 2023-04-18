@@ -31,6 +31,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 7 | Ballista<br>Cursing Shot |
 | 8 | Surprising Proficiency |
 | 9 | Dodge |
+| 10 | Agile Proficiency |
 | 10 | Murder |
 
 ### Level 1 Agility Abilities
@@ -174,7 +175,14 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Description** |This skill allows the character to Dodge a Physical, Spell, or Toxin attack.  Use of the skill requires 2 Defensive Slots to be Active.  Regardless of the number of Defensive Slots a character has, they may not have more than one active Dodge.  The character may choose which type of resist to use at the time of use.  This is a DODGE effect.|
 
 ### Level 10 Agility Abilities
-
+#### *Agile Proficiency*
+| Ability | ** Agile Proficiency**  | 
+|:---|---|
+| **Type**| Agility |
+| **Level**| 10|
+| **Duration** | Rest|
+| **Call**| "I Hone My Agile Skill" |
+|**Description**| Agile Proficiencies are purchased with Agility Points, and last until the character next rests. Agile Proficiencies increase the damage dealt with Ranged Weapons, and the damage dealt with Short Weapons when attacking from Behind. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call.|
 #### **Murder**
 | Ability | **Murder** |
 |:---|---|
