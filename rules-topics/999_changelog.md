@@ -1,5 +1,6 @@
 # Changelog
 ## 3.0.7
+
 ### Metabolisms and Spirit Bottle
 Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
 
