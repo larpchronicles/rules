@@ -43,6 +43,8 @@ While **Dead**, a character is not aware of their surroundings, and may not make
 
 During the 5 minutes the character is **Dead**, if they receive a Life spell or Revivify spell, they become **Alive** as per the spell they receive _(ie, Life will restore the character's Current Body to their Maximum Body, Revivify will restore the character to **Alive** but **Unconscious** at 0 body)_.
 
+Any effects that were present on the character when they became DEAD remain in effect, unless an effect specifies otherwise.
+
 
 ## Spirits
 
@@ -86,3 +88,26 @@ Killing Blow is a 3-count that can be interrupted. When Killing Blowed, the targ
 A character whose body has been dismembered while **Bleeding Out** or **Dead** may still be healed or revived. The part of the character that can be so affected is represented by and located wherever the player of that character is. The spirit-containing body of a character may be carried by another character, however, the person carrying the body may not run or move faster than the player of the character being carried.
 
 Dismembering a character for the purpose of attempting to use a smaller body part to heal, revive, or even hide the character is not any different than if the character were not dismembered. If a character is **Bleeding Out** or **Dead** and someone wishes to bring that character to a healer, or move the body away from where it fell, they may role-play carrying the body by picking it up on a three count _(ex: "One I pick you up… Two I pick you up… Three I pick you up…")_ and carrying it elsewhere. The carrying player may not run, and both players must roleplay maintaining contact and remain within arm's reach of each other. If any effect would forcibly move the carrier away at a pace faster than a walk, or would otherwise render them unable to hold game items in their hands, the character must drop the body on a One Count _(ex: "One I drop you")_ and may only resume carrying them on a new three count.
+
+## Metabolisms
+Most people and creatures have a regular metabolism. Characters with "no metabolism" or "undead metabolism" are affected by some game effects differently.
+
+### No Metabolism
+- Immune to Toxin
+- Immune to Berserk, Command: Confuse, Death, Drain, First Aid, Heal Wounds, Infect, Life, Sleep, Stun, Waylay
+- Crumble at 0 Body
+
+
+### Undead Metabolism
+Same effects as per "No Metabolism", except the character is affected normally by Heal Wounds. They are also affected by effects and abilities that specifically target Undead (such as Harm Undead).
+
+## Spirit Bottle
+A character with a Spirit Bottle has stored their spirit for safe keeping in an item. Doing so protects the character from incurring Strain, however, it causes the character's body to become brittle. All characters with a Spirit Bottle must crumble at 0 body, and unless otherwise specified, have No Metabolism.
+
+Instead of resurrecting normally, a character with a Spirit Bottle may choose to reform at their Spirit Bottle. Doing so follows the rules for normal  resurrection, with these exceptions:
+- Instead of incurring Strain, the number of charges on the character's Spirit Bottle is reduced by 1.
+- The character may only reform wherever their Spirit Bottle is located
+
+When initially created, a Spirit Bottle has 10 charges. If, at any time, the Spirit Bottle is reduced to 0 charges, it can no longer be used to reform. A character with a Spirit Bottle that has 0 charges still crumbles at 0 body, but must resurrect (and incur Strain) normally.
+
+Spirit Bottles may have their charges replenished. Doing so requires the casting of the Spirit Bottle ritual. A Spirit Bottle cannot have more than 10 charges.

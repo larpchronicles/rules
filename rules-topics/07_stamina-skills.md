@@ -272,13 +272,11 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Level**| 10|
 | **Duration** | Rest|
 | **Call**| "I Hone My Fighting Skill" |
-|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call.|
+|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Two-Handed Weapons, and last until the character next rests. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call. This may not be used for Ranged Weapons|
 
 Fighters may use any melee proficiency for any melee weapon, for either hand.<br> 
 >Example: Atilla the Fighter spends 20 Stamina Points for two "One-handed Proficiencies". Atilla may use their +2 damage with any longsword, claw, two-handed sword, polearm, etc. (Everything but a bow or thrown.)
  
-Rogues may use any ranged proficiencies for bows, crossbows, or thrown weapons.  Rogues may also use ranged proficiencies with any one-handed melee weapon, but only from behind their target.  (ie:  Rogued Ranged Proficiencies are also a +1 melee Backstab.)
-
 Two-Handed Weapons receive 1.5x (rounded down) benefit from Proficiencies.
 
 >Example:  Branuk spends 20 Stamina Points for 2x Two-handed Weapon Proficiencies. He can now swing his Two-handed Sword for +3 damage.|
