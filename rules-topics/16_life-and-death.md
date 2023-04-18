@@ -43,6 +43,8 @@ While **Dead**, a character is not aware of their surroundings, and may not make
 
 During the 5 minutes the character is **Dead**, if they receive a Life spell or Revivify spell, they become **Alive** as per the spell they receive _(ie, Life will restore the character's Current Body to their Maximum Body, Revivify will restore the character to **Alive** but **Unconscious** at 0 body)_.
 
+Any effects that were present on the character when they became DEAD remain in effect, unless an effect specifies otherwise.
+
 
 ## Spirits
 

@@ -1,4 +1,37 @@
 # Changelog
+## 3.0.7
+
+### Agility Prof Proposal
+* Added proposal to introduce Proficiencies in Agility
+
+### Combat
+* Added clarification to how Carriers & Auras work
+
+### Magic Skills
+* Dull Pain is now Enhanced Focus, effect updated.
+* Preserve Corpse is now Level 2
+* Field Rez does not provide a Renew
+* Dispel Magic doesn't work on Glyphs
+* Halt is now Stop, incant updated.
+* Mastery abilities removed (Prior ruling, just cleaning)
+* All Fiendish Spells have had their incants updated.
+
+### Stamina Skills
+* Weapon Proficiency can no longer be used on Ranged Weapons
+
+### Agility Skills
+* Warbow Training, incant updated.
+* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
+
+### Production Skills
+* Dispel Magic doesn't work on Glyphs
+
+### Life & Death
+* DEATH does not remove any effects unless effect specifies otherwise.
+
+### Status Effects
+* DRAIN lasts 5 minutes.
+* ENSlAVEMENT specifies that the target is unaware.
 
 ## 3.x.x [2023-05-xx]
 
