@@ -98,9 +98,9 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | CURSE OF TRANSFORMATION | Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary. | Killing Blow 1, 2, 3, Curse of Transformation X | No |
 | DEAD | Target is in Dead status and target's spirit will dissipate and may seek resurrection after 5 minutes unless effect is ended by REVIVE or LIFE effects. | Varies by source. |Yes |
 | DISARM| Target is unable to wield x item for x time.| Varies by source. |Yes |
-| DRAINED | Target is skilless. Target may not make active use of skills, granted or |(Type) Drain | No |
+| DRAINED | Target is skilless. Target may not make active use of skills, granted or purchased. All instances of Drain last 5 minutes. |(Type) Drain | No |
 | ENGULF| Target and possessions are eaten and target must stand to side OOC. Target is reduced to -1 body and takes BLEED OUT status. Target is released upon death of creature. |1 I engulf you, 2... 3...|Yes |
-| ENSLAVEMENT | Target is compelled to follow any instructions given by ability user. | Varies by source. | No |
+| ENSLAVEMENT | Target is compelled to follow any instructions given by ability user. Target is not Aware they are Enslaved. | Varies by source. | No |
 | ENTANGLE | Target is entangled at the x location for y time. | Entangle X |Yes |
 | FEAR | Target is unable to attack and will attempt to leave the area for x time. | Varies by source. |Yes |
 | INERT | Target unable to use or cast x for y time. || No| |

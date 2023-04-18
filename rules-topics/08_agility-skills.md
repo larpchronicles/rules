@@ -113,7 +113,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Type**| Agility|
 | **Level**| 5 |
 | **Duration** | Rest |
-| **Call**| "Physical Kneel" |
+| **Call**| "My Bow is Ready" |
 | **Description** |This skill allows the user to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  User must spend 1 minute roleplaying inspecting their bow and recalling their training.|
 | **Requirements**| Ranged Weapon|
 
