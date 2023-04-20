@@ -6,6 +6,8 @@
 
 ### Combat
 * Added clarification to how Carriers & Auras work
+* Added clarification and rules on how Immunities Work
+* Added clarification and rules on how Healed by [Effect] Work
 
 ### Magic Skills
 * Dull Pain is now Enhanced Focus, effect updated.
