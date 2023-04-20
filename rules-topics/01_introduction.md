@@ -62,6 +62,39 @@ Welcome to Chronicles. Whether you've been LARPing for years, or have never seen
 tabard in your life, Chronicles welcomes you. For the newer players, here are a few tips
 to get you started
 
+### Creating a Character
+
+If you are a new player you will start with 100 Skill Points 10 Body and 5 Armor Training.  Skill Points are used to purchase skills like the ability to swing a sword or cast a spell.  You can use the Character Calculator to design your character.  
+* All characters earn 3 Skill Points per day of an event.
+* Characters Under 200 Build gain Skill Points at 2x the rate.
+* All Characters under 200 build can be recreated or rewritten at any time.
+* You can accrue up to 1 extra Skill Point per day by working a NPC shift (See the section on Goblin Points for more details).
+
+If you have a character in another Larp System please see our Transfer Policy if you want to transfer your character to Chronicles.
+
+### Secondary Characters 
+To Be added Later
+
+### How Does Combat Work
+
+Chronicles is a boffer combat Larp that focuses as much on roleplay and interaction between PCs and NPCs as physical combat.  We emphasize light combat, and a general rule is if you swing enough for it to hurt someone you are probably swinging too hard.  The goal of combat is to be safe and while accidents may happen you are more likely to twist an ancle on uneven ground than hurt yourself during combat.  More details can be found in the Combat section of the rulebook.
+
+### Plot Members and Marshals
+
+Plot Members and Marshals are officials of Chronicles.  They will give rulings, run a mod, observe a ritual, and other OOG tasks that are needed throughout a market fair.  If you have a question on a rule or how something works you will need to ask the appropriate marshal.  
+
+Plot Member – A member of the group of people who work together to keep the game moving, adjudicate rules, run mods and many other roles essential to the game.  In table tops terms they are essentially the game master or dungeon master.
+
+Mod Marshal – A person who runs a mod for a group for PCs.  They will set the stage giving descriptions, locations, etc. Should any rule questions or disputes come up, the Mod Martial has final say.  During a mod a Martial rule is final, if you feel they were incorrect it can be adjudicated later when it does not disrupt the flow of the game.
+
+Ritual Marshal – A person who oversees a PC perform ritual magic.  They will ensure all factors of the ritual are performed by the PCs and determine if the ritual is a success or failure.  More complex rituals will require a full plot member.
+
+Rogue Marital – If you wish to steal from someone Cabin you must have a Rogue Martial present.  This individual is to ensure that personal property is not taken and that the would be thief follows all rules of the game (lockpicking chests, recognizing circles of power, etc.)  Entering a cabin with intent to steal without a Rogue Martial can have severe consequences including referring the person to the local police for theft or breaking and entering.
+
+### How to Become A Ritual Marshal
+
+To become a Ritual Marshal you need to volunteer to the Head of Plot.  They will ensure that you know the ritual rules, have you marshal some rituals with a plot member and once you have proven yourself you can become a ritual Marshal. 
+
 ### What should I bring to my first events?
 Chronicles often has spare equipment to loan to newer players. That being said, beyond LARP-specific items, there are several things that you can bring.
 * Plain Clothes
