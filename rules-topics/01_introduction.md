@@ -141,3 +141,16 @@ The exact physical locations of these vary by camp site, although they are usual
 Don't be afraid to ask questions. Even in the middle of combat or intense role playing, don't be afraid to ask what something does or means. There are also many people with a decent grasp on the rules who can answer questions. In game, asking questions is just as useful, although may not always get you answers.
 
 It's just a game. We're all here to have fun. Try not to let any in game interactions affect your opinions of a person. Many people act in ways that they never would in real life. That's the joy of the event. It's not personal, they don't hate you, just your character. However, if you believe anything negative is being done out of game, or feel yourself getting frustrated, don't hesitate to talk to staff, or go out of game for a while to collect yourself.
+
+### Game Atmosphere
+
+Chronicles science, medicine, and technology in roughly in the 14th century (middle ages) so players are encouraged to act like, speak like, and generally behave like they are living in that time frame. We do of course allow players to use modern medicine but if possible, it should be done away from a large crowd to promote the in game atmosphere.
+
+**Religion**
+
+There are beings known as gods in Chronicles but if and how you worship them is up to you. No player will have to worship a god if they do not desire to. In order to not accidentally offend any religion players are encouraged to nor use religious symbols in costumes. Players should also avoid using gods, demons, or other non earthy entities name or religions while at a market fair.
+
+**Politics** 
+
+In game politics are part of life. Whether you wish to serve the king loyally, ignore his command, or attempt a rebellion is up to you, just know that there may be in game consequences for your actions. As with religion it is best to not use any overly OOG political symbols in costuming since politics can be a devise and fiery topic. It is also best to not talk about OOG politics while IG.
+
