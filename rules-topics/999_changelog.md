@@ -13,6 +13,9 @@
 * Added Section on Plot Members and Marshals
 * Added How to Become A Ritual Marshal
 * Added How Does Combat Work
+* Added Game Atmosphere Entry
+* Added Religion Entry
+* Added Politics Entry 
 
 ### Combat
 * Added clarification to how Carriers & Auras work
