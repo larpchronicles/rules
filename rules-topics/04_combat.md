@@ -115,11 +115,11 @@ Examples:
 * If you have Immune to Toxin, and you are hit by a Sleep dart, you would call "No Effect".
 * If you are Immune to Curse and got hit with a weapon swinging 10 Magic Curse, you would call "No Effect".
 * If you are Immune to Shock and got hit with an "Aether Shock Bolt 10" you would call "No Effect".
-* If you are not immune to Paralyze, and you get hit by a Paralyze spell, you would call "Got it". If you are then hit by another Paralyze effect, you would call "Got it" again.
+* If you are not immune to Stun, and you get hit by a Stun spell, you would call "Got it". If you are then hit by another Stun effect, you would call "Got it" again.
 * If you are a PC with no non-standard effects, are not dead, and get hit by a Create Undead, you would call "Got it".
 * If you do not have Immune to Life on your stat card, are alive, and get hit by a Life spell, you would call "Got it".
 * If you are dead and get hit by a Death spell, you call "Got it".
-* If you are Dead, and you get hit by a Cure Light Wounds, Confine, Taint Blood, etc., you would call "Got it"
+* If you are Dead, and you get hit by a Heal Wounds, Confine, etc., you would call "Got it"
 
 ## Killing Blows
 
