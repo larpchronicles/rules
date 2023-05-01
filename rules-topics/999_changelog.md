@@ -1,11 +1,22 @@
 # Changelog
-## 3.0.7
+## 3.0.x [2023-05-xx]
 
-### Agility Prof Proposal
-* Added proposal to introduce Proficiencies in Agility
+### Races
+* Specified Brood's Acid Secretion works as per the Destroy spell
 
 ### Combat
 * Added clarification to how Carriers & Auras work
+* Casting a Spell section updated to specify you need a Free Hand to cast.
+* Spellstrike updated to clarify you can touch-cast with it.
+* Voice Radius clarified that you do not need a spell packet to use.
+
+### Stamina Skills
+* Weapon Proficiency can no longer be used on Ranged Weapons
+* Destroy ability updated
+
+### Agility Skills
+* Warbow Training, incant updated.
+* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
 
 ### Magic Skills
 * Dull Pain is now Enhanced Focus, effect updated.
@@ -15,16 +26,21 @@
 * Halt is now Stop, incant updated.
 * Mastery abilities removed (Prior ruling, just cleaning)
 * All Fiendish Spells have had their incants updated.
+* Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
+* Create Undead now properly only works on a target once per DEAD status.
 
-### Stamina Skills
-* Weapon Proficiency can no longer be used on Ranged Weapons
-
-### Agility Skills
-* Warbow Training, incant updated.
-* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
 
 ### Production Skills
 * Dispel Magic doesn't work on Glyphs
+* Weapon Coatings clarified to only give 1 swing.
+
+### Ritual Magic
+* Spirit Bottle removed
+
+### Transform Rituals
+* Added indicator to Gaseous Form.
+* Formatting cleanup.
+* Spirit Bottle updated.
 
 ### Life & Death
 * DEATH does not remove any effects unless effect specifies otherwise.
@@ -32,16 +48,24 @@
 ### Status Effects
 * DRAIN lasts 5 minutes.
 * ENSlAVEMENT specifies that the target is unaware.
+* Added note to GASEOUS
+* DOOM effect updated.
+* DEATH effect updated.
+* BERSERK now reflects it's actual function.
+* CONCENTRATION now properly noted to break on taking damage.
+* CONFINE now properly restricts skill usage.
+* SILENCE now properly restricts spellcasting.
+* STAGGER removed, old effect not in use.
+* TELEPORT BLOCK removed, redundant.
+* RIFT LOCK effect updated.
+* MINIMIZE updated, now works on effects longer than 20 seconds.
+* REVIVE updated, clarified to act as per Life.
 
-## 3.x.x [2023-05-xx]
 
 ---
-### Transform Rituals
-* Added indicator to Gaseous Form.
-* Formatting cleanup.
+
 
 ### Effects
-* Added note to GASEOUS
 
 
 ## 3.0.5 [2023-03-26]

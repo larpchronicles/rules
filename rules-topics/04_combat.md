@@ -25,9 +25,13 @@ Bows may be used to block attacks.  Bows may also be used to block attacks while
 ---
 Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use your magic.
 
-When casting a spell, first you must have a spell packet in hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. 
+When casting a spell, first you must have a spell packet in a free hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. 
+
+A "Free Hand" in this instance means that the hand holding the spell packet may not be holding any other in-game or tagged items. I.E., no swords, shields, potions, and such. You may hold multiple spell packets in the same hand and still cast, as they are not considered in-game items.
 
 You must be careful when casting spells, because if an enemy is within reach, or they have a ranged weapon, you risk your spell being disrupted mid-cast if they manage to strike you with a weapon blow, or if you take damage from any source during the incant. If your spell is disrupted, it is lost and you must complete a rest to recover it.
+
+If you fail to correctly incant the spell, do not worry, though the spell doesn't work, you do not consume any mana, and must simply start the spell over.
 
 Some spells require a "X count" to cast where X may be three or five.  This is always intended to be X number of seconds.
 
@@ -112,7 +116,7 @@ The target of a killing blow may refuse it, so long as they are capable of movem
 ---
 Rarely, you may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such.
 
-Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they’d been struck by the spell directly.
+Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they’d been struck by the spell directly. This type of effect does not require the caster to have a Spell Packet in hand.
 
 Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If you are struck by an Aether spell, no resistances can prevent the effect, and you are affected by it immediately.
 
@@ -143,12 +147,12 @@ Anything in your possession being struck by a spell causes you to take the effec
 ### Spellstrikes
 
 ---
-Spellstrikes are spells cast upon a target via a physically represented weapon.  Packets do not count, as this would be touch casting.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If you physically parry a Spellstrike, you take the effect of the spell.
+Spellstrikes are spells cast upon a target via a physically represented weapon.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If you physically parry a Spellstrike, you take the effect of the spell. An individual capable of using Spellstrike may treat a wielded weapon as a spell packet for the purposes of touch-casting. Packets may not be used to Spellstrike.
 	
 ### Touch-Casting
 
 ---
-If you are touching the target directly, they have the ability to "refuse your touch-cast", causing you to expend the magic to no effect.  Any spell may be touch-cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
+If you are touching the target directly with a spell packet, they have the ability to "refuse your touch-cast", causing you to expend the magic to no effect.  Any spell may be touch-cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
 
 
 ### Turtling

@@ -91,7 +91,7 @@ Item production is the process by which characters are able to craft consumable 
 >
 >However, if Charlie presents his sword to Diane, who then applies a Sleep Coating to Charlie's sword, then Charlie (and only Charlie) may use that Sleep Coating.
 >
->Once applied, the coating will last until it is used or the wielder rests, whichever comes first.
+>Once applied, the coating will allow the user to swing a single instance of the items effect. If the swing misses, the coating is still consumed. This lasts until it is used or the wielder rests, whichever comes first.
 
 
 ## Workshops

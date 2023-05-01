@@ -67,13 +67,13 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | INCORPOREAL | Ability user is immune to non-magical damage.| N/A |Yes |
 | INFECT| Ability user may infect a target and inflict them with x effect. |1 I infect you, 2... 3...| Not Applicable |
 | MAGIC DELIVERANCE | Ability user may cast spells without incants.|Magic X| Not Applicable |
-| MINIMIZE | Ability user may reduce the duration of a 20 second effect to a 3 second count. | Varies. | No |
+| MINIMIZE | Ability user may reduce the duration of an effect to a 3 second count. | Varies. | No |
 | NATURAL ARMOR | Ability user has armor that does not have to be physically represented. | N/A |Yes |
 | OVERWHELMING STRENGTH| Ability user swings for Vital damage. Damage from user is always taken unless target makes a defensive call.| N/A | No |
 | POSSESSION | Ability user goes OOC, but may voice control the target. Acts as per ENSLAVEMENT.| 1 I possess you, 2... 3...| No |
 | REDUCE | Ability user takes half damage from x effect, rounded up.|Reduce| No |
 | REGENERATE | Ability user with CONSCIOUS status restores full body after 1 minute of CONCENTRATION effect. | Regenerating / Regenerate Complete |Yes ||
-| REVIVE| Unless target was affected by <x> within 20 seconds of becoming Dead, or was Killing Blowed at any time by <x>, then at 4 minutes 59 seconds of Death count, instead of dissipating, the player announces "Revive" and the target is healed to full body and all status effects are removed. |Revive | No |
+| REVIVE| Unless target was affected by <x> within 20 seconds of becoming Dead, or was Killing Blowed at any time by <x>, then at 4 minutes 59 seconds of Death count, instead of dissipating, the player announces "Revive" and is affected as per a Life spell. |Revive | No |
 | RIFT | Ability user teleports to a location specified by the caster. User must have been physically present in the location previously. User must move directly to their destination and Rift In immediately upon arrival. |1 I Rift, 2... 3...|Yes |
 | RIP FREE | Ability user may escape ENTANGLE effects. | 1 I Rip free, 2.. 3.. | Not Applicable |
 | SPIRIT BOTTLE | Ability user dissipates at 0 body instead of taking UNCONSCIOUS status and reforms at the location of their spirit bottle. Ability user suffers no Strain. Spirit bottle is destroyed after x uses. | N/A | No |
@@ -87,11 +87,11 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | Term| Description |Encounter Call |Visible?|
 |:---|---|:---:|:---:|
 | ANIMATE | Target takes UNDEAD effect and is unable to use skills, communicate, or move faster than walk. | Varies by source. |Yes |
-| BERSERK | Ability user gains x damage against one target and becomes immune to fear and charming effects for y time. Ability user may not retreat while Berserking. |Berserk|Yes |
+| BERSERK | Target will mindlessly attack the closest visible target for the duration. Ability user may not retreat while Berserking. |Berserk|Yes |
 | BLEED OUT| Target is in BLEED OUT status and has -1 body. Unless the effect is ended, after 1 minute, target will take DEAD status.| None | No |
 | BLIND | Target is unable to use skills and attacks that require range beyond touch. | Varies by source. | No |
-| CONCENTRATION | Ability user is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect. | None |Yes |
-| CONFINE | Target is bound by the called skill for x time and may not attack, block, or drop held items.| Varies by source. |Yes |
+| CONCENTRATION | Ability user is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect. Concentration breaks upon taking damage. | None |Yes |
+| CONFINE | Target is bound by the called skill for x time and may not attack, block, or drop held items. They also may not activate any in-game skills other than Escape Artist.| Varies by source. |Yes |
 | CONFUSE | Target is disoriented and cannot tell allies from enemies, but is not forced to attack. | Varies by source. |Yes |
 | CONSCIOUS| Target in this status has at least 1 body. | Varies by source. |Yes |
 | CURSE | Target receives double damage. |(Type) Curse | No |
@@ -107,16 +107,14 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | INVULNERABLE| Ability user is immune to all spells, physical attacks, and toxin for x time. | Varies by source. |Yes |
 | KNEEL | Target must kneel or crouch and cross their dominant hand over their chest. Target may otherwise attack and defend normally. | Varies by source. |Yes |
 | PRESERVE | Target in DEAD status has their Death count halted for x time. May only be done once. | Varies by source. | No |
-| RIFT LOCK | Prevents the target from using any RIFT abilities for x time. |N/A|No| 
-| SILENCE | Target is unable to speak in game. May make game system calls. | Varies by source. |Yes |
+| RIFT LOCK | Target is prevented from moving by any form of magical travel for x time. |N/A|No| 
+| SILENCE | Target is unable to speak in game, and is unable to cast spells. May make game system calls. | Varies by source. |Yes |
 | SLEEP | Target must be prone or crouched and cannot communicate or use skills or items. | Varies by source. | No |
 | SLOW | Target is unable to run for x time. | Varies by source. |Yes |
-| STAGGER | Target must retreat x steps, if able. May attack and defend while retreating. | Varies by source. |Yes |
 | STASIS | Target may not move, communicate in any manner, activate items, or use any game skills for duration. Target does not take damage and cannot be moved. Target may choose to end the effect early. | Varies by source. |Yes|
 | STOP THRUST | Target unable to advance into combat for x time. | Varies by source. |Yes |
 | STUN | Target may not move, communicate in any manner, activate items, or use game skills for x time. Damage does not remove effect. | Varies by source. |Yes |
 | SUICIDE | Allows creature to die and dissipate at will regardless of other status effects. | 1 I suicide, 2... 3... | Not Applicable |
-| TELEPORT BLOCK | Target is prevented from moving by any form of magical travel for x time. | Varies by source. | No |
 | UNCONSCIOUS | Target must be prone or crouched and cannot communicate or use skills or items. Target has 0 body for 5 minutes, after which target will take CONSCIOUS status and restore to 1 body. If target takes damage while in UNCONSCIOUS status, target's body becomes -1 body and target takes BLEED OUT status immediately. | Varies by source. | No |
 | UNDEAD| Target is visibly a lesser undead, may talk, move, and use skills for x time. | Varies by source. |Yes |
 | WEAKEN| Target damage is lowered by x amount for y time. | Varies by source. | No |
@@ -126,10 +124,10 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 ---
 | Term| Description |Encounter Call |Visible?|
 |:---|-----|:----:|:---:|
-| DEATH | Target immediately takes DEAD status. | Varies by source. | No |
+| DEATH | If the source of this effect would reduce the target to 0 or less Body, target immediately takes DEAD status. | Varies by source. | No |
 | DECIMATE | Target takes DEAD status upon receiving this effect. If target dissipates and resurrects, target incurs double Strain. (4 Total) | (Type) Decimate | No |
 | DODGE | Ability user may resist more than one type of effect, and so dodges it. | Dodge | No |
-| DOOM | Target is reduced to -1 body. | Varies by source. | No |
+| DOOM | Target takes X Damage, some creatures may be weak or resistant to this. | Varies by source. | No |
 | LIFE | Target is healed to full body and all status effects of target's choice are removed. This works on DEAD targets. | Varies by source. |Yes |
 | MUMMY CURSE | Target immediately dissipates and seeks resurrection. | Killing Blow 1, 2, 3, Mummy Curse | No |
 | REFLECT | Ability user may reflect x ability. The reflected ability may be resisted, but may not be reflected again. | Varies by source. | Not Applicable |
