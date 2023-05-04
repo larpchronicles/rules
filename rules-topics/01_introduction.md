@@ -75,6 +75,9 @@ If you have a character in another Larp System please see our Transfer Policy if
 ### Secondary Characters 
 To Be added Later
 
+### Identify Ability
+Allows the character to Identify an item, a group of items or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
+
 ### How Does Combat Work
 
 Chronicles is a boffer combat Larp that focuses as much on roleplay and interaction between PCs and NPCs as physical combat.  We emphasize light combat, and a general rule is if you swing enough for it to hurt someone you are probably swinging too hard.  The goal of combat is to be safe and while accidents may happen you are more likely to twist an ancle on uneven ground than hurt yourself during combat.  More details can be found in the Combat section of the rulebook.
