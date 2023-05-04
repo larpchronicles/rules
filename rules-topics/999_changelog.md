@@ -16,6 +16,7 @@
 * Added Game Atmosphere Entry
 * Added Religion Entry
 * Added Politics Entry 
+* Added Identify Ability
 
 ### Combat
 * Added clarification to how Carriers & Auras work
