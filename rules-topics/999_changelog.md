@@ -17,6 +17,7 @@
 * Added Religion Entry
 * Added Politics Entry 
 * Added Identify Ability
+* Added Floating Reset
 
 ### Combat
 * Added clarification to how Carriers & Auras work
