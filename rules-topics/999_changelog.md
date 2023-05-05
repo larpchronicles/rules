@@ -9,7 +9,6 @@
 * Added Secondary Characters 
 * Added Skill Points accrued per day
 * Added Skill Point bonus from NPCing
-* Added Spot for Secondary Character information (to be added later) 
 * Added Section on Plot Members and Marshals
 * Added How to Become A Ritual Marshal
 * Added How Does Combat Work
