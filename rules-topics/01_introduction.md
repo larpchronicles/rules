@@ -73,7 +73,9 @@ If you are a new player you will start with 100 Skill Points 10 Body and 5 Armor
 If you have a character in another Larp System please see our Transfer Policy if you want to transfer your character to Chronicles.
 
 ### Secondary Characters 
-To Be added Later
+Once you hit 200 Skill Points you can create a secondary character.  This character will always have 75 percent of your primary character’s skill points.  If you play a secondary character, then all gained SP will be applied to the primary character.  Strain is tracked separately on each character.
+
+If you wish to create an additional character beyond a secondary character you can.  All characters beyond the second character will have 50 percent of the primary character’s Skill Points.  All gained SP will be applied to the primary character.  Strain is tracked separately on each character.
 
 ### Identify Ability
 Allows the character to Identify an item, a group of items or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
