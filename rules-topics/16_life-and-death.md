@@ -57,7 +57,9 @@ The spirit of a character is the essence of that person. Spirits are always Out 
 ---
 A character who has passed their 5 minute **Death** count dissipates, and their spirit will depart to seek **Resurrection**. If the spirit, as an Out-of-Game decision, believes that an ally may come and attempt to **Resurrect** them using the Rank IX Spirit Spell Resurrection, then they may linger for a time. If they do not, then the spirit will depart it's current location to seek the nearest safe **Shrine of Resurrection.** The knowledge of whether or not a specific Shrine is "Safe" is entirely OOG knowledge, but a Spirit will never **Resurrect** at an unsafe Shrine. When a Spirit **Resurrects**, they will accrue **Strain**, explained below.
 
-Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection.
+When a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot.
+
+Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions. 
 
 
 ## Strain
