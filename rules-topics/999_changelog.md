@@ -110,6 +110,11 @@
 * SPIRIT BOTTLE – Identify
 * TRANSFORMS – Can not be Identified
 * Added note Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm be confirmed as a visible effect.
+* Moved Effect table before Status table so it was alphabetical.
+* Reformatted the How to diagnose table.
+* Changed the tense of words on the status to table to show the target is impacted (IE Berserk became Berserking, Blind Became Blinded etc).
+* Added Spirit Bottled, Regenerating, Reviving, and Infected to Status table for consistency with how to diagnose. 
+* Removed Viability? form Ability, Effect, and Status Tables.
 
 
 
