@@ -29,6 +29,9 @@
 * Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
 * Create Undead now properly only works on a target once per DEAD status.
 
+### Other Skills Skills
+* First Aid description updated with some examples and clarification that you can ask for timers.
+* A marshal determines tracking success (no bead draw) and that a PC cannot be tracked by another PC and removed the word terrestrial.
 
 ### Production Skills
 * Dispel Magic doesn't work on Glyphs
@@ -44,6 +47,8 @@
 
 ### Life & Death
 * DEATH does not remove any effects unless effect specifies otherwise.
+* Codified that someone can dissipate and resurrect to refuse effects except for decimate. 
+* Codified when a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot. 
 
 ### Status Effects
 * DRAIN lasts 5 minutes.
@@ -60,6 +65,56 @@
 * RIFT LOCK effect updated.
 * MINIMIZE updated, now works on effects longer than 20 seconds.
 * REVIVE updated, clarified to act as per Life.
+* Added proper response to what do I see with "unconscious" characters "An unresponsive body"
+* Moved Suicide from effect to Ability
+* Animate Visible? To No
+* Conscious Visible? To No
+* Dead Visible? To No
+* Silence Visible? To No
+* Weaken Visible? To Yes
+* Added Added “How to Diagnose” Table with below
+* ANIMATE - Identify
+* BERSERK - Visible
+* BLEED OUT - First Aid
+* BLIND - First Aid
+* CONCENTRATION - Visible
+* CONFINE - Visible
+* CONFUSE - Visible
+* CONSCIOUS - First Aid
+* CURSE - Identify
+* CURSE OF TRANSFORMATION - ** Identify
+* DEAD - First Aid
+* DISARM - Visible
+* DRAINED - First Aid
+* ENGULF - Visible
+* ENSLAVEMENT - Break Enslavement Rune
+* ENTANGLE - Visible
+* FEAR - Visible
+* INERT - First Aid
+* INVULNERABLE - Visible
+* KNEEL - Visible
+* PRESERVE - First Aid
+* RIFT LOCK - Visible
+* SILENCE - First Aid
+* SLEEP - First Aid
+* SLOW - Visible
+* STASIS - Visible
+* STOP THRUST - Visible
+* STUN - Visible
+* UNCONSCIOUS - First Aid
+* UNDEAD - Visible
+* WEAKEN - Visible
+* INFECT - Identify
+* REGENERATE - Visible
+* REVIVE - First Aid
+* SPIRIT BOTTLE – Identify
+* TRANSFORMS – Can not be Identified
+* Added note Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm be confirmed as a visible effect.
+
+
+
+
+
 
 
 ---
