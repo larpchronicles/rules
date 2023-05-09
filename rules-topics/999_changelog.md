@@ -26,6 +26,9 @@
 ### Production Skills
 * Dispel Magic doesn't work on Glyphs
 
+### Transform Rituals
+* Dexterity Armor Expert now gives +2 points for purchases of Dexterity Armor
+
 ### Life & Death
 * DEATH does not remove any effects unless effect specifies otherwise.
 

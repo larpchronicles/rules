@@ -176,10 +176,10 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 #### Dexterity Armor Expert
 | Name: | Dexterity Armor Expert|
 |---|---|
-| Type: | Active|
-| Cost: | 5 + 10|
+| Type: | Passive|
+| Cost: | 15|
 | Tier: | 5 |
-| Description: | Per Armor Training.  User gains 5 additional Armor.  User is unable to benefit from any other source of armor.|
+| Description: | Purchases of Dexterity Armor grant +2 extra Dexterity Armor points (+7 instead of +5)
 
 #### &lt;Elemental> Striker
 | Name: | &lt;Elemental> Striker |
