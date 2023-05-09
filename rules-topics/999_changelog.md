@@ -31,6 +31,7 @@
 
 ### Other Skills Skills
 * First Aid description updated with some examples and clarification that you can ask for timers.
+* Added a table to show what skills need First Aid
 * A marshal determines tracking success (no bead draw) and that a PC cannot be tracked by another PC and removed the word terrestrial.
 
 ### Production Skills
