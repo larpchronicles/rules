@@ -180,6 +180,6 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 |SPIRIT BOTTLE|Identify|
 |TRANSFORMS|Cannot be Identified|
  
-**Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm be confirmed as a visible effect.
+**Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm as a part of a CoT or Transformation.
 
 For Example:  Someone with fangs may be a vampire but you cannot confirm it without more investigation.
