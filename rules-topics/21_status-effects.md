@@ -17,6 +17,8 @@ Dispel Magic and Nullify Spell work on all effects with a magical source unless 
 ---
 If a term is denoted as visible, it is something you are permitted to respond with if a player asks “What do I see?”
 
+If a player is in an unconscious state (Bleeding Out, Sleep, Dead, etc.) and they are asked “What do I see?” the proper response is “An unresponsive body”.
+
 ## Effect Clarifications
 
 ---
