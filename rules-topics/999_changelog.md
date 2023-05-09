@@ -1,6 +1,9 @@
 # Changelog
 ## 3.0.7
 
+### Metabolisms and Spirit Bottle
+Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
+
 ### Agility Prof Proposal
 * Added proposal to introduce Proficiencies in Agility
 
