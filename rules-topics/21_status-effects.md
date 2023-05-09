@@ -77,6 +77,7 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | RIFT | Ability user teleports to a location specified by the caster. User must have been physically present in the location previously. User must move directly to their destination and Rift In immediately upon arrival. |1 I Rift, 2... 3...|Yes |
 | RIP FREE | Ability user may escape ENTANGLE effects. | 1 I Rip free, 2.. 3.. | Not Applicable |
 | SPIRIT BOTTLE | Ability user dissipates at 0 body instead of taking UNCONSCIOUS status and reforms at the location of their spirit bottle. Ability user suffers no Strain. Spirit bottle is destroyed after x uses. | N/A | No |
+| SUICIDE | Allows creature to die and dissipate at will regardless of other status effects. | 1 I suicide, 2... 3... | Not Applicable |
 | THRESHOLD| Ability user only takes minimum damage for any damage taken equal to or less than x.|Minimal| No |
 | VOICE CONTROL | Target is compelled to follow any instructions given by ability user | Voice Control X | No |
 | X TO HIT | Ability user is immune to all weapons except x type. | No Effect | No |
@@ -86,17 +87,17 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 ---
 | Term| Description |Encounter Call |Visible?|
 |:---|---|:---:|:---:|
-| ANIMATE | Target takes UNDEAD effect and is unable to use skills, communicate, or move faster than walk. | Varies by source. |Yes |
+| ANIMATE | Target takes UNDEAD effect and is unable to use skills, communicate, or move faster than walk. | Varies by source. |No|
 | BERSERK | Target will mindlessly attack the closest visible target for the duration. Ability user may not retreat while Berserking. |Berserk|Yes |
 | BLEED OUT| Target is in BLEED OUT status and has -1 body. Unless the effect is ended, after 1 minute, target will take DEAD status.| None | No |
 | BLIND | Target is unable to use skills and attacks that require range beyond touch. | Varies by source. | No |
 | CONCENTRATION | Ability user is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect. Concentration breaks upon taking damage. | None |Yes |
 | CONFINE | Target is bound by the called skill for x time and may not attack, block, or drop held items. They also may not activate any in-game skills other than Escape Artist.| Varies by source. |Yes |
 | CONFUSE | Target is disoriented and cannot tell allies from enemies, but is not forced to attack. | Varies by source. |Yes |
-| CONSCIOUS| Target in this status has at least 1 body. | Varies by source. |Yes |
+| CONSCIOUS| Target in this status has at least 1 body. | Varies by source. |No |
 | CURSE | Target receives double damage. |(Type) Curse | No |
 | CURSE OF TRANSFORMATION | Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary. | Killing Blow 1, 2, 3, Curse of Transformation X | No |
-| DEAD | Target is in Dead status and target's spirit will dissipate and may seek resurrection after 5 minutes unless effect is ended by REVIVE or LIFE effects. | Varies by source. |Yes |
+| DEAD | Target is in Dead status and target's spirit will dissipate and may seek resurrection after 5 minutes unless effect is ended by REVIVE or LIFE effects. | Varies by source. |No |
 | DISARM| Target is unable to wield x item for x time.| Varies by source. |Yes |
 | DRAINED | Target is skilless. Target may not make active use of skills, granted or purchased. All instances of Drain last 5 minutes. |(Type) Drain | No |
 | ENGULF| Target and possessions are eaten and target must stand to side OOC. Target is reduced to -1 body and takes BLEED OUT status. Target is released upon death of creature. |1 I engulf you, 2... 3...|Yes |
@@ -108,16 +109,15 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | KNEEL | Target must kneel or crouch and cross their dominant hand over their chest. Target may otherwise attack and defend normally. | Varies by source. |Yes |
 | PRESERVE | Target in DEAD status has their Death count halted for x time. May only be done once. | Varies by source. | No |
 | RIFT LOCK | Target is prevented from moving by any form of magical travel for x time. |N/A|No| 
-| SILENCE | Target is unable to speak in game, and is unable to cast spells. May make game system calls. | Varies by source. |Yes |
+| SILENCE | Target is unable to speak in game, and is unable to cast spells. May make game system calls. | Varies by source. |No |
 | SLEEP | Target must be prone or crouched and cannot communicate or use skills or items. | Varies by source. | No |
 | SLOW | Target is unable to run for x time. | Varies by source. |Yes |
 | STASIS | Target may not move, communicate in any manner, activate items, or use any game skills for duration. Target does not take damage and cannot be moved. Target may choose to end the effect early. | Varies by source. |Yes|
 | STOP THRUST | Target unable to advance into combat for x time. | Varies by source. |Yes |
 | STUN | Target may not move, communicate in any manner, activate items, or use game skills for x time. Damage does not remove effect. | Varies by source. |Yes |
-| SUICIDE | Allows creature to die and dissipate at will regardless of other status effects. | 1 I suicide, 2... 3... | Not Applicable |
 | UNCONSCIOUS | Target must be prone or crouched and cannot communicate or use skills or items. Target has 0 body for 5 minutes, after which target will take CONSCIOUS status and restore to 1 body. If target takes damage while in UNCONSCIOUS status, target's body becomes -1 body and target takes BLEED OUT status immediately. | Varies by source. | No |
 | UNDEAD| Target is visibly a lesser undead, may talk, move, and use skills for x time. | Varies by source. |Yes |
-| WEAKEN| Target damage is lowered by x amount for y time. | Varies by source. | No |
+| WEAKEN| Target damage is lowered by x amount for y time. | Varies by source. | Yes |
  
 ## Effects
 
@@ -135,3 +135,49 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | SOLIDIFY | Ability user or Target's GASEOUS effect is removed. | Varies by source. | Not Applicable |
 | SPELLSTRIKE | Ability user may deliver a spell with a physical weapon. |Spellstrike (Spell Name) | Not Applicable |
 | VOICE RADIUS| All targets that hear the call take X effect. | Voice Radius X| No |
+
+## How to Diagnose
+
+ 
+|Term|How to Diagnose|
+|:---|:---:|
+|ANIMATE|Identify|
+|BERSERK|Visible|
+|BLEED OUT|First Aid|
+|BLIND|First Aid|
+|CONCENTRATION|Visible|
+|CONFINE|Visible|
+|CONFUSE|Visible|
+|CONSCIOUS|First Aid|
+|CURSE|Identify|
+|CURSE OF TRANSFORMATION|**Identify|
+|DEAD|First Aid|
+|DISARM|Visible|
+|DRAINED|First Aid|
+|ENGULF|Visible|
+|ENSLAVEMENT|Break Enslavement Rune|
+|ENTANGLE|Visible|
+|FEAR|Visible|
+|INERT|First Aid|
+|INVULNERABLE|Visible|
+|KNEEL|Visible|
+|PRESERVE|First Aid|
+|RIFT LOCK|Visible|
+|SILENCE|First Aid|
+|SLEEP|First Aid|
+|SLOW|Visible|
+|STASIS|Visible|
+|STOP THRUST|Visible|
+|STUN|Visible|
+|UNCONSCIOUS|First Aid|
+|UNDEAD|Visible|
+|WEAKEN|Visible|
+|INFECT|Identify|
+|REGENERATE|Visible|
+|REVIVE|First Aid|
+|SPIRIT BOTTLE|Identify|
+|TRANSFORMS|Can not be Identified|
+ 
+**Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm be confirmed as a visible effect.
+
+For Example:  Someone with pale skin and fangs may be a vampire but you cannot confirm it without more investigation.
