@@ -49,6 +49,17 @@
 * Added note to GASEOUS
 
 
+## 3.x.x [2023-04-18]
+
+---
+### Transform Rituals
+* Corrected ability names for Dodge Expert, Magic &lt;Effect>, Physical &lt;Effect>, Physical Strike &lt;Effect>, Aether &lt;Effect>, Immunity to &lt;Type>
+* Added missing abilities:  Toxin &lt;Effect>, Reduced Damage from &lt;Type>
+* Corrected description for Resist Toxin to reference Toxin, not Physical.
+* Updated descriptions for Magic &lt;Effect>, Physical &lt;Effect>, Physical Strike &lt;Effect>, and Spellstrike &lt;Effect>.
+* Fixed double capital in Slay description.
+* Replaced smartquotes.
+
 ## 3.0.5 [2023-03-26]
 
 ---

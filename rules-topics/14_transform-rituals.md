@@ -49,33 +49,41 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 ---
 ### Multi-Tier
 
-#### Magic Ability
-| Name: | Magic Ability|
+#### Magic &lt;Effect>
+| Name: | Magic &lt;Effect>|
 |---|---|
 | Type: | Active |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a packet-delivered magic ability, as dictated by the ability. |
+| Description: | User gains 1/Rest use of a packet-delivered magic effect, as dictated by the monstrous ability. |
 
-#### Physical Ability
-| Name: | Physical Ability|
+#### Physical &lt;Effect>
+| Name: | Physical &lt;Effect>|
 |---|---|
 | Type: | Active  |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a packet-delivered physical ability, as dictated by the ability. |
+| Description: | User gains 1/Rest use of a packet-delivered physical effect, as dictated by the monstrous ability. |
 
-#### Physical Strike
-| Name: | Physical Strike|
+#### Physical Strike &lt;Effect>
+| Name: | Physical Strike &lt;Effect>|
 |---|---|
 | Type: | Active  |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a physical strike. Strike is dictated by the ability. |
+| Description: | User gains 1/Rest use of a physical strike, as dictated by the monstrous ability. |
 
 #### Spellstrike 
 | Name: | Spellstrike|
 |---|---|
 | Type: | Active|
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the ability. |
+| Description: | User gains 1/Rest use of a spellstrike, as dictated by the monstrous ability. |
+
+
+#### Toxin &lt;Effect>
+| Name: | Toxin &lt;Effect>|
+|---|---|
+| Type: | Active|
+| Cost: | Variable |
+| Description: | User gains 1/Rest use of a packet-delivered toxin effect, as dictated by the monstrous ability. |
 
 
 ### Basic - Tier I
@@ -153,7 +161,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Type: | Active|
 | Cost: | 3 + 5|
 | Tier: | 3 |
-| Description: | User may Resist Physical once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
+| Description: | User may Resist Toxin once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
 
 #### Resist &lt;Effect>
 | Name: | Resist &lt;Effect>|
@@ -165,6 +173,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 
 
 ### Expert - Tier V
+
 #### Ambidexterity
 | Name: | Ambidexterity |
 |---|---|
@@ -211,7 +220,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Type: | Active|
 | Cost: | 15 (Single Purchase)|
 | Tier: | 5 |
-| Description: | User gains a Spirit Bottle with x uses. This is not fiendish in nature and the user is not considered undead, unless already undead. Incant for this ability is "By my will, create a phylactery for my spirit." This is limited to one purchase, usable once per rest.|
+| Description: | User gains a Spirit Bottle with x uses. This is not Fiendish in nature, and the User is not considered undead, unless already undead. Incant for this ability is "By my Will, create a phylactery for my spirit." This is limited to one purchase, usable once per rest.|
 
 
 ### Master - Tier VIII
@@ -240,8 +249,8 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Tier: | 8 |
 | Description: | Allows the user to destroy specific effects or products of ritual magic.  <i>Pending list.  Please see Plot to use this ability.</i>|
 
-#### Dodge
-| Name: | Dodge |
+#### Dodge Expert
+| Name: | Dodge Expert |
 |---|---|
 | Type: | Passive |
 | Cost: | 20 |
@@ -272,6 +281,14 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Tier: | 8 |
 | Description: | When the User would be subject to damage by designated element, they are instead healed. User must announce "Appears to heal me."|
 
+#### Reduced Damage
+| Name: | Reduced Damage From &lt;Type>|
+|---|---|
+| Type: | Passive|
+| Cost: | 20 (Single Purchase)|
+| Description: | User only takes half damage from a specific damage type (Magic, Normal, Silver, etc) or flavor (Flame, Frost, Shock, Stone), as dictated by the monstrous ability.|
+
+
 #### Slay Expert
 | Name: | Slay Expert |
 |---|---|
@@ -298,8 +315,8 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Tier: | 9 |
 | Description: | User is able to deliver a specific effect with their weapons or unarmed claws/fists.  Effect type is dictated by the transform.|
 
-#### Immunity to &lt;Damage Type>
-| Name: | Immunity to &lt;Damage Type>|
+#### Immunity to &lt;Type>
+| Name: | Immunity to &lt;Type>|
 |---|---|
 | Type: | Passive |
 | Cost: |30 (Single Purchase)|
@@ -348,13 +365,13 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 
 ### Mythical - Tier X
 
-#### Aether Spell
-| Name: | Aether Spell|
+#### Aether &lt;Effect>
+| Name: | Aether &lt;Effect>|
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 20|
 | Tier: | 10 |
-| Description: | User can deliver a single spell as Aether &lt;Spell Name: >. This cannot be stacked with Voice Radius.|
+| Description: | User can deliver a single effect as Aether &lt;Effect>. This cannot be stacked with Voice Radius.|
 
 #### &lt;Effect> Carrier
 | Name: |&lt;Effect> Carrier|
