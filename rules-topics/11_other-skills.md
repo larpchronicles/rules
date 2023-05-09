@@ -39,29 +39,21 @@
 > 
 >This skill also allows a character to touch a downed or seemingly disabled character and ask, "First Aid, what do I see?"  If the character is under an effect that can be diagnosed by first aid, or is a visible effect, the player may reply with the specific effect ("Are you Dead", "Are you Bleeding Out", "Are you reviving", etc).  The character may also ask how long a countdown remains on first aid or visible effects ("How long until you dissipate", "How long until you’re dead", etc).  The character cannot ask how long the timer was, just its current time left).  
 >
->The following statuses and countdown timers can be determined with first aid (status under Visible Effect do not need first aid to see the target is affected but is needed to determine the countdown timer).
+>The following statuses can be determined with first aid.  First aid can determine the count down timer on statuses that are diagnosed with physical effects or first aid.
 >
-|Visible Effect|First Aid|
-|:---:|:---:|
-|Berserking|Bleed Out/Dying|
-|Concentrating|Blinded|
-|Confined|Conscious|
-|Confused|Dead|
-|Disarmed|Drained|
-|Engulfed|Inert|
-|Entangled|Preserved|
-|Feared|Reviving|
-|Invulnerable|Silence|
-|Kneeling|Sleep|
-|Regenerating|Unconscious|
-|Rift Locked||
-|Slowed||
-|Stasis||
-|Stop Thrust||
-|Stuned||
-|Undead||
-|Weakened||
-
+|First Aid|
+|:---:|
+|Bleed Out/Dying|
+|Blinded|
+|Conscious|
+|Dead|
+|Drained|
+|Inert|
+|Preserved|
+|Reviving|
+|Silence|
+|Sleep|
+|Unconscious|
 
 
 
