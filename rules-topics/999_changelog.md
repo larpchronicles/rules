@@ -116,6 +116,7 @@
 * Changed the tense of words on the status to table to show the target is impacted (IE Berserk became Berserking, Blind Became Blinded etc).
 * Added Spirit Bottled, Regenerating, Reviving, and Infected to Status table for consistency with how to diagnose. 
 * Removed Viability? form Ability, Effect, and Status Tables.
+* Removed Blink From Ability Table
 
 
 
