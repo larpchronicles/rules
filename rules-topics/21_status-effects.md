@@ -50,11 +50,10 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 ## Ability
 
 ---
-| Term| Description|Encounter Call |Visible?|
-|:---|---|:---:|:---:|
+| Term| Description|Encounter Call |
+|:---|---|:---:|
 | AETHER| Ability user's attacks cannot be blocked, resisted, reflected, or in any way defended against. | Aether X| No |
 | AURA | Ability user may swing <x> as their damage type | Varies by source. | No |
-| BLINK | Ability user teleports to a location specified by the caster. User must have been physically present in the location previously.| Blink |Yes |
 | BREACH ARMOR | Ability user reduces target's armor pool to 0. | \<Type\> Breach Armor | No |
 | CORROSIVE| Ability user causes all tagged items that make physical contact are destroyed (as per shatter/destroy) at the end of the encounter | OOC | No |
 | DAMAGE CAP X| Ability user is only hit for maximum of x damage. |Minimal| No |
@@ -82,104 +81,91 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 | SUICIDE | Allows creature to die and dissipate at will regardless of other status effects. | 1 I suicide, 2... 3... | Not Applicable |
 | THRESHOLD| Ability user only takes minimum damage for any damage taken equal to or less than x.|Minimal| No |
 | VOICE CONTROL | Target is compelled to follow any instructions given by ability user | Voice Control X | No |
-| X TO HIT | Ability user is immune to all weapons except x type. | No Effect | No |
+| X TO HIT | Ability user is immune to all weapons except x type. | No Effect | No |**
 
-## Status
-
----
-| Term| Description |Encounter Call |Visible?|
-|:---|---|:---:|:---:|
-| ANIMATE | Target takes UNDEAD effect and is unable to use skills, communicate, or move faster than walk. | Varies by source. |No|
-| BERSERK | Target will mindlessly attack the closest visible target for the duration. Ability user may not retreat while Berserking. |Berserk|Yes |
-| BLEED OUT| Target is in BLEED OUT status and has -1 body. Unless the effect is ended, after 1 minute, target will take DEAD status.| None | No |
-| BLIND | Target is unable to use skills and attacks that require range beyond touch. | Varies by source. | No |
-| CONCENTRATION | Ability user is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect. Concentration breaks upon taking damage. | None |Yes |
-| CONFINE | Target is bound by the called skill for x time and may not attack, block, or drop held items. They also may not activate any in-game skills other than Escape Artist.| Varies by source. |Yes |
-| CONFUSE | Target is disoriented and cannot tell allies from enemies, but is not forced to attack. | Varies by source. |Yes |
-| CONSCIOUS| Target in this status has at least 1 body. | Varies by source. |No |
-| CURSE | Target receives double damage. |(Type) Curse | No |
-| CURSE OF TRANSFORMATION | Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary. | Killing Blow 1, 2, 3, Curse of Transformation X | No |
-| DEAD | Target is in Dead status and target's spirit will dissipate and may seek resurrection after 5 minutes unless effect is ended by REVIVE or LIFE effects. | Varies by source. |No |
-| DISARM| Target is unable to wield x item for x time.| Varies by source. |Yes |
-| DRAINED | Target is skilless. Target may not make active use of skills, granted or purchased. All instances of Drain last 5 minutes. |(Type) Drain | No |
-| ENGULF| Target and possessions are eaten and target must stand to side OOC. Target is reduced to -1 body and takes BLEED OUT status. Target is released upon death of creature. |1 I engulf you, 2... 3...|Yes |
-| ENSLAVEMENT | Target is compelled to follow any instructions given by ability user. Target is not Aware they are Enslaved. | Varies by source. | No |
-| ENTANGLE | Target is entangled at the x location for y time. | Entangle X |Yes |
-| FEAR | Target is unable to attack and will attempt to leave the area for x time. | Varies by source. |Yes |
-| INERT | Target unable to use or cast x for y time. || No| |
-| INVULNERABLE| Ability user is immune to all spells, physical attacks, and toxin for x time. | Varies by source. |Yes |
-| KNEEL | Target must kneel or crouch and cross their dominant hand over their chest. Target may otherwise attack and defend normally. | Varies by source. |Yes |
-| PRESERVE | Target in DEAD status has their Death count halted for x time. May only be done once. | Varies by source. | No |
-| RIFT LOCK | Target is prevented from moving by any form of magical travel for x time. |N/A|No| 
-| SILENCE | Target is unable to speak in game, and is unable to cast spells. May make game system calls. | Varies by source. |No |
-| SLEEP | Target must be prone or crouched and cannot communicate or use skills or items. | Varies by source. | No |
-| SLOW | Target is unable to run for x time. | Varies by source. |Yes |
-| STASIS | Target may not move, communicate in any manner, activate items, or use any game skills for duration. Target does not take damage and cannot be moved. Target may choose to end the effect early. | Varies by source. |Yes|
-| STOP THRUST | Target unable to advance into combat for x time. | Varies by source. |Yes |
-| STUN | Target may not move, communicate in any manner, activate items, or use game skills for x time. Damage does not remove effect. | Varies by source. |Yes |
-| UNCONSCIOUS | Target must be prone or crouched and cannot communicate or use skills or items. Target has 0 body for 5 minutes, after which target will take CONSCIOUS status and restore to 1 body. If target takes damage while in UNCONSCIOUS status, target's body becomes -1 body and target takes BLEED OUT status immediately. | Varies by source. | No |
-| UNDEAD| Target is visibly a lesser undead, may talk, move, and use skills for x time. | Varies by source. |Yes |
-| WEAKEN| Target damage is lowered by x amount for y time. | Varies by source. | Yes |
- 
 ## Effects
 
 ---
-| Term| Description |Encounter Call |Visible?|
-|:---|-----|:----:|:---:|
-| DEATH | If the source of this effect would reduce the target to 0 or less Body, target immediately takes DEAD status. | Varies by source. | No |
-| DECIMATE | Target takes DEAD status upon receiving this effect. If target dissipates and resurrects, target incurs double Strain. (4 Total) | (Type) Decimate | No |
-| DODGE | Ability user may resist more than one type of effect, and so dodges it. | Dodge | No |
-| DOOM | Target takes X Damage, some creatures may be weak or resistant to this. | Varies by source. | No |
-| LIFE | Target is healed to full body and all status effects of target's choice are removed. This works on DEAD targets. | Varies by source. |Yes |
-| MUMMY CURSE | Target immediately dissipates and seeks resurrection. | Killing Blow 1, 2, 3, Mummy Curse | No |
-| REFLECT | Ability user may reflect x ability. The reflected ability may be resisted, but may not be reflected again. | Varies by source. | Not Applicable |
-| RESIST| Ability user resists x effect. |Resist | Not Applicable |
-| SOLIDIFY | Ability user or Target's GASEOUS effect is removed. | Varies by source. | Not Applicable |
-| SPELLSTRIKE | Ability user may deliver a spell with a physical weapon. |Spellstrike (Spell Name) | Not Applicable |
-| VOICE RADIUS| All targets that hear the call take X effect. | Voice Radius X| No |
+| Term| Description |Encounter Call |
+|:---|-----|:----:|
+| DEATH | If the source of this effect would reduce the target to 0 or less Body, target immediately takes DEAD status. | Varies by source. |
+| DECIMATE | Target takes DEAD status upon receiving this effect. If target dissipates and resurrects, target incurs double Strain. (4 Total) | (Type) Decimate |
+| DODGE | Ability user may resist more than one type of effect, and so dodges it. | Dodge |
+| DOOM | Target takes X Damage, some creatures may be weak or resistant to this. | Varies by source. |
+| LIFE | Target is healed to full body and all status effects of target's choice are removed. This works on DEAD targets. | Varies by source. |
+| MUMMY CURSE | Target immediately dissipates and seeks resurrection. | Killing Blow 1, 2, 3, Mummy Curse |
+| REFLECT | Ability user may reflect x ability. The reflected ability may be resisted, but may not be reflected again. | Varies by source. |
+| RESIST| Ability user resists x effect. |Resist |
+| SOLIDIFY | Ability user or Target's GASEOUS effect is removed. | Varies by source. |
+| SPELLSTRIKE | Ability user may deliver a spell with a physical weapon. |Spellstrike (Spell Name) |
+| VOICE RADIUS| All targets that hear the call take X effect. | Voice Radius X|
+ 
+ ## Status
+
+---
+| Term| Description |Encounter Call |
+|:---|---|:---:|
+| ANIMATED | Target takes UNDEAD effect and is unable to use skills, communicate, or move faster than walk. | Varies by source. |
+| BERSERKING | Target will mindlessly attack the closest visible target for the duration. Ability user may not retreat while Berserking. |Berserk|
+| BLEEDING OUT| Target is in BLEED OUT status and has -1 body. Unless the effect is ended, after 1 minute, target will take DEAD status.| None |
+| BLINDED | Target is unable to use skills and attacks that require range beyond touch. | Varies by source. |
+| CONCENTRATING | Ability user is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect. Concentration breaks upon taking damage. | None |
+| CONFINED | Target is bound by the called skill for x time and may not attack, block, or drop held items. They also may not activate any in-game skills other than Escape Artist.| Varies by source. |
+| CONFUSED | Target is disoriented and cannot tell allies from enemies, but is not forced to attack. | Varies by source. |
+| CONSCIOUS| Target in this status has at least 1 body. | Varies by source. |
+| CURSE OF TRANSFORMATION | Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary. | Killing Blow 1, 2, 3, Curse of Transformation X |
+| CURSED | Target receives double damage. |(Type) Curse |
+| DEAD | Target is in Dead status and target's spirit will dissipate and may seek resurrection after 5 minutes unless effect is ended by REVIVE or LIFE effects. | Varies by source. |
+| DISARMED| Target is unable to wield x item for x time.| Varies by source. |
+| DRAINED | Target is skilless. Target may not make active use of skills, granted or purchased. All instances of Drain last 5 minutes. |(Type) Drain |
+| ENGULFED| Target and possessions are eaten and target must stand to side OOC. Target is reduced to -1 body and takes BLEED OUT status. Target is released upon death of creature. |1 I engulf you, 2... 3...|
+| ENSLAVEMENT | Target is compelled to follow any instructions given by ability user. Target is not Aware they are Enslaved. | Varies by source. |
+| ENTANGLED | Target is entangled at the x location for y time. | Entangle X |
+| FEARED | Target is unable to attack and will attempt to leave the area for x time. | Varies by source. |
+| INERT | Target unable to use or cast x for y time. |Varies by source.|
+| INFECTED| Target has an active Infect ability with x effect. |Varies by source.|
+| INVULNERABLE| Ability user is immune to all spells, physical attacks, and toxin for x time. | Varies by source. |
+| KNEELING | Target must kneel or crouch and cross their dominant hand over their chest. Target may otherwise attack and defend normally. | Varies by source. |
+| PRESERVED | Target in DEAD status has their Death count halted for x time. May only be done once. | Varies by source. |
+| REGENERATING | Actively concentrating and using Regenerate ability. | Regenerating / Regenerate Complete |
+| REVIVING| User is Dead with Revive ability and waiting for death count to reach 4 minutes and 59 seconds. |Revive |
+| RIFT LOCKED | Target is prevented from moving by any form of magical travel for x time. |N/A|
+| SILENCED | Target is unable to speak in game, and is unable to cast spells. May make game system calls. | Varies by source. |
+| SLEEPING | Target must be prone or crouched and cannot communicate or use skills or items. | Varies by source. |
+| SLOWED | Target is unable to run for x time. | Varies by source. |
+| SPIRIT BOTTLED | User has used the Spirit Bottle ability and has an active Spirit Bottle. | N/A |
+| STASIS | Target may not move, communicate in any manner, activate items, or use any game skills for duration. Target does not take damage and cannot be moved. Target may choose to end the effect early. | Varies by source. |
+| STOP THRUST | Target unable to advance into combat for x time. | Varies by source. |
+| STUNNED | Target may not move, communicate in any manner, activate items, or use game skills for x time. Damage does not remove effect. | Varies by source. |
+| UNCONSCIOUS | Target must be prone or crouched and cannot communicate or use skills or items. Target has 0 body for 5 minutes, after which target will take CONSCIOUS status and restore to 1 body. If target takes damage while in UNCONSCIOUS status, target's body becomes -1 body and target takes BLEED OUT status immediately. | Varies by source. |
+| UNDEAD| Target is visibly a lesser undead, may talk, move, and use skills for x time. | Varies by source. |
+| WEAKENED| Target damage is lowered by x amount for y time. | Varies by source. |
 
 ## How to Diagnose
-
  
-|Term|How to Diagnose|
-|:---|:---:|
-|ANIMATE|Identify|
-|BERSERK|Visible|
-|BLEED OUT|First Aid|
-|BLIND|First Aid|
-|CONCENTRATION|Visible|
-|CONFINE|Visible|
-|CONFUSE|Visible|
-|CONSCIOUS|First Aid|
-|CURSE|Identify|
-|CURSE OF TRANSFORMATION|**Identify|
-|DEAD|First Aid|
-|DISARM|Visible|
-|DRAINED|First Aid|
-|ENGULF|Visible|
-|ENSLAVEMENT|Break Enslavement Rune|
-|ENTANGLE|Visible|
-|FEAR|Visible|
-|INERT|First Aid|
-|INVULNERABLE|Visible|
-|KNEEL|Visible|
-|PRESERVE|First Aid|
-|RIFT LOCK|Visible|
-|SILENCE|First Aid|
-|SLEEP|First Aid|
-|SLOW|Visible|
-|STASIS|Visible|
-|STOP THRUST|Visible|
-|STUN|Visible|
-|UNCONSCIOUS|First Aid|
-|UNDEAD|Visible|
-|WEAKEN|Visible|
-|INFECT|Identify|
-|REGENERATE|Visible|
-|REVIVE|First Aid|
-|SPIRIT BOTTLE|Identify|
-|TRANSFORMS|Cannot be Identified|
+|Visible Effect|First Aid|Identify|Exception|
+|:---|---|:---:|:---:|
+|Berserking|Bleeding Out/Dying|Animated|***Enslavement|
+|Concentrating|Blinded|Cursed|**Transform|
+|Confined|Conscious|**Curse of Transformation||
+|Confused|Dead|Infected||
+|Disarmed|Drained|Spirit Bottled||
+|Engulfed|Inert|||
+|Entangled|Preserved|||
+|Feared|Reviving|||
+|Invulnerable|Silence|||
+|Kneeling|Sleep|||
+|Regenerating|Unconscious|||
+|Rift Locked||||
+|Slowed||||
+|Stasis||||
+|Stop Thrust||||
+|Stunned||||
+|Undead||||
+|Weakened||||
  
 **Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm as a part of a CoT or Transformation.
 
 For Example:  Someone with fangs may be a vampire but you cannot confirm it without more investigation.
+
+***Enslavement can be identified by using a Break Enslavement Rune.
