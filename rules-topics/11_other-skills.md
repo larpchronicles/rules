@@ -38,6 +38,32 @@
 >This skill is purchased once. First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say "Performing First Aid". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply. Other in-game tools can lessen this time. The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.
 > 
 >This skill also allows a character to touch a downed or seemingly disabled character and ask, "First Aid, what do I see?"  If the character is under an effect that can be diagnosed by first aid, or is a visible effect, the player may reply with the specific effect ("Are you Dead", "Are you Bleeding Out", "Are you reviving", etc).  The character may also ask how long a countdown remains on first aid or visible effects ("How long until you dissipate", "How long until you’re dead", etc).  The character cannot ask how long the timer was, just its current time left).  
+>
+>The following statuses and countdown timers can be determined with first aid (status under Visible Effect do not need first aid to see the target is affected but is needed to determine the countdown timer).
+>
+|Visible Effect|First Aid|
+|:---:|:---:|
+|Berserking|Bleed Out/Dying|
+|Concentrating|Blinded|
+|Confined|Conscious|
+|Confused|Dead|
+|Disarmed|Drained|
+|Engulfed|Inert|
+|Entangled|Preserved|
+|Feared|Reviving|
+|Invulnerable|Silence|
+|Kneeling|Sleep|
+|Regenerating|Unconscious|
+|Rift Locked||
+|Slowed||
+|Stasis||
+|Stop Thrust||
+|Stuned||
+|Undead||
+|Weakened||
+
+
+
 
 #### Escape Artist
 >This skill is purchased multiple times. Each time this skill is purchased, the character may escape from magical, or non-magical bindings by completing a 3 second count of escaping the bonds. "1 I escape binding...2 I escape binding…" This skill is refreshed each Rest.
