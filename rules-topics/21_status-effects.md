@@ -15,9 +15,9 @@ Dispel Magic and Nullify Spell work on all effects with a magical source unless 
 ## Visible Effects
 
 ---
-If a term is denoted as visible, it is something you are permitted to respond with if a player asks “What do I see?”
+If a term is denoted as visible, it is something you are permitted to respond with if a player asks "What do I see?"
 
-If a player is in an unconscious state (Bleeding Out, Sleep, Dead, etc.) and they are asked “What do I see?” the proper response is “An unresponsive body”.
+If a player is in an unconscious state (Bleeding Out, Sleep, Dead, etc.) and they are asked "What do I see?" the proper response is "An unresponsive body".
 
 ## Effect Clarifications
 
@@ -178,8 +178,8 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 |REGENERATE|Visible|
 |REVIVE|First Aid|
 |SPIRIT BOTTLE|Identify|
-|TRANSFORMS|Can not be Identified|
+|TRANSFORMS|Cannot be Identified|
  
 **Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm be confirmed as a visible effect.
 
-For Example:  Someone with pale skin and fangs may be a vampire but you cannot confirm it without more investigation.
+For Example:  Someone with fangs may be a vampire but you cannot confirm it without more investigation.
