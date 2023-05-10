@@ -680,7 +680,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | 20 seconds |
 | **Incant**  | "By nature, I confine you." |
-| **Description** |  This spell renders the target completely unable to move while under the effects of this spell. They also may not activate any game skills other than Escape Artist. This is a CONFINE effect. |
+| **Description** |  This spell renders the target completely unable to move while under the effects of this spell. They also may not activate any game skills other than Escape Artist, Rip Free, or Minimize. This is a CONFINE effect. |
 
 ### Nature Level 8
 
