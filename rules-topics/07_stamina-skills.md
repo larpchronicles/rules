@@ -220,7 +220,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Level**| 7 |
 | **Duration** | Instant|
 | **Call**| "Physical Destroy <target item>" |
-| **Description** | This is strike that instantly destroys the target's armor, weapon, or shield. If the target has multiple items of the same type specified by the caster, any being actively wielded by the target will be treated as the target. If none are currently being wielded, the target chooses which is effected. This is a DESTROY effect. |
+| **Description** | This is strike that instantly destroys the target's armor, weapon, or shield. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. |
 | **Requirement** | - |
 
 
