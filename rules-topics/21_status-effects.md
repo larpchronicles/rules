@@ -15,7 +15,7 @@ Dispel Magic and Nullify Spell work on all effects with a magical source unless 
 ## Visible Effects
 
 ---
-If a term is denoted as visible, it is something you are permitted to respond with if a player asks "What do I see?"
+If a term is denoted as visible, it is something the character is permitted to respond with if a player asks "What do I see?"
 
 If a player is in an unconscious state (Bleeding Out, Sleep, Dead, etc.) and they are asked "What do I see?" the proper response is "Properly Phys-repped", "Recognizable as [Individual]", "[Race] as I appear" etc.  The response should not include what state the player is in.
 
@@ -26,9 +26,9 @@ If a player is in an unconscious state (Bleeding Out, Sleep, Dead, etc.) and the
 * Curse of Transformation (CoT) makes the target immune to CoT, meaning the effect does not stack.
 * Any character or NPC created by CoT is not capable of inflicting CoT on another character. The only time this is not true is for very specific and limited plot reasons.
 * There are three types of CoT: Ones that go away on death, ones that go away on resurrection, and ones that go away only with ritual. All COTs may be removed by ritual.
- * If you are CoT into a skeleton (think like a Greater version of Create Undead), that'll probably go away on death.
- * If you are CoT into a Vampire, that might go away on Resurrection.
- * If you are CoT into a Plot device, that might require a ritual.
+ * If the character is CoT into a skeleton (think like a Greater version of Create Undead), that'll probably go away on death.
+ * If the character is CoT into a Vampire, that might go away on Resurrection.
+ * If the character is CoT into a Plot device, that might require a ritual.
 
 ### Entrapment Clarification
 The Entrapment spell allows a caster the chance to capture the spirit of a target. Entrapment works on ANY creature that matches the following:
@@ -44,7 +44,7 @@ The Entrapment spell allows a caster the chance to capture the spirit of a targe
 Shattering or destroying containers that contain things does NOT affect the items within it.
 
 ### Skillless Clarification
-Skilless refers to any abilities purchased with Skill Points. You do not lose any armor or body gained from purchased skills.
+Skilless refers to any abilities purchased with Skill Points. A character does not lose any armor or body gained from purchased skills.
 
 
 ## Ability

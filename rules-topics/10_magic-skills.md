@@ -49,7 +49,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**| 1 |
 | **Duration**  | 12 hours | |
 | **Incant** | "I conjure a glowing light." |
-| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
+| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that the light is only emitting a soft glow and not a sharp directed light as a game marshal may ask the player to extinguish their light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
 
 ### Universal Level IV
 

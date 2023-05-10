@@ -80,18 +80,18 @@
 
 ## Knowledge Skills
 
->Knowledge skills are a way through which characters can gather information about the world around them. These skills are gained automatically as you gain SP, choosing a Profession and Hobby, with your Profession being your "main focus" and scaling faster. Once you have capped a Profession or Hobby at Rank 10, you may select a new one immediately to begin scaling, and it starts with 1 rank. A Profession goes up in rank every 50 SP, and each Hobby goes up in rank every 100 SP. So you will unlock your second Profession at 450 SP, and both your Second Hobby and Third Profession at 900 SP, and so on. Each knowledge skill represents a specific area of expertise that a character can improve upon. These skills might be utilized when interacting with Plot to help you discover more information about what is happening during a particular scene, or Plot may choose to ask for Knowledge skills leading into an adventure to help flesh out what the characters might have discovered.
+>Knowledge skills are a way through which characters can gather information about the world around them. These skills are gained automatically as a character gains SP, choosing a Profession and Hobby, with their Profession being your "main focus" and scaling faster. Once they have capped a Profession or Hobby at Rank 10, they may select a new one immediately to begin scaling, and it starts with 1 rank. A Profession goes up in rank every 50 SP, and each Hobby goes up in rank every 100 SP. So they will unlock their second Profession at 450 SP, and both theirr Second Hobby and Third Profession at 900 SP, and so on. Each knowledge skill represents a specific area of expertise that a character can improve upon. These skills might be utilized when interacting with Plot to help tje, discover more information about what is happening during a particular scene, or Plot may choose to ask for Knowledge skills leading into an adventure to help flesh out what the characters might have discovered.
 >
->Generally, any piece of information that you attempt to discover will be assigned a secret "Difficulty Class" by the Plot member, on a scaling slide of 1 through 10. A Difficulty Class of 1 would represent fairly common knowledge, something that most anyone who cares about the subject would know. A 10 on the other hand would represent particularly unusual or rare information, something that only a true expert in the field would have discovered. If you have enough ranks in the chosen skill to meet the difficulty class, you may learn some useful information. Having less than the set Difficulty may result in incomplete or slightly misleading information, while having more ranks than the required Difficulty may result in getting more detailed or extra information.
+>Generally, any piece of information that a player will attempt to discover will be assigned a secret "Difficulty Class" by the Plot member, on a scaling slide of 1 through 10. A Difficulty Class of 1 would represent fairly common knowledge, something that most anyone who cares about the subject would know. A 10 on the other hand would represent particularly unusual or rare information, something that only a true expert in the field would have discovered. If they have enough ranks in the chosen skill to meet the difficulty class, they may learn some useful information. Having less than the set Difficulty may result in incomplete or slightly misleading information, while having more ranks than the required Difficulty may result in getting more detailed or extra information.
 
 #### Arcane Knowledge
->Covers Arcane Magic in all its forms and uses, constructs and celestial events. Higher ranks will provide greater insight to arcane questions, or provide more detailed information on the target of your inquiry.
+>Covers Arcane Magic in all its forms and uses, constructs and celestial events. Higher ranks will provide greater insight to arcane questions, or provide more detailed information on the target of an inquiry.
 
 #### Criminal Knowledge
->Covers laws (their avoidance and subversion), various criminal organizations and their structure, cons, and illegal activity. Higher ranks will point you to contacts within some of these organizations, or reveal information you may regret knowing.
+>Covers laws (their avoidance and subversion), various criminal organizations and their structure, cons, and illegal activity. Higher ranks will point one to contacts within some of these organizations, or reveal information some may regret knowing.
 
 #### Economic Knowledge
->Covers trade routes, values of goods, and merchants of specific items. Higher ranks will reveal more hidden information, or let you sniff out particularly good deals.
+>Covers trade routes, values of goods, and merchants of specific items. Higher ranks will reveal more hidden information, or let someone sniff out particularly good deals.
 
 #### Geographical Knowledge
 >Covers landmarks, terrain, maps, roads, approximate distances and navigation. Higher ranks will allow for more detailed information or better navigation.
@@ -100,13 +100,13 @@
 >Covers recent to far flung historical events. Higher ranks will allow for knowledge of the distant past, or more accurate recollections of events.
 
 #### Nature Knowledge
->Covers Nature Magic in all its forms and uses, beasts, plants and weather patterns. Higher ranks will provide greater insight to nature questions, or provide more detailed information on the target of your inquiry.
+>Covers Nature Magic in all its forms and uses, beasts, plants and weather patterns. Higher ranks will provide greater insight to nature questions, or provide more detailed information on the target of an inquiry.
 
 #### Political Knowledge
->Covers laws (their enforcement and creation), local and foreign political hierarchy, alliances and hostilities, territories and holdings. Higher ranks will reveal well-hidden information, or let you find the truth behind malicious rumors.
+>Covers laws (their enforcement and creation), local and foreign political hierarchy, alliances and hostilities, territories and holdings. Higher ranks will reveal well-hidden information, or let one find the truth behind malicious rumors.
 
 #### Spirit Knowledge
->Covers Spirit Magic in all its forms and uses, undead and nether spirits. Higher ranks will provide greater insight to spirit questions, or provide more detailed information on the target of your inquiry.
+>Covers Spirit Magic in all its forms and uses, undead and nether spirits. Higher ranks will provide greater insight to spirit questions, or provide more detailed information on the target of an inquiry.
 
 #### Survivalist Knowledge
 >Covers skills needed for living in the wild, such as hunting, fishing, and identifying plants and animals.  A survivalist may be able to recognize the mark left by a creature but to truly track them they will need the tracking skill.

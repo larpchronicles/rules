@@ -3,7 +3,7 @@
 ## Body _(aka Health Points)_
 
 ---
-Body is the measurement of a character's state of health, and is often referred to as "Health Points" or "Hit Points" in many RPG systems. All characters start with 10 Body, and gain more via the Toughness skill. Receiving any amount of Damage reduces your Current Body. You can receive healing effects to increase your Body after taking Damage, but healing may never put you above your Maximum Body.
+Body is the measurement of a character's state of health, and is often referred to as "Health Points" or "Hit Points" in many RPG systems. All characters start with 10 Body, and gain more via the Toughness skill. Receiving any amount of Damage reduces the character's Current Body. They can receive healing effects to increase their Body after taking Damage, but healing may never put them above their Maximum Body.
 
 
 ## Alive

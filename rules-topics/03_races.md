@@ -199,7 +199,7 @@ Most people view the Glimmerlings with no difference to how they view the fairie
 
 **Racial Abilities**:
 
-*Remembrance*: _Being connected to the realm of dreams, Glimmerlings are able to delve into the memories of another person._ Once per rest, a Glimmerling may concentrate and establish a connection to a consenting character and aid them in recovering memories for as long as the other chooses to keep the contact.  This is a purely roleplayed ability and may not be used to determine truth.  If attempting to use this ability to recall specific plot information, seek a plot member beforehand, so they can be on hand to describe what you witness.
+*Remembrance*: _Being connected to the realm of dreams, Glimmerlings are able to delve into the memories of another person._ Once per rest, a Glimmerling may concentrate and establish a connection to a consenting character and aid them in recovering memories for as long as the other chooses to keep the contact.  This is a purely roleplayed ability and may not be used to determine truth.  If attempting to use this ability to recall specific plot information, seek a plot member beforehand, so they can be on hand to describe what is witnessed.
 
 *Trickster*: _Glimmerlings as a race, are very cunning and crafty and delight in causing the occasional confusion and chaos._ Once per day, a Glimmerling may recall to a pre-designated location ala the same rules as Rune of Recall and call, "Activate Recall, 1 I recall, 2 I recall, 3 I recall."  They must drop any items acquired prior to vanishing.
 
@@ -312,7 +312,7 @@ A fairly rare sight in Evren, the Kindred are the most diverse of the races in t
 
 *Invoke Instinct*: _All Kindred possess a powerful connection to their primal pasts, and can invoke the prey instincts of a target._ Once per day, a Kindred may invoke the fear of the hunt in a target by incanting, "Aether Stop Thrust", preventing their target from advancing.
 
-**Makeup Suggestions and Guidelines**:  Facepaint and physical representations should be present and match the animal-type for your specific Kindred.
+**Makeup Suggestions and Guidelines**:  Facepaint and physical representations should be present and match the animal-type for the specific Kindred.
 
 ## Kobold
 
@@ -333,7 +333,7 @@ Kobolds can typically be found living in small, roving clans or in rustic, out o
 
 Bright-eyed and precocious, Kobolds are among the shortest lived races, with all the chaotic cleverness and volubility it takes to get by.  When it comes to their supposed kleptomania, the majority of Kobolds will vehemently dispute any such accusation.
 
-Kobolds typically respect the notions of ownership and possession, for anything they have an emotional attachment to is something they consider theirs and they would go to great lengths to keep it that way.  For everything else, a Kobold is likely to tell you that possession is entropic.
+Kobolds typically respect the notions of ownership and possession, for anything they have an emotional attachment to is something they consider theirs and they would go to great lengths to keep it that way.  For everything else, a Kobold is likely to tell anyone that possession is entropic.
 
 The worth most Kobolds place on things has very little to do with its intrinsic value or utility and everything to do with whether or not the object has captured their attention and or imagination. Uniquely held concepts such as this persist among most Kobolds, often presenting views and ideas about the world around them and how it works with a perceived naivety or ingenuousness.
 
@@ -404,7 +404,7 @@ The Unbound that may be found alone are typically those that have established th
 
 *Elemental Transmutation*: _The Unbound are amalgamations of elemental forces and living beings. As such they are able to tap into the makeup of matter._ Once per day, an Unbound may transmogrify a single component of any rank into a different, single component of the same rank.
 
-**Makeup Suggestions and Guidelines**: To make glowing lines of power, it's suggested to use white paint and either line it with a thin black line or put a thin line of color through the middle of the white in order to create a colored line that appears to glow.  Facepaint aside from the glowing lines should match the elemental type of your character.  Ie:  Fire should be red or red-orange tones and hues, electricity should be grey, but may be blue, water should be blue, and stone should be earthy browns or rocky grey. 
+**Makeup Suggestions and Guidelines**: To make glowing lines of power, it's suggested to use white paint and either line it with a thin black line or put a thin line of color through the middle of the white in order to create a colored line that appears to glow.  Facepaint aside from the glowing lines should match the elemental type of the character.  Ie:  Fire should be red or red-orange tones and hues, electricity should be grey, but may be blue, water should be blue, and stone should be earthy browns or rocky grey. 
 
 ## Unforgiven
 
