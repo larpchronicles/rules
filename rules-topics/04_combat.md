@@ -8,7 +8,7 @@
 ## Armor: Immunities
 
 ---
-In the event that you are hit by an ability that you are immune to, your armor does not take the damage.
+In the event that the player are hit by an ability that they are immune to, their armor does not take the damage.
 
 ## Armor: Receiving Damage
 
@@ -18,27 +18,27 @@ During combat, when damage is taken by a character, it is first deducted from th
 ## Bows: Blocking
 
 ---
-Bows may be used to block attacks.  Bows may also be used to block attacks while wielding a One-Handed Weapon the skills One-Handed Weapons, Ranged Weapons, and Dual Wield are purchased.  If used to block an attack, you must spend a 3 second count to restring the bow before you can use it again.  
+Bows may be used to block attacks.  Bows may also be used to block attacks while wielding a One-Handed Weapon the skills One-Handed Weapons, Ranged Weapons, and Dual Wield are purchased.  If used to block an attack, the player must spend a 3 second count to restring the bow before they can use it again.  
 
 ## Casting Spells
 
 ---
-Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use your magic.
+Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use magic.
 
-When casting a spell, first you must have a spell packet in a free hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. 
+When casting a spell, first a player must have a spell packet in a free hand. Then, they cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If the spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. 
 
-A "Free Hand" in this instance means that the hand holding the spell packet may not be holding any other in-game or tagged items. I.E., no swords, shields, potions, and such. You may hold multiple spell packets in the same hand and still cast, as they are not considered in-game items.
+A "Free Hand" in this instance means that the hand holding the spell packet may not be holding any other in-game or tagged items. I.E., no swords, shields, potions, and such. A player may hold multiple spell packets in the same hand and still cast, as they are not considered in-game items.
 
-You must be careful when casting spells, because if an enemy is within reach, or they have a ranged weapon, you risk your spell being disrupted mid-cast if they manage to strike you with a weapon blow, or if you take damage from any source during the incant. If your spell is disrupted, it is lost and you must complete a rest to recover it.
+One must be careful when casting spells, because if an enemy is within reach, or they have a ranged weapon, they risk their spell being disrupted mid-cast if they manage to strike them with a weapon blow, or if they take damage from any source during the incant. If their spell is disrupted, it is lost and they must complete a rest to recover it.
 
-If you fail to correctly incant the spell, do not worry, though the spell doesn't work, you do not consume any mana, and must simply start the spell over.
+If a player fails to correctly incant the spell, do not worry, though the spell doesn't work, they do not consume any mana, and must simply start the spell over.
 
 Some spells require a "X count" to cast where X may be three or five.  This is always intended to be X number of seconds.
 
 ## Charging
 
 ---
-Charging refers to your proximity to another player in melee combat.  In combat, combatants should never be inside the physical reach another combatant.  Combatants should not be able to make skin to skin contact.
+Charging refers to a player's proximity to another player in melee combat.  In combat, combatants should never be inside the physical reach another combatant.  Combatants should not be able to make skin to skin contact.
 * Charging unfairly prevents one combatant from attacking their combat partner.
 * Charging can prevent a combatant from being able to attack safely and can result in players being struck in illegal strike zones or injuries to areas such as the eyes.
 * Charging forces one combatant to backpedal or retreat.  We often play on uneven ground and this could result in a player tripping and sustaining injuries.
@@ -46,7 +46,7 @@ Charging refers to your proximity to another player in melee combat.  In combat,
 ## Damage Calls, Types, Flavors, & Carriers
 
 ---
-Casting Damage calls are how you communicate the amount of damage being delivered, as well as its type and whether or not it has a flavor modifier or carrier.  You may only use one value for each option.
+Casting Damage calls are how a player can communicate the amount of damage being delivered, as well as its type and whether or not it has a flavor modifier or carrier.  A player may only use one value for each option.
 
 **Damage Call Structure** 
 ```
@@ -58,7 +58,7 @@ Examples:
 * 2 Magic Flame
 * 23 Silver Death
 
-Suppose you have a normal longsword, a transform with the Magic Aura and Flame Aura abilities, and a Frost coating applied to the weapon. You would swing one of:
+Suppose Zee has a normal longsword, a transform with the Magic Aura and Flame Aura abilities, and a Frost coating applied to the weapon. Zee would swing one of:
 * 5 Magic
 * 5 Normal
 * 5 Magic Flame
@@ -73,11 +73,11 @@ Suppose you have a normal longsword, a transform with the Magic Aura and Flame A
 | Poison       | Shock          | Drain           |
 | Silver       | Stone          | Vital           |
 
-Unless explicitly stated, you are always able to drop your carrier. You may have many carriers, but you must always choose to swing one or fewer.
+Unless explicitly stated, a player is always able to drop their carrier. They may have many carriers, but they must always choose to swing one or fewer.
 >Example: Bob the Lich has Monstrous Carrier: Drain and Monstrous Carrier: Death. Bob can choose to swing 5 Magic, OR 5 Magic Drain, OR 5 Magic Death. Bob cannot swing 5 Magic Death Drain.
 > 
-This is not necessarily true with auras (ie, damage types). So, if you have a sword with Magic Aura, you cannot choose to swing Normal or Silver with it.
-  EXCEPT if you have another effect, such as Monstrous Silver Aura, you may then choose to swing Silver regardless of weapon. Examples include:
+This is not necessarily true with auras (ie, damage types). So, if a player has a sword with Magic Aura, they cannot choose to swing Normal or Silver with it.
+  EXCEPT if they have another effect, such as Monstrous Silver Aura, they may then choose to swing Silver regardless of weapon. Examples include:
   >Alice the Adventurer has a silvered long sword. She may only swing 5 Silver with it. If she wishes to swing 5 Normal, she must use a different weapon.
   
   >Gary the Golem has the transform ability Monstrous Silver Aura. While wielding a normal Long Sword, he may choose to swing 5 Normal OR 5 Silver.
@@ -97,7 +97,7 @@ Using any skill, ability, or effect that grants a Resist, Reflect, or Dodge requ
 ---
 People wearing orange headbands are referred to as Pages.  Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.
 
-**You may not ever physically strike a Page.**  Pages may not use combat skills, weapons, or throw packets.  If you engage in combat with a page, you may point your weapon or packet and say, "Page, I kill you."  They are treated as if they have 1 body.
+**A player may not ever physically strike a Page.**  Pages may not use combat skills, weapons, or throw packets.  If they engage in combat with a page, they may point their weapon or packet and say, "Page, I kill you."  They are treated as if they have 1 body.
 
 ## Killing Blows
 
@@ -114,11 +114,11 @@ The target of a killing blow may refuse it, so long as they are capable of movem
 ## Magic Deliverance, Voice Radius, and Aether
 
 ---
-Rarely, you may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such.
+Rarely, one may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such.
 
 Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they’d been struck by the spell directly. This ability does not require the caster to have a Spell Packet in hand.
 
-Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If you are struck by an Aether spell, no resistances can prevent the effect, and you are affected by it immediately.
+Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If a player is struck by an Aether spell, no resistances can prevent the effect, and they are affected by it immediately.
 
 ## Shields
 
@@ -141,18 +141,18 @@ Limitations:
 ## Spell Packets
 
 ---
-Anything in your possession being struck by a spell causes you to take the effect of the spell, even if it is an illegal strike zone.  If illegal strike zones are being targeted repeatedly, inform Plot or a member of Staff immediately.
+Anything in a player's possession being struck by a spell causes them to take the effect of the spell, even if it is an illegal strike zone.  If illegal strike zones are being targeted repeatedly, inform Plot or a member of Staff immediately.
 
 
 ### Spellstrikes
 
 ---
-Spellstrikes are spells cast upon a target via a physically represented weapon.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If you physically parry a Spellstrike, you take the effect of the spell. An individual capable of using Spellstrike may treat a wielded weapon as a spell packet for the purposes of touch-casting. Packets may not be used to Spellstrike.
+Spellstrikes are spells cast upon a target via a physically represented weapon.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If a player physically parries a Spellstrike, they take the effect of the spell. An individual capable of using Spellstrike may treat a wielded weapon as a spell packet for the purposes of touch-casting. Packets may not be used to Spellstrike.
 	
 ### Touch-Casting
 
 ---
-If you are touching the target directly with a spell packet, they have the ability to "refuse your touch-cast", causing you to expend the magic to no effect.  Any spell may be touch-cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
+If a player is touching the target directly with a spell packet, the target has the ability to "refuse your touch-cast", causing the player to expend the magic to no effect.  Any spell may be touch-cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
 
 
 ### Turtling
