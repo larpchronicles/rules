@@ -7,6 +7,20 @@ Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
 ### Agility Prof Proposal
 * Added proposal to introduce Proficiencies in Agility
 
+### Introduction
+* Added Creating a Character
+* Added Secondary Characters 
+* Added Skill Points accrued per day
+* Added Skill Point bonus from NPCing
+* Added Section on Plot Members and Marshals
+* Added How to Become A Ritual Marshal
+* Added How Does Combat Work
+* Added Game Atmosphere Entry
+* Added Religion Entry
+* Added Politics Entry 
+* Added Identify Ability and table
+* Added Floating Reset
+
 ### Combat
 * Added clarification to how Carriers & Auras work
 * Added clarification and rules on how Immunities Work
