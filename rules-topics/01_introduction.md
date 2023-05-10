@@ -78,7 +78,16 @@ Once you hit 200 Skill Points you can create a secondary character.  This charac
 If you wish to create an additional character beyond a secondary character you can.  All characters beyond the second character will have 50 percent of the primary character’s Skill Points.  All gained SP will be applied to the primary character.  Strain is tracked separately on each character.
 
 ### Identify Ability
-Allows the character to Identify an item, a group of items or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
+Allows the character to Identify an item, a group of items, or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
+
+Status that require Identify:
+|Identify Needed|
+|:---:|
+|Animate|
+|Curse|
+|Curse of Transformation|
+|Infect|
+|Spirit Bottle|
 
 ### Floating Reset
 Some skills or abilities are listed as "Daily".  These skills and abilities are renewed between 4:00 and 6:00 PM.  If you are on a module between that timeframe you must attempt the reset immediately after a mod.  Daily skills and abilities require 10 minutes of concentration/Rest to refresh.
