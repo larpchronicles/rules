@@ -94,7 +94,7 @@ Some skills or abilities are listed as "Daily".  These skills and abilities are 
 
 ### How Does Combat Work
 
-Chronicles is a boffer combat Larp that focuses as much on roleplay and interaction between PCs and NPCs as physical combat.  The goal of combat is for all participants and observers to be safe.  We emphasize light combat.  A general rule is, if your swing is enough to hurt, someone, you are probably swinging too hard.  While accidents may happen, you are more likely to twist an ankle on uneven ground than hurt yourself during combat.  More details can be found in the Combat section of the rulebook.
+Chronicles is a boffer combat LARP that focuses as much on roleplay and interaction between PCs and NPCs as physical combat.  The goal of combat is for all participants and observers to be safe.  We emphasize light combat.  A general rule is, if your swing is enough to hurt, someone, you are probably swinging too hard.  While accidents may happen, you are more likely to twist an ankle on uneven ground than hurt yourself during combat.  More details can be found in the Combat section of the rulebook.
 
 ### Plot Members and Marshals
 
