@@ -15,7 +15,7 @@
 * Added Game Atmosphere Entry
 * Added Religion Entry
 * Added Politics Entry 
-* Added Identify Ability
+* Added Identify Ability and table
 * Added Floating Reset
 
 ### Combat
