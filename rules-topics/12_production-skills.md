@@ -40,12 +40,12 @@ Item production is the process by which characters are able to craft consumable 
 ## Raw Materials
 >Production materials are tiered I-V. Characters with a gathering skill will be rewarded one tier of raw material for each rank of gathering skill that they possess, per day of the event. Characters using the gathering tools from Tinkering will receive an additional raw material tier for each skill rank in gathering that they possess. Additional raw materials can be bargained for  from NPCs, other players, or by found in-game by requesting a mod.
 >
->Prior to an event starting, you can spend your raw materials, along with any raw material tags that you have, to craft in-game items. To do so, please submit a Production Request to plot at `plot@larpchronicles.com` by the Sunday prior to the next event.
+>Prior to an event starting, a character can spend their raw materials, along with any raw material tags that they have, to craft in-game items. To do so, please submit a Production Request to plot at `plot@larpchronicles.com` by the Sunday prior to the next event.
 > 
->During check-in, logistics will give you tags for any unspent raw materials as well as tags for the items that you produced. When you get your raw material tags, you can request to get them in any tier, as long as the total tiers are equal to the unspent tiers that you have left.
+>During check-in, logistics will give the player tags for any unspent raw materials as well as tags for the items that they produced. When they get their raw material tags, they can request to get them in any tier, as long as the total tiers are equal to the unspent tiers that they have left.
 
 ## Producing Items
->Production items are tiered from I-X (1-10). It takes as many raw materials tiers to make a single item equal to the production item's tier. But wait! Production items are tiered I-X and raw materials are only tiered I-V, and then X; how do I get VI-IX raw materials? The answer to that is to combine the I-V raw materials to equal the tier of the production item that you are making.
+>Production items are tiered from I-X (1-10). It takes as many raw materials tiers to make a single item equal to the production item's tier. But wait! Production items are tiered I-X and raw materials are only tiered I-V, and then X; how do I get VI-IX raw materials? The answer to that is to combine the I-V raw materials to equal the tier of the production item that the character is making.
 >
 >Examples:
 > 
@@ -91,13 +91,13 @@ Item production is the process by which characters are able to craft consumable 
 >
 >However, if Charlie presents his sword to Diane, who then applies a Sleep Coating to Charlie's sword, then Charlie (and only Charlie) may use that Sleep Coating.
 >
->Once applied, the coating will last until it is used or the wielder rests, whichever comes first.
+>Once applied, the coating will allow the user to swing a single instance of the items effect. If the swing misses, the coating is still consumed. This lasts until it is used or the wielder rests, whichever comes first.
 
 
 ## Workshops
 >Characters can purchase a Workshop from Logistics for 10 Credits. Workshops have a durability of 10, and their durability is decreased each time they are used for an event by a given character. Workshops can be used to make large-scale batches of an item, doubling the total output for a single character.
 >  
->Example: If you attempt to make 10 Heal Wounds potions, this would normally take you 30 tiers of alchemical materials. You could either spend 15 tiers, to make 5 potions which will get doubled by the Workshop, or spend the original 30 and get 20 potions instead.  The Workshop must have a durability removed by Logistics during check-in in order to receive any batch production. More than one character may use a workshop for a given event, but each person who uses it will cost one durability.
+>Example: If Smoke attempts to make 10 Heal Wounds potions, this would normally take him 30 tiers of alchemical materials. He could either spend 15 tiers, to make 5 potions which will get doubled by the Workshop, or spend the original 30 and get 20 potions instead.  The Workshop must have a durability removed by Logistics during check-in in order to receive any batch production. More than one character may use a workshop for a given event, but each person who uses it will cost one durability.
 
 
 ## Gathering Skill Products
@@ -156,7 +156,7 @@ Item production is the process by which characters are able to craft consumable 
 #### Smelling Salts
 >This will create a very strong smelling solution that will wake up characters that are under the effects of Sleep, or Waylay by roleplaying waving it beneath their nose for 10 seconds. Applying this alchemy requires the phrase "Smelling salts".
 #### Wounding Coating
->This coating can be applied to a weapon on a 5 count. Wounding Coating allows the Poisoner to swing for a single weapon blow, for +5 additional damage, and change their damage type to Poison. Ex: a character normally swings for 3, uses their Wounding Coating, and swings "8 Poison." This lasts until used or until you complete a long rest. A weapon can only have one coating applied at a time.
+>This coating can be applied to a weapon on a 5 count. Wounding Coating allows the Poisoner to swing for a single weapon blow, for +5 additional damage, and change their damage type to Poison. Ex: a character normally swings for 3, uses their Wounding Coating, and swings "8 Poison." This lasts until used or until the user completes a long rest. A weapon can only have one coating applied at a time.
 
 ### Tier II
 
@@ -167,7 +167,7 @@ Item production is the process by which characters are able to craft consumable 
 #### Poison Damage Dart
 >This is a small dart with a poison laced tip. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. This dart will instantly do 10 points of poison damage to the target. The attack call for this is "10 Poison".
 #### Sluggish Coating
->This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier "Poison Slow" at the end. Ex: "5 Poison Slow" A target afflicted by this may move at a pace no faster than a walk for 20 seconds.This lasts until used or until you complete a long rest. A weapon can only have one coating applied at a time.
+>This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier "Poison Slow" at the end. Ex: "5 Poison Slow" A target afflicted by this may move at a pace no faster than a walk for 20 seconds.This lasts until used or until the user completes a long rest. A weapon can only have one coating applied at a time.
 
 ### Tier III
 
@@ -204,7 +204,7 @@ Item production is the process by which characters are able to craft consumable 
 #### Blinding Toxin
    >This is a small globe with a light-creating toxin. The character will throw a packet to indicate throwing a globe at the target. This globe will explode in a flash, causing the target to suffer from blindness for the next 20 seconds. The attack call for this is "Toxin Blindness".
 #### Weakness Coating
-   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier "Poison Weakness" at the end. Ex: "5 Poison Weakness" A target affected by this has their total weapon damage reduced to half of their normal maximum for 20 seconds. This lasts until used or until you complete a long rest. A weapon can only have one coating applied at a time.
+   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier "Poison Weakness" at the end. Ex: "5 Poison Weakness" A target affected by this has their total weapon damage reduced to half of their normal maximum for 20 seconds. This lasts until used or until the user completes a long rest. A weapon can only have one coating applied at a time.
 
 ### Tier VI
 
@@ -213,7 +213,7 @@ Item production is the process by which characters are able to craft consumable 
 #### Heal Wounds Toxin
    >This is a small globe filled with a healing toxin. The character will throw a packet to indicate throwing a globe at the target. This globe explodes, covering the target with the toxins that immediately begin to heal their wounds. The call for this is "Toxin Heal Wounds 5"
 #### Drowsy Coating
-   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier "Poison Sleep" at the end. Ex: "5 Poison Sleep" This coating will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This lasts until used or until you complete a rest. A weapon can only have one coating applied at a time.
+   >This coating can be applied to a weapon on a 5 count. This coating allows the Poisoner to swing their normal weapon damage, with the carrier "Poison Sleep" at the end. Ex: "5 Poison Sleep" This coating will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This lasts until used or until the user completes a rest. A weapon can only have one coating applied at a time.
 
 
 ### Tier VII
@@ -508,9 +508,9 @@ Item production is the process by which characters are able to craft consumable 
 ### Tier X
 
 #### Glyph of Warding
-   >A Glyph of Warding wraps a structure with an intangible field that slows the movement of all who attempt to enter, and prevents projectiles or spells from passing through. Attempting to enter a Warded structure requires a 10 count, during which you are subject to spells or strikes from either side. Any effect that would halt your movement or interrupt your movement or count forces you to return to the originating side. A structure may only be under the effects of a single Glyph at any time, and a Glyph affects an entire structure, as such, they cannot be "nested" inside one another. A structure under the effects of a Glyph must have each door/entry obviously display a W for Warding. A Glyph lasts 5 days. This item is consumed on use. Glyphs are not effected by Dispel Magic.
+   >A Glyph of Warding wraps a structure with an intangible field that slows the movement of all who attempt to enter, and prevents projectiles or spells from passing through. Attempting to enter a Warded structure requires a 10 count, during which characters are subject to spells or strikes from either side. Any effect that would halt movement or interrupt movement or count forces the character to return to the originating side. A structure may only be under the effects of a single Glyph at any time, and a Glyph affects an entire structure, as such, they cannot be "nested" inside one another. A structure under the effects of a Glyph must have each door/entry obviously display a W for Warding. A Glyph lasts 5 days. This item is consumed on use. Glyphs are not effected by Dispel Magic.
 #### Glyph of Anchoring
-   >A structure under the effects of Glyph of Anchoring prevents all dimensional movement effects from occurring within the building. You may not teleport into or out of this structure, including by use of Rune of Recall, nor can you use any effects that would move you temporarily out of phase. If you attempt to teleport into the structure, your spell or effect ends immediately outside the structure. All subjects in building perpetually under the effect of Rift Lock. A structure may only be under the effects of a single Glyph at any time, and a Glyph affects an entire structure, as such, they cannot be "nested" inside one another. A structure under the effects of a Glyph must have each door/entry obviously display an A for Anchoring. A Glyph lasts 5 days. This item is consumed on use. Glyphs are not effected by Dispel Magic.
+   >A structure under the effects of Glyph of Anchoring prevents all dimensional movement effects from occurring within the building. Characters may not teleport into or out of this structure, including by use of Rune of Recall, nor can they use any effects that would move them temporarily out of phase. If they attempt to teleport into the structure, their spell or effect ends immediately outside the structure. All subjects in building perpetually under the effect of Rift Lock. A structure may only be under the effects of a single Glyph at any time, and a Glyph affects an entire structure, as such, they cannot be "nested" inside one another. A structure under the effects of a Glyph must have each door/entry obviously display an A for Anchoring. A Glyph lasts 5 days. This item is consumed on use. Glyphs are not effected by Dispel Magic.
 #### Rune of Erasure
    >This rune is specifically designed for the removal of Glyphs. Once activated, the user must spend 5 minutes concentrating on the Glyphed structure, while maintaining contact, at the end of which the Glyph is destroyed. User must announce "Erasing Glyph" at the beginning of the concentration, and "Glyph Down" at the end of the concentration. If the user's concentration is interrupted, or they lose contact with the structure, the Rune is consumed to no effect. This item is consumed on use.
 #### Break Enslavement Rune

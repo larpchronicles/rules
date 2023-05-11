@@ -129,8 +129,8 @@ The caster attempts to call forth a being from beyond. The being, if summoned, c
 
 ### Ritual Level VII
 
-#### Spirit Bottle
-The caster places the majority of their spirit within the confines of a specially prepared Crystal Bottle. This process helps protect the spirit from the strain of leaving their mortal coil. The next time the Caster reaches 0 body within 24 hours, their body immediately crumbles and their spirit returns to the Spirit Bottle to regenerate a body with no increase in Strain. If the Bottle has been destroyed at the time they attempt to regenerate, the spirit must seek resurrection as normal, including accruing Strain.
+#### ?
+?
 
 ### Ritual Level VIII
 

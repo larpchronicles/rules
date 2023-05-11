@@ -1,11 +1,88 @@
 # Changelog
-## 3.0.7
+## 3.0.7 [2023-05-11]
 
-### Metabolisms and Spirit Bottle
-Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
-
+---
 ### Agility Prof Proposal
 * Added proposal to introduce Proficiencies in Agility
+
+### Agility Skills
+* Warbow Training, incant updated.
+* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
+* Mimicry cannot be used on level 10 Spells.
+
+### Combat
+* Added clarification to how Carriers & Auras work
+* Added clarification and rules on how Immunities Work
+* Added clarification and rules on how Healed by [Effect] Work
+* Casting a Spell section updated to specify you need a Free Hand to cast.
+* Spellstrike updated to clarify you can touch-cast with it.
+* Voice Radius clarified that you do not need a spell packet to use.
+
+### Effects
+* DRAIN lasts 5 minutes.
+* ENSlAVEMENT specifies that the target is unaware.
+* Added note to GASEOUS
+* DOOM effect updated.
+* DEATH effect updated.
+* BERSERK now reflects it's actual function.
+* CONCENTRATION now properly noted to break on taking damage.
+* CONFINE now properly restricts skill usage.
+* SILENCE now properly restricts spellcasting.
+* STAGGER removed, old effect not in use.
+* TELEPORT BLOCK removed, redundant.
+* RIFT LOCK effect updated.
+* MINIMIZE updated, now works on effects longer than 20 seconds.
+* REVIVE updated, clarified to act as per Life.
+* Added proper response to what do I see with "unconscious" characters "An unresponsive body"
+* Moved Suicide from effect to Ability
+* Animate Visible? To No
+* Conscious Visible? To No
+* Dead Visible? To No
+* Silence Visible? To No
+* Weaken Visible? To Yes
+* Added Added “How to Diagnose” Table with below
+* ANIMATE - Identify
+* BERSERK - Visible
+* BLEED OUT - First Aid
+* BLIND - First Aid
+* CONCENTRATION - Visible
+* CONFINE - Visible
+* CONFUSE - Visible
+* CONSCIOUS - First Aid
+* CURSE - Identify
+* CURSE OF TRANSFORMATION - ** Identify
+* DEAD - First Aid
+* DISARM - Visible
+* DRAINED - First Aid
+* ENGULF - Visible
+* ENSLAVEMENT - Break Enslavement Rune
+* ENTANGLE - Visible
+* FEAR - Visible
+* INERT - First Aid
+* INVULNERABLE - Visible
+* KNEEL - Visible
+* PRESERVE - First Aid
+* RIFT LOCK - Visible
+* SILENCE - First Aid
+* SLEEP - First Aid
+* SLOW - Visible
+* STASIS - Visible
+* STOP THRUST - Visible
+* STUN - Visible
+* UNCONSCIOUS - First Aid
+* UNDEAD - Visible
+* WEAKEN - Visible
+* INFECT - Identify
+* REGENERATE - Visible
+* REVIVE - First Aid
+* SPIRIT BOTTLE – Identify
+* TRANSFORMS – Can not be Identified
+* Added note Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm be confirmed as a visible effect.
+* Moved Effect table before Status table so it was alphabetical.
+* Reformatted the How to diagnose table.
+* Added Spirit Bottled, Regenerating, Reviving, and Infected to Status table for consistency with how to diagnose. 
+* Removed Viability? form Ability, Effect, and Status Tables.
+* Removed Blink From Ability Table
 
 ### Introduction
 * Added Creating a Character
@@ -21,10 +98,11 @@ Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
 * Added Identify Ability and table
 * Added Floating Reset
 
-### Combat
-* Added clarification to how Carriers & Auras work
-* Added clarification and rules on how Immunities Work
-* Added clarification and rules on how Healed by [Effect] Work
+### Life & Death
+* Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
+* DEATH does not remove any effects unless effect specifies otherwise.
+* Codified that someone can dissipate and resurrect to refuse effects except for decimate. 
+* Codified when a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot. 
 
 ### Magic Skills
 * Dull Pain is now Enhanced Focus, effect updated.
@@ -34,40 +112,35 @@ Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
 * Halt is now Stop, incant updated.
 * Mastery abilities removed (Prior ruling, just cleaning)
 * All Fiendish Spells have had their incants updated.
+* Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
+* Create Undead now properly only works on a target once per DEAD status.
 
-### Stamina Skills
-* Weapon Proficiency can no longer be used on Ranged Weapons
-
-### Agility Skills
-* Warbow Training, incant updated.
-* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
-* Mimicry cannot be used on level 10 Spells.
+### Other Skills
+* First Aid description updated with some examples and clarification that you can ask for timers.
+* Added a table to show what skills need First Aid
+* A marshal determines tracking success (no bead draw) and that a PC cannot be tracked by another PC and removed the word terrestrial.
 
 ### Production Skills
 * Dispel Magic doesn't work on Glyphs
+* Weapon Coatings clarified to only give 1 swing.
 
-### Transform Rituals
-* Dexterity Armor Expert now gives +2 points for purchases of Dexterity Armor
+### Races
+* Specified Brood's Acid Secretion works as per the Destroy spell
 
-### Life & Death
-* DEATH does not remove any effects unless effect specifies otherwise.
+### Ritual Magic
+* Spirit Bottle removed
 
-### Status Effects
-* DRAIN lasts 5 minutes.
-* ENSlAVEMENT specifies that the target is unaware.
+### Stamina Skills
+* Weapon Proficiency can no longer be used on Ranged Weapons
+* Destroy ability updated
 
-## 3.x.x [2023-05-xx]
-
----
 ### Transform Rituals
 * Added indicator to Gaseous Form.
 * Formatting cleanup.
+* Spirit Bottle updated.
+* Dexterity Armor Expert now gives +2 points for purchases of Dexterity Armor
 
-### Effects
-* Added note to GASEOUS
-
-
-## 3.x.x [2023-04-18]
+## 3.0.6 [2023-04-18]
 
 ---
 ### Transform Rituals

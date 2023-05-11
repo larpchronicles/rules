@@ -37,7 +37,25 @@
 #### First Aid
 >This skill is purchased once. First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say "Performing First Aid". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply. Other in-game tools can lessen this time. The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.
 > 
->This skill also allows a character to touch a downed or seemingly disabled character and ask, "First Aid, what do I see?"  If the character is under an effect that is visible, the player may reply with the specific effect.
+>This skill also allows a character to touch a downed or seemingly disabled character and ask, "First Aid, what do I see?"  If the character is under an effect that can be diagnosed by first aid, or is a visible effect, the player may reply with the specific effect ("Are you Dead", "Are you Bleeding Out", "Are you reviving", etc).  The character may also ask how long a countdown remains on first aid or visible effects ("How long until you dissipate", "How long until you’re dead", etc).  The character cannot ask how long the timer was, just its current time left).  
+>
+>The following statuses can be determined with first aid.  First aid can determine the count down timer on statuses that are diagnosed with physical effects or first aid.
+>
+|First Aid|
+|:---:|
+|Bleed Out/Dying|
+|Blinded|
+|Conscious|
+|Dead|
+|Drained|
+|Inert|
+|Preserved|
+|Reviving|
+|Silence|
+|Sleep|
+|Unconscious|
+
+
 
 #### Escape Artist
 >This skill is purchased multiple times. Each time this skill is purchased, the character may escape from magical, or non-magical bindings by completing a 3 second count of escaping the bonds. "1 I escape binding...2 I escape binding…" This skill is refreshed each Rest.
@@ -54,26 +72,26 @@
 >This skill is purchased once. Cutpurse skill requires the use of Pick Pocket Tools from Tinkering. The player slips the tool onto the pouch, or pocket, and goes to notify a Game Marshal. The Game Marshal will approach the picked character and retrieve one random game item from the picked character. If there is nothing in the picked pouch, then the larceny has resulted in no reward. The transfer of goods from Game Marshal to thief takes place out of sight from other players.
 
 #### Tracking
->This skill is purchased once. Using this skill, the character can attempt to track a moving terrestrial target's tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number.
+>This skill is purchased once. Using this skill, the character can attempt to track a target's tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number.
 >
 >Tracking can be combined with the survivalist knowledge skill to gain greater bonuses and be considered master tracker.
 > 
-> For every in-game hundred yards that the track is followed, the tracker can make a draw from a draw bag. The base bag is 1 success, 1 lost track, 4 continue, and 1 bag reset. For each rank above the track value, the tracker gains a success bead. For every rank below the track rank, the tracker gains 2 continue and a lost track bead. The tracker continues to draw every 30 seconds until success, or lost track is pulled. The tracking player must provide their own bead draw bag with beads or the tracking automatically fails.
+>When a player asks to track something/someone a marshal will determine if the tracking succeeds and how much information a player gets.  PCs cannot track other PCs.
 
 ## Knowledge Skills
 
->Knowledge skills are a way through which characters can gather information about the world around them. These skills are gained automatically as you gain SP, choosing a Profession and Hobby, with your Profession being your "main focus" and scaling faster. Once you have capped a Profession or Hobby at Rank 10, you may select a new one immediately to begin scaling, and it starts with 1 rank. A Profession goes up in rank every 50 SP, and each Hobby goes up in rank every 100 SP. So you will unlock your second Profession at 450 SP, and both your Second Hobby and Third Profession at 900 SP, and so on. Each knowledge skill represents a specific area of expertise that a character can improve upon. These skills might be utilized when interacting with Plot to help you discover more information about what is happening during a particular scene, or Plot may choose to ask for Knowledge skills leading into an adventure to help flesh out what the characters might have discovered.
+>Knowledge skills are a way through which characters can gather information about the world around them. These skills are gained automatically as a character gains SP, choosing a Profession and Hobby, with their Profession being your "main focus" and scaling faster. Once they have capped a Profession or Hobby at Rank 10, they may select a new one immediately to begin scaling, and it starts with 1 rank. A Profession goes up in rank every 50 SP, and each Hobby goes up in rank every 100 SP. So they will unlock their second Profession at 450 SP, and both theirr Second Hobby and Third Profession at 900 SP, and so on. Each knowledge skill represents a specific area of expertise that a character can improve upon. These skills might be utilized when interacting with Plot to help tje, discover more information about what is happening during a particular scene, or Plot may choose to ask for Knowledge skills leading into an adventure to help flesh out what the characters might have discovered.
 >
->Generally, any piece of information that you attempt to discover will be assigned a secret "Difficulty Class" by the Plot member, on a scaling slide of 1 through 10. A Difficulty Class of 1 would represent fairly common knowledge, something that most anyone who cares about the subject would know. A 10 on the other hand would represent particularly unusual or rare information, something that only a true expert in the field would have discovered. If you have enough ranks in the chosen skill to meet the difficulty class, you may learn some useful information. Having less than the set Difficulty may result in incomplete or slightly misleading information, while having more ranks than the required Difficulty may result in getting more detailed or extra information.
+>Generally, any piece of information that a player will attempt to discover will be assigned a secret "Difficulty Class" by the Plot member, on a scaling slide of 1 through 10. A Difficulty Class of 1 would represent fairly common knowledge, something that most anyone who cares about the subject would know. A 10 on the other hand would represent particularly unusual or rare information, something that only a true expert in the field would have discovered. If they have enough ranks in the chosen skill to meet the difficulty class, they may learn some useful information. Having less than the set Difficulty may result in incomplete or slightly misleading information, while having more ranks than the required Difficulty may result in getting more detailed or extra information.
 
 #### Arcane Knowledge
->Covers Arcane Magic in all its forms and uses, constructs and celestial events. Higher ranks will provide greater insight to arcane questions, or provide more detailed information on the target of your inquiry.
+>Covers Arcane Magic in all its forms and uses, constructs and celestial events. Higher ranks will provide greater insight to arcane questions, or provide more detailed information on the target of an inquiry.
 
 #### Criminal Knowledge
->Covers laws (their avoidance and subversion), various criminal organizations and their structure, cons, and illegal activity. Higher ranks will point you to contacts within some of these organizations, or reveal information you may regret knowing.
+>Covers laws (their avoidance and subversion), various criminal organizations and their structure, cons, and illegal activity. Higher ranks will point one to contacts within some of these organizations, or reveal information some may regret knowing.
 
 #### Economic Knowledge
->Covers trade routes, values of goods, and merchants of specific items. Higher ranks will reveal more hidden information, or let you sniff out particularly good deals.
+>Covers trade routes, values of goods, and merchants of specific items. Higher ranks will reveal more hidden information, or let someone sniff out particularly good deals.
 
 #### Geographical Knowledge
 >Covers landmarks, terrain, maps, roads, approximate distances and navigation. Higher ranks will allow for more detailed information or better navigation.
@@ -82,13 +100,13 @@
 >Covers recent to far flung historical events. Higher ranks will allow for knowledge of the distant past, or more accurate recollections of events.
 
 #### Nature Knowledge
->Covers Nature Magic in all its forms and uses, beasts, plants and weather patterns. Higher ranks will provide greater insight to nature questions, or provide more detailed information on the target of your inquiry.
+>Covers Nature Magic in all its forms and uses, beasts, plants and weather patterns. Higher ranks will provide greater insight to nature questions, or provide more detailed information on the target of an inquiry.
 
 #### Political Knowledge
->Covers laws (their enforcement and creation), local and foreign political hierarchy, alliances and hostilities, territories and holdings. Higher ranks will reveal well-hidden information, or let you find the truth behind malicious rumors.
+>Covers laws (their enforcement and creation), local and foreign political hierarchy, alliances and hostilities, territories and holdings. Higher ranks will reveal well-hidden information, or let one find the truth behind malicious rumors.
 
 #### Spirit Knowledge
->Covers Spirit Magic in all its forms and uses, undead and nether spirits. Higher ranks will provide greater insight to spirit questions, or provide more detailed information on the target of your inquiry.
+>Covers Spirit Magic in all its forms and uses, undead and nether spirits. Higher ranks will provide greater insight to spirit questions, or provide more detailed information on the target of an inquiry.
 
 #### Survivalist Knowledge
 >Covers skills needed for living in the wild, such as hunting, fishing, and identifying plants and animals.  A survivalist may be able to recognize the mark left by a creature but to truly track them they will need the tracking skill.
