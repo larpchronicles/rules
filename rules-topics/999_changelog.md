@@ -41,6 +41,7 @@ Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
 ### Agility Skills
 * Warbow Training, incant updated.
 * New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
+* Mimicry cannot be used on level 10 Spells.
 
 ### Production Skills
 * Dispel Magic doesn't work on Glyphs
