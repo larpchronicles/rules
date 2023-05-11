@@ -49,33 +49,41 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 ---
 ### Multi-Tier
 
-#### Magic Ability
-| Name: | Magic Ability|
+#### Magic &lt;Effect>
+| Name: | Magic &lt;Effect>|
 |---|---|
 | Type: | Active |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a packet-delivered magic ability, as dictated by the ability. |
+| Description: | User gains 1/Rest use of a packet-delivered magic effect, as dictated by the monstrous ability. |
 
-#### Physical Ability
-| Name: | Physical Ability|
+#### Physical &lt;Effect>
+| Name: | Physical &lt;Effect>|
 |---|---|
 | Type: | Active  |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a packet-delivered physical ability, as dictated by the ability. |
+| Description: | User gains 1/Rest use of a packet-delivered physical effect, as dictated by the monstrous ability. |
 
-#### Physical Strike
-| Name: | Physical Strike|
+#### Physical Strike &lt;Effect>
+| Name: | Physical Strike &lt;Effect>|
 |---|---|
 | Type: | Active  |
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a physical strike. Strike is dictated by the ability. |
+| Description: | User gains 1/Rest use of a physical strike, as dictated by the monstrous ability. |
 
 #### Spellstrike 
 | Name: | Spellstrike|
 |---|---|
 | Type: | Active|
 | Cost: | Variable |
-| Description: | User gains 1/Rest use of a spellstrike. Spell is dictated by the ability. |
+| Description: | User gains 1/Rest use of a spellstrike, as dictated by the monstrous ability. |
+
+
+#### Toxin &lt;Effect>
+| Name: | Toxin &lt;Effect>|
+|---|---|
+| Type: | Active|
+| Cost: | Variable |
+| Description: | User gains 1/Rest use of a packet-delivered toxin effect, as dictated by the monstrous ability. |
 
 
 ### Basic - Tier I
@@ -153,7 +161,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Type: | Active|
 | Cost: | 3 + 5|
 | Tier: | 3 |
-| Description: | User may Resist Physical once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
+| Description: | User may Resist Toxin once per rest.  Use of this defensive falls under the same rules as all defensives and must be prepared ahead of time and uses a defensive slot. |
 
 #### Resist &lt;Effect>
 | Name: | Resist &lt;Effect>|
@@ -165,6 +173,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 
 
 ### Expert - Tier V
+
 #### Ambidexterity
 | Name: | Ambidexterity |
 |---|---|
@@ -176,10 +185,10 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 #### Dexterity Armor Expert
 | Name: | Dexterity Armor Expert|
 |---|---|
-| Type: | Active|
-| Cost: | 5 + 10|
+| Type: | Passive|
+| Cost: | 15|
 | Tier: | 5 |
-| Description: | Per Armor Training.  User gains 5 additional Armor.  User is unable to benefit from any other source of armor.|
+| Description: | Purchases of Dexterity Armor grant +2 extra Dexterity Armor points (+7 instead of +5)
 
 #### &lt;Elemental> Striker
 | Name: | &lt;Elemental> Striker |
@@ -211,10 +220,8 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Type: | Active|
 | Cost: | 15 (Single Purchase)|
 | Tier: | 5 |
-| Description: | The character places the majority of their spirit within the confines of a specially prepared Spirit Bottle. This process helps protect the spirit from the strain of leaving their mortal coil. The next time the character reaches 0 body within 24 hours, their body immediately crumbles and their spirit returns to the Spirit Bottle to regenerate a body with no increase in Strain. If the Bottle has been destroyed at the time they attempt to regenerate, the spirit must seek resurrection as normal, including accruing Strain. This is not fiendish in nature and the user is not considered undead, unless already undead. Incant for this ability is "By my will, create a phylactery for my spirit." This is limited to one purchase, usable once per rest. If the Spirit Bottle runs out of charges, the Ritual must be recast to restore it. Spirit Bottles may be carried by their owner. The Rep must be approved by plot and the description must be on the character sheet.|
+| Description: | The character places the majority of their spirit within the confines of a specially prepared Spirit Bottle. This process helps protect the spirit from the strain of leaving their mortal coil. The next time the character reaches 0 body within 24 hours, their body immediately crumbles and their spirit returns to the Spirit Bottle to regenerate a body with no increase in Strain. If the Bottle has been destroyed at the time they attempt to regenerate, the spirit must seek resurrection as normal, including accruing Strain. The user is not considered undead, unless already undead. Incant for this ability is "By my will, create a phylactery for my spirit." This is limited to one purchase, usable once per rest. If the Spirit Bottle runs out of charges, the eitual must be recast to restore it. Spirit Bottles may be carried by their owner. The rep must be approved by plot and the description must be on the character sheet.|
 
-#### Spirit Bottle
-The caster places the majority of their spirit within the confines of a specially prepared Crystal Bottle. This process helps protect the spirit from the strain of leaving their mortal coil. The next time the Caster reaches 0 body within 24 hours, their body immediately crumbles and their spirit returns to the Spirit Bottle to regenerate a body with no increase in Strain. If the Bottle has been destroyed at the time they attempt to regenerate, the spirit must seek resurrection as normal, including accruing Strain.
 ### Master - Tier VIII
 
 #### Bane the Dead
@@ -241,8 +248,8 @@ The caster places the majority of their spirit within the confines of a speciall
 | Tier: | 8 |
 | Description: | Allows the user to destroy specific effects or products of ritual magic.  <i>Pending list.  Please see Plot to use this ability.</i>|
 
-#### Dodge
-| Name: | Dodge |
+#### Dodge Expert
+| Name: | Dodge Expert |
 |---|---|
 | Type: | Passive |
 | Cost: | 20 |
@@ -273,6 +280,14 @@ The caster places the majority of their spirit within the confines of a speciall
 | Tier: | 8 |
 | Description: | When the User would be subject to damage by designated element, they are instead healed. User must announce "Appears to heal me."|
 
+#### Reduced Damage
+| Name: | Reduced Damage From &lt;Type>|
+|---|---|
+| Type: | Passive|
+| Cost: | 20 (Single Purchase)|
+| Description: | User only takes half damage from a specific damage type (Magic, Normal, Silver, etc) or flavor (Flame, Frost, Shock, Stone), as dictated by the monstrous ability.|
+
+
 #### Slay Expert
 | Name: | Slay Expert |
 |---|---|
@@ -299,8 +314,8 @@ The caster places the majority of their spirit within the confines of a speciall
 | Tier: | 9 |
 | Description: | User is able to deliver a specific effect with their weapons or unarmed claws/fists.  Effect type is dictated by the transform.|
 
-#### Immunity to &lt;Damage Type>
-| Name: | Immunity to &lt;Damage Type>|
+#### Immunity to &lt;Type>
+| Name: | Immunity to &lt;Type>|
 |---|---|
 | Type: | Passive |
 | Cost: |30 (Single Purchase)|
@@ -349,13 +364,13 @@ The caster places the majority of their spirit within the confines of a speciall
 
 ### Mythical - Tier X
 
-#### Aether Spell
-| Name: | Aether Spell|
+#### Aether &lt;Effect>
+| Name: | Aether &lt;Effect>|
 |---|---|
 | Type: | Active |
 | Cost: | 20 + 20|
 | Tier: | 10 |
-| Description: | User can deliver a single spell as Aether &lt;Spell Name: >. This cannot be stacked with Voice Radius.|
+| Description: | User can deliver a single effect as Aether &lt;Effect>. This cannot be stacked with Voice Radius.|
 
 #### &lt;Effect> Carrier
 | Name: |&lt;Effect> Carrier|

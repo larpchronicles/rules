@@ -62,6 +62,56 @@ Welcome to Chronicles. Whether you've been LARPing for years, or have never seen
 tabard in your life, Chronicles welcomes you. For the newer players, here are a few tips
 to get you started
 
+### Creating a Character
+
+All new players start with 100 Skill Points, 10 body, and 5 armor.  The 5 armor is considered a free bonus as long as the player is wearing garb or a costume.  Skill Points are used to purchase skills like the ability to swing a sword or cast a spell.  You can use the Character Calculator to design your character.  
+* All characters earn 3 Skill Points per day of an event.
+* Characters under 200 Build gain Skill Points at 2x the rate.
+* All characters under 200 build can be recreated or rewritten without requiring a Spirit Forge.  If done during an event, a member of staff or plot must sign the new or modified character sheet.
+* You can accrue up to 1 extra Skill Point per day by working a NPC shift (See the section on Goblin Points for more details).
+
+If you have a character in another LARP system, please see our Transfer Policy if you want to transfer your character to Chronicles.
+
+### Secondary Characters 
+Once you hit 200 Skill Points, you can create a secondary character.  This character will always have 75 percent of your primary character’s skill points.  If you play a secondary character, then all gained SP will be applied to the primary character.  Strain is tracked separately on each character.
+
+If you wish to create an additional character beyond a secondary character you can.  All characters beyond the second character will have 50 percent of the primary character’s Skill Points.  All gained SP will be applied to the primary character.  Strain is tracked separately on each character.
+
+### Identify Ability
+Allows the character to Identify an item, a group of items, or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
+
+Status that require Identify:
+|Identify Needed|
+|:---:|
+|Animate|
+|Curse|
+|Curse of Transformation|
+|Infect|
+|Spirit Bottle|
+
+### Floating Reset
+Some skills or abilities are listed as "Daily".  These skills and abilities are renewed between 4:00 PM and 6:00 PM.  If you are on a module between that time frame, you must attempt the reset immediately after the mod.  Daily skills and abilities require 10 minutes of concentration/rest to refresh.
+
+### How Does Combat Work
+
+Chronicles is a boffer combat LARP that focuses as much on roleplay and interaction between PCs and NPCs as physical combat.  The goal of combat is for all participants and observers to be safe.  We emphasize light combat.  A general rule is, if your swing is enough to hurt, someone, you are probably swinging too hard.  While accidents may happen, you are more likely to twist an ankle on uneven ground than hurt yourself during combat.  More details can be found in the Combat section of the rulebook.
+
+### Plot Members and Marshals
+
+Plot Members and Marshals are officials of Chronicles.  They will give rulings, run a mod, observe a ritual, and other OOG tasks that are needed throughout a market fair.  If you have a question on a rule or how something works you will need to ask the appropriate marshal.  
+
+Plot Member – A member of the group of people who work together to keep the game moving, adjudicate rules, run mods and many other roles essential to the game.  In table tops terms they are essentially the game master or dungeon master.
+
+Mod Marshal – A person who runs a mod for a group for PCs.  They will set the stage giving descriptions, locations, etc. Should any rule questions or disputes come up, the Mod Marshal has final say.  During a mod a Marshal's rule is final, if you feel they were incorrect it can be adjudicated later when it does not disrupt the flow of the game.
+
+Ritual Marshal – A person who oversees a PC perform ritual magic.  They will ensure all factors of the ritual are performed by the PCs and determine if the ritual is a success or failure.  More complex rituals will require a full plot member.
+
+Rogue Marshal – If you wish to steal from someone cabin you must have a Rogue Marshal present.  This individual is to ensure that personal property is not taken and that the would be thief follows all rules of the game (lockpicking chests, recognizing circles of power, etc.)  Entering a cabin with intent to steal without a Rogue Marshal can have severe consequences including referring the person to the local police for theft or breaking and entering.
+
+### How to Become A Ritual Marshal
+
+To become a Ritual Marshal you need to volunteer to the Head of Plot.  They will ensure that you know the ritual rules, have you marshal some rituals with a plot member and once you have proven yourself you can become a ritual marshal. 
+
 ### What should I bring to my first events?
 Chronicles often has spare equipment to loan to newer players. That being said, beyond LARP-specific items, there are several things that you can bring.
 * Plain Clothes
@@ -108,3 +158,18 @@ The exact physical locations of these vary by camp site, although they are usual
 Don't be afraid to ask questions. Even in the middle of combat or intense role playing, don't be afraid to ask what something does or means. There are also many people with a decent grasp on the rules who can answer questions. In game, asking questions is just as useful, although may not always get you answers.
 
 It's just a game. We're all here to have fun. Try not to let any in game interactions affect your opinions of a person. Many people act in ways that they never would in real life. That's the joy of the event. It's not personal, they don't hate you, just your character. However, if you believe anything negative is being done out of game, or feel yourself getting frustrated, don't hesitate to talk to staff, or go out of game for a while to collect yourself.
+
+### Game Atmosphere
+
+Chronicles science, medicine, and technology is roughly in the 14th century (middle ages).  For roleplay, players are encouraged to act, speak, and behave as if they exist in that time frame.  We do of course allow players to use modern medicine but if possible, it should be done away from a large crowd to promote the in game atmosphere.
+
+**Religion**
+
+There are beings known as gods in Chronicles, but how your character views or engages with them is up to the individual player.  No character is required to worship a god.
+
+We strive to be inclusive and respectful at Chronicles and do not want anyone to be in the situation of giving offense to others.  Players are discouraged from using real world religious symbols or iconography with their costuming, garb, or props.  Similarly, in roleplay, players should also avoid use of or invocations of gods, demons, or other recognizable figures of real world religious or spiritual importance.
+
+**Politics** 
+
+In game politics are part of life. Whether you wish to serve the king loyally, ignore his command, or attempt a rebellion is up to you, just know that there may be in game consequences for your actions. As with religion it is best to not use any overly OOG political symbols in costuming since politics can be a divisive and fiery topic. It is also best to not talk about OOG politics while IG.
+

@@ -91,6 +91,17 @@ This is not necessarily true with auras (ie, damage types). So, if a player has 
 ---
 Using any skill, ability, or effect that grants a Resist, Reflect, or Dodge requires a Defense Slot to be prepared.  All characters have one Defense Slot by default and may purchase additional slots with Skill Points.  Each Defense Slot a character may prepare and consider active.  A character may only have as many Active Defenses as they have Defense Slots.  Once prepared, any Active Defense may be used to defend against the appropriate type of attack, allowing them to call Resist, Reflect, or Dodge respectively.
 
+### Healed By [Effect]
+
+---
+When you have an ability or active effect that makes you take Healed By an effect (For
+example, Shock, Stone, Flame, or Frost).  Creatures with this ability cannot be healed by weapon attacks (except Spellstrikes), but can be healed by packet attacks. 
+
+Examples:  
+You are healed by Frost.
+* If you are hit with a spell "I conjure a Frost Bolt 10." Or "Spellstrike I conjure a Frost Bolt 10" you would say “Got it, appears to heal me” and restore up to 10 body (if you are below your maximum body).
+* If you are hit with an "Aether Frost Bolt 10" you would call “Got it, appears to heal me”.
+* If you are hit with a sword and someone says “10 Magic Frost” the call would be “Got it” and you would take the damage as normally.
 
 ## Headbands:  Non-Combatants & Pages
 
@@ -98,6 +109,21 @@ Using any skill, ability, or effect that grants a Resist, Reflect, or Dodge requ
 People wearing orange headbands are referred to as Pages.  Pages are people that are unable to enter combat.  They may be children or adults, although any child under age 14 must be a Page.
 
 **A player may not ever physically strike a Page.**  Pages may not use combat skills, weapons, or throw packets.  If they engage in combat with a page, they may point their weapon or packet and say, "Page, I kill you."  They are treated as if they have 1 body.
+
+### Immunities
+
+---
+When you have an inherent ability or active effect that makes you explicitly immune to an effect you call "No Effect" if you are hit by a spell or weapon carrier using that effect.  If you are immune to part of the weapon damage call then you are immune to all of it.  The exception to this would Stasis or other abilities that explicitly state the things to which you become immune (and that call should always be, "No effect; Visibly in Stasis").
+
+Examples:
+* If you have Immune to Toxin, and you are hit by a Sleep dart, you would call "No Effect".
+* If you are Immune to Curse and got hit with a weapon swinging 10 Magic Curse, you would call "No Effect".
+* If you are Immune to Shock and got hit with an "Aether Shock Bolt 10" you would call "No Effect".
+* If you are not immune to Stun, and you get hit by a Stun spell, you would call "Got it". If you are then hit by another Stun effect, you would call "Got it" again.
+* If you are a PC with no non-standard effects, are not dead, and get hit by a Create Undead, you would call "Got it".
+* If you do not have Immune to Life on your stat card, are alive, and get hit by a Life spell, you would call "Got it".
+* If you are dead and get hit by a Death spell, you call "Got it".
+* If you are Dead, and you get hit by a Heal Wounds, Confine, etc., you would call "Got it"
 
 ## Killing Blows
 

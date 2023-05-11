@@ -1,57 +1,24 @@
 # Changelog
-## 3.0.x [2023-05-xx]
+## 3.0.7 [2023-05-11]
 
-### Races
-* Specified Brood's Acid Secretion works as per the Destroy spell
-
-### Combat
-* Added clarification to how Carriers & Auras work
-* Casting a Spell section updated to specify you need a Free Hand to cast.
-* Spellstrike updated to clarify you can touch-cast with it.
-* Voice Radius clarified that you do not need a spell packet to use.
-
-### Stamina Skills
-* Weapon Proficiency can no longer be used on Ranged Weapons
-* Destroy ability updated
+---
+### Agility Prof Proposal
+* Added proposal to introduce Proficiencies in Agility
 
 ### Agility Skills
 * Warbow Training, incant updated.
 * New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
+* Mimicry cannot be used on level 10 Spells.
 
-### Magic Skills
-* Dull Pain is now Enhanced Focus, effect updated.
-* Preserve Corpse is now Level 2
-* Field Rez does not provide a Renew
-* Dispel Magic doesn't work on Glyphs
-* Halt is now Stop, incant updated.
-* Mastery abilities removed (Prior ruling, just cleaning)
-* All Fiendish Spells have had their incants updated.
-* Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
-* Create Undead now properly only works on a target once per DEAD status.
+### Combat
+* Added clarification to how Carriers & Auras work
+* Added clarification and rules on how Immunities Work
+* Added clarification and rules on how Healed by [Effect] Work
+* Casting a Spell section updated to specify you need a Free Hand to cast.
+* Spellstrike updated to clarify you can touch-cast with it.
+* Voice Radius clarified that you do not need a spell packet to use.
 
-### Other Skills Skills
-* First Aid description updated with some examples and clarification that you can ask for timers.
-* Added a table to show what skills need First Aid
-* A marshal determines tracking success (no bead draw) and that a PC cannot be tracked by another PC and removed the word terrestrial.
-
-### Production Skills
-* Dispel Magic doesn't work on Glyphs
-* Weapon Coatings clarified to only give 1 swing.
-
-### Ritual Magic
-* Spirit Bottle removed
-
-### Transform Rituals
-* Added indicator to Gaseous Form.
-* Formatting cleanup.
-* Spirit Bottle updated.
-
-### Life & Death
-* DEATH does not remove any effects unless effect specifies otherwise.
-* Codified that someone can dissipate and resurrect to refuse effects except for decimate. 
-* Codified when a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot. 
-
-### Status Effects
+### Effects
 * DRAIN lasts 5 minutes.
 * ENSlAVEMENT specifies that the target is unaware.
 * Added note to GASEOUS
@@ -117,17 +84,72 @@
 * Removed Viability? form Ability, Effect, and Status Tables.
 * Removed Blink From Ability Table
 
+### Introduction
+* Added Creating a Character
+* Added Secondary Characters 
+* Added Skill Points accrued per day
+* Added Skill Point bonus from NPCing
+* Added Section on Plot Members and Marshals
+* Added How to Become A Ritual Marshal
+* Added How Does Combat Work
+* Added Game Atmosphere Entry
+* Added Religion Entry
+* Added Politics Entry 
+* Added Identify Ability and table
+* Added Floating Reset
 
+### Life & Death
+* Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
+* DEATH does not remove any effects unless effect specifies otherwise.
+* Codified that someone can dissipate and resurrect to refuse effects except for decimate. 
+* Codified when a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot. 
 
+### Magic Skills
+* Dull Pain is now Enhanced Focus, effect updated.
+* Preserve Corpse is now Level 2
+* Field Rez does not provide a Renew
+* Dispel Magic doesn't work on Glyphs
+* Halt is now Stop, incant updated.
+* Mastery abilities removed (Prior ruling, just cleaning)
+* All Fiendish Spells have had their incants updated.
+* Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
+* Create Undead now properly only works on a target once per DEAD status.
 
+### Other Skills
+* First Aid description updated with some examples and clarification that you can ask for timers.
+* Added a table to show what skills need First Aid
+* A marshal determines tracking success (no bead draw) and that a PC cannot be tracked by another PC and removed the word terrestrial.
 
+### Production Skills
+* Dispel Magic doesn't work on Glyphs
+* Weapon Coatings clarified to only give 1 swing.
 
+### Races
+* Specified Brood's Acid Secretion works as per the Destroy spell
+
+### Ritual Magic
+* Spirit Bottle removed
+
+### Stamina Skills
+* Weapon Proficiency can no longer be used on Ranged Weapons
+* Destroy ability updated
+
+### Transform Rituals
+* Added indicator to Gaseous Form.
+* Formatting cleanup.
+* Spirit Bottle updated.
+* Dexterity Armor Expert now gives +2 points for purchases of Dexterity Armor
+
+## 3.0.6 [2023-04-18]
 
 ---
-
-
-### Effects
-
+### Transform Rituals
+* Corrected ability names for Dodge Expert, Magic &lt;Effect>, Physical &lt;Effect>, Physical Strike &lt;Effect>, Aether &lt;Effect>, Immunity to &lt;Type>
+* Added missing abilities:  Toxin &lt;Effect>, Reduced Damage from &lt;Type>
+* Corrected description for Resist Toxin to reference Toxin, not Physical.
+* Updated descriptions for Magic &lt;Effect>, Physical &lt;Effect>, Physical Strike &lt;Effect>, and Spellstrike &lt;Effect>.
+* Fixed double capital in Slay description.
+* Replaced smartquotes.
 
 ## 3.0.5 [2023-03-26]
 
