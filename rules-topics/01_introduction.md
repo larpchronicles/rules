@@ -90,14 +90,13 @@ Status that require Identify:
 |Spirit Bottle|
 
 ### Floating Reset
-Some skills or abilities are listed as "Daily".  These skills and abilities are renewed between 4:00 PM and 6:00 PM.  If a player is on a module (an event during game run by plot) between that time frame, they must attempt the reset immediately after it ends.  Daily skills and abilities require 10 minutes of concentration/rest to refresh.
+Some skills or abilities are listed as "Daily".  These skills and abilities are renewed between 4:00 PM and 6:00 PM.  If a player is on a module (an event during game run by plot) between that time frame, they must attempt the reset immediately after it ends.  Daily skills and abilities require 10 minutes of concentration/rest to refresh.  <i>Concentration consists of being silent, not using skills or items, not running, and typically maintaining physical contact with something. Rest refers to a period of time in which a player does not use abilities or run.  This is done to reset expended abilities or skills.  More information about rest can be found in the Resting section.</i>
 
 ### How Does Combat Work
 Chronicles is a boffer combat LARP that focuses as much on roleplay and interaction between PCs and NPCs as physical combat.  The goal of combat is for all participants and observers to be safe.  We emphasize light combat.  A general rule is, if a player's swing is enough to hurt, someone, they are probably swinging too hard.  While accidents may happen, someone is more likely to twist an ankle on uneven ground than hurt themselves during combat.  More details can be found in the Combat section of the rulebook.
 
 ### Plot Members and Marshals
-Plot members and marshals are officials of Chronicles.  They will give rulings, run a mod, observe a ritual, and other out of game (OOG) tasks that are needed throughout a market faire.  If a player has a question on a rule or how something works, they will need to ask the appropriate marshal.  
-
+Plot members and marshals are part of the staff of Chronicles.  The plot team serves the same function as a game master does in a tabletop role playing game (RPG).  During an event, the plot team works from the building identified as NPC Camp or Logistics. They will give rulings, run a mod, observe a ritual, and other out of game (OOG) tasks that are needed throughout a market faire.  If a player has a question on a rule or how something works, they will need to ask the appropriate marshal.  
 Plot Member – A member of the group of people who work together to keep the game moving, adjudicate rules, run mods, and many other roles essential to the game.  In tabletop terms, they are essentially the game master or dungeon master.
 
 Mod Marshal – A person who runs a mod for a group for PCs.  They will set the stage giving descriptions, locations, etc. Should any rule questions or disputes come up, the marshal has final say.  If a player believes the marshal made an incorrect call, they may bring it up with the marshal or a member of plot after the mod, when it does not disrupt the flow of the game.
