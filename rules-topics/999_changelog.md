@@ -3,6 +3,7 @@
 
 ### Combat
 * Added clarification to how Carriers & Auras work
+* Clarified Damage Abilities cannot be carriers.
 
 ### Magic Skills
 * Dull Pain is now Enhanced Focus, effect updated.
@@ -12,13 +13,16 @@
 * Halt is now Stop, incant updated.
 * Mastery abilities removed (Prior ruling, just cleaning)
 * All Fiendish Spells have had their incants updated.
+* Entrap Spirit clarified to not give more than 1 gem per target.
 
 ### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons
+* Clarified Memorization
 
 ### Agility Skills
 * Warbow Training, incant updated.
 * New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
+* Clarified Memorization
 
 ### Production Skills
 * Production Overhaul: Production has had a significant update.

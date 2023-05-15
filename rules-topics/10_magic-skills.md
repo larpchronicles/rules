@@ -15,7 +15,7 @@ This skill allows a character to be initiated into a school of magic, allowing t
 When purchased, the character must specify which school they have mastery over. This skill allows that character to use their Mana Points to cast Level 10 spells of the chosen school. This skill may be purchased only once.
 
 ### Mana Attunement
-In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool.
+In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool. Casting a spell will remove a number of Mana Points from their pool equal to the spells level.
 
 At each Rest (and before first coming into game), the character may distribute their Mana Points across each school for which they possess the School Initiation skill. Their allocation can only be changed once their Rest is completed. Once distributed, the character may cast the spells in that school on the fly, deducting the Mana Point cost of the spell from their points allocated to that school.
 
@@ -69,7 +69,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 5  |
 | **Duration**  | Rest |
 | **Incant**  | "By my will, I entrap your spirit."  |
-| **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. |
+| **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it. |
 
 ### Universal Level 8
 | **Spell** | **Reflect**|
