@@ -24,6 +24,7 @@
 * New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
 
 ### Production Skills
+* Production Overhaul: Production has had a significant update.
 * Dispel Magic doesn't work on Glyphs
 
 ### Life & Death
