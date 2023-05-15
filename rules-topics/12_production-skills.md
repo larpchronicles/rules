@@ -108,8 +108,11 @@ Item production is the process by which characters are able to craft consumable 
 > Toxin Darts function similarly to their Ingestible Counterparts, except they have been processed into an aerosolized gas instead of a powder that must be consumed to take effect. When using a Toxin Dart, the user must throw a packet while declaring "Toxin (Effect)" of the type indicated on the item tag. This cannot be blocked by weapons or shields, much like a Spell Packet.
 > 
 ### Traps
-> Insert Trap Rules Here
-
+> Traps are pre-placed objects designed to deliver an effect to a small area when their trigger is set off. Trap Reps must be a minimum of 12"x6"x6", to a maximum of 36" in any dimension, and all Trap designs must be approved by a Rules Marshal prior to use. 
+> 
+> Setting a trap requires a minimum of 1 minute, but the trap is not active until the trigger has been fully set.
+> 
+> All traps must have a real, physical trigger that is attached to the trap. Setting off the trap must produce a noise or light that is detectable by an impartial observer. It must always be possible to see how to disarm a trap, although it may require light and a small mirror. 
 
 ## Workshops
 >Characters can purchase a Workshop from Logistics for 10 Credits. Workshops have a durability of 10, and their durability is decreased each time they are used for an event by a given character. Workshops can be used to make large-scale batches of an item, doubling the total output for a single character.
@@ -355,7 +358,7 @@ Item production is the process by which characters are able to craft consumable 
 #### Glowing Wand Stone 
    >This creates a softly glowing stone that can be inset into the end of a carved wand. This stone should not emit more light than a typical physical representation for a Glowing Light spell. This item is consumed on use. Acts as per the Glowing Light Spell.
 #### Rune of Trap Compression
->This rune is designed to help a would-be trap user to conceal their traps more effectively. To use this rune, the user must declare "Activate Trap Compression", and attach this tag to the Trap, along with the regular Trap tag. This effect allows the rep to be half the normal minimum size requirement. This item is consumed on use.
+>This rune is designed to help a would-be trap user to conceal their traps more effectively. To use this rune, the user must declare "Activate Trap Compression", and attach this tag to the Trap, along with the regular Trap tag. This effect allows the rep to be half the normal minimum size requirement, shrinking the minimum to 6"x3"x3". This item is consumed on use.
 #### Wand of Magic
 >These Wands are specially crafted items that empower the user to more efficiently cast a spell, allowing them to repeat the same spell without expending additional mana. At creation, a Wand of Magic is attuned to a specific spell of up to 8th level. The Tier of this recipe and materials required, are equal to the level of the spell Immediately after casting a spell from their Mana Pool, the user may activate a Wand of the same spell by declaring "Activate <Spell Incant>" and casting a second instance of this spell at no cost. You may not chain Wands off each other. This item is consumed on use.
 #### Wand of Stamina
