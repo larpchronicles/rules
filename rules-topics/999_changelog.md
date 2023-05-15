@@ -1,9 +1,6 @@
 # Changelog
 ## 3.0.7
 
-### Agility Prof Proposal
-* Added proposal to introduce Proficiencies in Agility
-
 ### Combat
 * Added clarification to how Carriers & Auras work
 
