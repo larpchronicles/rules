@@ -31,7 +31,9 @@
 > 
 > Setting a trap requires a minimum of 1 minute, but the trap is not active until the trigger has been fully set.
 > 
-> All traps must have a real, physical trigger that is attached to the trap. Setting off the trap must produce a noise or light that is detectable by an impartial observer. It must always be possible to see how to disarm a trap, although it may require light and a small mirror. 
+> All traps must have a real, physical trigger that is attached to the trap. Setting off the trap must produce a noise or light that is detectable by an impartial observer. It must always be possible to see how to disarm a trap, although it may require light and a small mirror.
+> 
+> When Toxin traps are activated, it delivers the effects of the Toxin, centered on the trap as "Voice Radius Toxin [Effect]", at a casual speaking volume, such that someone 10 feet away could hear. 
 
 
 ## Alchemy Products
