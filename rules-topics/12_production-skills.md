@@ -17,7 +17,7 @@ Item production is the process by which characters are able to craft consumable 
 
 
 ## Producing Items
->Production items are ranked from I-X. It takes as many raw materials ranks to make a single item equal to the production item's tier. But wait! Production items are ranked I-X and raw materials are only ranked I-V, and then X; how do I get VI-IX raw materials? The answer to that is to combine the I-V raw materials to equal the tier of the production item that you are making.
+>Production items are set in Tiers from I-X. It takes as many raw materials ranks to make a single item equal to the production item's tier. But wait! Production items are ranked I-X and raw materials are only ranked I-V, and then X; how do I get VI-IX raw materials? The answer to that is to combine the I-V raw materials to equal the tier of the production item that you are making.
 >
 >Examples:
 > 
@@ -63,15 +63,15 @@ Item production is the process by which characters are able to craft consumable 
 ## Production Item Reference Table
 > † indicates an item that can scale to higher tiers.
 
-| Rank | Alchemy | Smithing | Rune Carving | 
+| Tier | Alchemy | Smithing | Rune Carving | 
 |---|---|---|---|
-| 1  | Poison Dart 5<br>Blinding Toxin†<br>Slowing Toxin†| Rusty Weapon<br>Lock<br>Key<br>Alarm Trap | Glowing Wand Stone<br>Rune of Trap Compression<br>Wand of Magic†<br>Wand of Stamina†<br>Wand of Agility† |
-| 2  | Solvent<br>Toxin Antidote<br>Poison Dart 10<br>Explosive Grenade | Suit of Armor 10†<br>Armor Resizing Kit<br>Lockpicks | Rune of Marking/Unmarking<br>Rune of Imbuing<br>Runic Rebreather  |
-| 3  | C-1 Explosive<br>Poison Dart 15<br>Heal Wounds Potion<br>Weakness Toxin† | Knight-Night Helmet<br>Hardening†<br>Repair Lock | Rune of Beacon<br>Rune of Obscuring<br>Environmental Adaptation Rune  |
-| 4  | Kneel Toxin†<br>Alchemical Adhesive<br>Silver Dart | One-Handed Weapon<br>Shield<br>Lock Hardening | Rune of Hastening<br>Lock Corroding Rune<br>Lock Enhancing Rune  |  |
-| 5  | Oil of Silver<br>Silencing Toxin†<br>Suppressing Oil<br> | Two-Handed Weapon<br>Silver Weapon Forging<br>Whetstone |  Rune of Chambering<br>Elemental Blade Rune<br>Rune of Limited Elemental Shift |
-| 6  | Heal Wounds Toxin<br>Sleep Toxin†<br>Cleansing Draught | Ranged Weapon<br>Golem Repair Kit<br>Pick Pocket Tools | Thiefbane Rune<br>Spellstrike Rune<br>Rune of True Death  |
-| 7  | C-2 Explosive<br>Cursing Toxin†<br>Entangling Dart | Weighted Ammunition<br>Resistant Plating<br>Reinforcement Kit | Rune of Shield Spikes Rune<br>Rune of Mirror Shield<br>Elementbane Rune |
-| 8  | Incredible Disappearing Ink<br>Stunning Toxin†<br>Minimize Potion | Expandable Weapon<br>Trickleblade Modification<br>Recycling Kit | Elemental Channeling Rune<br>Glyph of Haven<br>Glyph of Locking |
-| 9  | Gaseous Concotion<br>Reviving Draught<br>Confining Dart | Armor Repair Kit<br>Forgemaster's Hammer<br>Risky Smithing | Rune of Recall<br>Rune of Endless Storage<br>Vengeance Rune  |
-| 10 | Elixir of Invulnerability<br>Elixir of Venom Spitting<br>Elixir of Energy | Masterwork Weapon<br>Masterwork Armor<br>Masterwork Shield | Glyph of Warding<br>Glyph of Anchoring<br>Rune of Erasure<br>Break Enslavement Rune |
+| 1  | Blinding Toxin†<br>Poison Dart 5<br>Slowing Toxin†| Alarm Trap<br>Key<br>Lock<br>Rusty Weapon | Glowing Wand Stone<br>Rune of Trap Compression<br>Wand of Agility†<br>Wand of Stamina†<br>Wand of Magic† |
+| 2  | Explosive Grenade<br>Poison Dart 10<br>Solvent<br>Toxin Antidote | Armor Resizing Kit<br>Lockpicks<br>Suit of Armor 10† | Rune of Imbuing<br>Rune of Marking/Unmarking<br>Runic Rebreather  |
+| 3  | C-1 Explosive<br>Heal Wounds Potion<br>Poison Dart 15<br>Weakness Toxin† | Hardening†<br>Knight-Night Helmet<br>Repair Lock | Environmental Adaptation Rune<br>Rune of Beacon<br>Rune of Obscuring  |
+| 4  | Alchemical Adhesive<br>Kneel Toxin†<br>Silver Dart | One-Handed Weapon<br>Lock Hardening<br>Shield | Lock Corroding Rune<br>Lock Enhancing Rune<br>Rune of Hastening  |
+| 5  | Oil of Silver<br>Silencing Toxin†<br>Suppressing Oil<br> | Silver Weapon Forging<br>Two-Handed Weapon<br>Whetstone |  Elemental Blade Rune<br>Rune of Chambering<br>Rune of Limited Elemental Shift |
+| 6  | Cleansing Draught<br>Heal Wounds Toxin<br>Sleep Toxin† | Golem Repair Kit<br>Pick Pocket Tools<br>Ranged Weapon | Rune of Spellstrike<br>Rune of True Death<br>Thiefbane Rune  |
+| 7  | C-2 Explosive<br>Cursing Toxin†<br>Entangling Dart | Reinforcement Kit<br>Resistant Plating<br>Weighted Ammunition | Rune of Elemental Barrier<br>Rune of Mirror Shield<br>Rune of Shield Spikes Rune |
+| 8  | Incredible Disappearing Ink<br>Minimize Potion<br>Stunning Toxin† | Expandable Weapon<br>Recycling Kit<br>Trickleblade Modification | Elemental Channeling Rune<br>Glyph of Haven<br>Rune of Mystic Lock |
+| 9  | Confining Dart<br>Gaseous Concotion<br>Reviving Draught | Armor Repair Kit<br>Forgemaster's Hammer<br>Risky Smithing | Rune of Endless Storage<br>Rune of Recall<br>Vengeance Rune  |
+| 10 | Elixir of Energy<br>Elixir of Invulnerability<br>Elixir of Venom Spitting | Masterwork Armor<br>Masterwork Shield<br>Masterwork Weapon | Break Enslavement Rune<br>Glyph of Anchoring<br>Glyph of Warding<br>Rune of Erasure |

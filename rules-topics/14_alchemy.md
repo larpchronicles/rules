@@ -38,40 +38,43 @@
 
 ### Tier I
 
-#### Poison Damage Dart
->This is a small dart with a poison laced tip. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. This dart will instantly do 5 points of poison damage to the target. The attack call for this is "5 Poison".
 #### Blinding Toxin
 >This toxin will inflict the consumer with "Toxin Blind". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
+#### Poison Damage Dart
+>This is a small dart with a poison laced tip. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. This dart will instantly do 5 points of poison damage to the target. The attack call for this is "5 Poison".
 #### Slowing Toxin
 >This toxin will inflict the consumer with "Toxin Slow". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
 
 ### Tier II
 
+#### Explosive Grenade
+>This is a basic hand grenade that will do 10 points of physical damage to the target. The character must act out pulling a pin from the grenade before saying "10  Normal Flame", and throwing the grenade. The grenade must strike the target on the body, legs, or arms in order to be a successful attack. Grenades are destroyed once used.
+#### Poison Damage Dart
+>This is a small dart with a poison laced tip. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. This dart will instantly do 10 points of poison damage to the target. The attack call for this is "10 Poison".
 #### Solvent
 >This alchemy will instantly remove any oils, pastes, or other surface coating alchemy.
 #### Toxin Antidote
 >This antidote will instantly remove all lingering alchemical effects from the character. This includes any effects originally sourced from an alchemical substance.
-#### Poison Damage Dart
->This is a small dart with a poison laced tip. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. This dart will instantly do 10 points of poison damage to the target. The attack call for this is "10 Poison".
-#### Explosive Grenade
->This is a basic hand grenade that will do 10 points of physical damage to the target. The character must act out pulling a pin from the grenade before saying "10  Normal Flame", and throwing the grenade. The grenade must strike the target on the body, legs, or arms in order to be a successful attack. Grenades are destroyed once used.
+
+
 
 ### Tier III
 
 #### C-1 Explosive
 >This item is a tiny block of clay material that will violently explode when set off by a trigger. The design of this item is such that it is exclusively used for destroying smaller items. Applying the C-1 Explosive takes one minute. Once triggered this item will destroy an item less than 36 inches in length. This functions as per the Destroy spell.
+> #### Heal Wounds Potion
+  >This potion will instantly heal a living target for 5 points of health.
 #### Poison Damage Dart
 >This is a small dart with a poison laced tip. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. This dart will instantly do 15 points of poison damage to the target. The attack call for this is "15 Poison".
-#### Heal Wounds Potion
->This potion will instantly heal a living target for 5 points of health.
 #### Weakness Toxin
 >This toxin will inflict the consumer with "Toxin Weakness". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
 
 ### Tier IV
-#### Kneel Toxin
->This toxin will inflict the consumer with "Toxin Kneel". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
+
 #### Alchemical Adhesive
 > This small tube of incredibly thick paste rapidly becomes extremely adhesive when exposed to air. The user may apply this to an object they are holding with three seconds of roleplay, after which the item becomes stuck to their hand. Allows the wielder to Resist Disarm, and until the Resist is used it also prevents the wielder from letting go of the item for any reason, including being rendered Unconscious. This effect lasts until Rest unless removed by Solvent. This does not take a Defense Slot.
+#### Kneel Toxin
+>This toxin will inflict the consumer with "Toxin Kneel". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
 #### Silver Dart
 > This hollow dart, filled with silver shavings in a suspension, is a tool for the adventurer who absolutely must be able to inflict silver damage in a pinch. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. This dart will instantly do 10 points of silver damage to the target. The attack call for this is "10 Silver".
 
@@ -87,12 +90,12 @@
 
 ### Tier VI
 
+#### Cleansing Draught
+> A specially prepared brew meant to cleanse and detoxify the body of almost any lingering malady. Drinking this potion will remove a single lingering effect of the target's choice. Functions as per the Cleanse spell.
 #### Heal Wounds Toxin
    >This is a small globe filled with a healing toxin. The character will throw a packet to indicate throwing a globe at the target. This globe explodes, covering the target with the toxins that immediately begin to heal their wounds. The call for this is "Toxin Heal Wounds 5"
 #### Sleep Toxin
    >This toxin will inflict the consumer with "Toxin Sleep". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
-#### Cleansing Draught
-> A specially prepared brew meant to cleanse and detoxify the body of almost any lingering malady. Drinking this potion will remove a single lingering effect of the target's choice. Functions as per the Cleanse spell.
 
 ### Tier VII
 
@@ -107,25 +110,27 @@
 
 #### Incredible Disappearing Ink
    >This substance is used to pass along short messages through the use of mysterious alchemical processes. The character uses the ink to write a short message, under 25 words, and then signs the recipient's name. The ink instantly vanishes. The message appears before the recipient on a magical parchment that disappears 30 seconds after appearing. This effect is not instantaneous and takes as much time as it does to find the recipient and deliver the message. The writing on the magical parchment is only visible to the recipient. The sender must have met the intended recipient or have concrete knowledge of the person's existence, and recipients can choose to refuse any message, which will cause the message to fail to no effect. If the recipient is not available, the message is lost. The out of game process is that the player writes the message and gives it to a Plot Team Member to deliver.
-#### Stunning Toxin
-   >This toxin will inflict the consumer with "Toxin Stun". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
 #### Minimize Potion
 > This potion is designed to quicken the metabolism of a creature when their adrenaline is high. Upon consumption, the user gains a single use of Minimize. They may choose to save this effect until they are hit with an effect, but they may only have a single use of this potion active at a time. This lasts until Rest or until it is used. This may not be used to Minimize DEAD, UNCONSCIOUS, DYING, or any effect that lasts Until Removed.
+#### Stunning Toxin
+   >This toxin will inflict the consumer with "Toxin Stun". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
+
 
 ### Tier IX
 
+#### Confining Dart
+> This dart is filled with a strange gray sludge held in suspension. When it strikes a target, it rapidly expands outwards, engulfing the target and rapidly hardening. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. The attack call for this is "Physical Confine".
 #### Gaseous Concoction
    >This is a potion that when ingested will transform the character into a cloud of mist for the next minute. While in this form, the character is unable to move, communicate, cast spells, or activate magic items. This effect can be broken by the spell Solidify. Once the effect ends, the character is silenced for the next 20 seconds as they recover from the effects of this alchemy. It takes 5 seconds to consume the concoction.
 #### Reviving Draught
 > Smelling salts strong enough to wake even the dead are laced into this liquid suspension. This potion, when fed to a Dead target, functions as per the Revivify spell. The call for this is "Revivify".
-#### Confining Dart
-> This dart is filled with a strange gray sludge held in suspension. When it strikes a target, it rapidly expands outwards, engulfing the target and rapidly hardening. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. The attack call for this is "Physical Confine".
+
 
 ### Tier X
 
 #### Elixir of Energy
    >This potent elixir has been specially mixed with materials, that when brewed correctly are capable of drawing ambient Aether from the air and infusing it into the imbiber, restoring their resource pool. At time of creation, Mana, Stamina, or Agility is chosen. This will create an item tag for Elixir of Mana, Elixir of Stamina, or Elixir of Agility. Upon consumption, which takes a three count, the drinker restores 5 points to the chosen resource pool. This cannot be used to bring the user's resource pool above their maximum.
-#### Elixir of Venom Spitting
-> This strange elixir was created to mimic the abilities of foul monstrosities who can spit toxins like rain upon their enemies. The next time the drinker would suffer from a Toxin, they instead declare "Resist Absorb", and the drinker can then throw 5 instances of "Activate Toxin <Effect>" with no longer than 3 seconds between each throw, otherwise the effect ends. At the end of this period, the Elixir of Venom Spitting fades, and they may not benefit from an Elixir of Venom Spitting until they complete a rest. If the defense is not used prior to resting, the defense is lost. This takes a defense slot. This item is consumed on use.
 #### Elixir of Invulnerability
 > This incredible feat of Alchemical creation, this golden elixir represents the pinnacle of mortal achievement. Upon imbibing, which takes a three count, the drinker is made INVULNERABLE for 20 seconds. However, the overwhelming power of the elixir renders them incapable of doing much else. For the duration, the drinker cannot speak, use any in-game skills, may not run, and must keep both hands linked with arms pointed down towards their feet. After the effect ends, the drinker may not benefit from another Elixir of Invulnerability until they complete a rest. This Elixir does not provide any protection from Aether abilities. This item is consumed on use.
+#### Elixir of Venom Spitting
+> This strange elixir was created to mimic the abilities of foul monstrosities who can spit toxins like rain upon their enemies. The next time the drinker would suffer from a Toxin, they instead declare "Resist Absorb", and the drinker can then throw 5 instances of "Activate Toxin <Effect>" with no longer than 3 seconds between each throw, otherwise the effect ends. At the end of this period, the Elixir of Venom Spitting fades, and they may not benefit from an Elixir of Venom Spitting until they complete a rest. If the defense is not used prior to resting, the defense is lost. This takes a defense slot. This item is consumed on use.
