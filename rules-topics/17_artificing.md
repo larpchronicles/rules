@@ -17,12 +17,12 @@
 
 ### Tier I
 
-#### Hearthstone
-   >This is a warm stone that when held during Rest, the user regains a single hit point per minute.  This is a passive effect.  This item cannot heal the holder if the holder is Dying or Dead.<br/>
-   >5 Alchemy Materials, 5 Rune Carving Materials, 1 Spirit Gem.
 #### Elemental Aura Enchantment
    >This Enchantment may be placed upon a Weapon, and will allow the wielder to strike with an Elemental carrier, chosen from Flame/Frost/Shock/Stone at time of creation.<br/>
    >5 Rune Carving Materials, 5 Smithing Materials, 1 Spirit Gem.  
+#### Hearthstone
+   >This is a warm stone that when held during Rest, the user regains a single hit point per minute.  This is a passive effect.  This item cannot heal the holder if the holder is Dying or Dead.<br/>
+   >5 Alchemy Materials, 5 Rune Carving Materials, 1 Spirit Gem.
 #### Sticky Handle Enchantment
    >This Enchantment may be placed upon a Weapon or Shield, and will prevent the item from being Disarmed. The response to the item being attempting to be disarmed is "No Effect". The Sticking force also forces the user to do a 3 count in order to release the item from their grip.<br/>
    >5 Smithing Materials, 5 Alchemy Materials, 1 Spirit Gem.
@@ -36,21 +36,21 @@
 #### Deep Breath Balm
    >A special balm infused with magically treated herbs designed to clear the airways and enhance the user's breathing. Once per rest, the bearer may partake of these benefits to enhance their use of the Stamina ability Regeneration, reducing the concentration time from a minute to 30 seconds.<br/>
    >15 Alchemy Materials, 5 Rune Carving Materials, 2 Spirit Gems.
+#### Destruction Magnet Enchantment
+   >This Enchantment may be placed upon a Shield, and while held will allow the user to re-direct any Destroy effect targeted at a different piece of equipment the bearer possesses to the Shield instead. The call for this is "Got it, Redirect, Resist". This Enchantment also gives the Shield 2x Ever Resist Destruction that stacks with any Hardening it may possess. After this enchantment has been applied, the shield may not be further Hardened. This enchantment may only be applied once.<br/>
+   >10 Alchemy Materials, 10 Smithing Materials, 2 Spirit Gems. 
 #### Magic Aura Enchantment
    >This Enchantment may be placed upon a Weapon, and will change the weapon's base damage type to Magic.<br/>
    >10 Rune Carving Materials, 10 Smithing Materials, 2 Spirit Gems.
-#### Destruction Magnet Enchantment
-   >This Enchantment may be placed upon a Shield, and while held will allow the user to re-direct any Destroy effect targeted at a different piece of equipment the bearer possesses to the Shield instead. The call for this is "Got it, Redirect, Resist". This Enchantment also gives the Shield 2x Ever Resist Destruction that stacks with any Hardening it may possess. After this enchantment has been applied, the shield may not be further Hardened. This enchantment may only be applied once.<br/>
-   >10 Alchemy Materials, 10 Smithing Materials, 2 Spirit Gems.    
 
 ### Tier III
 
-####  Mending Mallet
-   >A special Smithing Hammer built for a Smith on the go, with armor to repair and heads to smash. Three times per day, a user may spend their uses of Rapid Refit to refit the armor of another Individual, instead of themselves, by touching them by doing the usual 5 count and declaring "Rapid Refit". Only usable by an individual with Ranks in Smithing.<br/>
-   >20 Smithing Materials, 10 Rune Carving Materials, 3 Spirit Gems.
 ####  Boisterous Bells
    >These enchanted Bells are a Performer's best friend, especially when being magically heckled. These Bells will, two times per day, allow the user to spend a rank in Performance to Resist a Silence effect. The user does not regain the spent Performance ranks until after they complete a Rest.<br/>
    >20 Rune Carving Materials, 10 Alchemy Materials, 3 Spirit Gems
+####  Mending Mallet
+   >A special Smithing Hammer built for a Smith on the go, with armor to repair and heads to smash. Three times per day, a user may spend their uses of Rapid Refit to refit the armor of another Individual, instead of themselves, by touching them by doing the usual 5 count and declaring "Rapid Refit". Only usable by an individual with Ranks in Smithing.<br/>
+   >20 Smithing Materials, 10 Rune Carving Materials, 3 Spirit Gems.
 #### Sure Striking Enchantment
    >This Enchantment may be placed upon a Weapon, and will increase the base damage of the Weapon by 1. This does not stack with any similar damage increasing effects. This may only be applied to a weapon once and takes two Enchantment slots.<br/>
    >15 Rune Carving Materials, 15 Smithing Materials, 3 Spirit Gems.  
@@ -74,13 +74,13 @@
 
 ### Tier VI
 
+#### Manaward Enchantment
+> This Enchantment may be placed upon a Shield, and will allow the wielder to expend uses of Spell Parry or Barrier to instead grant them Cap 10 to Spell Damage for 20 Seconds. The call for this is "Activate Manaward", and declaring "Cap 10" when taking spell damage.<br/>
+> 30 Rune Carving Materials, 20 Smithing Materials, 10 Alchemy Materials, 6 Spirit Gems  
 #### Omni-Elemental Aura Enchantment
    >This Enchantment may be placed upon a Weapon, and will allow the wielder to strike with an Elemental carrier, chosen from Flame/Frost/Shock/Stone. They may swap the element with 1 minute of concentration.<br/>
    >20 Rune Carving Materials, 20 Smithing Materials, 20 Alchemy Materials, 6 Spirit Gems.
-#### Manaward Enchantment
-> This Enchantment may be placed upon a Shield, and will allow the wielder to expend uses of Spell Parry or Barrier to instead grant them Cap 10 to Spell Damage for 20 Seconds. The call for this is "Activate Manaward", and declaring "Cap 10" when taking spell damage.<br/>
-> 30 Rune Carving Materials, 20 Smithing Materials, 10 Alchemy Materials, 6 Spirit Gems   
-
+ 
 ### Tier VII
 
 #### Blade of Beginner's Luck
@@ -102,21 +102,21 @@
 
 ### Tier IX
 
-#### The Librarian
-   >This dusty old book grants the user a 1/daily use of Voice Radius Silence.  It is activated by the verbal "Shhhhhh! Voice Radius Silence."  When used, the effect goes to the user as well.<br/>
-   >50 Rune Carving Materials, 40 Alchemy Materials, 9 Spirit Gems.
 #### Energy Efficiency Enchantment
 > This enchantment may be placed on a set of Armor, or on a Weapon. This enchantment is attuned to a specific Stamina Ability, Agility Ability or Spell at time of creation. While the item is worn or wielded, the bearer may activate the chosen ability or spell for 1 Point less than it's base cost, to a minimum of 1. This Enchantment may be placed on the same item twice to utilize 2 slots, reducing the cost by an additional point for the same skill (still minimum 1), or applying to a different skill. An ability or Spell may not benefit from more than a single item with this Enchantment. A character may not benefit from more than a single Energy Efficiency item per rest. This may not be used for Mana Bolt, Heal Wounds or any Tier X effects.<br/>
 > 30 Rune Carving Materials, 30 Alchemy Materials, 30 Smithing Materials, 9 Spirit Gems.
+#### The Librarian
+   >This dusty old book grants the user a 1/daily use of Voice Radius Silence.  It is activated by the verbal "Shhhhhh! Voice Radius Silence."  When used, the effect goes to the user as well.<br/>
+   >50 Rune Carving Materials, 40 Alchemy Materials, 9 Spirit Gems.
 
 ### Tier X
 
-#### Vessel of Salvation
-   >This item allows a character who possesses it to add 5 minutes to their Death Timer. It must be used prior to the target beginning their Death count.  This item is ineffective on characters that crumble at 0 body, have a spirit bottle, or otherwise do not possess a Death Timer.  This effect may not be stacked, modified, or removed from the target. This functions as per Preserve Corpse.<br/>
-   >50 Rune Carving Materials, 30 Alchemy Materials, 20 Smithing Materials, 10 Spirit Gems.
 #### Sacrificial Shield
 > This specially crafted shield is designed with the safety of the bearer's companions in mind, above and beyond their own well-being. While wielding the Sacrificial Shield, the cost of Intercept is reduced to 0 when using Intercept for Melee Weapon Blows, not for Physical Strikes, Toxins, Spells, Spellstrike or any other effect.<br/>
 > 60 Smithing Materials, 30 Rune Carving Materials, 10 Alchemy Materials, 10 Spirit Gems
+#### Vessel of Salvation
+   >This item allows a character who possesses it to add 5 minutes to their Death Timer. It must be used prior to the target beginning their Death count.  This item is ineffective on characters that crumble at 0 body, have a spirit bottle, or otherwise do not possess a Death Timer.  This effect may not be stacked, modified, or removed from the target. This functions as per Preserve Corpse.<br/>
+   >50 Rune Carving Materials, 30 Alchemy Materials, 20 Smithing Materials, 10 Spirit Gems.
 
 ## Uncommon Formulas
 
