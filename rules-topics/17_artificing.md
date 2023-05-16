@@ -165,7 +165,7 @@
 ### Tier VIII
 
 #### Alphastrike Potion
-   > This potion overflows with the power of ambient Aether, practically crying out to be used. Upon Imbibing, the drinker is granted Unlimited Mana, Stamina and Agility and for 20 seconds. The drinker does not need to possess Mana, Stamina or Agility to be granted these powers, and for the duration they may use any abilities (other than Proficiencies) from any school at will. In the event that the user Memorized any of these pools, their Memorization ends and they may Cast on the Fly. owever, at the end of those 20 seconds, the raging power takes its toll, dropping all pools to 0, any active Proficiencies end, and they are unable to restore these pools by any means, including another Alphastrike Potion, other than completing a full Rest. This is consumed on use.<br/>
+   > This potion overflows with the power of ambient Aether, practically crying out to be used. Upon Imbibing, the drinker is granted Unlimited Mana, Stamina and Agility and for 20 seconds. The drinker does not need to possess Mana, Stamina or Agility to be granted these powers, and for the duration they may use any abilities (other than Proficiencies) from any school at will. No more than 10 of any resource may be spent on a single ability or spell. In the event that the user Memorized any of these pools, their Memorization ends and they may Cast on the Fly. owever, at the end of those 20 seconds, the raging power takes its toll, dropping all pools to 0, any active Proficiencies end, and they are unable to restore these pools by any means, including another Alphastrike Potion, other than completing a full Rest. This is consumed on use.<br/>
    > 50 Alchemy Materials, 20 Rune Carving Materials, 10 Smithing Materials, 8 Spirit Gems
 
 
