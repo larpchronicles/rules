@@ -35,8 +35,8 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | 5  | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify  | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
 | 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body | 
 | 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine | 
-| 8  | Dispel Magic<br>Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
-| 9  |  | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
+| 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
+| 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
 | 10 |  | Arcane Torrent<br>Doom| Death<br>Life | Spider Web |
 
 
@@ -58,7 +58,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School**|  Universal |
 | **Level**| 4 |
 | **Duration**  | Rest |
-| **Incant** | "I conjure a \<type\> barrier." |
+| **Incant** | "By my will, I conjure a \<type\> barrier." |
 | **Description**  | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. |
 
 ### Universal Level 5
@@ -77,7 +77,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Universal |
 | **Level** | 8  |
 | **Duration** | Rest |
-| **Incant** | "I conjure a reflect \<type\>."|
+| **Incant** | "By my will, I conjure a reflect \<type\>."|
 | **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. |
 
 ### Universal Level 9
@@ -485,17 +485,25 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**  | "By the spirits, I force this minion to rise and serve." |
 | **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target's spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
 
+| **Spell** | **Enervate** |
+|:---|:---|
+| **School** | Spirit |
+| **Level** | 9 |
+| **Duration** | 20 Seconds  |
+| **Incant** | "I afflict you with Enervation" |
+| **Description** | The caster saps the vital force of the target, weakening their connection to life. For the duration of this effect, if any damage causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state, and they become immune to REVIVIFY effects for their current DEAD count. This is an ENERVATE effect. |
+
 
 ### Spirit Level 10
  
 #### Death
-| **Spell** | **Death** |
+| **Spell** | **Curse Cascade** |
 |:---|:---|
 | **School** | Spirit |
 | **Level** | 10 |
-| **Duration** | Instant  |
-| **Incant** | "I grant you the gift of death 50" |
-| **Description** | The caster saps the vital force of the target for 50 damage. This damage cannot be increased by any means. If the spell causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state. This is a DEATH effect. |
+| **Duration** | Concentration  |
+| **Incant** | "I afflict you all with curse!... Magic Curse, Magic Curse, Magic Curse... " |
+| **Description** | The caster plants their feet and is able to throw "Magic Curse" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
 
 #### **Life**
 | **Spell** | **Life** |
