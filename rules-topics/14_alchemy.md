@@ -64,7 +64,7 @@
 
 #### C-1 Explosive
 >This item is a tiny block of clay material that will violently explode when set off by a trigger. The design of this item is such that it is exclusively used for destroying smaller items. Applying the C-1 Explosive takes one minute. Once triggered this item will destroy an item less than 36 inches in length. This functions as per the Destroy spell.
-> #### Heal Wounds Potion
+#### Heal Wounds Potion
   >This potion will instantly heal a living target for 5 points of health.
 #### Poison Damage Dart
 >This is a small dart with a poison laced tip. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. This dart will instantly do 15 points of poison damage to the target. The attack call for this is "15 Poison".
@@ -74,7 +74,7 @@
 ### Tier IV
 
 #### Alchemical Adhesive
-> This small tube of incredibly thick paste rapidly becomes extremely adhesive when exposed to air. The user may apply this to an object they are holding with three seconds of roleplay, after which the item becomes stuck to their hand. Allows the wielder to Resist Disarm, and until the Resist is used it also prevents the wielder from letting go of the item for any reason, including being rendered Unconscious. This effect lasts until Rest unless removed by Solvent. This does not take a Defense Slot.
+> This small tube of incredibly thick paste rapidly becomes extremely adhesive when exposed to air. The user may apply this to an object they are holding with 3 seconds of roleplay, after which the item becomes stuck to their hand. Allows the wielder to Resist Disarm, and until the Resist is used it also prevents the wielder from letting go of the item for any reason, including being rendered Unconscious. This effect lasts until Rest unless removed by Solvent. This does not take a Defense Slot.
 #### Kneel Toxin
 >This toxin will inflict the consumer with "Toxin Kneel". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
 #### Silver Dart
