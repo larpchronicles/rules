@@ -37,9 +37,6 @@ The Entrapment spell allows a caster the chance to capture the spirit of a targe
 * Must have a spirit that is **NOT** protected by a SPIRIT BOTTLE effect.
 * Must not crumble at 0 body.
 
-### Metabolism Clarification
->Pending.
-
 ### Shattering & Destroying
 Shattering or destroying containers that contain things does NOT affect the items within it.
 
