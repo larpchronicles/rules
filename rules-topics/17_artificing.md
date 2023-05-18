@@ -21,7 +21,7 @@
    >This Enchantment may be placed upon a Weapon, and will allow the wielder to strike with an Elemental carrier, chosen from Flame/Frost/Shock/Stone at time of creation.<br/>
    >5 Rune Carving Materials, 5 Smithing Materials, 1 Spirit Gem.  
 #### Hearthstone
-   >This is a warm stone that when held during Rest, the user regains a single hit point per minute.  This is a passive effect.  This item cannot heal the holder if the holder is Dying or Dead.<br/>
+   >This is a warm stone that when held during Rest, the user regains 1 Body per minute.  This is a passive effect.  This item cannot heal the holder if the holder is Dying or Dead.<br/>
    >5 Alchemy Materials, 5 Rune Carving Materials, 1 Spirit Gem.
 #### Sticky Handle Enchantment
    >This Enchantment may be placed upon a Weapon or Shield, and will prevent the item from being Disarmed. The response to the item being attempting to be disarmed is "No Effect". The Sticking force also forces the user to do a 3 count in order to release the item from their grip.<br/>
@@ -49,7 +49,7 @@
    >These enchanted Bells are a Performer's best friend, especially when being magically heckled. These Bells will, two times per day, allow the user to spend a rank in Performance to Resist a Silence effect. The user does not regain the spent Performance ranks until after they complete a Rest.<br/>
    >20 Rune Carving Materials, 10 Alchemy Materials, 3 Spirit Gems
 ####  Mending Mallet
-   >A special Smithing Hammer built for a Smith on the go, with armor to repair and heads to smash. Three times per day, a user may spend their uses of Rapid Refit to refit the armor of another Individual, instead of themselves, by touching them by doing the usual 5 count and declaring "Rapid Refit". Only usable by an individual with Ranks in Smithing.<br/>
+   >A special Smithing Hammer built for a Smith on the go, with armor to repair and heads to smash. Three times per day, a user may spend Stamina on Rapid Refit to refit the armor of another Individual, instead of themselves, by touching them by doing the usual 5 count and declaring "Rapid Refit". Only usable by an individual with Ranks in Smithing.<br/>
    >20 Smithing Materials, 10 Rune Carving Materials, 3 Spirit Gems.
 #### Sure Striking Enchantment
    >This Enchantment may be placed upon a Weapon, and will increase the base damage of the Weapon by 1. This does not stack with any similar damage increasing effects. This may only be applied to a weapon once and takes two Enchantment slots.<br/>
@@ -103,7 +103,7 @@
 ### Tier IX
 
 #### Energy Efficiency Enchantment
-> This enchantment may be placed on a set of Armor, or on a Weapon. This enchantment is attuned to a specific Stamina Ability, Agility Ability or Spell at time of creation. While the item is worn or wielded, the bearer may activate the chosen ability or spell for 1 Point less than it's base cost, to a minimum of 1. This Enchantment may be placed on the same item twice to utilize 2 slots, reducing the cost by an additional point for the same skill (still minimum 1), or applying to a different skill. An ability or Spell may not benefit from more than a single item with this Enchantment. A character may not benefit from more than a single Energy Efficiency item per rest. This may not be used for Mana Bolt, Heal Wounds or any Tier X effects.<br/>
+> This enchantment may be placed on a set of Armor, or on a Weapon. This enchantment is attuned to a specific Stamina Ability, Agility Ability or Spell at time of creation. While the item is worn or wielded, the bearer may activate the chosen ability or spell for 1 Point less than its base cost, to a minimum of 1. This Enchantment may be placed on the same item twice to utilize 2 slots, reducing the cost by an additional point for the same skill (still minimum 1), or applying to a different skill. An ability or Spell may not benefit from more than a single item with this Enchantment. A character may not benefit from more than a single Energy Efficiency item per rest. This may not be used for Mana Bolt, Heal Wounds or any Tier X effects.<br/>
 > 30 Rune Carving Materials, 30 Alchemy Materials, 30 Smithing Materials, 9 Spirit Gems.
 #### The Librarian
    >This dusty old book grants the user a 1/daily use of Voice Radius Silence.  It is activated by the verbal "Shhhhhh! Voice Radius Silence."  When used, the effect goes to the user as well.<br/>

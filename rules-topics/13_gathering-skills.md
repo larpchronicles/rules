@@ -26,34 +26,3 @@
 >
 >Prior to an event starting, you can spend your raw material ranks, along with any raw material tags that you have, to craft in-game items. Once you are done crafting items before the game starts, logistics will give you tags for any unspent raw materials as well as tags for the items that you produced. When you get your raw material tags, you can request to get them in any rank I-X, as long as the total ranks are equal to the unspent ranks that you have left.
 
-
-## Gathering Skill Products
-### Foraging Products
-| _**Material Rank**_ | _**Product**_ | 
-|---|---|
-| I | Minor Alchemical Reagent |
-| II   | Lesser Alchemical Reagent   |
-| III  | Moderate Alchemical Reagent |
-| IV   | Major Alchemical Reagent |
-| V | Greater Alchemical Reagent  |
-| X | Ultimate Alchemical Reagent |
-
-### Mining Products
-| _**Material Rank**_ | _**Product**_ | 
-|---|---|
-| I | Aluminum Ore  |
-| II   | Copper Ore |
-| III  | Tin Ore  |
-| IV   | Nickel Ore |
-| V | Iron Ore |
-| X | Titanium Ore  |
-
-### Logging Products
-| _**Material Rank**_ | _**Product**_  | 
-|---|---|
-| I | Rotten Wood |
-| II   | Dried Wood |
-| III  | Green Wood |
-| IV   | Singed Wood |
-| V | Aged Wood |
-| X | Petrified Wood |

@@ -29,15 +29,15 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | Level| Universal | Arcane | Spirit | Nature | 
 |---|---|---|---|---|
 | 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink | 
-| 2  | | Disrupt Aether<br>Halt<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
+| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
 | 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  | 
 | 4  | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb  | Entangle Arms<br>Command: Kneel |
 | 5  | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify  | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
-| 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Enhanced Focus<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body | 
+| 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body | 
 | 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine | 
 | 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
-| 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
-| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Spider Web |
+| 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
+| 10 |  | Arcane Torrent<br>Doom| Death<br>Life | Spider Web |
 
 
 ## Universal
@@ -49,7 +49,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**| 1 |
 | **Duration**  | 12 hours | |
 | **Incant** | "I conjure a glowing light." |
-| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that the light is only emitting a soft glow and not a sharp directed light as a game marshal may ask the player to extinguish their light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
+| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
 
 ### Universal Level IV
 
@@ -227,7 +227,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | Instant |
 | **Incant**  | "With arcane forces, I destroy <item>." |
-| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. |
+| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches.  This is a DESTROY effect. |
 
 #### **Haste**
 | **Spell** | **Haste** |
@@ -483,7 +483,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 9  |
 | **Duration**  | 5 minutes |
 | **Incant**  | "By the spirits, I force this minion to rise and serve." |
-| **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target's spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. A single target may not be affected by this more than once per instance of being DEAD. This is an ANIMATE effect and causes an UNDEAD effect. |
+| **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target's spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
 
 | **Spell** | **Enervate** |
 |:---|:---|
@@ -688,7 +688,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | 20 seconds |
 | **Incant**  | "By nature, I confine you." |
-| **Description** |  This spell renders the target completely unable to move while under the effects of this spell. They also may not activate any game skills other than Escape Artist, Rip Free, or Minimize. This is a CONFINE effect. |
+| **Description** |  This spell renders the target completely unable to move while under the effects of this spell.  This is a CONFINE effect. |
 
 ### Nature Level 8
 

@@ -1,14 +1,9 @@
 # Changelog
 ## 3.0.7 [2023-05-11]
 
-<<<<<<< HEAD
 ### Combat
 * Added clarification to how Carriers & Auras work
 * Clarified Damage Abilities cannot be carriers.
-=======
----
-### Agility Prof Proposal
-* Added proposal to introduce Proficiencies in Agility
 
 ### Agility Skills
 * Warbow Training, incant updated.
@@ -111,7 +106,6 @@
 * DEATH does not remove any effects unless effect specifies otherwise.
 * Codified that someone can dissipate and resurrect to refuse effects except for decimate. 
 * Codified when a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot. 
->>>>>>> release_may
 
 ### Magic Skills
 * Dull Pain is now Enhanced Focus, effect updated.
@@ -121,7 +115,6 @@
 * Halt is now Stop, incant updated.
 * Mastery abilities removed (Prior ruling, just cleaning)
 * All Fiendish Spells have had their incants updated.
-<<<<<<< HEAD
 * Entrap Spirit clarified to not give more than 1 gem per target.
 
 ### Stamina Skills
@@ -132,7 +125,6 @@
 * Warbow Training, incant updated.
 * New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
 * Clarified Memorization
-=======
 * Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
 * Create Undead now properly only works on a target once per DEAD status.
 
@@ -140,7 +132,6 @@
 * First Aid description updated with some examples and clarification that you can ask for timers.
 * Added a table to show what skills need First Aid
 * A marshal determines tracking success (no bead draw) and that a PC cannot be tracked by another PC and removed the word terrestrial.
->>>>>>> release_may
 
 ### Production Skills
 * Production Overhaul: Production has had a significant update.
