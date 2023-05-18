@@ -52,7 +52,6 @@ Item production is the process by which characters are able to craft consumable 
 > 
 >† _Weapon Coatings and Monstrous Auras can still be used with a weapon that has a Magic Aura._
 
-<<<<<<< HEAD
 ## Workshops
 >Characters can purchase a Workshop from Logistics for 10 Credits. Workshops have a durability of 10, and their durability is decreased each time they are used for an event by a given character. Workshops can be used to make large-scale batches of an item, doubling the total output for a single character.
 >  
