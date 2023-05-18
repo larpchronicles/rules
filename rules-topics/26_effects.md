@@ -85,10 +85,10 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 ---
 | Term| Description |Encounter Call |
 |:---|-----|:----:|
-| DEATH | If the source of this effect would reduce the target to 0 or less body, target immediately takes DEAD status. | Varies by source. |
 | DECIMATE | Target takes DEAD status upon receiving this effect. If target dissipates and resurrects, target incurs double Strain. (4 Total) | (Type) Decimate |
 | DODGE | Ability user may resist more than one type of effect, and so dodges it. | Dodge |
 | DOOM | Target takes X damage, some creatures may be weak or resistant to this. | Varies by source. |
+| ENERVATE | If the target would be reduced the target to 0 or less body for the duration, target immediately takes DEAD status. | Varies by source. |
 | LIFE | Target is healed to full body and all status effects of target's choice are removed. This works on DEAD targets. | Varies by source. |
 | MUMMY CURSE | Target immediately dissipates and seeks resurrection. | Killing Blow 1, 2, 3, Mummy Curse |
 | REFLECT | Ability user may reflect x ability. The reflected ability may be resisted, but may not be reflected again. | Varies by source. |

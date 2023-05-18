@@ -23,10 +23,11 @@
 * ENSlAVEMENT specifies that the target is unaware.
 * Added note to GASEOUS
 * DOOM effect updated.
-* DEATH effect updated.
+* DEATH effect removed
 * BERSERK now reflects it's actual function.
 * CONCENTRATION now properly noted to break on taking damage.
 * CONFINE now properly restricts skill usage.
+* ENERVATE status added.
 * SILENCE now properly restricts spellcasting.
 * STAGGER removed, old effect not in use.
 * TELEPORT BLOCK removed, redundant.
