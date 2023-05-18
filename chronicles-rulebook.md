@@ -1,3 +1,5 @@
+
+
 # Chronicles Game Rules
 
 ## Introduction
@@ -1964,7 +1966,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | Instant |
 | **Incant**  | "With arcane forces, I destroy <item>." |
-| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches.  This is a DESTROY effect. |
+| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. This is a DESTROY effect. |
 
 #### **Haste**
 | **Spell** | **Haste** |
@@ -4728,11 +4730,6 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 * Added clarification to how Carriers & Auras work
 * Clarified Damage Abilities cannot be carriers.
 
-### Agility Skills
-* Warbow Training, incant updated.
-* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
-* Mimicry cannot be used on level 10 Spells.
-
 ### Combat
 * Added clarification to how Carriers & Auras work
 * Added clarification and rules on how Immunities Work
@@ -4843,6 +4840,8 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 * Death spell removed.
 * Enervate spell added at Spirit Rank IX
 * Storm of Curses added at Spirit Rank X
+* Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
+* Create Undead now properly only works on a target once per DEAD status.
 
 ### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons
@@ -4852,8 +4851,7 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 * Warbow Training, incant updated.
 * New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
 * Clarified Memorization
-* Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
-* Create Undead now properly only works on a target once per DEAD status.
+* Mimicry cannot be used on level 10 Spells.
 
 ### Other Skills
 * First Aid description updated with some examples and clarification that you can ask for timers.
