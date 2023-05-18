@@ -95,7 +95,7 @@
 #### Cleansing Draught
 > A specially prepared brew meant to cleanse and detoxify the body of almost any lingering malady. Drinking this potion will remove a single lingering effect of the target's choice. Functions as per the Cleanse spell.
 #### Heal Wounds Toxin
-   >This is a small globe filled with a healing toxin. The character will throw a packet to indicate throwing a globe at the target. This globe explodes, covering the target with the toxins that immediately begin to heal their wounds. The call for this is "Toxin Heal Wounds 5"
+   > This is a small globe filled with a healing toxin. The character will throw a packet to indicate throwing a globe at the target. This globe explodes, covering the target with the toxins that immediately begin to heal their wounds. The call for this is "Toxin Heal Wounds 5"
 #### Sleep Toxin
    >This toxin will inflict the consumer with "Toxin Sleep". The Toxin will be applied to the first person to consume the food or drink, and will take effect after 20 seconds. To apply an Ingestible Toxin, the Toxin Tag must be attached to the bottom of the container, or the tags can be given to a marshal once the Toxin has been applied. Applying an ingestible toxin takes a minimum of 5 seconds. This recipe can be made 1 Tier higher and be made a Weapon Coating, or 2 Tiers higher to be made a Toxin Dart or Trap.
 
