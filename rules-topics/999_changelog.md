@@ -116,6 +116,9 @@
 * Mastery abilities removed (Prior ruling, just cleaning)
 * All Fiendish Spells have had their incants updated.
 * Entrap Spirit clarified to not give more than 1 gem per target.
+* Death spell removed.
+* Enervate spell added at Spirit Rank IX
+* Storm of Curses added at Spirit Rank X
 
 ### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons
@@ -199,7 +202,6 @@
 * Added clarification to Dexterity Armor.
 * Added Toughness Table
 * Updated tables to show Mages instead of Scholars
-
 
 ### Stamina
 * Disarm updated.
