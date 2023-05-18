@@ -22,7 +22,7 @@ Item production is the process by which characters are able to craft consumable 
 > 
 >To make an Alchemy Tier I item, the character needs to have at least one rank in the Alchemy skill, and would use a single Rank I material. For Alchemy, this is Minor Alchemical Catalyst.
 > 
-> To make a Smithing Rank 8 item, the character would need at least 8 Ranks in Smithing, and could use a combination of materials where the Ranks, when added up, equal the rank of the item desired. For Smithing this could be one Iron Ore (Rank V) and three Aluminum Ores (Rank I) added up equal enough ranks to make the item.
+> To make a Smithing Rank 8 item, the character would need at least 8 Ranks in Smithing, and could use a combination of materials where the Ranks, when added up, equal the rank of the item desired. For Smithing this could be one Rank V and three Rank I added up equal enough ranks to make the item.
 
 ## Durability
 >Any item that is non-consumable has a Durability rating. An item's durability is reduced by one at the beginning of every event, and when an item's Durability reaches 0, it is no longer usable, except for Recycling, see below. A player must check in all items they intend to use or have available to use at the beginning of an event. Any item that is not checked in and has its Durability marked down, is not legal for in-game use until it has been marked by Plot. Consumable items and Materials have an effective Durability of "Until Used", and may not be Recycled.
