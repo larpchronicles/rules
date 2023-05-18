@@ -226,7 +226,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Level**| 7 |
 | **Duration** | Instant|
 | **Call**| "Physical Destroy <target item>" |
-| **Description** | This is strike that instantly destroys the target's armor, weapon, or shield.  This is a DESTROY effect. |
+| **Description** | This is strike that instantly destroys the target's armor, weapon, or shield. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. |
 | **Requirement** | - |
 
 

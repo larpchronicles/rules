@@ -3,7 +3,7 @@
 ## Body _(aka Health Points)_
 
 ---
-Body is the measurement of a character's state of health, and is often referred to as "Health Points" or "Hit Points" in many RPG systems. All characters start with 10 Body, and gain more via the Toughness skill. Receiving any amount of Damage reduces your Current Body. You can receive healing effects to increase your Body after taking Damage, but healing may never put you above your Maximum Body.
+Body is the measurement of a character's state of health, and is often referred to as "Health Points" or "Hit Points" in many RPG systems. All characters start with 10 Body, and gain more via the Toughness skill. Receiving any amount of Damage reduces the character's Current Body. They can receive healing effects to increase their Body after taking Damage, but healing may never put them above their Maximum Body.
 
 
 ## Alive
@@ -57,7 +57,9 @@ The spirit of a character is the essence of that person. Spirits are always Out 
 ---
 A character who has passed their 5 minute **Death** count dissipates, and their spirit will depart to seek **Resurrection**. If the spirit, as an Out-of-Game decision, believes that an ally may come and attempt to **Resurrect** them using the Rank IX Spirit Spell Resurrection, then they may linger for a time. If they do not, then the spirit will depart it's current location to seek the nearest safe **Shrine of Resurrection.** The knowledge of whether or not a specific Shrine is "Safe" is entirely OOG knowledge, but a Spirit will never **Resurrect** at an unsafe Shrine. When a Spirit **Resurrects**, they will accrue **Strain**, explained below.
 
-Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection.
+When a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot.
+
+Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions. 
 
 
 ## Strain
@@ -88,3 +90,27 @@ Killing Blow is a 3-count that can be interrupted. When Killing Blowed, the targ
 A character whose body has been dismembered while **Bleeding Out** or **Dead** may still be healed or revived. The part of the character that can be so affected is represented by and located wherever the player of that character is. The spirit-containing body of a character may be carried by another character, however, the person carrying the body may not run or move faster than the player of the character being carried.
 
 Dismembering a character for the purpose of attempting to use a smaller body part to heal, revive, or even hide the character is not any different than if the character were not dismembered. If a character is **Bleeding Out** or **Dead** and someone wishes to bring that character to a healer, or move the body away from where it fell, they may role-play carrying the body by picking it up on a three count _(ex: "One I pick you up… Two I pick you up… Three I pick you up…")_ and carrying it elsewhere. The carrying player may not run, and both players must roleplay maintaining contact and remain within arm's reach of each other. If any effect would forcibly move the carrier away at a pace faster than a walk, or would otherwise render them unable to hold game items in their hands, the character must drop the body on a One Count _(ex: "One I drop you")_ and may only resume carrying them on a new three count.
+
+## Metabolisms
+Most people and creatures have a regular metabolism. Characters with "no metabolism" or "undead metabolism" are affected by some game effects differently:
+
+### No Metabolism
+- **Crumble at 0 Body** _(When the character reaches 0 or fewer Body Points, they immediately dissipate and seek resurrection.)_
+- Immune to Toxin
+- Immune to Berserk, Command: Confuse, Death, Boon of Nature, Drain, First Aid, Heal Wounds, Hearthstone, Infect, Life, Regenerate, Revive, Revivify, Sleep, Stun, Vampiric Touch, Waylay
+
+> _Generally, a creature that has no metabolism cannot be healed by typical means, but will have an alternate method of being healed. For instance, a Fire Elemental would be immune to standard healing effects, but could be healed by Flame._ 
+
+### Undead Metabolism
+Creatures with Undead Metabolism follow the same rules as "No Metabolism," with the excpetions that they are affected by Heal Wounds (and other standard healing effects) normally, as well as being affected by effects and abilities that specifically target undead (such as Harm Undead).
+
+## Spirit Bottle
+A character with a Spirit Bottle has stored their spirit for safe keeping in an item. Doing so protects the character from incurring Strain, however, it causes the character's body to become brittle. All characters with a Spirit Bottle must crumble at 0 body, and unless otherwise specified, have No Metabolism.
+
+Instead of resurrecting normally, a character with a Spirit Bottle may choose to reform at their Spirit Bottle. Doing so follows the rules for normal resurrection, with these exceptions:
+- Instead of incurring Strain, the number of charges on the character's Spirit Bottle is reduced by 1.
+- The character may only reform wherever their Spirit Bottle is located
+
+When initially created, a Spirit Bottle has 10 charges. If, at any time, the Spirit Bottle is reduced to 0 charges, it can no longer be used to reform. A character with a Spirit Bottle that has 0 charges still crumbles at 0 body, but must resurrect (and incur Strain) normally.
+
+Spirit Bottles may have their charges replenished. Doing so requires the casting of the Spirit Bottle ritual. A Spirit Bottle cannot have more than 10 charges.

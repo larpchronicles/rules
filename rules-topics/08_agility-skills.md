@@ -11,7 +11,7 @@
 
 
 ## Mimicry
-> This skill allows the user to use any single Spell or Stamina ability once per purchase of Mimicry.  The user must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate. Use requires the verbal:  My turn!  <ability verbal/incant>
+> This skill allows the user to use any single Spell or Stamina ability once per purchase of Mimicry.  The user must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate.  Mimicry cannot be used on level 10 Spells.  Use requires the verbal:  My turn!  <ability verbal/incant>
 
 |Mimicry Point Costs|F|T|R|M|
 |---|---|---|---|---|

@@ -15,7 +15,6 @@ Item production is the process by which characters are able to craft consumable 
 |---|---|---|---|---|---|
 | Recycling   | 8 | 8 | 8 | 8 | -   |
 
-
 ## Producing Items
 >Production items are set in Tiers from I-X. It takes as many raw materials ranks to make a single item equal to the production item's tier. But wait! Production items are ranked I-X and raw materials are only ranked I-V, and then X; how do I get VI-IX raw materials? The answer to that is to combine the I-V raw materials to equal the tier of the production item that you are making.
 >
@@ -53,6 +52,7 @@ Item production is the process by which characters are able to craft consumable 
 > 
 >† _Weapon Coatings and Monstrous Auras can still be used with a weapon that has a Magic Aura._
 
+<<<<<<< HEAD
 ## Workshops
 >Characters can purchase a Workshop from Logistics for 10 Credits. Workshops have a durability of 10, and their durability is decreased each time they are used for an event by a given character. Workshops can be used to make large-scale batches of an item, doubling the total output for a single character.
 >  
