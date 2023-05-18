@@ -5,11 +5,6 @@
 * Added clarification to how Carriers & Auras work
 * Clarified Damage Abilities cannot be carriers.
 
-### Agility Skills
-* Warbow Training, incant updated.
-* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
-* Mimicry cannot be used on level 10 Spells.
-
 ### Combat
 * Added clarification to how Carriers & Auras work
 * Added clarification and rules on how Immunities Work
@@ -120,6 +115,8 @@
 * Death spell removed.
 * Enervate spell added at Spirit Rank IX
 * Storm of Curses added at Spirit Rank X
+* Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
+* Create Undead now properly only works on a target once per DEAD status.
 
 ### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons
@@ -129,8 +126,7 @@
 * Warbow Training, incant updated.
 * New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
 * Clarified Memorization
-* Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
-* Create Undead now properly only works on a target once per DEAD status.
+* Mimicry cannot be used on level 10 Spells.
 
 ### Other Skills
 * First Aid description updated with some examples and clarification that you can ask for timers.
