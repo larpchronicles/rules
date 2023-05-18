@@ -188,7 +188,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Type: | Passive|
 | Cost: | 15|
 | Tier: | 5 |
-| Description: | Purchases of Dexterity Armor grant +2 extra Dexterity Armor points (+7 instead of +5)
+| Description: | Purchases of Dexterity Armor grant +2 extra Dexterity Armor points (+7 instead of +5)|
 
 #### &lt;Elemental> Striker
 | Name: | &lt;Elemental> Striker |
