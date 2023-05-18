@@ -15,7 +15,7 @@ This skill allows a character to be initiated into a school of magic, allowing t
 When purchased, the character must specify which school they have mastery over. This skill allows that character to use their Mana Points to cast Level 10 spells of the chosen school. This skill may be purchased only once.
 
 ### Mana Attunement
-In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool. Casting a spell will remove a number of Mana Points from their pool equal to the spells level.
+In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool. Casting a spell will remove a number of Mana Points from their pool equal to the spell's level.
 
 At each Rest (and before first coming into game), the character may distribute their Mana Points across each school for which they possess the School Initiation skill. Their allocation can only be changed once their Rest is completed. Once distributed, the character may cast the spells in that school on the fly, deducting the Mana Point cost of the spell from their points allocated to that school.
 
@@ -26,7 +26,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ---
 
-| Level| Universal | Arcane | Spirit | Nature | 
+| Tier | Universal | Arcane | Spirit | Nature | 
 |---|---|---|---|---|
 | 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink | 
 | 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
