@@ -15,7 +15,7 @@ This skill allows a character to be initiated into a school of magic, allowing t
 When purchased, the character must specify which school they have mastery over. This skill allows that character to use their Mana Points to cast Level 10 spells of the chosen school. This skill may be purchased only once.
 
 ### Mana Attunement
-In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool.
+In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool. Casting a spell will remove a number of Mana Points from their pool equal to the spell's level.
 
 At each Rest (and before first coming into game), the character may distribute their Mana Points across each school for which they possess the School Initiation skill. Their allocation can only be changed once their Rest is completed. Once distributed, the character may cast the spells in that school on the fly, deducting the Mana Point cost of the spell from their points allocated to that school.
 
@@ -26,18 +26,18 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ---
 
-| Level| Universal | Arcane | Spirit | Nature | 
+| Tier | Universal | Arcane | Spirit | Nature | 
 |---|---|---|---|---|
 | 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink | 
-| 2  | | Disrupt Aether<br>Halt<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
+| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
 | 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  | 
 | 4  | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb  | Entangle Arms<br>Command: Kneel |
 | 5  | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify  | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
 | 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body | 
 | 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine | 
-| 8  | Dispel Magic<br>Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
-| 9  |  | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
-| 10 |  | Arcane Torrent<br>Doom| Death<br>Life | Spider Web |
+| 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
+| 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
+| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Spider Web |
 
 
 ## Universal
@@ -49,7 +49,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**| 1 |
 | **Duration**  | 12 hours | |
 | **Incant** | "I conjure a glowing light." |
-| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that the light is only emitting a soft glow and not a sharp directed light as a game marshal may ask the player to extinguish their light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
+| **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6" in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
 
 ### Universal Level IV
 
@@ -58,7 +58,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School**|  Universal |
 | **Level**| 4 |
 | **Duration**  | Rest |
-| **Incant** | "I conjure a \<type\> barrier." |
+| **Incant** | "By my will, I conjure a \<type\> barrier." |
 | **Description**  | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. |
 
 ### Universal Level 5
@@ -69,7 +69,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 5  |
 | **Duration**  | Rest |
 | **Incant**  | "By my will, I entrap your spirit."  |
-| **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. |
+| **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it. |
 
 ### Universal Level 8
 | **Spell** | **Reflect**|
@@ -77,7 +77,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Universal |
 | **Level** | 8  |
 | **Duration** | Rest |
-| **Incant** | "I conjure a reflect \<type\>."|
+| **Incant** | "By my will, I conjure a reflect \<type\>."|
 | **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. |
 
 ### Universal Level 9
@@ -227,7 +227,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | Instant |
 | **Incant**  | "With arcane forces, I destroy <item>." |
-| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. |
+| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches.  This is a DESTROY effect. |
 
 #### **Haste**
 | **Spell** | **Haste** |
@@ -255,8 +255,8 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Arcane|
 | **Level** | 8 |
 | **Duration**  | Rest |
-| **Incant**  | "I conjure a Bag of Holding." |
-| **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows item tags to be stored within the container without the need for also carrying the physical representation. Removing any item from a Bag of Holding requires 60 seconds of concentration. Once an item tag is removed from the container, the player must provide a physical representation as required by the item tag. Once the Bag of Holding ends, all item tags are ejected from the container. The item tags must then be taken to a game storage location if no suitable physical representations are available. A Bag of Holding container is not protected from destruction by the Bag of Holding spell; should a Bag of Holding container be destroyed, all items within the container are also destroyed. Bag of Holding does not protect any items within from being targeted. A Bag of Holding may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs and PCs cannot be stored within the Bag of Holding without express permission from the Plot Team. |
+| **Incant**  | "I conjure a bag of holding." |
+| **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows item tags to be stored within the container without the need for also carrying the physical representation. Removing any item from a Bag of Holding requires 60 seconds of concentration. Once an item tag is removed from the container, the player must provide a physical representation as required by the item tag. Once the Bag of Holding ends, all item tags are ejected from the container. The item tags must then be taken to a game storage location if no suitable physical representations are available. A Bag of Holding container is not protected from destruction by the Bag of Holding spell; should a Bag of Holding container be destroyed, all items within the container are also destroyed. Bag of Holding does not protect any items within from being targeted. A Bag of Holding may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs and PCs cannot be stored within the Bag of Holding without express permission from the Plot Team. In th event a Bag of Holding is Spirit Locked, only the Bag is brought along through Resurrection, nothing inside it. |
 
 ### Arcane Level 9
 #### **Circle of Power**
@@ -483,19 +483,27 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 9  |
 | **Duration**  | 5 minutes |
 | **Incant**  | "By the spirits, I force this minion to rise and serve." |
-| **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target's spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. A single target may not be affected by this more than once per instance of being DEAD. This is an ANIMATE effect and causes an UNDEAD effect. |
+| **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target's spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect. |
+
+| **Spell** | **Enervate** |
+|:---|:---|
+| **School** | Spirit |
+| **Level** | 9 |
+| **Duration** | 20 Seconds  |
+| **Incant** | "I afflict you with Enervation" |
+| **Description** | The caster saps the vital force of the target, weakening their connection to life. For the duration of this effect, if any damage causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state, and they become immune to REVIVIFY effects for their current DEAD count. This is an ENERVATE effect. |
 
 
 ### Spirit Level 10
  
 #### Death
-| **Spell** | **Death** |
+| **Spell** | **Storm of Curses** |
 |:---|:---|
 | **School** | Spirit |
 | **Level** | 10 |
-| **Duration** | Instant  |
-| **Incant** | "I grant you the gift of death 50" |
-| **Description** | The caster saps the vital force of the target for 50 damage. This damage cannot be increased by any means. If the spell causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state. This is a DEATH effect. |
+| **Duration** | Concentration  |
+| **Incant** | "I afflict you all with curse!... Magic Curse, Magic Curse, Magic Curse... " |
+| **Description** | The caster plants their feet and is able to throw "Magic Curse" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
 
 #### **Life**
 | **Spell** | **Life** |
@@ -680,7 +688,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | 20 seconds |
 | **Incant**  | "By nature, I confine you." |
-| **Description** |  This spell renders the target completely unable to move while under the effects of this spell. They also may not activate any game skills other than Escape Artist, Rip Free, or Minimize. This is a CONFINE effect. |
+| **Description** |  This spell renders the target completely unable to move while under the effects of this spell.  This is a CONFINE effect. |
 
 ### Nature Level 8
 

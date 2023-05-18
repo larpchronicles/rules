@@ -1,7 +1,9 @@
 # Agility Skills
 
 ## Agility Points
-> Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points.
+> Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points. Using an ability will remove a number of Agility Points from their pool equal to the ability's level. 
+> 
+> Characters may alternatively choose to explicitly memorize their ability list. Doing so grants a bonus 10% total Agility Points to be distributed. The character must mark down how many of which abilities they have chosen to memorize, and they may then only use those abilities (until their next Rest).
 
 |Agility Pool|F|T|R|M|
 |---|---|---|---|---|
@@ -182,7 +184,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 10|
 | **Duration** | Rest|
 | **Call**| "I Hone My Agile Skill" |
-|**Description**| Agile Proficiencies are purchased with Agility Points, and last until the character next rests. Agile Proficiencies increase the damage dealt with Ranged Weapons, and the damage dealt with Short Weapons when attacking from Behind. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call.|
+|**Description**| Agile Proficiencies are purchased with Agility Points, and last until the character next rests. Agile Proficiencies increase the damage dealt with Ranged Weapons, and the damage dealt with Short Weapons when attacking from Behind. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call. Agility Points spent on Agile Proficiency cannot be restored by any means, other than Rest.|
 #### **Murder**
 | Ability | **Murder** |
 |:---|---|

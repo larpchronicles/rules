@@ -1,9 +1,9 @@
 # Changelog
 ## 3.0.7 [2023-05-11]
 
----
-### Agility Prof Proposal
-* Added proposal to introduce Proficiencies in Agility
+### Combat
+* Added clarification to how Carriers & Auras work
+* Clarified Damage Abilities cannot be carriers.
 
 ### Agility Skills
 * Warbow Training, incant updated.
@@ -23,10 +23,11 @@
 * ENSlAVEMENT specifies that the target is unaware.
 * Added note to GASEOUS
 * DOOM effect updated.
-* DEATH effect updated.
+* DEATH effect removed
 * BERSERK now reflects it's actual function.
 * CONCENTRATION now properly noted to break on taking damage.
 * CONFINE now properly restricts skill usage.
+* ENERVATE status added.
 * SILENCE now properly restricts spellcasting.
 * STAGGER removed, old effect not in use.
 * TELEPORT BLOCK removed, redundant.
@@ -115,6 +116,19 @@
 * Halt is now Stop, incant updated.
 * Mastery abilities removed (Prior ruling, just cleaning)
 * All Fiendish Spells have had their incants updated.
+* Entrap Spirit clarified to not give more than 1 gem per target.
+* Death spell removed.
+* Enervate spell added at Spirit Rank IX
+* Storm of Curses added at Spirit Rank X
+
+### Stamina Skills
+* Weapon Proficiency can no longer be used on Ranged Weapons
+* Clarified Memorization
+
+### Agility Skills
+* Warbow Training, incant updated.
+* New Agile Proficiency: usable with Ranged Weapons and for Short Weapons from behind.
+* Clarified Memorization
 * Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
 * Create Undead now properly only works on a target once per DEAD status.
 
@@ -124,6 +138,7 @@
 * A marshal determines tracking success (no bead draw) and that a PC cannot be tracked by another PC and removed the word terrestrial.
 
 ### Production Skills
+* Production Overhaul: Production has had a significant update.
 * Dispel Magic doesn't work on Glyphs
 * Weapon Coatings clarified to only give 1 swing.
 
@@ -188,7 +203,6 @@
 * Added clarification to Dexterity Armor.
 * Added Toughness Table
 * Updated tables to show Mages instead of Scholars
-
 
 ### Stamina
 * Disarm updated.

@@ -86,6 +86,7 @@ This is not necessarily true with auras (ie, damage types). So, if a player has 
   
   >Archibald the Artificer has a silvered short sword. He decides to use his artificing skill to enchant the sword with a Magic Aura. The resulting weapon is no longer silvered, and will only have Magic Aura on the item tag.
 
+Abilities that cause damage (Such as Mana Bolt, Doom, etc.) can never function as Damage Carriers.
 ## Defensive Ability Slots
 
 ---
