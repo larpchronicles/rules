@@ -1,5 +1,5 @@
 # Changelog
-## 3.0.7 [2023-05-11]
+## 3.0.7 [2023-05-18]
 
 ### Combat
 * Added clarification to how Carriers & Auras work
@@ -24,7 +24,7 @@
 * Added note to GASEOUS
 * DOOM effect updated.
 * DEATH effect removed
-* BERSERK now reflects it's actual function.
+* BERSERK now reflects its actual function.
 * CONCENTRATION now properly noted to break on taking damage.
 * CONFINE now properly restricts skill usage.
 * ENERVATE status added.
@@ -686,7 +686,7 @@
 * Poisonous Darts are now “Poisonous Damage Darts”
 * Paralyzing Dart is now “Stunning Toxin”
 * Itching Powder Toxin is now Kneel Toxin and is a KNEEL effect
-* Warblade’s Armor Polish is now a 3 count.
+* Warblade's Armor Polish is now a 3 count.
 * Well Purification Tablet now takes 60 seconds to apply.
 * Ingestible Toxin Catalyst added at Rank I. Turns any <Effect> Toxin into an ingestible version.
 * Poison Antidote is now Toxin Antidote
@@ -704,7 +704,7 @@
 * New Rank I recipe added:  Quiver.
 
 <u>Artificing</u>
-* Titan’s Iron Boots removed.  Will be replaced in next version.
+* Titan's Iron Boots removed.  Will be replaced in next version.
 * Endless Quiver removed.
 
 <u>Wood Carving</u>

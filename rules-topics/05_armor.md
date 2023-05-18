@@ -55,7 +55,7 @@ Treated animal hide widely used as a cost effective means of protection, while r
 
 
 ### Hard Leather
-Hardened, formed leather that retains its shape and offers significantly more protection against piercing and slashing than it's non-hardened counterpart. Less heavy than traditional metal armor, and more cost-effective for adventurers who lack coin.
+Hardened, formed leather that retains its shape and offers significantly more protection against piercing and slashing than its non-hardened counterpart. Less heavy than traditional metal armor, and more cost-effective for adventurers who lack coin.
 **Required**: At least 4oz hardened veg tan leather, or analog that has the ability to retain its shape under mild pressure.  
 
 | **Hard Leather Coverage** | **Armor Points** |

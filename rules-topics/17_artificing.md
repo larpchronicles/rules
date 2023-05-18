@@ -172,7 +172,7 @@
 ### Tier IX
 
 #### Shield of the Last Stand
-   > This incredible shield is imbued with the fortitude and resolve to shrug off even the most heinous blows in the face of overwhelming odds, knowing that it may be only your act that spares your allies from death. The bearer of this shield may invoke it's power by planting their feet and declaring "I Make My Last Stand". Once activated, the Shield may not be dropped, and the bearer becomes immune to all effects of their choice other than Aether for 5 minutes. However, this power comes at a cost. After the 5 minutes is up, their body immediately dissipates and their spirit departs to seek resurrection.<br/>
+   > This incredible shield is imbued with the fortitude and resolve to shrug off even the most heinous blows in the face of overwhelming odds, knowing that it may be only your act that spares your allies from death. The bearer of this shield may invoke its power by planting their feet and declaring "I Make My Last Stand". Once activated, the Shield may not be dropped, and the bearer becomes immune to all effects of their choice other than Aether for 5 minutes. However, this power comes at a cost. After the 5 minutes is up, their body immediately dissipates and their spirit departs to seek resurrection.<br/>
    > 50 Smithing Materials, 30 Rune Carving Materials, 10 Alchemy Materials, 9 Spirit Gems
 
 ### Tier X

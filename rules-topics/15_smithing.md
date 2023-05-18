@@ -10,7 +10,7 @@
 #### Lock
    >This recipe allows the Smith to create a lock able to keep out unskilled burglars. Lock physical representations are attached to the main door of a structure. This lock indicates that all portals are locked. The tag for the lock will be attached to the back of the lock presentation, and will note the quality of the lock as well as the lock ID code. To be able to enter a locked structure, a character must have a key tag that is ID associated with the lock. A character with a Key may unlock a Locked door on a 3 count, and may re-lock it on another 3 count. The rating of this lock is 1. This has 5 Durability.
 #### Rusty Weapon
->The sign of a poor smith, or a genius, depending on who you ask. This process intentionally rusts the weapon to make it inflict foul wounds upon those it strikes. This process changes the base damage type of the weapon to Poison, at the cost of reducing it's Durability by 2. A Rusty Weapon cannot be Silvered.
+>The sign of a poor smith, or a genius, depending on who you ask. This process intentionally rusts the weapon to make it inflict foul wounds upon those it strikes. This process changes the base damage type of the weapon to Poison, at the cost of reducing its Durability by 2. A Rusty Weapon cannot be Silvered.
 
 
 ### Tier II
@@ -49,7 +49,7 @@
 #### Two-Handed Weapon
    >This creates a finely made Two-Handed Weapon that has a base damage of 1, with 5 Durability.
 #### Whetstone 
-   >A user can spend 1 minute of careful sharpening using this tool to improve a single weapon's base damage by 1 for 5 days. This process however shorten's the item's lifespan, reducing its durability by 1. If this would reduce the durability to 0, the item is destroyed. This item cannot stack with similar effects. This item does not work on Unarmed or Claws. This item is consumed on use.
+   >A user can spend 1 minute of careful sharpening using this tool to improve a single weapon's base damage by 1 for 5 days. This process however shortens the item's lifespan, reducing its durability by 1. If this would reduce the durability to 0, the item is destroyed. This item cannot stack with similar effects. This item does not work on Unarmed or Claws. This item is consumed on use.
 
 ### Tier VI
 
