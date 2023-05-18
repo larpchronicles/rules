@@ -147,7 +147,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 |Confine|Conscious|**Curse of Transformation||
 |Confuse|Dead|Infect||
 |Disarm|Draine|Spirit Bottle||
-|Engulfe|Inert|||
+|Engulf|Inert|||
 |Entangle|Preserve|||
 |Fear|Revive|||
 |Invulnerable|Silence|||
