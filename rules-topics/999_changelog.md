@@ -97,6 +97,9 @@
 * Added Politics Entry 
 * Added Identify Ability and table
 * Added Floating Reset
+* Added additional terms in new player guide.
+* Rewrote 2nd person wording.
+* Added some clarifications and examples.
 
 ### Life & Death
 * Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
