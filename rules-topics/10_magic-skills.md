@@ -497,7 +497,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Spirit Level 10
  
 #### Death
-| **Spell** | **Curse Cascade** |
+| **Spell** | **Storm of Curses** |
 |:---|:---|
 | **School** | Spirit |
 | **Level** | 10 |
