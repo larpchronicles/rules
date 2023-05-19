@@ -1,7 +1,9 @@
 # Agility Skills
 
 ## Agility Points
-> Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points.
+> Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points. Using an ability will remove a number of Agility Points from their pool equal to the ability's level. 
+> 
+> Characters may alternatively choose to explicitly memorize their ability list. Doing so grants a bonus 10% total Agility Points to be distributed. The character must mark down how many of which abilities they have chosen to memorize, and they may then only use those abilities (until their next Rest).
 
 |Agility Pool|F|T|R|M|
 |---|---|---|---|---|
@@ -9,7 +11,7 @@
 
 
 ## Mimicry
-> This skill allows the user to use any single Spell or Stamina ability once per purchase of Mimicry.  The user must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate. Use requires the verbal:  My turn!  <ability verbal/incant>
+> This skill allows the user to use any single Spell or Stamina ability once per purchase of Mimicry.  The user must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate.  Mimicry cannot be used on level 10 Spells.  Use requires the verbal:  My turn!  <ability verbal/incant>
 
 |Mimicry Point Costs|F|T|R|M|
 |---|---|---|---|---|
@@ -31,6 +33,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 7 | Ballista<br>Cursing Shot |
 | 8 | Surprising Proficiency |
 | 9 | Dodge |
+| 10 | Agile Proficiency |
 | 10 | Murder |
 
 ### Level 1 Agility Abilities
@@ -113,7 +116,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Type**| Agility|
 | **Level**| 5 |
 | **Duration** | Rest |
-| **Call**| "Physical Kneel" |
+| **Call**| "My Bow is Ready" |
 | **Description** |This skill allows the user to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  User must spend 1 minute roleplaying inspecting their bow and recalling their training.|
 | **Requirements**| Ranged Weapon|
 
@@ -174,7 +177,14 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Description** |This skill allows the character to Dodge a Physical, Spell, or Toxin attack.  Use of the skill requires 2 Defensive Slots to be Active.  Regardless of the number of Defensive Slots a character has, they may not have more than one active Dodge.  The character may choose which type of resist to use at the time of use.  This is a DODGE effect.|
 
 ### Level 10 Agility Abilities
-
+#### *Agile Proficiency*
+| Ability | ** Agile Proficiency**  | 
+|:---|---|
+| **Type**| Agility |
+| **Level**| 10|
+| **Duration** | Rest|
+| **Call**| "I Hone My Agile Skill" |
+|**Description**| Agile Proficiencies are purchased with Agility Points, and last until the character next rests. Agile Proficiencies increase the damage dealt with Ranged Weapons, and the damage dealt with Short Weapons when attacking from Behind. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call. Agility Points spent on Agile Proficiency cannot be restored by any means, other than Rest.|
 #### **Murder**
 | Ability | **Murder** |
 |:---|---|

@@ -42,11 +42,17 @@
 ---
 Physical strikes are weapon delivered combat effects used by characters. A physical strike is delivered once using a weapon attack, and must strike the target character successfully without being blocked in order to be a successful attack. Physical strikes are considered used whether the attack was successful or not. Physical strikes that are blocked by shields or weapons, have been blocked and are considered unsuccessful attacks. Unsuccessful physical strikes and physical strikes that have been resisted can be regained by the character resting. Physical strike effects are not magical in nature; therefore, they cannot be removed by the Dispel Magic spell or any removal skill that is limited to effects of magical origin only.
 
+## Stamina Points
+> Stamina Points are purchased with Skill Points and may then be used to toward uses of Stamina Pool Abilities.  Each purchase of Stamina Points grants 10 Stamina Points. Using an ability will remove a number of Stamina Points from their pool equal to the ability's level. 
+> 
+> Characters may alternatively choose to explicitly memorize their ability list. Doing so grants a bonus 10% total Stamina Points to be distributed. The character must mark down how many of which abilities they have chosen to memorize, and they may then only use those abilities (until their next Rest).
 
+|Stamina Pool|F|T|R|M|
+|---|---|---|---|---|
+|Cost Per 10 Stamina|5+3|5+5|5+5|20+10|
 
 ## Stamina Point Skills
 
-The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stamina Point, Curse costs 6 Stamina Points)
 
 | Level | Abilities |
 |---|---|
@@ -220,7 +226,7 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Level**| 7 |
 | **Duration** | Instant|
 | **Call**| "Physical Destroy <target item>" |
-| **Description** | This is strike that instantly destroys the target's armor, weapon, or shield.  This is a DESTROY effect. |
+| **Description** | This is strike that instantly destroys the target's armor, weapon, or shield. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. |
 | **Requirement** | - |
 
 
@@ -272,13 +278,11 @@ The Stamina cost of each ability is equal to its level (ie, Disarm costs 1 Stami
 | **Level**| 10|
 | **Duration** | Rest|
 | **Call**| "I Hone My Fighting Skill" |
-|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Ranged and Two-Handed Weapons, and last until the character next rests. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call.|
+|**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Two-Handed Weapons, and last until the character next rests. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call. This may not be used for Ranged Weapons. Stamina Points spent on Weapon Proficiencies may not be restored by any means, other than Rest.|
 
 Fighters may use any melee proficiency for any melee weapon, for either hand.<br> 
 >Example: Atilla the Fighter spends 20 Stamina Points for two "One-handed Proficiencies". Atilla may use their +2 damage with any longsword, claw, two-handed sword, polearm, etc. (Everything but a bow or thrown.)
  
-Rogues may use any ranged proficiencies for bows, crossbows, or thrown weapons.  Rogues may also use ranged proficiencies with any one-handed melee weapon, but only from behind their target.  (ie:  Rogued Ranged Proficiencies are also a +1 melee Backstab.)
-
 Two-Handed Weapons receive 1.5x (rounded down) benefit from Proficiencies.
 
 >Example:  Branuk spends 20 Stamina Points for 2x Two-handed Weapon Proficiencies. He can now swing his Two-handed Sword for +3 damage.|

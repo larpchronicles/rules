@@ -14,13 +14,8 @@ This skill allows a character to be initiated into a school of magic, allowing t
 ### School Specialization
 When purchased, the character must specify which school they have mastery over. This skill allows that character to use their Mana Points to cast Level 10 spells of the chosen school. This skill may be purchased only once.
 
-Additionally, a character has access to a school-specific ability:
-- Arcane: Allows the character to Identify an item or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
-- Spirit: Allows the character to briefly sense the presence of recently untethered spirits.
-- Nature: Allows the character the occasional ability to sense extreme danger, possibly even gaining temporary sight from a nearby animal in a position to warn the character. The character cannot control these abilities, it is entirely up to the Plot Team to determine when the character receives these warnings and visions.
-
 ### Mana Attunement
-In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool.
+In order to cast a spell, a character must possess the appropriate School Initiation skill, and purchase ranks of Mana Attunement. Each purchase of Mana Attunement adds 10 Mana Points to the character's Mana Pool. Casting a spell will remove a number of Mana Points from their pool equal to the spell's level.
 
 At each Rest (and before first coming into game), the character may distribute their Mana Points across each school for which they possess the School Initiation skill. Their allocation can only be changed once their Rest is completed. Once distributed, the character may cast the spells in that school on the fly, deducting the Mana Point cost of the spell from their points allocated to that school.
 
@@ -31,18 +26,18 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ---
 
-| Level| Universal | Arcane | Spirit | Nature | 
+| Tier | Universal | Arcane | Spirit | Nature | 
 |---|---|---|---|---|
 | 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink | 
-| 2  | | Disrupt Aether<br>Halt<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
+| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
 | 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  | 
 | 4  | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb  | Entangle Arms<br>Command: Kneel |
 | 5  | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify  | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
 | 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body | 
-| 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Preserve Corpse<br>Vampiric Touch | Command: Confuse<br>Confine | 
-| 8  | Dispel Magic<br>Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
-| 9  |  | Circle of Power<br>Mana Bolt| Create Undead<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
-| 10 |  | Arcane Torrent<br>Doom| Death<br>Life | Spider Web |
+| 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine | 
+| 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
+| 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
+| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Spider Web |
 
 
 ## Universal
@@ -63,7 +58,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School**|  Universal |
 | **Level**| 4 |
 | **Duration**  | Rest |
-| **Incant** | "I conjure a \<type\> barrier." |
+| **Incant** | "By my will, I conjure a \<type\> barrier." |
 | **Description**  | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Spell. This is an ACTIVE RESIST effect. |
 
 ### Universal Level 5
@@ -74,7 +69,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 5  |
 | **Duration**  | Rest |
 | **Incant**  | "By my will, I entrap your spirit."  |
-| **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. |
+| **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it. |
 
 ### Universal Level 8
 | **Spell** | **Reflect**|
@@ -82,7 +77,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Universal |
 | **Level** | 8  |
 | **Duration** | Rest |
-| **Incant** | "I conjure a reflect \<type\>."|
+| **Incant** | "By my will, I conjure a reflect \<type\>."|
 | **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. |
 
 ### Universal Level 9
@@ -93,7 +88,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 9 |
 | **Duration**  | Instant|
 | **Incant**  | "By my will, I dispel magic."|
-| **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. |
+| **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. Dispel Magic does not effect Glyphs or similar items. |
 
 ## Arcane
 
@@ -128,15 +123,15 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 2 |
 | **Duration**  | 20 seconds |
 | **Incant**  | "With arcane forces I disrupt your aether."|
-| **Description** |  This spell will prevent the target from activating spells from wands, tattoos, or using the effects of any possessed magic items.  This is an INERT effect. |
+| **Description** |  This spell will prevent the target from activating spells from wands, tattoos, the effects of Runes, or using the active effects of any possessed magic items. This is an INERT effect. |
 
-#### **Halt**
-| **Spell** | **Halt**|
+#### **Stop**
+| **Spell** | **Stop**|
 |:---|:---|
 | **School** | Arcane|
 | **Level** | 2 |
 | **Duration** | Instant |
-| **Incant** | "With arcane forces, I halt you."|
+| **Incant** | "With arcane forces, I stop you."|
 | **Description** | This spell prevents the target from advancing into combat until the spell has ended or is removed. This is a STOP THRUST effect. |
 
 ### Arcane Level 3
@@ -232,7 +227,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 7 |
 | **Duration**  | Instant |
 | **Incant**  | "With arcane forces, I destroy <item>." |
-| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches.  This is a DESTROY effect. |
+| **Description** |  This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. This is a DESTROY effect. |
 
 #### **Haste**
 | **Spell** | **Haste** |
@@ -261,7 +256,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 8 |
 | **Duration**  | Rest |
 | **Incant**  | "I conjure a bag of holding." |
-| **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows game cards to be stored within the container without the need for also carrying the physical representation. Once a game card is removed from the container, the player must provide a physical representation as required by the game card. Once the bag of holding ends, all game cards are ejected from the container. The game cards must then be taken to a game storage location if no suitable physical representations are available. A Pocket Dimension container is not protected from destruction by the Pocket Dimension spell; should a Pocket Dimension container be destroyed, all items within the container are also destroyed. A bag of holding may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs, and PCs cannot be stored within the bag of holding without express permission from the Plot Team. |
+| **Description** |  This spell, when cast on a container of up to 64 cubic inches, allows item tags to be stored within the container without the need for also carrying the physical representation. Removing any item from a Bag of Holding requires 60 seconds of concentration. Once an item tag is removed from the container, the player must provide a physical representation as required by the item tag. Once the Bag of Holding ends, all item tags are ejected from the container. The item tags must then be taken to a game storage location if no suitable physical representations are available. A Bag of Holding container is not protected from destruction by the Bag of Holding spell; should a Bag of Holding container be destroyed, all items within the container are also destroyed. Bag of Holding does not protect any items within from being targeted. A Bag of Holding may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs and PCs cannot be stored within the Bag of Holding without express permission from the Plot Team. In th event a Bag of Holding is Spirit Locked, only the Bag is brought along through Resurrection, nothing inside it. |
 
 ### Arcane Level 9
 #### **Circle of Power**
@@ -303,7 +298,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 1  |
 | **Duration**  | 5 minutes |
-| **Incant**  | "Fiends of the dark nether, reward me with your service." |
+| **Incant**  | "By the spirits I command you, reward me with your service." |
 | **Description** |  This spell allows the caster to vocally control a minor undead creature. The creature cannot understand complex instructions, but it will follow simple directions to the best of its ability. The undead creature is destroyed once this spell ends.  This is a VOICE CONTROL effect. |
 
 #### **Heal Wounds**
@@ -345,6 +340,14 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant**  | "By the spirits, I provide a healing touch." |
 | **Description** |  This spell will continuously heal the target for 1 body every 3 seconds as long as the caster is within arm's reach of the target and role-playing touching them, and the caster is able to maintain concentration. Every three seconds, the caster will repeat the phrase "Healing 1" while in contact with the target in order to let the target know that they have received 1 point of healing. |
 
+#### **Preserve Corpse**
+| **Spell** | **Preserve Corpse** |
+|:---|:---|
+| **School** | Spirit |
+| **Level**  | 2  |
+| **Duration**  | 5 minutes |
+| **Incant**  | "By the spirits, I preserve your corpse." |
+| **Description** |  This spell will halt the death count of a dead body as long as the spirit is still tethered to the corpse. Once this spell has ended, the original death count resumes from where it stopped. A corpse may only be preserved once before it must be healed, or revived. May not be dispelled.  This is a PRESERVE effect. |
 
 ### Spirit Level 3
 
@@ -365,7 +368,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 4  |
 | **Duration**  | 20 seconds |
-| **Incant**  | "Fiends of the dark nether, rot this <limb>." |
+| **Incant**  | "By the spirits I rot this <limb>." |
 | **Description** |  This spell causes the target's limb to become completely useless. Any items that are held by the rotting limb do not drop to the ground.  This is a DISARM effect. |
 
 
@@ -387,7 +390,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level**  | 5  |
 | **Duration**  | 1 Minute |
 | **Incant**  | "By the spirits, I grant you a resurrection." |
-| **Description** | This spell causes the caster to enter concentration, which must be maintained for 1 minute for the spell the succeed. The caster must maintain contact with the target for the duration of concentration. The caster must be in concentration and unimpeded for the entire casting time of this spell, else the spell will fail.  If the caster's concentration is broken, the target does not incur strain.  Once the spell is cast, the target spirit must clearly indicate acknowledgement of the spell to the caster. The target may refuse this spell, for any IG or OOG reason, by responding with "Refused" to the caster of the spell. The target does not need to justify their refusal of the spell.<br><br>Once the 1 minute concentration is complete the target's body begins to reform, on a 3 count, next to the caster, and the target incurs strain as per a normal resurrection.  While reforming, the target is In-Game, and can be affected by effects normally.|
+| **Description** | This spell causes the caster to enter concentration, which must be maintained for 1 minute for the spell the succeed. The caster must maintain contact with the target for the duration of concentration. The caster must be in concentration and unimpeded for the entire casting time of this spell, else the spell will fail.  If the caster's concentration is broken, the target does not incur strain.  Once the spell is cast, the target spirit must clearly indicate acknowledgement of the spell to the caster. The target may refuse this spell, for any IG or OOG reason, by responding with "Refused" to the caster of the spell. The target does not need to justify their refusal of the spell.<br><br>Once the 1 minute concentration is complete the target's body begins to reform, on a 3 count, next to the caster, and the target incurs strain as per a normal resurrection. Unlike a normal Resurrection, the target does not gain any refresh of their abilities. While reforming, the target is In-Game, and can be affected by effects normally.|
 
 #### **Revivify**
 | **Spell**| **Revivify**|
@@ -401,14 +404,14 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ### Spirit Level 6
  
-#### **Dull Pain**
-| **Spell**| **Dull Pain**|
+#### **Enhanced Focus**
+| **Spell**| **Enhanced Focus**|
 |:---|:---|
 | **School** | Spirit |
 | **Level**  | 6  |
 | **Duration**  | 20 seconds|
-| **Incant**  | "By the spirits, I dull your pain."|
-| **Description** | This spell causes the target to become numb to pain for the duration of this spell. Dull Pain allows the target to cast spells while being hit and/or damaged.  It also allows a target to use defensises during a -count ability without breaking Concentration or interrupting the ability.  The defense may be called either during or after the count.  ie: "One I rift out, two I rift out, Dodge, three I rift out." |
+| **Incant**  | "By the spirits, I enhance your Focus."|
+| **Description** | This spell causes the target's focus to reach truly superhuman levels, allowing them to maintain Concentration on spells or abilities, even while taking damage. Any effect that would render them unable to act, such as STUN or SLEEP will still break their concentration.  |
 
 #### **Fear**
 | **Spell** | **Fear** |
@@ -440,22 +443,13 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Incant** | "By the spirits, I curse you."|
 | **Description** | This spell will cause the target to take double damage from all sources.  Damage doubling effects cannot be stacked.  This is a CURSE effect.|
 
-#### **Preserve Corpse**
-| **Spell** | **Preserve Corpse** |
-|:---|:---|
-| **School** | Spirit |
-| **Level**  | 7  |
-| **Duration**  | 5 minutes |
-| **Incant**  | "By the spirits, I preserve your corpse." |
-| **Description** |  This spell will halt the death count of a dead body as long as the spirit is still tethered to the corpse. Once this spell has ended, the original death count resumes from where it stopped. A corpse may only be preserved once before it must be healed, or revived. May not be dispelled.  This is a PRESERVE effect. |
-
 #### **Vampiric Touch**
 | **Spell** | **Vampiric Touch** |
 |:---|:---|
 | **School** | Spirit |
 | **Level**  | 7  |
 | **Duration**  | 20 seconds |
-| **Incant**  | "By the fiends of the dark nether, I claim your vitae." |
+| **Incant**  | "By the spirits, I claim your vitae." |
 | **Description** |  This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's body. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's body is fully recovered. This spell will heal either a living or an undead caster. |
 
 
@@ -476,7 +470,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 8  |
 | **Duration**  | Rest |
-| **Incant**  | "Fiends of the dark nether, create a phylactery for my spirit." |
+| **Incant**  | "By the spirits, I create a phylactery for my spirit." |
 | **Description** |  This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body be reduced to 0, the caster immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body with no strain. The phylactery is always destroyable. Should the phylactery be destroyed, the character dies and the spirit must seek resurrection normally, including accruing strain.  This is a SPIRIT BOTTLE effect. |
 
 
@@ -488,20 +482,28 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 9  |
 | **Duration**  | 5 minutes |
-| **Incant**  | "Fiends of the dark nether, force this minion to rise and serve." |
-| **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target's spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect and causes an UNDEAD effect. |
+| **Incant**  | "By the spirits, I force this minion to rise and serve." |
+| **Description** |  This spell will temporarily animate a corpse that has not yet dissipated, binding the target's spirit to its corpse and pausing its five minute death count. Upon the ending of this effect, the target shall resume their death count from the point at which this effect paused it. The target will remember its actions and the events it observes during the duration of this effect. The target is considered a Minor Undead, and is obviously recognizable as _Undead <Character Name>_, or _Undead &lt;Character Race>_. The target will follow simple commands given by the caster, including speaking a phrase, moving, and using skills. If commanded to speak, the target may only repeat phrases given to it by the caster. The target cannot be compelled to reveal secret information, and it cannot be compelled to take action requiring secret information. _(Ex: the target cannot be commanded to speak the combination to its secret safe, nor can it be commanded to unlock its secret safe.)_ By default, if the target is not given any commands, the target will not speak and simply follow the caster and attack anything that attacks the caster. This is an ANIMATE effect. |
+
+| **Spell** | **Enervate** |
+|:---|:---|
+| **School** | Spirit |
+| **Level** | 9 |
+| **Duration** | 20 Seconds  |
+| **Incant** | "I afflict you with Enervation" |
+| **Description** | The caster saps the vital force of the target, weakening their connection to life. For the duration of this effect, if any damage causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state, and they become immune to REVIVIFY effects for their current DEAD count. This is an ENERVATE effect. |
 
 
 ### Spirit Level 10
  
 #### Death
-| **Spell** | **Death** |
+| **Spell** | **Storm of Curses** |
 |:---|:---|
 | **School** | Spirit |
 | **Level** | 10 |
-| **Duration** | Instant  |
-| **Incant** | "I grant you the gift of death 50" |
-| **Description** | The caster saps the vital force of the target for 50 damage. This damage cannot be increased by any means. If the spell causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state. This is a DEATH effect. |
+| **Duration** | Concentration  |
+| **Incant** | "I afflict you all with curse!... Magic Curse, Magic Curse, Magic Curse... " |
+| **Description** | The caster plants their feet and is able to throw "Magic Curse" until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
 
 #### **Life**
 | **Spell** | **Life** |

@@ -10,7 +10,7 @@ There are two periods of time on Evren when skills and magic items can be rechar
 ## Rest
 
 ---
-Rest is a short period of time that the character takes to relax and recharge their personal Aether stores of energy required to use the magical and martial skills that the character has learned. Rest has a maximum duration of two hours, and a minimum duration of 30 minutes. Several items and skills in game can be used by the character to reduce their Rest time. You may also choose to NPC during your character's Rest time for more game rewards! 
+Rest is a short period of time that the character takes to relax and recharge their personal Aether stores of energy required to use the magical and martial skills that the character has learned. Rest has a maximum duration of two hours, and a minimum duration of 30 minutes. Several items and skills in game can be used by the character to reduce their Rest time. A player may also choose to NPC during their character's Rest time for more game rewards! 
 
 Resting requires that the character take a break from adventuring for a period of time. During Rest, the character may not use skills, and may not run. If the character does any of these things the Rest ends. The character is focused on letting their body absorb the ambient Aether in the area to restore their energy. 
 
