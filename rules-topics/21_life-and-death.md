@@ -97,6 +97,8 @@ After every event a player attends, any SP Debt they have is reduced by 25% (min
 > Total Debt: 23
 > Effective SP: 295
 
+See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d/15gMsb7XrGNeszVXrXdbBHoo2zRIrJsqgvPt6i-ehjxA/edit#gid=711556602) for an interactive SP Debt calculator. 
+
 
 ## Permanent Death
 
