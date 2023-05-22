@@ -1,5 +1,11 @@
 # Changelog
-## 3.0.7 [2023-05-18]
+## 3.1.1 [2023-05-21]
+* Changed Ritual Magic to a single purchase 20 SP skill
+* Removed shield req from Intercept
+* Added Nature level 10 spell Sanctuary
+* Added SP Debt
+
+## 3.1.0 [2023-05-18]
 
 ### Combat
 * Added clarification to how Carriers & Auras work
