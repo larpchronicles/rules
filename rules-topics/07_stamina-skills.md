@@ -204,8 +204,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Level**| 6 |
 | **Duration** | Instant|
 | **Call**| "Intercept"|
-| **Description** |This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect.|
-|**Requirements**|Shield|
+| **Description** | This skill allows the character to accept a weapon or spell attack that struck a nearby target upon themselves instead. The intercepted target must be within weapon striking range of the character when the attack landed in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect. If no defense is available, or they choose to not use a defense, they take the effect or damage instead of the target.|
 
 ### Level 7 Stamina Abilities
 

@@ -37,7 +37,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine | 
 | 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
 | 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
-| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Spider Web |
+| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Sanctuary<br>Spider Web |
 
 
 ## Universal
@@ -266,7 +266,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 9 |
 | **Duration**  | 5 minutes |
 | **Incant**  | "I conjure a Circle of Power." |
-| **Description** |  This spell requires the caster to first place a braided white and red rope physical representation on the ground in a circular formation that is no larger than 10 feet in diameter. The Circle of Power will become a cylinder shaped container 10 feet high with a top and bottom surface. Once the physical representation is placed, the caster must cast the Circle of Power spell on the physical representation rope. For the duration of this spell, and as long as the caster maintains concentration, anyone inside the physical representation of the spell at the time of casting is protected from spells, physical attacks, and toxins while within the circle. Should a character leave the protection of the circle, they will lose their invulnerability, and they cannot re-enter. Circle of Power is not able to be dispelled by the Dispel Magic spell.  This is an INVULNERABLE effect. |
+| **Description** |  This spell requires the caster to first place a braided white and red rope physical representation on the ground in a circular formation that is no larger than 20 feet in diameter. The Circle of Power will become a cylinder shaped container 20 feet high with a top and bottom surface. Once the physical representation is placed, the caster must cast the Circle of Power spell on the physical representation rope. For the duration of this spell, and as long as the caster maintains concentration, no effects, including Aether or Voice Radius, may cross the barrier of the circle. Any effects or attacks from outside the circle may not pass in, and any effects or attacks from inside the circle may not pass out. Creatures may not pass into the circle except through Rift effects. Creatures inside the circle may exit on a 10 second count, but during this count they may be effected by effects from either side of the circle.  |
 
 
 ### Arcane Level 10
@@ -740,6 +740,14 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target's body cannot be brought to below 1 point as long as the caster is within arm's reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
 
 ### Nature Level 10
+
+| **Spell** | **Sanctuary** |
+|:---|:---|
+| **School** | Nature |
+| **Level** | 10 |
+| **Duration** | 5 Minutes |
+| **Incant** | "By Nature, I grant myself Sanctuary" |
+| **Description** | The caster crosses their arms with their arms pointing down. The caster becomes immune to all weapon blows and physical effects, but may only self-cast spells. This effect lasts 5 minutes, or until the caster suffers body damage, uncrosses their arms, or suffers any effect that would normally prevent spellcasting. |
 
 | **Spell** | **Spider Web** |
 |:---|:---|

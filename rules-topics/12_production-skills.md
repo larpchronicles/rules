@@ -72,5 +72,5 @@ Item production is the process by which characters are able to craft consumable 
 | 6  | Cleansing Draught<br>Heal Wounds Toxin<br>Sleep Toxin† | Golem Repair Kit<br>Pick Pocket Tools<br>Ranged Weapon | Rune of Spellstrike<br>Rune of True Death<br>Thiefbane Rune  |
 | 7  | C-2 Explosive<br>Cursing Toxin†<br>Entangling Dart | Reinforcement Kit<br>Resistant Plating<br>Weighted Ammunition | Rune of Elemental Barrier<br>Rune of Mirror Shield<br>Rune of Shield Spikes Rune |
 | 8  | Incredible Disappearing Ink<br>Minimize Potion<br>Stunning Toxin† | Expandable Weapon<br>Recycling Kit<br>Trickleblade Modification | Elemental Channeling Rune<br>Glyph of Haven<br>Rune of Mystic Lock |
-| 9  | Confining Dart<br>Gaseous Concotion<br>Reviving Draught | Armor Repair Kit<br>Forgemaster's Hammer<br>Risky Smithing | Rune of Endless Storage<br>Rune of Recall<br>Vengeance Rune  |
+| 9  | Confining Dart<br>Gaseous Concoction<br>Reviving Draught | Armor Repair Kit<br>Forgemaster's Hammer<br>Risky Smithing | Rune of Endless Storage<br>Rune of Recall<br>Vengeance Rune  |
 | 10 | Elixir of Energy<br>Elixir of Invulnerability<br>Elixir of Venom Spitting | Masterwork Armor<br>Masterwork Shield<br>Masterwork Weapon | Break Enslavement Rune<br>Glyph of Anchoring<br>Glyph of Warding<br>Rune of Erasure |
