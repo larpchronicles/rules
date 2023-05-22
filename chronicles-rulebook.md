@@ -1,5 +1,5 @@
 # 00 - Change History
-**Version: 3.1.0**
+**Version: 3.1.1**
 
 
 # 01 - Introduction
@@ -1356,8 +1356,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Level**| 6 |
 | **Duration** | Instant|
 | **Call**| "Intercept"|
-| **Description** |This skill requires that the character is wielding a shield and has the skill to use a shield. For each time that this skill is purchased this skill allows the character to accept a weapon or spell attack that was successful on a nearby target upon themself. The intercepted target must be within weapon striking range of the character when the attack was successful in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect.|
-|**Requirements**|Shield|
+| **Description** | This skill allows the character to accept a weapon or spell attack that struck a nearby target upon themselves instead. The intercepted target must be within weapon striking range of the character when the attack landed in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect. If no defense is available, or they choose to not use a defense, they take the effect or damage instead of the target.|
 
 #### Level 7 Stamina Abilities
 
@@ -1727,7 +1726,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine | 
 | 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
 | 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
-| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Spider Web |
+| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Sanctuary<br>Spider Web |
 
 
 ### Universal
@@ -1955,7 +1954,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Level** | 9 |
 | **Duration**  | 5 minutes |
 | **Incant**  | "I conjure a Circle of Power." |
-| **Description** |  This spell requires the caster to first place a braided white and red rope physical representation on the ground in a circular formation that is no larger than 10 feet in diameter. The Circle of Power will become a cylinder shaped container 10 feet high with a top and bottom surface. Once the physical representation is placed, the caster must cast the Circle of Power spell on the physical representation rope. For the duration of this spell, and as long as the caster maintains concentration, anyone inside the physical representation of the spell at the time of casting is protected from spells, physical attacks, and toxins while within the circle. Should a character leave the protection of the circle, they will lose their invulnerability, and they cannot re-enter. Circle of Power is not able to be dispelled by the Dispel Magic spell.  This is an INVULNERABLE effect. |
+| **Description** |  This spell requires the caster to first place a braided white and red rope physical representation on the ground in a circular formation that is no larger than 20 feet in diameter. The Circle of Power will become a cylinder shaped container 20 feet high with a top and bottom surface. Once the physical representation is placed, the caster must cast the Circle of Power spell on the physical representation rope. For the duration of this spell, and as long as the caster maintains concentration, no effects, including Aether or Voice Radius, may cross the barrier of the circle. Any effects or attacks from outside the circle may not pass in, and any effects or attacks from inside the circle may not pass out. Creatures may not pass into the circle except through Rift effects. Creatures inside the circle may exit on a 10 second count, but during this count they may be effected by effects from either side of the circle.  |
 
 
 #### Arcane Level 10
@@ -2428,6 +2427,14 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 #### Nature Level 10
 
+| **Spell** | **Sanctuary** |
+|:---|:---|
+| **School** | Nature |
+| **Level** | 10 |
+| **Duration** | 5 Minutes |
+| **Incant** | "By Nature, I grant myself Sanctuary" |
+| **Description** | The caster crosses their arms with their arms pointing down. The caster becomes immune to all weapon blows and physical effects, but may only self-cast spells. This effect lasts 5 minutes, or until the caster suffers body damage, uncrosses their arms, or suffers any effect that would normally prevent spellcasting. |
+
 | **Spell** | **Spider Web** |
 |:---|:---|
 | **School** | Nature |
@@ -2626,7 +2633,7 @@ Item production is the process by which characters are able to craft consumable 
 | 6  | Cleansing Draught<br>Heal Wounds Toxin<br>Sleep Toxin† | Golem Repair Kit<br>Pick Pocket Tools<br>Ranged Weapon | Rune of Spellstrike<br>Rune of True Death<br>Thiefbane Rune  |
 | 7  | C-2 Explosive<br>Cursing Toxin†<br>Entangling Dart | Reinforcement Kit<br>Resistant Plating<br>Weighted Ammunition | Rune of Elemental Barrier<br>Rune of Mirror Shield<br>Rune of Shield Spikes Rune |
 | 8  | Incredible Disappearing Ink<br>Minimize Potion<br>Stunning Toxin† | Expandable Weapon<br>Recycling Kit<br>Trickleblade Modification | Elemental Channeling Rune<br>Glyph of Haven<br>Rune of Mystic Lock |
-| 9  | Confining Dart<br>Gaseous Concotion<br>Reviving Draught | Armor Repair Kit<br>Forgemaster's Hammer<br>Risky Smithing | Rune of Endless Storage<br>Rune of Recall<br>Vengeance Rune  |
+| 9  | Confining Dart<br>Gaseous Concoction<br>Reviving Draught | Armor Repair Kit<br>Forgemaster's Hammer<br>Risky Smithing | Rune of Endless Storage<br>Rune of Recall<br>Vengeance Rune  |
 | 10 | Elixir of Energy<br>Elixir of Invulnerability<br>Elixir of Venom Spitting | Masterwork Armor<br>Masterwork Shield<br>Masterwork Weapon | Break Enslavement Rune<br>Glyph of Anchoring<br>Glyph of Warding<br>Rune of Erasure |
 
 # 13 - Gathering Skills
@@ -2785,7 +2792,7 @@ Item production is the process by which characters are able to craft consumable 
 ##### Confining Dart
 > This dart is filled with a strange gray sludge held in suspension. When it strikes a target, it rapidly expands outwards, engulfing the target and rapidly hardening. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. The attack call for this is "Physical Confine".
 ##### Gaseous Concoction
-   >This is a potion that when ingested will transform the character into a cloud of mist for the next minute. While in this form, the character is unable to move, communicate, cast spells, or activate magic items. This effect can be broken by the spell Solidify. Once the effect ends, the character is silenced for the next 20 seconds as they recover from the effects of this alchemy. It takes 5 seconds to consume the concoction.
+   >This is a potion that when ingested will transform the character into a cloud of mist for the next minute. While in this form, the character is unable to communicate, cast spells, or activate magic items. This effect can be broken by the spell Solidify. Once the effect ends, the character is silenced for the next 20 seconds as they recover from the effects of this alchemy. It takes 5 seconds to consume the concoction.
 ##### Reviving Draught
 > Smelling salts strong enough to wake even the dead are laced into this liquid suspension. This potion, when fed to a Dead target, functions as per the Revivify spell. The call for this is "Revivify".
 
@@ -3207,9 +3214,13 @@ Item production is the process by which characters are able to craft consumable 
 # 18 - Ritual Magic
 ## Ritual Magic
 
+| Skill Point Cost  |  F  |  T  |  R  |  M  | Prereqs|
+|:---|:---:|:---:|:---:|:---:|---|
+| Ritual Magic |  20  |  20  |  20  |  20  |-|
+
 ### About Ritual Magic
 
-Ritual Magic is the way through which an individual attempts to weave the powers of themselves or greater beings to affect incredible and often long-lasting effects upon the world. A Ritualist is someone who is trained in these magics and in the art of channeling them to achieve their desired goals.
+Ritual Magic is the way through which an individual attempts to weave the powers of themselves or greater beings to affect incredible and often long-lasting effects upon the world. A Ritualist is someone who is trained in these magics and in the art of channeling them to achieve their desired goals. Purchasing the Ritual Magic Skill enables the user to perform Rituals.
 
 A Ritual is the act through which a Ritualist attempts to conduct these magics, and each Ritualist's method for enacting a Ritual is different, though there are a few generally agreed upon elements that must be achieved in order for a Ritual to succeed. Firstly, a Ritual must last at least 5 minutes in order for success to be achieved. It has been said that in times of great need a Ritualist can attempt to end the Ritual earlier than this, but they risk Failure at best, horrible Backlash at worst. Secondly, a Ritual must contain a persistent visual or auditory element. Some Ritualists chant, sing, or recite scripture of their Deity. Others may choose to draw or cast Runes, dance, or create art as a focus for their magic. All that matters is that these elements are consistent throughout the Ritual, without long lapses or interruptions. Third, the Ritualist must provide a source of Power other than their own for the ritual, often in the form of Spirit Gems, a number of which must be provided equal to the Level of the Ritual. Lastly, and most importantly, the Ritualist must have the Ritual Scroll open and accessible to them at all times during the Ritual, even if they do not need to actively gaze upon it. If the Ritual Scroll is not present, or if during the Ritual it is removed or hidden from the Ritualist, the Ritual will fail. These four elements are commonly referred to as the "Fundamental Four Elements" of Rituals, without which a Ritual is all but doomed to failure.
 
@@ -3217,7 +3228,7 @@ There are other ways through which a Ritualist may enhance their casting and thu
 
 There exists for Ritualists a "Standard Library" of Rituals, of which all Ritualists have access to at all times, as they are capable of producing a new scroll  for these Rituals from Memory. Rituals outside of this Library must be acquired through diligent research or through discovery in the world at large. Scrolls for Rituals outside the Standard Library may have the potential to be Memorized or even Taught, with each Scroll indicating how many times, if at all, it may be Memorized, and subsequently if it can be Taught and how often. Once Memorized, a Scroll is considered part of that Ritualist's Standard Library. If a Ritual is not part of the Ritualist's Standard Library, they must have the exact scroll to perform the Ritual, and this must be shown to Plot before Ritual can begin. If a Ritualist wishes to Memorize a Scroll, they must do so by showing the Scroll to Plot, so Plot can note their Character Sheet and the Scroll appropriately. For any Ritual in the Standard Library, a Ritualist must still have a Scroll representation during the Ritual, following all normal rules, they simply do not need the tagged Scroll item.
 
-For Base Standard Library (not Memorized) Rituals, only the Fundamental Four Elements need to be achieved in order to guarantee success. For all others, it is recommended that further aspects be added, as with each increase in a Ritual's level, the odds of success decrease. It is claimed that a Ritualist who attempts to cast a Ritual of exactly their Ranks in Ritual Magic using only the Fundamental Four Elements, they have at best a 60% chance of success. Higher Ranks in Ritual Magic, use of Props, secondary Casters, or other Participants can help increase these odds. Similarly, poor performance, inappropriate props or participants, or disjointed or disharmonic casting may decrease the odds of success, and invite potential Backlash.
+For Base Standard Library (not Memorized) Rituals, only the Fundamental Four Elements need to be achieved in order to guarantee success. For all others, it is recommended that further aspects be added, as with each increase in a Ritual's level, the odds of success decrease. It is claimed that a Ritualist who attempts to cast a Ritual using only the Fundamental Four Elements, they have at best a 60% chance of success. Use of Props, secondary Casters, or other Participants can help increase these odds. Similarly, poor performance, inappropriate props or participants, or disjointed or disharmonic casting may decrease the odds of success, and invite potential Backlash.
 
 A Ritual has 4 Possible Outcomes. First is Success. This indicates that the Ritual has succeeded as intended, and the desired effect has been achieved without further incident. Second is a Flaw. This means that the Ritual has completed, but often with a side-effect of some kind, with varying degrees of severity. Third is a Failure. This indicates that the Ritual failed, with no further effects, but any Spirit Gems or other consumable materials used in the Ritual are still consumed. Last, and most feared, is a Backlash. This indicates that the Ritual not only Failed, but a severe negative effect has occurred, up to and including Death of the Caster or Participants, and just as a Failure, any Spirit Gems or materials are still consumed.
 
@@ -4123,14 +4134,43 @@ When a player resurrects all Non-Ritual effects are removed unless otherwise tol
 
 Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions. 
 
+### SP Debt
+When a character resurrects, they incur **SP Debt**, which results in a portion of the character's SP becoming temporarily unavailable to be used. 
 
-### Strain
+**Total Debt**: SP that is held "in debt", unable to be use by the character.  
+**Total SP**: The total amount of SP the character has. This number is **not** affected by SP Debt in any way, and continues to increase normally as the player attends events.  
+**Effective SP**: The amount of SP available to the character to spend on skills. Equal to `Total SP - Total Debt`   
 
-**Strain** is described as what happens when a spirit is pushed beyond its normal limits. For many, their Spirit will never incur any **Strain**, yet for Adventurers, **Strain** is an all-too-common occurrence. The most common way of acquiring strain is through the process of Resurrection. Whenever a character Resurrects, they gain Two points of **Strain** on their Spirit.
+The character does not permanently lose SP, and having an SP Debt does not affect how the character gains Total SP. SP Debt is not calculated until **after** an event; **a player will not need to rewrite their character or drop skills in the middle of an event because of SP Debt.**
 
-While a Spirit has any **Strain**, they are unable to incorporate new experiences, and as such, a character with **Strain** cannot spend any accumulated Skill Points until their **Strain** is reduced to 0. A Spirit recovers from **Strain** by experiencing new things. For every event a Character attends, they reduce any **Strain** on their Spirit by 1, including in an event where they Resurrect.
+After every event a player attends, any SP Debt they have is reduced by 25% (minimum 3) of their Total Debt. Then, if that character died during the event, their debt is increased by 5% (rounded down) of their Effective SP for every death they incurred.  After this, if the character's Total Debt is greater than 25% of their Total SP, the character permanently dies.
 
-A few points of **Strain** can be carefully managed, but anyone who accrues too many should begin thinking of their own safety first. If at any point a Character should attempt to Resurrect with 10 or more points of **Strain** however, they fail to Resurrect, and are now **Permanently Dead**.
+#### Post-Event SP Calculation
+```
+1) Pay off old debt: New Total Debt = 75% of Total Debt [rounded down] (aka, reduce Total Debt by 25%)		
+2) Calculate New Debt Incurred: Add 5% of Effective SP to Total Debt for each Death during the event			
+3) Gain SP for the event: Add SP gained to Total SP			
+4) Calculate New Effective SP (Total SP - Total Debt)
+```
+
+##### SP Debt Example
+> Octoro the Orc begins a 2-day weekend event with 300 SP. They resurrect once during the event. After the event, they will incur a debt of 15 SP (300 * .05). They will gain 6 SP for the event. Octoro now has:
+> Total SP: 306
+> Total Debt: 15
+> Effective SP: 291
+> So, at the beginning of the next event Octoro the Orc attends, they will only be able to utilize up to 291 SP to purchase skills.
+> 
+> At the next event Octoro the Orc attends, they do not resurrect. After the event, their debt will be reduced by 4. (15 Total Debt .25, rounded up). Octoro the Orc now has:
+> Total SP: 312
+> Total Debt: 11
+> Effective SP: 301
+> 
+> At their third event, Octoro the Orc ressurects again. After the event, their debt is first reduced by 3. Then, they incur 15 addition debt `(312 Total SP - 8 Debt) * .05 = 15`, bringing their Total Debt to 23. Octoro now has:
+> Total SP: 318
+> Total Debt: 23
+> Effective SP: 295
+
+See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d/15gMsb7XrGNeszVXrXdbBHoo2zRIrJsqgvPt6i-ehjxA/edit##gid=711556602) for an interactive SP Debt calculator. 
 
 
 ### Permanent Death
@@ -4767,10 +4807,13 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 * Storm of Curses added at Spirit Rank X
 * Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
 * Create Undead now properly only works on a target once per DEAD status.
+* Circle of Power updated
+* New Tier X Nature Spell: Sanctuary
 
 #### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons
 * Clarified Memorization
+* Intercept no longer requires shield
 
 #### Agility Skills
 * Warbow Training, incant updated.
@@ -4793,6 +4836,7 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 
 #### Ritual Magic
 * Spirit Bottle removed
+* Now Single-Purchase Skill
 
 #### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons

@@ -1,5 +1,11 @@
 # Changelog
-## 3.0.7 [2023-05-18]
+## 3.1.1 [2023-05-21]
+* Changed Ritual Magic to a single purchase 20 SP skill
+* Removed shield req from Intercept
+* Added Nature level 10 spell Sanctuary
+* Added SP Debt
+
+## 3.1.0 [2023-05-18]
 
 ### Combat
 * Added clarification to how Carriers & Auras work
@@ -117,10 +123,13 @@
 * Storm of Curses added at Spirit Rank X
 * Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
 * Create Undead now properly only works on a target once per DEAD status.
+* Circle of Power updated
+* New Tier X Nature Spell: Sanctuary
 
 ### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons
 * Clarified Memorization
+* Intercept no longer requires shield
 
 ### Agility Skills
 * Warbow Training, incant updated.
@@ -143,6 +152,7 @@
 
 ### Ritual Magic
 * Spirit Bottle removed
+* Now Single-Purchase Skill
 
 ### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons

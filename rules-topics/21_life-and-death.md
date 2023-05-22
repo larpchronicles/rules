@@ -61,15 +61,43 @@ When a player resurrects all Non-Ritual effects are removed unless otherwise tol
 
 Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions. 
 
+## SP Debt
+When a character resurrects, they incur **SP Debt**, which results in a portion of the character's SP becoming temporarily unavailable to be used. 
 
-## Strain
+**Total Debt**: SP that is held "in debt", unable to be use by the character.  
+**Total SP**: The total amount of SP the character has. This number is **not** affected by SP Debt in any way, and continues to increase normally as the player attends events.  
+**Effective SP**: The amount of SP available to the character to spend on skills. Equal to `Total SP - Total Debt`   
 
----
-**Strain** is described as what happens when a spirit is pushed beyond its normal limits. For many, their Spirit will never incur any **Strain**, yet for Adventurers, **Strain** is an all-too-common occurrence. The most common way of acquiring strain is through the process of Resurrection. Whenever a character Resurrects, they gain Two points of **Strain** on their Spirit.
+The character does not permanently lose SP, and having an SP Debt does not affect how the character gains Total SP. SP Debt is not calculated until **after** an event; **a player will not need to rewrite their character or drop skills in the middle of an event because of SP Debt.**
 
-While a Spirit has any **Strain**, they are unable to incorporate new experiences, and as such, a character with **Strain** cannot spend any accumulated Skill Points until their **Strain** is reduced to 0. A Spirit recovers from **Strain** by experiencing new things. For every event a Character attends, they reduce any **Strain** on their Spirit by 1, including in an event where they Resurrect.
+After every event a player attends, any SP Debt they have is reduced by 25% (minimum 3) of their Total Debt. Then, if that character died during the event, their debt is increased by 5% (rounded down) of their Effective SP for every death they incurred.  After this, if the character's Total Debt is greater than 25% of their Total SP, the character permanently dies.
 
-A few points of **Strain** can be carefully managed, but anyone who accrues too many should begin thinking of their own safety first. If at any point a Character should attempt to Resurrect with 10 or more points of **Strain** however, they fail to Resurrect, and are now **Permanently Dead**.
+### Post-Event SP Calculation
+```
+1) Pay off old debt: New Total Debt = 75% of Total Debt [rounded down] (aka, reduce Total Debt by 25%)		
+2) Calculate New Debt Incurred: Add 5% of Effective SP to Total Debt for each Death during the event			
+3) Gain SP for the event: Add SP gained to Total SP			
+4) Calculate New Effective SP (Total SP - Total Debt)
+```
+
+#### SP Debt Example
+> Octoro the Orc begins a 2-day weekend event with 300 SP. They resurrect once during the event. After the event, they will incur a debt of 15 SP (300 * .05). They will gain 6 SP for the event. Octoro now has:
+> Total SP: 306
+> Total Debt: 15
+> Effective SP: 291
+> So, at the beginning of the next event Octoro the Orc attends, they will only be able to utilize up to 291 SP to purchase skills.
+> 
+> At the next event Octoro the Orc attends, they do not resurrect. After the event, their debt will be reduced by 4. (15 Total Debt .25, rounded up). Octoro the Orc now has:
+> Total SP: 312
+> Total Debt: 11
+> Effective SP: 301
+> 
+> At their third event, Octoro the Orc ressurects again. After the event, their debt is first reduced by 3. Then, they incur 15 addition debt `(312 Total SP - 8 Debt) * .05 = 15`, bringing their Total Debt to 23. Octoro now has:
+> Total SP: 318
+> Total Debt: 23
+> Effective SP: 295
+
+See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d/15gMsb7XrGNeszVXrXdbBHoo2zRIrJsqgvPt6i-ehjxA/edit#gid=711556602) for an interactive SP Debt calculator. 
 
 
 ## Permanent Death
