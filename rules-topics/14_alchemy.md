@@ -123,7 +123,7 @@
 #### Confining Dart
 > This dart is filled with a strange gray sludge held in suspension. When it strikes a target, it rapidly expands outwards, engulfing the target and rapidly hardening. The character will throw a packet to indicate throwing a dart at the target. The dart may be blocked as if it was a strike from a Ranged Weapon. The attack call for this is "Physical Confine".
 #### Gaseous Concoction
-   >This is a potion that when ingested will transform the character into a cloud of mist for the next minute. While in this form, the character is unable to move, communicate, cast spells, or activate magic items. This effect can be broken by the spell Solidify. Once the effect ends, the character is silenced for the next 20 seconds as they recover from the effects of this alchemy. It takes 5 seconds to consume the concoction.
+   >This is a potion that when ingested will transform the character into a cloud of mist for the next minute. While in this form, the character is unable to communicate, cast spells, or activate magic items. This effect can be broken by the spell Solidify. Once the effect ends, the character is silenced for the next 20 seconds as they recover from the effects of this alchemy. It takes 5 seconds to consume the concoction.
 #### Reviving Draught
 > Smelling salts strong enough to wake even the dead are laced into this liquid suspension. This potion, when fed to a Dead target, functions as per the Revivify spell. The call for this is "Revivify".
 

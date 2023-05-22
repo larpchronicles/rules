@@ -117,10 +117,13 @@
 * Storm of Curses added at Spirit Rank X
 * Bag of Holding updated, requires 60 seconds of concentration to retrieve items.
 * Create Undead now properly only works on a target once per DEAD status.
+* Circle of Power updated
+* New Tier X Nature Spell: Sanctuary
 
 ### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons
 * Clarified Memorization
+* Intercept no longer requires shield
 
 ### Agility Skills
 * Warbow Training, incant updated.
@@ -143,6 +146,7 @@
 
 ### Ritual Magic
 * Spirit Bottle removed
+* Now Single-Purchase Skill
 
 ### Stamina Skills
 * Weapon Proficiency can no longer be used on Ranged Weapons
