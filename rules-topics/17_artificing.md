@@ -3,6 +3,23 @@
 ## Artificing
 >Artificing is the study of the creation of magic items. Only those with at least a moderate command of each base craft can take the path of an Artificer. The creation of a magic item will vary wildly in its needs based on the item. Magic items always require materials from multiple disciplines. They also require spirit gems for the infusion of their impressive powers. All Artificers have access to a few base recipes that they may craft at will. Other items will require the development or acquisition of a Formula in order to be created. Formulas may also potentially be memorized, or even taught to others, depending on the Formula. Artificing requires 5 ranks in each production type.
 
+## Attunement
+>Players may only use the magic properties of magic items that they have attuned.  Attuning requires the player to complete an entire rest while possessing an item, or come into game with the item attuned.  The player can attune multiple items at a time.  Once attuned the magic properties of that item can only be used by that player unless it is on the exception list below.<BR><BR>
+<B>Exception List:</B><BR>
+Elemental Aura<BR>
+Sticky Handle<BR>
+Destruction Magnet<BR>
+Magic Aura<BR>
+Sure Striking<BR>
+Elemental Resilience<BR>
+Omni-Elemental Aura<BR>
+Blade of Beginner's Luck<BR>
+Staunching Enchantment<BR><BR>
+For Example: <BR>
+If a player picks up a sword with a Magic Aura, and did not attune it, the player still swings the magic carrier.<BR><BR>
+If a player picks up a shield with a Manaward Enchantment, and did not attune it, they could use it as a standard shield to block weapon attacks (assuming they have purchased the skill to do so) but could not use the Manaward Enchantment.
+
+
 ## Artificing Products
 
 >Artificers, like regular crafters, utilize recipes for their creations, though the recipe for a magic item is known as a Formula. All Artificers have access to a Standard Library of Formulas, which they may utilize at any time, given they have the appropriate materials to construct the desired item. Other items are known to exist, which are known as "Uncommon Formulas", and Artificers may even attempt to invent their own, but these Formulas must first be created or discovered to utilize new and different items.
