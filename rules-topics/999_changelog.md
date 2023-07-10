@@ -1,4 +1,16 @@
 # Changelog
+## 3.1.2 [2023-07-14]
+### Armor
+* Clarified only 1 armor tag can be used at one time
+* Removed reference  to Masterwork Armor Bonus
+
+
+### Magic
+
+
+### Artificing
+* Added attunement section.
+
 ## 3.1.1 [2023-05-21]
 * Changed Ritual Magic to a single purchase 20 SP skill
 * Removed shield req from Intercept
