@@ -126,8 +126,8 @@ Villi is wearing a total of 48 Armor Points. Because this is over their Armor Ca
 
 Raphael is wearing a total of 20 points of armor from Dexterity Armor. 
 
->Example:  Malokis the Tank has purchased enough Armor Training to raise their Armor Cap to 90 points.
+>Example:  Malokis the Tank has purchased enough Armor Training to raise their Armor Cap to 80 points.
 * They are wearing a plate torso piece (32 points), plate bracers (16 points) and plate greaves on their legs (16 points), and plate pauldrons on their shoulders (16 points).
-* Malokis possesses an Armor Tag for 80 points of Masterwork Armor. Which provides a bonus 10 armor points that do not need to be repped.
+* Malokis possesses an Armor Tag for 80 points Armor.
 
-Malokis is wearing a total of 90 points of armor from his plate and Masterwork Bonus. 
+Malokis is wearing a total of 80 points of armor from his plate armor. 
