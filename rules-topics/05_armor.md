@@ -3,7 +3,7 @@
 ## Armor Mechanics
 
 ---
-Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of Armor Points up to their Armor Cap determined by what skills they have purchased. If the character is not using Dexterity Armor, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of Armor Points. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from Phys-repped armor, the character must possess the appropriate armor item tag.
+Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of Armor Points up to their Armor Cap determined by what skills they have purchased. If the character is not using Dexterity Armor, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of Armor Points. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from Phys-repped armor, the character must possess the appropriate armor item tag. A player can only benefit from one armor item tag at a time.
 
 ### Armor and Combat
 
@@ -23,6 +23,7 @@ A character's Armor Points are determined by the following:
 * The type of armor worn
 * The location of worn armor
 * The Armor Item Tag they possess
+     
 
 ## Armor Types
 
