@@ -26,15 +26,15 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ---
 
-| Tier | Universal | Arcane | Spirit | Nature | 
+| Tier | Universal | Arcane | Spirit | Nature |
 |---|---|---|---|---|
-| 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink | 
-| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
-| 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  | 
+| 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink |
+| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike |
+| 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  |
 | 4  | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb  | Entangle Arms<br>Command: Kneel |
 | 5  | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify  | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
-| 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body | 
-| 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine | 
+| 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body |
+| 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine |
 | 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
 | 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
 | 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Sanctuary<br>Spider Web |
@@ -77,7 +77,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Universal |
 | **Level** | 8  |
 | **Duration** | Rest |
-| **Incant** | "By my will, I conjure a reflect \<type\>."|
+| **Incant** | "By my will, I conjure a \<type\> reflect."|
 | **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. |
 
 ### Universal Level 9
@@ -112,7 +112,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**  | Instant |
 | **Incant**  | "I conjure a Mana Bolt #." |
 | **Description** |  This spell creates a bolt of magic that does 5x the mana used to deliver magic damage to the target. If the caster has an active Elemental Shift, they may choose to throw either Magic or their element.  This spell may be used at all Levels.|
- 
+
 
 ### Arcane Level 2
 
@@ -380,7 +380,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 5  |
 | **Duration**  | Instant |
-| **Incant**  | "By the spirits, I cure this body." |
+| **Incant**  | "By the spirits, I cleanse this body." |
 | **Description** | This spell removes a single lingering effect of the target's choice. This may not remove DRAIN, DEAD, UNCONSCIOUS or INFECT. |
 
 #### **Field Resurrection**
@@ -403,7 +403,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 
 ### Spirit Level 6
- 
+
 #### **Enhanced Focus**
 | **Spell**| **Enhanced Focus**|
 |:---|:---|
@@ -495,7 +495,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 
 ### Spirit Level 10
- 
+
 #### Death
 | **Spell** | **Storm of Curses** |
 |:---|:---|
@@ -729,7 +729,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**  | 1 minute  |
 | **Incant**  | "By nature, I regenerate you." |
 | **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
- 
+
 #### **Wrath of Nature, Other**
 | **Spell** | **Wrath of Nature, Other** |
 |:---|:---|

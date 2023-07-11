@@ -70,7 +70,7 @@ All new players start with 100 Skill Points (SP), 10 body, and 5 armor.  <i>Body
 
 Have a character in another LARP system and want to transfer it to Chronicles?  Please see our Transfer Policy!
 
-#### Secondary Characters 
+#### Secondary Characters
 Once a player hits 200 Skill Points, they may create a secondary character.  This character will always have 75 percent of the primary character's SP.  All characters beyond the second character will have 50 percent of the primary character's SP.  No matter what character is played, all gained SP will be applied to the primary character.  Aside from SP, everything is tracked separately for each character (strain, ritual effects, items, etc).
 
 Example:
@@ -106,7 +106,7 @@ Ritual Marshal – A person who oversees a player character (PC) perform ritual 
 Rogue Marshal – If a character wishes to steal from someone's cabin, the player must have a rogue marshal present.  This marshal ensures that personal property is not taken, and that the would-be thief follows all rules of the game (lockpicking chests, recognizing circles of power, etc.)  Entering a cabin with intent to steal without a rogue marshal can have severe consequences including referring the person to the local police for theft or breaking and entering.
 
 #### How to Become A Ritual Marshal
-To become a ritual marshal, a player will need to volunteer with the head of the plot team.  The head of plot will ensure that the player knows the ritual rules and have the player marshal some rituals with a plot member.  Once the player has proven themselves, they can become a ritual marshal. 
+To become a ritual marshal, a player will need to volunteer with the head of the plot team.  The head of plot will ensure that the player knows the ritual rules and have the player marshal some rituals with a plot member.  Once the player has proven themselves, they can become a ritual marshal.
 
 #### What should I bring to my first events?
 Chronicles often has spare equipment to loan to newer players. That being said, beyond LARP-specific items, there are several things that any player should bring.
@@ -121,7 +121,7 @@ Chronicles often has spare equipment to loan to newer players. That being said, 
 If a player is new and does not have lots of fancy LARP clothing yet, they do not need to worry!  A solid colored shirt and pants work just fine as starter clothes. Cargo pants (or similar) are great for early events due to the extra pockets. For shirts, a simple t-shirt, button up, or sweatshirt work fine. The most important part is that any clothing used does not have large graphics or logos on them.
 
 **Comfortable Footwear**
-Chronicles generally involves at least a moderate amount of walking. Therefor, comfortable footwear and socks are highly important. It is always recommended to make sure footwear is comfortable rather than just stylish. Extra socks are just as important. Especially if it is damp or rain is predicted. 
+Chronicles generally involves at least a moderate amount of walking. Therefor, comfortable footwear and socks are highly important. It is always recommended to make sure footwear is comfortable rather than just stylish. Extra socks are just as important. Especially if it is damp or rain is predicted.
 
 **Water Bottle**
 Especially important when it is hot out, but always useful. Chronicles generally has drinks, including water, on site, but sometimes a player finds themselves far away from the places they are stored. Having a portable source of liquid is incredibly useful for long mods.
@@ -167,8 +167,8 @@ There are beings known as gods in Chronicles, but how a character views or engag
 
 We strive to be inclusive and respectful at Chronicles and do not want anyone to be in the situation of giving offense to others.  Players are disallowed from using real world religious symbols or iconography with their costuming, garb, or props.  Similarly, in roleplay, players should also avoid use of or invocations of gods, demons, or other recognizable figures of real world religious or spiritual importance.
 
-**Politics** 
-In game politics are part of life. Whether a character wishes to serve the king loyally, ignore his command, or attempt a rebellion is up to them!  Just know that there may be in-game consequences for a character's actions.  As with religion, it is best to not use any recognizable OOG political symbols, since politics can be an anachronistic and fiery topic. 
+**Politics**
+In game politics are part of life. Whether a character wishes to serve the king loyally, ignore his command, or attempt a rebellion is up to them!  Just know that there may be in-game consequences for a character's actions.  As with religion, it is best to not use any recognizable OOG political symbols, since politics can be an anachronistic and fiery topic.
 It is also best to not talk about OOG politics during game.
 
 # 02 - Check In
@@ -204,7 +204,7 @@ Our event fee is $25.00 per event day.  Two day events are $50.00 and three day 
 >
 > Full-Time NPCs do not have to pay an event fee.
 
-Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypal at https://paypal.me/larpchronicles 
+Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypal at https://paypal.me/larpchronicles
 * If paying with PayPal, especially if you pay early or during Pre-Registration, include your name, character name, and the name of any new players you are bringing.
 
 
@@ -213,7 +213,7 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
 * Tavern food & meals are not included in the event fee.  Please be sure to set up your Meal Ticket at check-in.
 * Tavern meals are typically $7.00 with water.  Soda is usually available for an additional $0.50.
 
-    
+
 ### Camp Site Rules During Check In
 
 #### Camp Eastman
@@ -225,7 +225,7 @@ Event fees and Meal Ticket funds may be paid with cash at check-in or with Paypa
 * Vehicles are restricted to paved or gravel roads and may not be left unattended unless in a parking lot.  Do not drive on the grass or into campsite areas unless instructed to do so by a Camp Caretaker.
 * During checkout, after packing up, please help clean and sanitize surfaces, bathrooms, and common areas.  Please take all trash to the dumpsters.
 
-    
+
 ### Cabins
 
 There are no assigned cabins, but there is a requirement that you allow others to bunk in your cabin if there is space and other areas are not available.
@@ -711,7 +711,7 @@ The Unbound that may be found alone are typically those that have established th
 
 *Elemental Transmutation*: _The Unbound are amalgamations of elemental forces and living beings. As such they are able to tap into the makeup of matter._ Once per day, an Unbound may transmogrify a single component of any rank into a different, single component of the same rank.
 
-**Makeup Suggestions and Guidelines**: To make glowing lines of power, it's suggested to use white paint and either line it with a thin black line or put a thin line of color through the middle of the white in order to create a colored line that appears to glow.  Facepaint aside from the glowing lines should match the elemental type of the character.  Ie:  Fire should be red or red-orange tones and hues, electricity should be grey, but may be blue, water should be blue, and stone should be earthy browns or rocky grey. 
+**Makeup Suggestions and Guidelines**: To make glowing lines of power, it's suggested to use white paint and either line it with a thin black line or put a thin line of color through the middle of the white in order to create a colored line that appears to glow.  Facepaint aside from the glowing lines should match the elemental type of the character.  Ie:  Fire should be red or red-orange tones and hues, electricity should be grey, but may be blue, water should be blue, and stone should be earthy browns or rocky grey.
 
 ### Unforgiven
 
@@ -766,7 +766,7 @@ Bows may be used to block attacks.  Bows may also be used to block attacks while
 
 Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use magic.
 
-When casting a spell, first a player must have a spell packet in a free hand. Then, they cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If the spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. 
+When casting a spell, first a player must have a spell packet in a free hand. Then, they cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If the spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic.
 
 A "Free Hand" in this instance means that the hand holding the spell packet may not be holding any other in-game or tagged items. I.E., no swords, shields, potions, and such. A player may hold multiple spell packets in the same hand and still cast, as they are not considered in-game items.
 
@@ -787,7 +787,7 @@ Charging refers to a player's proximity to another player in melee combat.  In c
 
 Casting Damage calls are how a player can communicate the amount of damage being delivered, as well as its type and whether or not it has a flavor modifier or carrier.  A player may only use one value for each option.
 
-**Damage Call Structure** 
+**Damage Call Structure**
 ```
 ## <Type> [Flavor/Carrier(optional)]
 ```
@@ -814,15 +814,15 @@ Suppose Zee has a normal longsword, a transform with the Magic Aura and Flame Au
 
 Unless explicitly stated, a player is always able to drop their carrier. They may have many carriers, but they must always choose to swing one or fewer.
 >Example: Bob the Lich has Monstrous Carrier: Drain and Monstrous Carrier: Death. Bob can choose to swing 5 Magic, OR 5 Magic Drain, OR 5 Magic Death. Bob cannot swing 5 Magic Death Drain.
-> 
+>
 This is not necessarily true with auras (ie, damage types). So, if a player has a sword with Magic Aura, they cannot choose to swing Normal or Silver with it.
   EXCEPT if they have another effect, such as Monstrous Silver Aura, they may then choose to swing Silver regardless of weapon. Examples include:
   >Alice the Adventurer has a silvered long sword. She may only swing 5 Silver with it. If she wishes to swing 5 Normal, she must use a different weapon.
-  
+
   >Gary the Golem has the transform ability Monstrous Silver Aura. While wielding a normal Long Sword, he may choose to swing 5 Normal OR 5 Silver.
-  
+
   >Barrack the Brood has the ability Monstrous Poison Aura and a Magic Long Sword. He may only choose to swing 5 Poison OR 5 Magic with that sword.
-  
+
   >Archibald the Artificer has a silvered short sword. He decides to use his artificing skill to enchant the sword with a Magic Aura. The resulting weapon is no longer silvered, and will only have Magic Aura on the item tag.
 
 Abilities that cause damage (Such as Mana Bolt, Doom, etc.) can never function as Damage Carriers.
@@ -833,7 +833,7 @@ Using any skill, ability, or effect that grants a Resist, Reflect, or Dodge requ
 #### Healed By [Effect]
 
 When you have an ability or active effect that makes you take Healed By an effect (For
-example, Shock, Stone, Flame, or Frost).  Creatures with this ability cannot be healed by weapon attacks (except Spellstrikes), but can be healed by packet attacks. 
+example, Shock, Stone, Flame, or Frost).  Creatures with this ability cannot be healed by weapon attacks (except Spellstrikes), but can be healed by packet attacks.
 
 Examples:  
 You are healed by Frost.
@@ -886,7 +886,7 @@ The maximum surface area of a shield is 531 square inches. The longest dimension
 As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.
 
 Limitations:
-* A shield may never be used for striking in combat. 
+* A shield may never be used for striking in combat.
 * Shields may not be used with two-handed weapons, bows, or crossbows.
 * A character may not dual wield shields.
 * Shields are not capable of blocking spell packets or toxins without the use of an ability.
@@ -903,7 +903,7 @@ Anything in a player's possession being struck by a spell causes them to take th
 #### Spellstrikes
 
 Spellstrikes are spells cast upon a target via a physically represented weapon.  Spellstrikes may not be refused in the way touch casts can.  Defenses for spells such as Spell Mirror, Intercept, and Parry Spell are effective against Spellstrikes.  The Parry skill will not block the spell of a Spellstrike.  If a player physically parries a Spellstrike, they take the effect of the spell. An individual capable of using Spellstrike may treat a wielded weapon as a spell packet for the purposes of touch-casting. Packets may not be used to Spellstrike.
-	
+
 #### Touch-Casting
 
 If a player is touching the target directly with a spell packet, the target has the ability to "refuse your touch-cast", causing the player to expend the magic to no effect.  Any spell may be touch-cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
@@ -1007,7 +1007,7 @@ Heavy, durable metal armor that provides superior protection from all manner of 
 | Shoulders | 16 |
 | Torso | 32 |
 | Legs | 16 |
-| ***Max Armor Bonus*** | ***80*** |	
+| ***Max Armor Bonus*** | ***80*** |
 
 
 ### Armor Locations
@@ -1040,13 +1040,13 @@ Villi is wearing a total of 48 Armor Points. Because this is over their Armor Ca
 * They have purchased 4 ranks of Dexterity Armor, which allows them to have 20 Armor Points without an armor phys rep or Armor Tag.
 * Raphael currently does not possess an armor tag.
 
-Raphael is wearing a total of 20 points of armor from Dexterity Armor. 
+Raphael is wearing a total of 20 points of armor from Dexterity Armor.
 
 >Example:  Malokis the Tank has purchased enough Armor Training to raise their Armor Cap to 90 points.
 * They are wearing a plate torso piece (32 points), plate bracers (16 points) and plate greaves on their legs (16 points), and plate pauldrons on their shoulders (16 points).
 * Malokis possesses an Armor Tag for 80 points of Masterwork Armor. Which provides a bonus 10 armor points that do not need to be repped.
 
-Malokis is wearing a total of 90 points of armor from his plate and Masterwork Bonus. 
+Malokis is wearing a total of 90 points of armor from his plate and Masterwork Bonus.
 
 # 06 - Weapons
 ## Weapon Rules
@@ -1071,11 +1071,11 @@ Malokis is wearing a total of 90 points of armor from his plate and Masterwork B
 | * Polearm            |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
 | Parrying Dagger      |    7"  - 13"     |   5" - 6"     |   12" - 18"  |      No       |
 
-&##42; You can only swing (Cannot stab) with a Polearm or a blunt weapon. 
+&##42; You can only swing (Cannot stab) with a Polearm or a blunt weapon.
 <BR>
 ** You can only stab (cannot swing) with a spear.
 
-#### Striking Surface #### 
+#### Striking Surface ####
 The striking surface specifies the minimum and maximum amount of padded striking surface the weapon *must* have. _Any weapon that has less padding than the specified minimums will not pass inspection, even if it falls within the Total Length requirements!_
 
 #### Handle Length ####
@@ -1105,7 +1105,7 @@ All weapons must have a closed cell foam pommel that completely envelopes the po
 #### Weapon Crafters
 We have some players that make weapons that will sometimes coordinate with others to custom make something.  Asking in \##oog-trades-and-goods is a good place to start if you would like to go this route.
 
-A few online storefronts will have ready made things, but please do ask others here about these places because some vendors have material and design types you will want to avoid if you want to pass weapons safety checks for most LARPs. 
+A few online storefronts will have ready made things, but please do ask others here about these places because some vendors have material and design types you will want to avoid if you want to pass weapons safety checks for most LARPs.
 
 ### Bows and Crossbows
 
@@ -1165,7 +1165,7 @@ A shield cannot be longer than 36" in any dimension (including diagonally), shor
 | Dual Wield |  3  |  3  |  5  | 8  | One-Handed Weapon |
 | Parrying Dagger |  2  | 2  |  2  | 2  |-|
 
-#### One-Handed Weapon 
+#### One-Handed Weapon
 
 >This skill allows the character to use one hand weapon between 24" long and less than 48" long in melee combat.  One-Handed weapons include short swords, short axes, short hammer, short club, long swords, rapier, battleaxe, warhammer, warmace, spear, and club.  This skill allows the use of the weapon in either hand, but not the ability to wield a One-Handed Weapon in both hands at once.
 
@@ -1195,8 +1195,8 @@ A shield cannot be longer than 36" in any dimension (including diagonally), shor
 Physical strikes are weapon delivered combat effects used by characters. A physical strike is delivered once using a weapon attack, and must strike the target character successfully without being blocked in order to be a successful attack. Physical strikes are considered used whether the attack was successful or not. Physical strikes that are blocked by shields or weapons, have been blocked and are considered unsuccessful attacks. Unsuccessful physical strikes and physical strikes that have been resisted can be regained by the character resting. Physical strike effects are not magical in nature; therefore, they cannot be removed by the Dispel Magic spell or any removal skill that is limited to effects of magical origin only.
 
 ### Stamina Points
-> Stamina Points are purchased with Skill Points and may then be used to toward uses of Stamina Pool Abilities.  Each purchase of Stamina Points grants 10 Stamina Points. Using an ability will remove a number of Stamina Points from their pool equal to the ability's level. 
-> 
+> Stamina Points are purchased with Skill Points and may then be used to toward uses of Stamina Pool Abilities.  Each purchase of Stamina Points grants 10 Stamina Points. Using an ability will remove a number of Stamina Points from their pool equal to the ability's level.
+>
 > Characters may alternatively choose to explicitly memorize their ability list. Doing so grants a bonus 10% total Stamina Points to be distributed. The character must mark down how many of which abilities they have chosen to memorize, and they may then only use those abilities (until their next Rest).
 
 |Stamina Pool|F|T|R|M|
@@ -1213,7 +1213,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | 3 | Rapid Refit |
 | 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry |
 | 5 | Silence<br>Vital Blow |
-| 6 | Fear<br>Intercept | 
+| 6 | Fear<br>Intercept |
 | 7 | Curse<br>Destroy |
 | 8 | Endurance<br>Stun |
 | 9 | Regenerate |
@@ -1222,7 +1222,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 #### Level 1 Stamina Abilities
 
 ##### **Critical Strike**
-| Ability | **Critical Strike**| 
+| Ability | **Critical Strike**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
@@ -1231,7 +1231,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Description** | Critical Strikes are purchased with Stamina Points and allow the user to add +1 damage against a single target.  This damage may be stacked up to +5 damage.  The effect ends at rest or when invoking Critical Strike against a different target.|
 
 ##### **Disarm**
-| Ability | **Disarm**| 
+| Ability | **Disarm**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
@@ -1240,7 +1240,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Description** | This skill causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This is a DISARM effect.|
 
 ##### **Blind**
-| Ability | **Blind**| 
+| Ability | **Blind**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
@@ -1249,7 +1249,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Description** | This skill is a strike that renders the target blind and unable to attack targets not in melee range of the blind character for 20 seconds. This effect may be affected by the Transfer Malady, Cure Body, or Cure Blindness spells. The effect of this skill may not be stacked or extended. This is a BLIND effect.|
 
 ##### **Slow**
-| Ability | **Slow**| 
+| Ability | **Slow**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 1 |
@@ -1282,7 +1282,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 #### Level 4 Stamina Abilities
 
 ##### **Disable Limb**
-| Ability | **Disable Limb** | 
+| Ability | **Disable Limb** |
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 4 |
@@ -1423,7 +1423,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 damage. Slay may not be stacked with any carriers or Flame/Frost/Shock/Stone. |
 
 ##### **Weapon Proficiencies**
-| Ability | **Proficiency**  | 
+| Ability | **Proficiency**  |
 |:---|---|
 | **Type**| Stamina |
 | **Level**| 10|
@@ -1431,9 +1431,9 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Call**| "I Hone My Fighting Skill" |
 |**Description**| Proficiencies are purchased with Stamina Points, are declared for a specific weapon and a specific hand, or both hands in the case of Two-Handed Weapons, and last until the character next rests. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call. This may not be used for Ranged Weapons. Stamina Points spent on Weapon Proficiencies may not be restored by any means, other than Rest.|
 
-Fighters may use any melee proficiency for any melee weapon, for either hand.<br> 
+Fighters may use any melee proficiency for any melee weapon, for either hand.<br>
 >Example: Atilla the Fighter spends 20 Stamina Points for two "One-handed Proficiencies". Atilla may use their +2 damage with any longsword, claw, two-handed sword, polearm, etc. (Everything but a bow or thrown.)
- 
+
 Two-Handed Weapons receive 1.5x (rounded down) benefit from Proficiencies.
 
 >Example:  Branuk spends 20 Stamina Points for 2x Two-handed Weapon Proficiencies. He can now swing his Two-handed Sword for +3 damage.|
@@ -1455,8 +1455,8 @@ Two-Handed Weapons receive 1.5x (rounded down) benefit from Proficiencies.
 ## Agility Skills
 
 ### Agility Points
-> Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points. Using an ability will remove a number of Agility Points from their pool equal to the ability's level. 
-> 
+> Agility Points are purchased with Skill Points and may then be used to toward uses of Agility Pool Abilities.  Each purchase of Agility Points grants 10 Agility Points. Using an ability will remove a number of Agility Points from their pool equal to the ability's level.
+>
 > Characters may alternatively choose to explicitly memorize their ability list. Doing so grants a bonus 10% total Agility Points to be distributed. The character must mark down how many of which abilities they have chosen to memorize, and they may then only use those abilities (until their next Rest).
 
 |Agility Pool|F|T|R|M|
@@ -1631,7 +1631,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 #### Level 10 Agility Abilities
 ##### *Agile Proficiency*
-| Ability | ** Agile Proficiency**  | 
+| Ability | ** Agile Proficiency**  |
 |:---|---|
 | **Type**| Agility |
 | **Level**| 10|
@@ -1715,15 +1715,15 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Spells By Level and School
 
 
-| Tier | Universal | Arcane | Spirit | Nature | 
+| Tier | Universal | Arcane | Spirit | Nature |
 |---|---|---|---|---|
-| 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink | 
-| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike | 
-| 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  | 
+| 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink |
+| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike |
+| 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  |
 | 4  | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb  | Entangle Arms<br>Command: Kneel |
 | 5  | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify  | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
-| 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body | 
-| 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine | 
+| 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body |
+| 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine |
 | 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
 | 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
 | 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Sanctuary<br>Spider Web |
@@ -1766,7 +1766,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Universal |
 | **Level** | 8  |
 | **Duration** | Rest |
-| **Incant** | "By my will, I conjure a reflect \<type\>."|
+| **Incant** | "By my will, I conjure a \<type\> reflect."|
 | **Description** | This spell grants the target a single use of ONE of Reflect Toxin, Reflect Physical, or Reflect Spell. This is an ACTIVE REFLECT effect. |
 
 #### Universal Level 9
@@ -1800,7 +1800,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**  | Instant |
 | **Incant**  | "I conjure a Mana Bolt ##." |
 | **Description** |  This spell creates a bolt of magic that does 5x the mana used to deliver magic damage to the target. If the caster has an active Elemental Shift, they may choose to throw either Magic or their element.  This spell may be used at all Levels.|
- 
+
 
 #### Arcane Level 2
 
@@ -2067,7 +2067,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **School** | Spirit |
 | **Level**  | 5  |
 | **Duration**  | Instant |
-| **Incant**  | "By the spirits, I cure this body." |
+| **Incant**  | "By the spirits, I cleanse this body." |
 | **Description** | This spell removes a single lingering effect of the target's choice. This may not remove DRAIN, DEAD, UNCONSCIOUS or INFECT. |
 
 ##### **Field Resurrection**
@@ -2090,7 +2090,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 
 #### Spirit Level 6
- 
+
 ##### **Enhanced Focus**
 | **Spell**| **Enhanced Focus**|
 |:---|:---|
@@ -2182,7 +2182,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 
 #### Spirit Level 10
- 
+
 ##### Death
 | **Spell** | **Storm of Curses** |
 |:---|:---|
@@ -2415,7 +2415,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 | **Duration**  | 1 minute  |
 | **Incant**  | "By nature, I regenerate you." |
 | **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
- 
+
 ##### **Wrath of Nature, Other**
 | **Spell** | **Wrath of Nature, Other** |
 |:---|:---|
@@ -2459,11 +2459,11 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 ### Rest-Boosting Skills
 
 ##### Performing
->This skill allows other characters to benefit from a short, relaxing performance. Performances can be of a wide variety of entertaining performance arts. These include, but are not limited to, Scene Acting, Poetry Recital, Singing, Dancing, Instrumental Performance, Spoken Word, Dramatic Reading, etc. 
+>This skill allows other characters to benefit from a short, relaxing performance. Performances can be of a wide variety of entertaining performance arts. These include, but are not limited to, Scene Acting, Poetry Recital, Singing, Dancing, Instrumental Performance, Spoken Word, Dramatic Reading, etc.
 >
->Performances speed the recovery time of Rest. For each 5 minutes that a performer performs, the audience's base Rest time of 2 hours is reduced by 15 minutes. Rest time may never be lowered to less than 30 minutes. To benefit from a performance, a character must be present through an entire 5 minute block of the performance. Performers should announce "Now performing!" at the beginning of each 5 minute block. This is not a requirement. 
+>Performances speed the recovery time of Rest. For each 5 minutes that a performer performs, the audience's base Rest time of 2 hours is reduced by 15 minutes. Rest time may never be lowered to less than 30 minutes. To benefit from a performance, a character must be present through an entire 5 minute block of the performance. Performers should announce "Now performing!" at the beginning of each 5 minute block. This is not a requirement.
 >
->Performances require concentration. If the performer stops their performance for longer than 1 minute, or the performer suffers an attack that is NOT part of the performance, then the performance is stopped with no benefit for that block of time. 
+>Performances require concentration. If the performer stops their performance for longer than 1 minute, or the performer suffers an attack that is NOT part of the performance, then the performance is stopped with no benefit for that block of time.
 >
 >If multiple performers perform at the same time there is no increase in efficacy, however performers may alternate between one another to maintain a performance without interruption. For each rank in Performing that a performer has, the performer may benefit an audience for one block of time per Rest. Use of this skill does not interrupt Resting.
 
@@ -2480,7 +2480,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ##### First Aid
 >This skill is purchased once. First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say "Performing First Aid". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply. Other in-game tools can lessen this time. The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.
-> 
+>
 >This skill also allows a character to touch a downed or seemingly disabled character and ask, "First Aid, what do I see?"  If the character is under an effect that can be diagnosed by first aid, or is a visible effect, the player may reply with the specific effect ("Are you Dead", "Are you Bleeding Out", "Are you reviving", etc).  The character may also ask how long a countdown remains on first aid or visible effects ("How long until you dissipate", "How long until you’re dead", etc).  The character cannot ask how long the timer was, just its current time left).  
 >
 >The following statuses can be determined with first aid.  First aid can determine the count down timer on statuses that are diagnosed with physical effects or first aid.
@@ -2509,7 +2509,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 
 ##### Lockpicking
 >This skill is purchased multiple times. Each skill rank indicates the proficiency of the character in picking locks. To pick a lock, the character must provide their own draw bag and several beads in each of four colors. One color represents success (one bead). One color represents breaking the lock (one bead). One color represents that the character can continue the attempt (several beads), And one color represents resetting the bag (several beads). The base bag has 1 success, 1 break, 4 continue, 1 reset. The character's skill rank is compared to the tier of the lock. For each rank that the character's skill is under the lock, add 2 continue and 1 reset. If the character's skill is equal to, or above the lock there is no change to the bag. The character may draw from the bag every 30 seconds until success, or the lock is broken.
-> 
+>
 > Broken locks are jammed and can no longer be picked. A tinkerer must repair the broken lock before the lock can be picked again. This repair is a tier III skill requiring 3 tinkering materials. Repairing a broken lock takes 1 minute.
 
 ##### Cutpurse
@@ -2519,7 +2519,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 >This skill is purchased once. Using this skill, the character can attempt to track a target's tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number.
 >
 >Tracking can be combined with the survivalist knowledge skill to gain greater bonuses and be considered master tracker.
-> 
+>
 >When a player asks to track something/someone a marshal will determine if the tracking succeeds and how much information a player gets.  PCs cannot track other PCs.
 
 ### Knowledge Skills
@@ -2580,9 +2580,9 @@ Item production is the process by which characters are able to craft consumable 
 >Production items are set in Tiers from I-X. It takes as many raw materials ranks to make a single item equal to the production item's tier. But wait! Production items are ranked I-X and raw materials are only ranked I-V, and then X; how do I get VI-IX raw materials? The answer to that is to combine the I-V raw materials to equal the tier of the production item that you are making.
 >
 >Examples:
-> 
+>
 >To make an Alchemy Tier I item, the character needs to have at least one rank in the Alchemy skill, and would use a single Rank I material. For Alchemy, this is Minor Alchemical Catalyst.
-> 
+>
 > To make a Smithing Rank 8 item, the character would need at least 8 Ranks in Smithing, and could use a combination of materials where the Ranks, when added up, equal the rank of the item desired. For Smithing this could be one Rank V and three Rank I added up equal enough ranks to make the item.
 
 ### Durability
@@ -2593,7 +2593,7 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Weapon Auras
 >By default, a base weapon will use Normal as its **Damage Type**.
-> 
+>
 >A weapon that has been silvered may only use Silver as its **Damage Type** (ie: it can no longer swing for Normal).
 >
 > A weapon that has been enchanted with a Magic Aura may only swing Magic as its **Damage Type**, and cannot be silvered. If a weapon is silvered then enchanted, it also becomes a magic sword and may only swing Magic (ie, a weapon with a Magic Aura must always use Magic **Damage Type**†)
@@ -2610,20 +2610,20 @@ Item production is the process by which characters are able to craft consumable 
 |Silvered, Shock Aura|Silver|Shock|1 Silver, 1 Silver Shock|
 |Magic Aura|Magic|None|1 Magic|
 |Magic Aura, Stone Aura|Magic|Stone|1 Magic, 1 Magic Stone|
-> 
+>
 >† _Weapon Coatings and Monstrous Auras can still be used with a weapon that has a Magic Aura._
 
 ### Workshops
 >Characters can purchase a Workshop from Logistics for 10 Credits. Workshops have a durability of 10, and their durability is decreased each time they are used for an event by a given character. Workshops can be used to make large-scale batches of an item, doubling the total output for a single character.
 >  
 >Example: If you attempt to make 10 Heal Wounds potions, this would normally take you 30 Ranks in Alchemical materials. You could either spend 15 ranks, to make 5 potions which will get doubled by the Workshop, or spend the original 30 and get 20 potions instead.  The Workshop must have a durability removed by Logistics during check-in in order to receive any batch production. More than one character may use a workshop for a given event, but each person who uses it will cost one durability.
-> 
+>
 > Workshops cannot be used to duplicate Artificing items.
 
 ### Production Item Reference Table
 > † indicates an item that can scale to higher tiers.
 
-| Tier | Alchemy | Smithing | Rune Carving | 
+| Tier | Alchemy | Smithing | Rune Carving |
 |---|---|---|---|
 | 1  | Blinding Toxin†<br>Poison Dart 5<br>Slowing Toxin†| Alarm Trap<br>Key<br>Lock<br>Rusty Weapon | Glowing Wand Stone<br>Rune of Trap Compression<br>Wand of Agility†<br>Wand of Stamina†<br>Wand of Magic† |
 | 2  | Explosive Grenade<br>Poison Dart 10<br>Solvent<br>Toxin Antidote | Armor Resizing Kit<br>Lockpicks<br>Suit of Armor 10† | Rune of Imbuing<br>Rune of Marking/Unmarking<br>Runic Rebreather  |
@@ -2646,7 +2646,7 @@ Item production is the process by which characters are able to craft consumable 
 | Tertiary Gathering Skill | 3+1 | 3+1 | 3+1 | 3+1 | -   |
 
 
-### Material Harvesting Skills 
+### Material Harvesting Skills
 
 ##### Foraging
 >This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, making powders, and mixing base ingredients for use in Alchemy.
@@ -2660,7 +2660,7 @@ Item production is the process by which characters are able to craft consumable 
 
 ### Raw Materials
 >Production materials are ranked I-V, and X. Characters with a gathering skill will be rewarded two ranks of raw material for each rank of gathering skill that they possess, per day of the event. Additional raw materials can be bargained for  from NPCs, or other players. Characters will also rarely get the opportunity to gather additional materials during mods.
-> 
+>
 > Ex: Verse has 7 ranks in Logging, and 2 ranks in Mining. He is attending a 2 Day event. He will receive 28 Ranks of Logging Materials (7 x 2 Ranks, 14 Ranks Per Day, for 2 days.) and 8 Ranks of Mining Materials (2 x 2 Ranks, 4 Ranks Per Day, for 2 Days).
 >
 >Prior to an event starting, you can spend your raw material ranks, along with any raw material tags that you have, to craft in-game items. Once you are done crafting items before the game starts, logistics will give you tags for any unspent raw materials as well as tags for the items that you produced. When you get your raw material tags, you can request to get them in any rank I-X, as long as the total ranks are equal to the unspent ranks that you have left.
@@ -2669,7 +2669,7 @@ Item production is the process by which characters are able to craft consumable 
 # 14 - Alchemy
 ## Alchemy
 
-#### Toxins 
+#### Toxins
 | Effect          | Ingestible Tier | Coating Tier | Dart/Trap Tier |
 |-----------------|-----------------|--------------|----------------|
 | Blind Toxin    | 1               | 2            | 3              |
@@ -2691,18 +2691,18 @@ Item production is the process by which characters are able to craft consumable 
 >However, if Charlie presents his sword to Diane, who then applies a Sleep Coating to Charlie's sword, then Charlie (and only Charlie) may use that Sleep Coating.
 >
 >Once applied, the coating will last until it is used or the wielder rests, whichever comes first.
-> 
+>
 #### Toxin Darts
 > Toxin Darts function similarly to their Ingestible Counterparts, except they have been processed into an aerosolized gas instead of a powder that must be consumed to take effect. When using a Toxin Dart, the user must throw a packet while declaring "Toxin (Effect)" of the type indicated on the item tag. This cannot be blocked by weapons or shields, much like a Spell Packet.
-> 
+>
 #### Traps
-> Traps are pre-placed objects designed to deliver an effect to a small area when their trigger is set off. Trap Reps must be a minimum of 12"x6"x6", to a maximum of 36" in any dimension, and all Trap designs must be approved by a Rules Marshal prior to use. 
-> 
+> Traps are pre-placed objects designed to deliver an effect to a small area when their trigger is set off. Trap Reps must be a minimum of 12"x6"x6", to a maximum of 36" in any dimension, and all Trap designs must be approved by a Rules Marshal prior to use.
+>
 > Setting a trap requires a minimum of 1 minute, but the trap is not active until the trigger has been fully set.
-> 
+>
 > All traps must have a real, physical trigger that is attached to the trap. Setting off the trap must produce a noise or light that is detectable by an impartial observer. It must always be possible to see how to disarm a trap, although it may require light and a small mirror.
-> 
-> When Toxin traps are activated, it delivers the effects of the Toxin, centered on the trap as "Voice Radius Toxin [Effect]", at a casual speaking volume, such that someone 10 feet away could hear. 
+>
+> When Toxin traps are activated, it delivers the effects of the Toxin, centered on the trap as "Voice Radius Toxin [Effect]", at a casual speaking volume, such that someone 10 feet away could hear.
 
 
 ### Alchemy Products
@@ -2856,7 +2856,7 @@ Item production is the process by which characters are able to craft consumable 
    >With this skill the blacksmith can carefully silver plate a weapon in order for the weapon to do to the silver damage type. This can be done at time of creation or to an already existing weapon.
 ##### Two-Handed Weapon
    >This creates a finely made Two-Handed Weapon that has a base damage of 1, with 5 Durability.
-##### Whetstone 
+##### Whetstone
    >A user can spend 1 minute of careful sharpening using this tool to improve a single weapon's base damage by 1 for 5 days. This process however shortens the item's lifespan, reducing its durability by 1. If this would reduce the durability to 0, the item is destroyed. This item cannot stack with similar effects. This item does not work on Unarmed or Claws. This item is consumed on use.
 
 #### Tier VI
@@ -2866,11 +2866,11 @@ Item production is the process by which characters are able to craft consumable 
 ##### Pick Pocket Tools
    >These tools require the Cutpurse skill to use. These tools allow the would-be thief to slip a hand into another character pouch or pocket and randomly take a single game item. This item is represented by a clip that has an ID that corresponds to the character. This ID is issued by Logistics, though a player can request a new ID at any time. The player slips the clip onto the pouch, or pocket, and goes to notify a Game Marshal. The Game Marshal will approach the picked character and retrieve one random game item from the picked character. If there is nothing in the picked pouch, then the larceny has resulted in no reward. The transfer of goods from Game Marshal to thief takes place out of sight from other players.  Tools have 10 charges.
 ##### Ranged Weapon
-   >This creates a finely made Ranged Weapon that has a base damage of 1, with 5 Durability. 
-   
+   >This creates a finely made Ranged Weapon that has a base damage of 1, with 5 Durability.
+
 #### Tier VII
 
-##### Resistant Plating 
+##### Resistant Plating
    >This armor plating is specially designed to help absorb an otherwise direct blow, shrugging off the effects at the cost of the brittle material. This plating can be applied to a suit of armor with 1 minute of roleplay. Depending on how the user chooses to configure it upon application, it can grant them a single use of Resist Physical or Spell. A suit of armor can only have one Resistant Plating applied at a time. This takes a defense slot. This item is consumed on use.
 ##### Reinforcement Kit
 >This kit helps prepare the user for imminent destruction by providing them with several small tools that when quickly applied can help prevent an item from being destroyed. This can be prepared with 1 Minute of roleplay. It grants the user a single use of Resist Destruction, that lasts until Rest. An individual may only have one Reinforcement Kit active on it at time. This item is consumed on use. This does not take a defense slot.
@@ -2913,7 +2913,7 @@ Item production is the process by which characters are able to craft consumable 
 
 #### Tier I
 
-##### Glowing Wand Stone 
+##### Glowing Wand Stone
    >This creates a softly glowing stone that can be inset into the end of a carved wand. This stone should not emit more light than a typical physical representation for a Glowing Light spell. This item is consumed on use. Acts as per the Glowing Light Spell.
 ##### Rune of Trap Compression
 >This rune is designed to help a would-be trap user to conceal their traps more effectively. To use this rune, the user must declare "Activate Trap Compression", and attach this tag to the Trap, along with the regular Trap tag. This effect allows the rep to be half the normal minimum size requirement, shrinking the minimum to 6"x3"x3". This item is consumed on use.
@@ -2932,7 +2932,7 @@ Item production is the process by which characters are able to craft consumable 
 ##### Rune of Marking/Unmarking
    >This rune, when activated, will leave a mark on an item, or person, which lasts until removed with a Rune of Unmarking, or the body has been regenerated in the case of the mark being placed upon a person. The mark is placed and designed by the person who used the Rune of Marking, with the approval of the Plot Team. To activate the rune, the character must touch the target of the rune and apply it with a three count "Activate Rune of Marking, 1 I Mark You..." etc. This can be used to remove a Mark by instead touching the target and saying "Activate Rune of Unmarking". This item is consumed on use.
 ##### Runic Rebreather
-> This specially treated wooden disk, inspired by someone with an impossible to spell name, has been carved with runes that allow the bearer to breathe clean air in environments where they might otherwise suffocate. It takes 3 seconds of roleplay to apply a Runic Rebreather, after which its effects last for 1 hour. This does not provide any protection against Toxin effects. This item is consumed on use. After use, the user cannot benefit from the effects of a Runic Rebreather until they complete a Rest. 
+> This specially treated wooden disk, inspired by someone with an impossible to spell name, has been carved with runes that allow the bearer to breathe clean air in environments where they might otherwise suffocate. It takes 3 seconds of roleplay to apply a Runic Rebreather, after which its effects last for 1 hour. This does not provide any protection against Toxin effects. This item is consumed on use. After use, the user cannot benefit from the effects of a Runic Rebreather until they complete a Rest.
 
 #### Tier III
 
@@ -2977,7 +2977,7 @@ Item production is the process by which characters are able to craft consumable 
 ##### Rune of Elemental Barrier
    >This rune will protect the character from one instance of Elemental damage, of a type chosen upon application. Only one Elemental Barrier Rune can be applied to an individual at a time. This takes up a defense slot. It takes 5 seconds to apply the Rune. The defensive call for this is "Resist".
 ##### Rune of Mirror Shield
->This creates a temporary Rune that can be applied to a Shield with 1 Minute of Roleplay that will allow the character to Reflect Spell. Only one Shield Spikes or Mirror Shield Rune can be on a shield at a time. The call for this is "Reflect". This does take up a defense slot. This item is consumed on use. 
+>This creates a temporary Rune that can be applied to a Shield with 1 Minute of Roleplay that will allow the character to Reflect Spell. Only one Shield Spikes or Mirror Shield Rune can be on a shield at a time. The call for this is "Reflect". This does take up a defense slot. This item is consumed on use.
 ##### Rune of Shield Spikes
    >This creates a temporary Rune that can be applied to a Shield with 1 Minute of Roleplay that will allow the character to Reflect Physical. Only one Shield Spikes or Mirror Shield Rune can be on a shield at a time. The call for this is "Reflect". This does take up a defense slot. This item is consumed on use.
 
@@ -3026,7 +3026,7 @@ Item production is the process by which characters are able to craft consumable 
 
 >Uncommon Formulas may sometimes be Memorized or even Taught by Artificers. Formulas discovered in the world will have a notation on them indicating if they can be Memorized, and if so, how many times before the Formula is no longer functional. They may also have a notation for how many times a Formula may be Taught after being Memorized, if it may be Memorized at all. If an Uncommon Formula is not capable of being Memorized, or the Artificer does not wish to Memorize it, then when attempting to create the item the Formula must be shown to Logistics before the item tag will be produced.
 
->Presented here are the Standard Library of Items, as well as any items known to the world at large as "Uncommon Formulas", for which the Formula may be discovered or re-invented, 
+>Presented here are the Standard Library of Items, as well as any items known to the world at large as "Uncommon Formulas", for which the Formula may be discovered or re-invented,
 
 ### Standard Library
 
@@ -3053,7 +3053,7 @@ Item production is the process by which characters are able to craft consumable 
    >15 Alchemy Materials, 5 Rune Carving Materials, 2 Spirit Gems.
 ##### Destruction Magnet Enchantment
    >This Enchantment may be placed upon a Shield, and while held will allow the user to re-direct any Destroy effect targeted at a different piece of equipment the bearer possesses to the Shield instead. The call for this is "Got it, Redirect, Resist". This Enchantment also gives the Shield 2x Ever Resist Destruction that stacks with any Hardening it may possess. After this enchantment has been applied, the shield may not be further Hardened. This enchantment may only be applied once.<br/>
-   >10 Alchemy Materials, 10 Smithing Materials, 2 Spirit Gems. 
+   >10 Alchemy Materials, 10 Smithing Materials, 2 Spirit Gems.
 ##### Magic Aura Enchantment
    >This Enchantment may be placed upon a Weapon, and will change the weapon's base damage type to Magic.<br/>
    >10 Rune Carving Materials, 10 Smithing Materials, 2 Spirit Gems.
@@ -3095,7 +3095,7 @@ Item production is the process by which characters are able to craft consumable 
 ##### Omni-Elemental Aura Enchantment
    >This Enchantment may be placed upon a Weapon, and will allow the wielder to strike with an Elemental carrier, chosen from Flame/Frost/Shock/Stone. They may swap the element with 1 minute of concentration.<br/>
    >20 Rune Carving Materials, 20 Smithing Materials, 20 Alchemy Materials, 6 Spirit Gems.
- 
+
 #### Tier VII
 
 ##### Blade of Beginner's Luck
@@ -3199,7 +3199,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Production Item Reference Table
 > † indicates an item that can scale to higher tiers.
 
-| Rank | Alchemy | Smithing | Rune Carving | 
+| Rank | Alchemy | Smithing | Rune Carving |
 |---|---|---|---|
 | 1  | Poison Dart 5<br>Blinding Toxin†<br>Slowing Toxin†| Rusty Weapon<br>Lock<br>Key<br>Alarm Trap | Glowing Wand Stone<br>Rune of Trap Compression<br>Wand of Magic†<br>Wand of Stamina†<br>Wand of Agility† |
 | 2  | Solvent<br>Toxin Antidote<br>Poison Dart 10<br>Explosive Grenade | Suit of Armor 10†<br>Armor Resizing Kit<br>Lockpicks | Rune of Marking/Unmarking<br>Rune of Imbuing<br>Runic Rebreather  |
@@ -3245,9 +3245,9 @@ This ritual augments "Mana Bolt" for an arcane magic user at every level with on
  * Shock Bolt - "I conjure a shock bolt &lt;number>."
  * Stone Bolt - "I conjure a stone bolt &lt;number>."
 
-The target of this ritual chooses the element at the end of the ritual casting. This change is permanent until this ritual is once again cast on the target at which time a different element may be selected. 
+The target of this ritual chooses the element at the end of the ritual casting. This change is permanent until this ritual is once again cast on the target at which time a different element may be selected.
 
-This ritual requires that the ritualist use a physical representation for each of the four elements: Fire, Air, Water, and Earth. 
+This ritual requires that the ritualist use a physical representation for each of the four elements: Fire, Air, Water, and Earth.
 
 ##### Create Spirit Familiar
 This ritual siphons off a portion of the character's spirit, creating the physical form of a Spirit Familiar. The form of the Spirit Familiar is left up to the player with the final approval of the local Plot Team.
@@ -3256,7 +3256,7 @@ Once the ritual is complete, the Spirit Familiar will take shape and be with the
 
 The character may then procure further spirit rituals to begin a transformation process where the character casts a base "Spirit Transform to &lt;x>" ritual upon the Spirit Familiar, and subsequently casts empowerment rituals known as Transform Ability Rituals, based on the transformation of the Spirit Familiar. These empowering rituals allow the character to invest skill points on Transform skills.
 
-If at any time a character no longer wishes to pursue the path of their current Spirit Familiar, they may elect to have a new Spirit Familiar ritual cast upon them. However, this does not come without cost. The Spirit Familiar's link to the character's spirit is strong, and breaking it can be harmful. Upon casting a new Spirit Familiar, all previously unlocked Transform Abilities are lost, and the character permanently loses 50 SP. 
+If at any time a character no longer wishes to pursue the path of their current Spirit Familiar, they may elect to have a new Spirit Familiar ritual cast upon them. However, this does not come without cost. The Spirit Familiar's link to the character's spirit is strong, and breaking it can be harmful. Upon casting a new Spirit Familiar, all previously unlocked Transform Abilities are lost, and the character permanently loses 50 SP.
 
 This ritual requires that the target character have a pre-approved physical representation of their Spirit Familiar with them in the ritual.
 
@@ -3276,7 +3276,7 @@ The caster reaches out and taps into the primordial energy of the surrounding en
 #### Ritual Level IV
 
 ##### Spirit Journey
- This ritual allows the target to seek out information or ask a question of the spirit realm. They will experience a vision quest related to that topic. The source of the vision may be their own subconsciousness, tribal ancestors, spirit guides, or other metaphysical sources as appropriate for the performance of the ritual. The events of the journey are not guaranteed to be truthful; The spirits may be fickle, capricious, or even simply out of touch with the physical reality of Evren. 
+ This ritual allows the target to seek out information or ask a question of the spirit realm. They will experience a vision quest related to that topic. The source of the vision may be their own subconsciousness, tribal ancestors, spirit guides, or other metaphysical sources as appropriate for the performance of the ritual. The events of the journey are not guaranteed to be truthful; The spirits may be fickle, capricious, or even simply out of touch with the physical reality of Evren.
 
 ##### Spirit Lock
 This ritual forms a permanent bond between a specific item and a target individual. This bond transcends the physical realm, ensuring that no matter where the individual may go, the item will always follow. As long as the item endures, it is Locked to the target, unable to be stolen, given away, or even used by another individual. If the target should die and their spirit departs to seek resurrection, the item will follow them. This does not grant any extra resilience for the item, and the effect will fade if the item is destroyed or expires.
@@ -3324,7 +3324,7 @@ The ritualist empowers a character with grand energies of might and magic. This 
 #### Ritual Level IV
 
 ##### ?
- 
+
 #### Ritual Level V
 
 ##### Spirit Familiar Transformation
@@ -3351,10 +3351,10 @@ The caster attempts to call forth a being from beyond. The being, if summoned, c
 #### Ritual Level VIII
 
 ##### Improve Aether Flow
-The ritualist creates an area of improved Aether flow that will enhance the speed of Rest. This area must be a clearly defined 10 foot radius circle. The border of the area provides no protection or other benefits other than aiding Rest. 
+The ritualist creates an area of improved Aether flow that will enhance the speed of Rest. This area must be a clearly defined 10 foot radius circle. The border of the area provides no protection or other benefits other than aiding Rest.
 
-The Resting area will last for 5 days. Within the area, for each 15 minutes of time that a character Rests within the area, their maximum Rest time will be reduced by 30 minutes. Rest time cannot be reduced to below 30 minutes. 
-      
+The Resting area will last for 5 days. Within the area, for each 15 minutes of time that a character Rests within the area, their maximum Rest time will be reduced by 30 minutes. Rest time cannot be reduced to below 30 minutes.
+
 This ritual requires that the ritualist provide a relaxing environment for the characters that are resting.
 
 #### Ritual Level IX
@@ -3363,12 +3363,12 @@ This ritual requires that the ritualist provide a relaxing environment for the c
 
 #### Ritual Level X
 
-#### Variable Level 
+#### Variable Level
 ##### Curse of Transformation: \<Creature\>
 Applies a Curse of Transformation to the target, transforming them into the named creature. The Curse of Transformation will last until the target dies and dissipates (seeks resurrection or reforms at their Spirit Bottle) or is affected by a Destroy Ritual Magic, unless otherwise stated by the stat card provided.
 
-The effects of Transformation are entirely at Plot discretion, upon receiving a Curse of Transformation, the target will be given a Stat Card for the effects and abilities they will receive. Curse of Transformations are often more powerful than a newly-acquired Spirit Familiar Transform, but carry significantly more risk due to their impermanence and increased chance of death. 
- 
+The effects of Transformation are entirely at Plot discretion, upon receiving a Curse of Transformation, the target will be given a Stat Card for the effects and abilities they will receive. Curse of Transformations are often more powerful than a newly-acquired Spirit Familiar Transform, but carry significantly more risk due to their impermanence and increased chance of death.
+
 
 # 19 - Transform Rituals
 ## Transform Ability Rituals
@@ -3389,7 +3389,7 @@ Tiers Correspond to the following Ritual Levels
 ### Transform Abilities
 
 #### Unlocking Transform Abilities
-Before a character may purchase a monstrous ability on their transform, that ability must be "unlocked". Some abilities are unlocked by default (per transform). 
+Before a character may purchase a monstrous ability on their transform, that ability must be "unlocked". Some abilities are unlocked by default (per transform).
 
 Unlocking an ability requires consuming a number of Spirit Gems dependent on the level of the ability:
 * Basic - 1 Spirit Gem
@@ -3441,7 +3441,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Cost: | Variable |
 | Description: | User gains 1/Rest use of a physical strike, as dictated by the monstrous ability. |
 
-##### Spellstrike 
+##### Spellstrike
 | Name: | Spellstrike|
 |---|---|
 | Type: | Active|
@@ -3459,7 +3459,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 
 #### Basic - Tier I
 
-##### Claws 
+##### Claws
 | Name: | Claws |
 |---|---|
 | Type: | Passive|
@@ -3815,7 +3815,7 @@ Unfortunately, research into this new branch of Necromancy is still ongoing and 
 
 #### Benefits:
 
-While this style of Necromancy may be seen as less powerful on the surface, it does have several benefits that the previous method lacks. 
+While this style of Necromancy may be seen as less powerful on the surface, it does have several benefits that the previous method lacks.
 
 1. This method DOES NOT work on individuals that were not previously willing to allow for their body to be used in such a manner and does not affect the cycle of Life and Death, as it requires the Spirit to have crossed to the Eternal Graveyard.
 2. Fiendish Necromancy overwhelmingly leads to the creation of an undead creature that is weaker than the necromancer raising it. , This new method can allow for bodies of varying strength and skill to be preserved to some degree and reanimated by a caster of minimally sufficient skill, regardless of the overall strength of the reanimated body.
@@ -4008,7 +4008,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | SOLIDIFY | Ability user or Target's GASEOUS effect is removed. | Varies by source. |
 | SPELLSTRIKE | Ability user may deliver a spell with a physical weapon. |Spellstrike (Spell Name) |
 | VOICE RADIUS| All targets that hear the call take X effect. | Voice Radius X|
- 
+
  ### Status
 
 | Term| Description |Encounter Call |
@@ -4050,7 +4050,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | WEAKEN| Target damage is lowered by x amount for y time. | Varies by source. |
 
 ### How to Diagnose
- 
+
 |Visible Effect|First Aid|Identify|Exception|
 |:---|---|:---:|:---:|
 |Berserk|Bleed Out/Dying|Animate|***Enslavement|
@@ -4071,7 +4071,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 |Stun||||
 |Undead||||
 |Weaken||||
- 
+
 **Physical description characteristics of Curse of Transformations and Transforms are not always uniquely identifiable, and cannot be used to reliably ascertain the presence of a Curse of Transformation.
 For instance,  there are many creatures that have fangs, so a "fanged humanoid" is not necessarily a vampire
 
@@ -4132,10 +4132,10 @@ A character who has passed their 5 minute **Death** count dissipates, and their 
 
 When a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot.
 
-Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions. 
+Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions.
 
 ### SP Debt
-When a character resurrects, they incur **SP Debt**, which results in a portion of the character's SP becoming temporarily unavailable to be used. 
+When a character resurrects, they incur **SP Debt**, which results in a portion of the character's SP becoming temporarily unavailable to be used.
 
 **Total Debt**: SP that is held "in debt", unable to be use by the character.  
 **Total SP**: The total amount of SP the character has. This number is **not** affected by SP Debt in any way, and continues to increase normally as the player attends events.  
@@ -4159,18 +4159,18 @@ After every event a player attends, any SP Debt they have is reduced by 25% (min
 > Total Debt: 15
 > Effective SP: 291
 > So, at the beginning of the next event Octoro the Orc attends, they will only be able to utilize up to 291 SP to purchase skills.
-> 
+>
 > At the next event Octoro the Orc attends, they do not resurrect. After the event, their debt will be reduced by 4. (15 Total Debt .25, rounded up). Octoro the Orc now has:
 > Total SP: 312
 > Total Debt: 11
 > Effective SP: 301
-> 
+>
 > At their third event, Octoro the Orc ressurects again. After the event, their debt is first reduced by 3. Then, they incur 15 addition debt `(312 Total SP - 8 Debt) * .05 = 15`, bringing their Total Debt to 23. Octoro now has:
 > Total SP: 318
 > Total Debt: 23
 > Effective SP: 295
 
-See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d/15gMsb7XrGNeszVXrXdbBHoo2zRIrJsqgvPt6i-ehjxA/edit##gid=711556602) for an interactive SP Debt calculator. 
+See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d/15gMsb7XrGNeszVXrXdbBHoo2zRIrJsqgvPt6i-ehjxA/edit##gid=711556602) for an interactive SP Debt calculator.
 
 
 ### Permanent Death
@@ -4197,7 +4197,7 @@ Most people and creatures have a regular metabolism. Characters with "no metabol
 - Immune to Toxin
 - Immune to Berserk, Command: Confuse, Death, Boon of Nature, Drain, First Aid, Heal Wounds, Hearthstone, Infect, Life, Regenerate, Revive, Revivify, Sleep, Stun, Vampiric Touch, Waylay
 
-> _Generally, a creature that has no metabolism cannot be healed by typical means, but will have an alternate method of being healed. For instance, a Fire Elemental would be immune to standard healing effects, but could be healed by Flame._ 
+> _Generally, a creature that has no metabolism cannot be healed by typical means, but will have an alternate method of being healed. For instance, a Fire Elemental would be immune to standard healing effects, but could be healed by Flame._
 
 #### Undead Metabolism
 Creatures with Undead Metabolism follow the same rules as "No Metabolism," with the excpetions that they are affected by Heal Wounds (and other standard healing effects) normally, as well as being affected by effects and abilities that specifically target undead (such as Harm Undead).
@@ -4217,19 +4217,19 @@ Spirit Bottles may have their charges replenished. Doing so requires the casting
 
 ### Resetting Skills and Magic Items
 
-Adventurers are powerful individuals who rely on magic and skill to defeat their enemies. This expenditure of endurance both physically and magically takes a toll on even the most mighty of heroes on Evren. Magic items store Aether to power their wondrous magic, even the most powerful of artifacts requires time to recharge its Aether stores. 
+Adventurers are powerful individuals who rely on magic and skill to defeat their enemies. This expenditure of endurance both physically and magically takes a toll on even the most mighty of heroes on Evren. Magic items store Aether to power their wondrous magic, even the most powerful of artifacts requires time to recharge its Aether stores.
 
 There are two periods of time on Evren when skills and magic items can be recharged and used again. The first is Rest, the second is Day.
 
 ### Rest
 
-Rest is a short period of time that the character takes to relax and recharge their personal Aether stores of energy required to use the magical and martial skills that the character has learned. Rest has a maximum duration of two hours, and a minimum duration of 30 minutes. Several items and skills in game can be used by the character to reduce their Rest time. A player may also choose to NPC during their character's Rest time for more game rewards! 
+Rest is a short period of time that the character takes to relax and recharge their personal Aether stores of energy required to use the magical and martial skills that the character has learned. Rest has a maximum duration of two hours, and a minimum duration of 30 minutes. Several items and skills in game can be used by the character to reduce their Rest time. A player may also choose to NPC during their character's Rest time for more game rewards!
 
-Resting requires that the character take a break from adventuring for a period of time. During Rest, the character may not use skills, and may not run. If the character does any of these things the Rest ends. The character is focused on letting their body absorb the ambient Aether in the area to restore their energy. 
+Resting requires that the character take a break from adventuring for a period of time. During Rest, the character may not use skills, and may not run. If the character does any of these things the Rest ends. The character is focused on letting their body absorb the ambient Aether in the area to restore their energy.
 
-Resting can be stopped by the character at any time. If the character's health pool is damaged, or if the character suffers death, the Rest will also be stopped. Once the Rest is stopped, the character must restart the Rest from the beginning. 
+Resting can be stopped by the character at any time. If the character's health pool is damaged, or if the character suffers death, the Rest will also be stopped. Once the Rest is stopped, the character must restart the Rest from the beginning.
 
-Once the Rest is complete, the character will have all their Magic Spell and Martial Skills returned to them for another use. Any effects that have a duration of Rest become expired on the character. 
+Once the Rest is complete, the character will have all their Magic Spell and Martial Skills returned to them for another use. Any effects that have a duration of Rest become expired on the character.
 
 
 ### Per Day
@@ -4316,7 +4316,7 @@ Mystery Sacks can be claimed at the end of an NPC Shift with any staff or plot p
 | 3 | Rapid Refit | Shake It Off |
 | 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry<br>Stun | Kneeling Shot<br>Resourceful |
 | 5 | Silence<br>Vital Blow | Breaching Shot<br>Warbow Training |
-| 6 | Fear<br>Intercept | Waylay | 
+| 6 | Fear<br>Intercept | Waylay |
 | 7 | Curse<br>Destroy | Ballista<br>Cursing Shot |
 | 8 | Endurance | Surprising Proficiency |
 | 9 | Regenerate | Dodge |
@@ -4584,7 +4584,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | SOLIDIFY | Ability user or Target's GASEOUS effect is removed. | Varies by source. |
 | SPELLSTRIKE | Ability user may deliver a spell with a physical weapon. |Spellstrike (Spell Name) |
 | VOICE RADIUS| All targets that hear the call take X effect. | Voice Radius X|
- 
+
  ### Status
 
 | Term| Description |Encounter Call |
@@ -4626,7 +4626,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | WEAKEN| Target damage is lowered by x amount for y time. | Varies by source. |
 
 ### How to Diagnose
- 
+
 |Visible Effect|First Aid|Identify|Exception|
 |:---|---|:---:|:---:|
 |Berserk|Bleed Out/Dying|Animate|***Enslavement|
@@ -4647,7 +4647,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 |Stun||||
 |Undead||||
 |Weaken||||
- 
+
 **Physical description characteristics of Curse of Transformations and Transforms are not always uniquely identifiable, and cannot be used to reliably ascertain the presence of a Curse of Transformation.
 For instance,  there are many creatures that have fangs, so a "fanged humanoid" is not necessarily a vampire
 
@@ -4766,13 +4766,13 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 * Added note Some Curse of Transformations and transforms will have a physical description that a player can see but cannot confirm be confirmed as a visible effect.
 * Moved Effect table before Status table so it was alphabetical.
 * Reformatted the How to diagnose table.
-* Added Spirit Bottled, Regenerating, Reviving, and Infected to Status table for consistency with how to diagnose. 
+* Added Spirit Bottled, Regenerating, Reviving, and Infected to Status table for consistency with how to diagnose.
 * Removed Viability? form Ability, Effect, and Status Tables.
 * Removed Blink From Ability Table
 
 #### Introduction
 * Added Creating a Character
-* Added Secondary Characters 
+* Added Secondary Characters
 * Added Skill Points accrued per day
 * Added Skill Point bonus from NPCing
 * Added Section on Plot Members and Marshals
@@ -4780,7 +4780,7 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 * Added How Does Combat Work
 * Added Game Atmosphere Entry
 * Added Religion Entry
-* Added Politics Entry 
+* Added Politics Entry
 * Added Identify Ability and table
 * Added Floating Reset
 * Added additional terms in new player guide.
@@ -4790,8 +4790,8 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 #### Life & Death
 * Added rules descriptions for No Metabolism, Undead Metabolism, and Spirit Bottle
 * DEATH does not remove any effects unless effect specifies otherwise.
-* Codified that someone can dissipate and resurrect to refuse effects except for decimate. 
-* Codified when a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot. 
+* Codified that someone can dissipate and resurrect to refuse effects except for decimate.
+* Codified when a player resurrects all Non-Ritual effects are removed unless otherwise told by Plot.
 
 #### Magic Skills
 * Dull Pain is now Enhanced Focus, effect updated.
@@ -4870,7 +4870,7 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 * Replaced smartquotes.
 
 
-#### Weapon 
+#### Weapon
 * Updated Two-Handed Sword and Two-Handed Blunt to 60 inches.
 * Added Bow Construction Rules.
 * Clarified Shield Construction Rules.
@@ -4883,7 +4883,7 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 * Updated use of health points/hp/health pool to body.
 * Replaced smartquotes.
 
-#### Armor 
+#### Armor
 * Formatting fixes.
 
 #### Defense Skills
@@ -5230,11 +5230,11 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 <u>Spirit</u>
 * Absolution - Removed.
 * Animate Dead - Removed.
-* Create Undead - Clarifications in description. 
-* Cure Body - Will remove PETRIFY effect. 
+* Create Undead - Clarifications in description.
+* Cure Body - Will remove PETRIFY effect.
 * Destroy Undead - Clarified damage to Greater and Master undead as 80.  Crumbles all Lesser and Minor undead.  Moved from Rank 6 to Rank 8
 * Solidify Undead - Renamed to Solidify.  Now works on any gaseous or incorporeal target. Moved to Rank 6.
-* Toxin Shield - Updated to Rank 4. 
+* Toxin Shield - Updated to Rank 4.
 * Turn Undead - Removed.
 
 ### Martial
