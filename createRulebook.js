@@ -14,7 +14,7 @@
 
     fs.readdir(dir, function (err, files) {
         //let outputContents = `# 00 - Change History\n**Version: ${rulesVersion}**\n\n`;
-        let outputContents = `**Rules Version: ${rulesVersion}**\n${new Date().toDateString()}\n\n`;
+        let outputContents = `**Rules Version: ${rulesVersion}**  _${new Date().toDateString()}_\n\n`;
 
         if (err) { return console.log('Unable to scan directory: ' + err); }
         for (let i = 0; i < files.length; i++) {

@@ -1,5 +1,4 @@
-**Rules Version: 3.1.2**
-Wed Jul 12 2023
+**Rules Version: 3.1.2**  _Wed Jul 12 2023_
 
 
 # Chronicles Game Rules
