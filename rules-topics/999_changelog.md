@@ -8,6 +8,7 @@
 * Changed armor to have only 3 types and 3 locations
 * Added Helmet armor
 * Reduced cost of Dexterity Armor for all classes from 5+10 to 5+5
+* Reduced cost of Armor Training for Mages from 3+5 to 3+3
 
 ### Magic
 
