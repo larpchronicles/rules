@@ -49,8 +49,6 @@ Thick, quilted layers designed to blunt the worst of an adversary's blow and pre
 **Required** A three-layer, quilted fabric, Suede, supple leather, faux leather, or leather appearing fabric.
 
 ### Medium Armor
-Hardened leather armor, chainmail armor, any many bone armors
-
 #### Hardened Leather
 Hardened, formed leather that retains its shape and offers significantly more protection against piercing and slashing than its non-hardened counterpart. Less heavy than traditional metal armor, and more cost-effective for adventurers who lack coin.  
 **Required**: At least 4oz hardened veg tan leather, or analog that has the ability to retain its shape under mild pressure. 
@@ -59,9 +57,7 @@ Hardened, formed leather that retains its shape and offers significantly more pr
 Concentric, interlocking metal rings that provide a lighter alternative to full platemail armor, and allows for greater flexibility at the cost of sacrificing protection from piercing and crushing weapon blows.  
 **Required**: Chainmail, rigid interlocked or overlapping rings/plates, fabric with simulated/printed chainmail pattern.
 
-
 ### Heavy Armor
-
 #### Plate 
 Heavy, durable metal armor that provides superior protection from all manner of enemy attacks.  
 **Required:** Solid formed metal plates, foam, plastic or other material that maintains its shape with firm pressure, preferably with an outward metallic appearance.
@@ -80,13 +76,35 @@ Each location has "zones" of coverage. For an armor rep to contribute to a chara
 | Torso | Front, Back |
 
 ### Helmets
+
 ---
+
 A helmet can be substituted for either leg or arm armor. A character that is already wearing arm armor and leg armor will receive no benefit from wearing a helmet.
 
 To qualify, helmets must be at least semi-rigid and otherwise conform to the rules for Medium Armor. The helmet must cover the top and back of the head, as well as the temples/ears. _(ie, the same areas a baseball batter's helmet covers, or an old timey leather football helmet).
 
 Head coverings that will NOT qualify: Sombreros, baseball caps, cavalier's hats (ie 3 Musketeers-style hats), cloth hats. 
 
+## Armor Threshold
+
+---
+Any character with valid, repped physical may attain a Threshold above certain armor values. This means that any time the character is hit by physical damage that does not exceed the Threshold value, the damage is reduced to 1. 
+
+To benefit from the Threshold, the character must possess an armor tag of sufficient value, character armor cap, and physical armor rep value, and must _not_ be benefiting from any other source of armor (ex: Dexterity Armor).
+
+The character can continue to benefit from the Threshold even if their current armor is reduced to 0 or breached, so long as all other conditions are still met.
+
+ | **Armor Point Range** | **Threshold** |
+ | --- | --- |
+ |  < 20 | N/A |
+ | 20-39 | Threshold 2 |
+ | 40-59 | Threshold 3 |
+ | 60-79 | Threshold 4 |
+ | 80+   | Threshold 5 |
+ 
+> Example: Yvngar the Giant is repping 50 points of physical armor, and as the armor cap to match. Yngvar is struck for 3 Normal. They announce `Threshold` in response, and take 1 damage instead of 3.
+> 
+> Yngvar is then attacked for 4 Normal. Yngvar calls `Got it!` and takes 4 damage.
 
 ### ARMOR LOCATION REFERENCE
 >Example: Spurt the Kobold has purchased enough Armor Training to raise their total Armor Cap to 40 points.
