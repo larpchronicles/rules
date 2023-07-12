@@ -11,6 +11,7 @@
 * Reduced cost of Armor Training for Mages from 3+5 to 3+3
 * Added threshold to armor
 * Added response calls for Damage Cap, Threshold, and Reduced to effects chapter
+* Added clarification that Dex Armor precludes a character from benefiting from physical armor, armor threshold, and armor enchantments
 
 ### Magic
 
