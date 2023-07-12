@@ -2,14 +2,15 @@
 ## 3.1.2 [2023-07-14]
 ### Armor
 * Clarified only 1 armor tag can be used at one time
-* Removed reference  to Masterwork Armor Bonus
+* Removed reference to Masterwork Armor Bonus
 * Added Spirit Link ritual and effect. Clarified with Spirit Lock
 * Changed Create Undead into a Curse of Transformation effect
 * Changed armor to have only 3 types and 3 locations
 * Added Helmet armor
 * Reduced cost of Dexterity Armor for all classes from 5+10 to 5+5
 * Reduced cost of Armor Training for Mages from 3+5 to 3+3
-* Added threshold to armor
+    * _(Note: This is a mid-season "band-aid" fix. A larger update is needed, however, this should help mitigate the problem for Mages until the off season.)_
+* Added Threshold to physical armor
 * Added response calls for Damage Cap, Threshold, and Reduced to effects chapter
 * Added clarification that Dex Armor precludes a character from benefiting from physical armor, armor threshold, and armor enchantments
 
