@@ -53,7 +53,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | AURA | Ability user may swing <x> as their damage type | Varies by source. | No |
 | BREACH ARMOR | Ability user reduces target's armor pool to 0. | \<Type\> Breach Armor | No |
 | CORROSIVE| Ability user causes all tagged items that make physical contact are destroyed (as per shatter/destroy) at the end of the encounter | OOC | No |
-| DAMAGE CAP X| Ability user is only hit for maximum of x damage. |Minimal| No |
+| DAMAGE CAP X| Ability user is only hit for maximum of x damage. | Damage Cap or Cap X| No |
 | DESTROY | Target is destroyed after x time.| Varies by source. |Yes |
 | DOUBLE DAMAGE | Ability user does double damage for x type. | Harm Double | Not Applicable |
 | ENDURE| At 59 seconds of BLEED OUT status, ability user is restored to 1 Body. Requires 1 minute of CONCENTRATION by ability user. | Endurance | Not Applicable |
@@ -69,14 +69,14 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | NATURAL ARMOR | Ability user has armor that does not have to be physically represented. | N/A |Yes |
 | OVERWHELMING STRENGTH| Ability user swings for Vital damage. Damage from user is always taken unless target makes a defensive call.| N/A | No |
 | POSSESSION | Ability user goes OOC, but may voice control the target. Acts as per ENSLAVEMENT.| 1 I possess you, 2... 3...| No |
-| REDUCE | Ability user takes half damage from x effect, rounded up.|Reduce| No |
+| REDUCE | Ability user takes half damage from x effect, rounded up.|Reduced| No |
 | REGENERATE | Ability user with CONSCIOUS status restores full body after 1 minute of CONCENTRATION effect. | Regenerating / Regenerate Complete |Yes ||
 | REVIVE| Unless target was affected by <x> within 20 seconds of becoming Dead, or was Killing Blowed at any time by <x>, then at 4 minutes 59 seconds of Death count, instead of dissipating, the player announces "Revive" and is affected as per a Life spell. |Revive | No |
 | RIFT | Ability user teleports to a location specified by the caster. User must have been physically present in the location previously. User must move directly to their destination and Rift In immediately upon arrival. |1 I Rift, 2... 3...|Yes |
 | RIP FREE | Ability user may escape ENTANGLE effects. | 1 I Rip free, 2.. 3.. | Not Applicable |
 | SPIRIT BOTTLE | Ability user dissipates at 0 body instead of taking UNCONSCIOUS status and reforms at the location of their spirit bottle. Ability user suffers no Strain. Spirit bottle is destroyed after x uses. | N/A | No |
 | SUICIDE | Allows creature to die and dissipate at will regardless of other status effects. | 1 I suicide, 2... 3... | Not Applicable |
-| THRESHOLD| Ability user only takes minimum damage for any damage taken equal to or less than x.|Minimal| No |
+| THRESHOLD| Ability user only takes minimum damage for any damage taken equal to or less than x.| Threshold or Got It| No |
 | VOICE CONTROL | Target is compelled to follow any instructions given by ability user | Voice Control X | No |
 | X TO HIT | Ability user is immune to all weapons except x type. | No Effect | No |**
 
