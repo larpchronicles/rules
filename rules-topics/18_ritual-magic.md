@@ -66,8 +66,13 @@ The caster reaches out and taps into the primordial energy of the surrounding en
 #### Spirit Journey
  This ritual allows the target to seek out information or ask a question of the spirit realm. They will experience a vision quest related to that topic. The source of the vision may be their own subconsciousness, tribal ancestors, spirit guides, or other metaphysical sources as appropriate for the performance of the ritual. The events of the journey are not guaranteed to be truthful; The spirits may be fickle, capricious, or even simply out of touch with the physical reality of Evren. 
 
+#### Spirit Link
+    This ritual allows an individual to bond with an item. The ritual is cast upon the item. Bonding with an item requires completing a full Rest with possession of the item, which will link the item to the person who rested with it, and break any other links the item may have had.
+    The Spirit Linked item may be passed off to another individual if both individuals complete a rest together.
+    Other than via changing the bond with a Rest, the Spirit Linked item cannot be removed from the individual, and will stay with the individual even through death and resurrection.
+    
 #### Spirit Lock
-This ritual forms a permanent bond between a specific item and a target individual. This bond transcends the physical realm, ensuring that no matter where the individual may go, the item will always follow. As long as the item endures, it is Locked to the target, unable to be stolen, given away, or even used by another individual. If the target should die and their spirit departs to seek resurrection, the item will follow them. This does not grant any extra resilience for the item, and the effect will fade if the item is destroyed or expires.
+This ritual forms a permanent bond between a specific item and a target individual. This bond transcends the physical realm, ensuring that no matter where the individual may go, the item will always follow. As long as the item endures, it is Locked to the target, unable to be stolen, given away, or even used by another individual. If the target should die and their spirit departs to seek resurrection, the item will follow them. This does not grant any extra resilience for the item, and the effect will fade if the item is destroyed or expires. If the individual somehow becomes incapable of possessing the item (ex: permanent death), the item is destroyed immediately.
 
 #### Magical Barrier
 This ritual is designed to imbue the participants with additional magical shielding. Each target that actively participates in the casting of the ritual gains a single use of Resist Magic that lasts for one day or until used. This defensive is subject to an available Defensive Slot.
