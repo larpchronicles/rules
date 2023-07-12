@@ -28,7 +28,7 @@
 
 |Dexterity Armor Skill Point Costs|F|T|R|M|
 |---|---|---|---|---|
-|+5 Dexterity Armor|5+10|5+10|5+10|5+10|
+|+5 Dexterity Armor|5+5|5+5|5+5|5+5|
 
 ## Toughness
 > This skill adds 5 points of maximum health to the character for each time that this skill is purchased. Toughness stacks with the 10 points of Health every character gets by default.  This skill is not blocked by resting.
