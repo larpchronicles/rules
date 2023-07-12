@@ -3,6 +3,7 @@
 ### Armor
 * Clarified only 1 armor tag can be used at one time
 * Removed reference  to Masterwork Armor Bonus
+* Added Spirit Link ritual and effect. Clarified with Spirit Lock
 
 
 ### Magic
