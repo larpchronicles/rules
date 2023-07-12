@@ -5,7 +5,8 @@
 * Removed reference  to Masterwork Armor Bonus
 * Added Spirit Link ritual and effect. Clarified with Spirit Lock
 * Changed Create Undead into a Curse of Transformation effect
-
+* Changed armor to have only 3 types and 3 locations
+* Added Helmet armor
 
 ### Magic
 
