@@ -2,6 +2,7 @@
 ## 3.1.3 [2023-07-24]
 * Added Critical Ability to effects chart
 * Changed Stamina Curse and Silence physical strikes to Critical Curse Aura and Critical Silence Aura
+* Changed Slay to work until it connects
 
 ## 3.1.2 [2023-07-14]
 ### Armor

@@ -268,7 +268,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Level**| 10   |
 | **Duration** | Instant   |
 | **Call**| "Prepare to Die...100 \[Type\] Slay" |
-| **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 damage. Slay may not be stacked with any carriers or Flame/Frost/Shock/Stone. |
+| **Description** | The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as "100 type Slay". The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers. |
 
 #### **Weapon Proficiencies**
 | Ability | **Proficiency**  | 
