@@ -29,7 +29,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 3 | Shake It Off |
 | 4 | Kneeling Shot<br>Resourceful |
 | 5 | Breaching Shot<br>Warbow Training |
-| 6 | Waylay |
+| 6 | Blinding Shot<br>Waylay |
 | 7 | Ballista<br>Cursing Shot |
 | 8 | Surprising Proficiency |
 | 9 | Dodge |
@@ -121,6 +121,16 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Requirements**| Ranged Weapon|
 
 ### Level 6 Agility Abilities
+
+#### **Blinding Shot**
+| Ability | **Blinding Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 5 |
+| **Duration** | Indefinite |
+| **Call**| "I invoke Blinding Shot against you" |
+| **Description** | The character gains the ability to add a Blind aura to their ranged weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
+| **Requirements**| Ranged Weapon|
 
 #### **Waylay**
 | Ability | **Waylay** |

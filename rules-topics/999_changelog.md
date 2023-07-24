@@ -3,6 +3,7 @@
 * Added Critical Ability to effects chart
 * Changed Stamina Curse and Silence physical strikes to Critical Curse Aura and Critical Silence Aura
 * Changed Slay to work until it connects
+* Added Blinding Shot, a new level 6 ability to Agility
 
 ## 3.1.2 [2023-07-14]
 ### Armor
