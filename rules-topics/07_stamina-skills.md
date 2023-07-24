@@ -174,16 +174,16 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Level**| 5 |
 | **Duration** | Indefinite |
 | **Call**| "I invoke Critical Silence Aura against you"|
-| **Description** | The character gains the ability to add a Silence aura to their melee weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. | 
+| **Description** | The character gains the ability to add a Silence aura to their melee weapon blows against a single target of their choice. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. | 
 
 #### **Vital Blow**
 | Ability | **Vital Blow**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 5 |
-| **Duration** | Instant|
+| **Duration** | Indefinite |
 | **Call**| "Your Defenses Shall Do You No Good...X \[Type\] Vital"|
-| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Melee Weapon|
 
 ### Level 6 Stamina Abilities
