@@ -1,4 +1,8 @@
 # Changelog
+## 3.1.3 [2023-07-24]
+* Added Critical Ability to effects chart
+* Changed Stamina Curse and Silence physical strikes to Critical Curse Aura and Critical Silence Aura
+
 ## 3.1.2 [2023-07-14]
 ### Armor
   * **Reduced cost of Dexterity Armor for all classes from 5+10 to 5+5**
