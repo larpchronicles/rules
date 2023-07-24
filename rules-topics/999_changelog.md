@@ -5,6 +5,7 @@
 * Changed Slay to work until it connects
 * Added Blinding Shot, a new level 6 ability to Agility
 * Changed Agility Backstab, Ballista Cursing Shot, Poison Shot, and Surprising Proficiency to be Critical Abilities
+* Added reference section to glossary containing all skills costs, spells, and production items
 
 ## 3.1.2 [2023-07-14]
 ### Armor
