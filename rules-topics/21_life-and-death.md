@@ -103,8 +103,15 @@ See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d
 ## Permanent Death
 
 ---
-A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then roll 50% of the accumulated SP of the **Permanently Dead** character into a new Character, plus the base 100 SP for a new character.
+A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then allocate 75%, rounded up, of the accumulated SP of the **Permanently Dead** character into a new Character, or promote their secondary character to their primary status with 75%, rounded up, of the accumulated SP of the now **Permanently Dead** character.
 
+If a player creates a new character.  The secondary and tertiary characters SP will be recalculated based off the new primary character’s total. 
+
+Only the Primary Character can receive Permanent Death. 
+
+## Retiring a Character
+
+Have you slayed your families’ killers, wiped out those pesky goblins, or even ascended into Godhood?  If so, you may feel that your character’s arc has ended, or perhaps a situation has arisen where it is no longer fun to play the character, and it is time to hang up their boots.   With Plot’s approval you may retire your character and allocate 100% of the XP to a new character or promote another with no XP loss.
 
 ## Killing Blow
 
