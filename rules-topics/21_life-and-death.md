@@ -61,7 +61,7 @@ When a player resurrects all Non-Ritual effects are removed unless otherwise tol
 
 Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions. 
 
-## SP Debt
+## Skill Point Debt
 When a character resurrects, they incur **SP Debt**, which results in a portion of the character's SP becoming temporarily unavailable to be used. 
 
 **Total Debt**: SP that is held "in debt", unable to be use by the character.  

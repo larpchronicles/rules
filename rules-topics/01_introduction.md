@@ -25,7 +25,7 @@ Wondering where to find a particular sheet or form?  Check the list below, and i
   * Battle-Board
 
 [Forms](https://drive.google.com/drive/folders/1rn8_-PmbtBhRNPs0cJDY6ccTxmmNL0Sr?usp=share_link)
-  * Character Sheets (Printable and PDF Forms)
+  * Character Sheet
   * Code of Conduct
   * Liability Waiver
   * Photo Release Form
@@ -51,7 +51,7 @@ If they have not before reaching this section, new players are sure to hear plen
 |NPC|Non-Player Character|This is either plot or a player volunteering time and is either going to be a character or a mob.|
 |OOG/OOC|Out of Game/ Out of Character.|Separating a player's knowledge from their character's knowledge is a hard practiced skill.  Most players actively avoid engaging in metagaming, but there are good forms of metagaming, such as ensuring others get involved.|
 |PC|Player Character|This is often used to refer to the players, but in general it refers the character a player is portraying.|
-|Phys Rep|Physical representation|Also referred to as "rep".  Term for any weapon, shield, armor, or item prop.|
+|Phys Rep/Rep|Physical representation|Also referred to as "rep".  Term for any weapon, shield, armor, or item prop.|
 |Retcon|Revising words or actions.|Retconning is announced on an out of game level and refers to when a player wishes to "take back" character's actions or words.  Most often, this is done because of an out of game misunderstanding.|
 |RP|Roleplay|Roleplay refers to actions, emotes, or words that are considered to be performed not by the player, but by a character.|
 |SP|Skill Points|Points that accrue over a number of events a player attend that can be used to purchase or improve skills.|

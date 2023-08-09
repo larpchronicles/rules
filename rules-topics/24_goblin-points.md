@@ -134,7 +134,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>200 Goblin Point Rewards</u>**
 
-* <u>Death Forgiveness</u>.  On purchase, this reward will remove a single point of Strain from the character’s soul.  This reward must be used at the time of purchase and may not be purchased again for twelve months.
+* <u>Debt Relief</u>.  On purchase, this reward will remove a single event's worth of Skill Point Debt.  This reward must be used at the time of purchase and may not be purchased again for twelve months.
 * <u>Goblin Tag.</u>  Did a player miss an event?  This reward will immediately grant them half of the Skill Points they would have earned.  For any two day event, they will receive 3 Skill Points.  For any three day event, they will receive 5 Skill Points. These may be purchased for any event they missed since their first event attendance.  If they have under 200 Skill Points, they will receive 6 Skill Points for a two day event and 9 for a three day event.
 
 **<u>400 Goblin Point Rewards</u>**
@@ -147,4 +147,4 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>1000 Goblin Point Rewards</u>**
 
-* <u>Refreshing Scroll</u>.  This reward will allow a player to “reset” a single use of a consumed TEACH or MEMORIZE of a Ritual Magic scroll or Crafting recipe.  This reward must be redeemed with plot approval, in the case of any scrolls existing that are uniquely limited for plot reasons and should not be reset.  This is limited to one purchase per character per calendar year.
+* <u>Refreshing Scroll</u>.  This reward will allow a player to "reset" a single use of a consumed TEACH or MEMORIZE of a Ritual Magic scroll or Crafting recipe.  This reward must be redeemed with plot approval, in the case of any scrolls existing that are uniquely limited for plot reasons and should not be reset.  This is limited to one purchase per character per calendar year.

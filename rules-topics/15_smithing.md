@@ -54,7 +54,7 @@
 ### Tier VI
 
 #### Golem Repair Kit
-> The kit that has everything a Golemancer needs to keep their mechanical servants going. The user may expend a charge from this kit and spends 1 Minute of Roleplay to fully restore the body of a Golem they are in contact with. Acts as per Regenerate on a Golem. This is consumed on use.
+> The kit that has everything a golemancer needs to keep their mechanical servants going. The user may expend a charge from this kit and spends 1 minute of roleplay to fully restore the body of a golem they are in contact with. Acts as per Regenerate on a golem. This is consumed on use.
 #### Pick Pocket Tools
    >These tools require the Cutpurse skill to use. These tools allow the would-be thief to slip a hand into another character pouch or pocket and randomly take a single game item. This item is represented by a clip that has an ID that corresponds to the character. This ID is issued by Logistics, though a player can request a new ID at any time. The player slips the clip onto the pouch, or pocket, and goes to notify a Game Marshal. The Game Marshal will approach the picked character and retrieve one random game item from the picked character. If there is nothing in the picked pouch, then the larceny has resulted in no reward. The transfer of goods from Game Marshal to thief takes place out of sight from other players.  Tools have 10 charges.
 #### Ranged Weapon

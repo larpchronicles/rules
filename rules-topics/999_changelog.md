@@ -12,7 +12,11 @@ Critical Ability
 Minor Updates
 * Added clarifications regarding secondary characters to the Life and Death chapter
 * Added clarifications that secondary character XP is rounded up, and that characters can be swapped from primary/secondary/tertiary with staff approval
-
+* Corrected Golem Repair Kit uses.
+* Updated new player terms in introduction. 
+* Added Body, Rep, and IG to Glossary.
+* Updated descriptions in ritual magic to align with game lore.
+* Updated Goblin Point rewards to add Debt Relief for Skill Point Debt.
 ---
 
 ## 3.1.2 [2023-07-14]
