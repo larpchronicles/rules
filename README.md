@@ -1,4 +1,4 @@
-# LARP Chronicles Ruleset v3.1.2
+# LARP Chronicles Ruleset v3.1.3
 
 Welcome to the Chronicles rules repo! The main branch of this repo is always the currently-used rules for our game.
 

@@ -1,4 +1,4 @@
-**Rules Version: 3.1.2**  _Wed Jul 12 2023_
+**Rules Version: 3.1.3**  _Tue Aug 08 2023_
 
 
 # Chronicles Game Rules
@@ -74,11 +74,13 @@ All new players start with 100 Skill Points (SP), 10 body, and 5 armor.  <i>Body
 Have a character in another LARP system and want to transfer it to Chronicles?  Please see our Transfer Policy!
 
 ### Secondary Characters 
-Once a player hits 200 Skill Points, they may create a secondary character.  This character will always have 75 percent of the primary character's SP.  All characters beyond the second character will have 50 percent of the primary character's SP.  No matter what character is played, all gained SP will be applied to the primary character.  Aside from SP, everything is tracked separately for each character (strain, ritual effects, items, etc).
+Once a player hits 200 Skill Points, they may create a secondary character.  This character will always have 75 percent of the primary character's SP, rounded up to the nearest whole number.  All characters beyond the second character will have 50 percent of the primary character's SP, rounded up to the nearest whole number.  No matter what character is played, all gained SP will be applied to the primary character.  Aside from SP, everything is tracked separately for each character (strain, ritual effects, items, etc).
 
 Example:
 > Jim has 275 SP.  His primary character has 275 SP. His seconary character has 206 SP.  His third/fourth/fifth/etc character has 137 SP.
 > Jim attends a 2 day event and gains 6 SP.  His primary character now has 281 SP.  His secondary character has 75% of this, and now has 210 SP.  His third/fourth/fifth/etc character has 140 SP.
+
+If a player wants to promote a character to their primary character and demote their primary to that character’s position, they may do so with Plot’s approval.  
 
 ### Identify Ability
 Allows the character to Identify an item, a group of items, or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
@@ -4091,8 +4093,15 @@ See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d
 ## Permanent Death
 
 ---
-A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then roll 50% of the accumulated SP of the **Permanently Dead** character into a new Character, plus the base 100 SP for a new character.
+A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then allocate 75%, rounded up, of the accumulated SP of the **Permanently Dead** character into a new Character, or promote their secondary character to their primary status with 75%, rounded up, of the accumulated SP of the now **Permanently Dead** character.
 
+If a player creates a new character.  The secondary and tertiary characters SP will be recalculated based off the new primary character’s total. 
+
+Only the Primary Character can receive Permanent Death. 
+
+## Retiring a Character
+
+Have you slayed your families’ killers, wiped out those pesky goblins, or even ascended into Godhood?  If so, you may feel that your character’s arc has ended, or perhaps a situation has arisen where it is no longer fun to play the character, and it is time to hang up their boots.   With Plot’s approval you may retire your character and allocate 100% of the XP to a new character or promote another with no XP loss.
 
 ## Killing Blow
 
@@ -4130,6 +4139,7 @@ Instead of resurrecting normally, a character with a Spirit Bottle may choose to
 When initially created, a Spirit Bottle has 10 charges. If, at any time, the Spirit Bottle is reduced to 0 charges, it can no longer be used to reform. A character with a Spirit Bottle that has 0 charges still crumbles at 0 body, but must resurrect (and incur Strain) normally.
 
 Spirit Bottles may have their charges replenished. Doing so requires the casting of the Spirit Bottle ritual. A Spirit Bottle cannot have more than 10 charges.
+
 # Resting
 
 ## Resetting Skills and Magic Items
@@ -4232,6 +4242,19 @@ Aside from the shiny feel-good emotions of having helped out their chapter, Chro
 
 ---
 Mystery Sacks can be claimed at the end of an NPC Shift with any staff or plot person or by emailing `plot@larpchronicles.com` and requesting it as part of a Production Request for the next game.
+
+| Level | Stamina Abilities | Agility Abilities |
+|---|---|
+| 1 | Blind<br>Critical Strike<br>Disarm<br>Slow | Backstab |
+| 2 | Stop Thrust | Entangling Shot<br>Poison Shot |
+| 3 | Rapid Refit | Shake It Off |
+| 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry<br>Stun | Kneeling Shot<br>Resourceful |
+| 5 | Silence<br>Vital Blow | Breaching Shot<br>Warbow Training |
+| 6 | Fear<br>Intercept | Waylay | 
+| 7 | Curse<br>Destroy | Ballista<br>Cursing Shot |
+| 8 | Endurance | Surprising Proficiency |
+| 9 | Regenerate | Dodge |
+| 10 | Slay<br>Weapon Proficiency | Murder |
 
 # Goblin Points
 
