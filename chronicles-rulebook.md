@@ -1247,9 +1247,9 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | 2 | Stop Thrust |
 | 3 | Rapid Refit |
 | 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry |
-| 5 | Silence<br>Vital Blow |
+| 5 | Critical Silence<br>Vital Blow |
 | 6 | Fear<br>Intercept | 
-| 7 | Curse<br>Destroy |
+| 7 | Critical Curse<br>Destroy |
 | 8 | Endurance<br>Stun |
 | 9 | Regenerate |
 | 10 | Slay<br>Weapon Proficiency |
@@ -1354,23 +1354,23 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ### Level 5 Stamina Abilities
 
-#### **Silence**
-| Ability | **Silence**|
+#### **Critical Silence Aura**
+| Ability | **Critical Silence Aura**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 5 |
-| **Duration** | 20 Seconds |
-| **Call**| "Physical Silence"|
-| **Description** | This is a strike that will silence an opponent for 20 seconds. A silenced opponent may not speak in game, but may still make game system calls that are not in game speech. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended.  This is a SILENCE effect. |
+| **Duration** | Indefinite |
+| **Call**| "I invoke Critical Silence Aura against you"|
+| **Description** | The character gains the ability to add a Silence aura to their melee weapon blows against a single target of their choice. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. | 
 
 #### **Vital Blow**
 | Ability | **Vital Blow**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 5 |
-| **Duration** | Instant|
+| **Duration** | Indefinite |
 | **Call**| "Your Defenses Shall Do You No Good...X \[Type\] Vital"|
-| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Melee Weapon|
 
 ### Level 6 Stamina Abilities
@@ -1395,14 +1395,14 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ### Level 7 Stamina Abilities
 
-#### **Curse**
-| Ability | **Curse**|
+#### **Critical Curse Aura**
+| Ability | **Critical Curse Aura**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 7 |
-| **Duration** | 20 Seconds|
-| **Call**| "Physical Curse" |
-| **Description** | This strike renders the opponent especially vulnerable to all damage for 20 Seconds, taking double damage from all sources.  The effect of this skill may not be stacked or extended.  This is a CURSE effect.|
+| **Duration** | Indefinite|
+| **Call**| "I Invoke Critical Curse Aura against you" |
+| **Description** | The character gains the ability to add a Curse aura to their melee weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 
 
 #### **Destroy**
@@ -1455,7 +1455,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Level**| 10   |
 | **Duration** | Instant   |
 | **Call**| "Prepare to Die...100 \[Type\] Slay" |
-| **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 damage. Slay may not be stacked with any carriers or Flame/Frost/Shock/Stone. |
+| **Description** | The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as "100 type Slay". The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers. |
 
 #### **Weapon Proficiencies**
 | Ability | **Proficiency**  | 
@@ -1517,7 +1517,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 3 | Shake It Off |
 | 4 | Kneeling Shot<br>Resourceful |
 | 5 | Breaching Shot<br>Warbow Training |
-| 6 | Waylay |
+| 6 | Blinding Shot<br>Waylay |
 | 7 | Ballista<br>Cursing Shot |
 | 8 | Surprising Proficiency |
 | 9 | Dodge |
@@ -1532,7 +1532,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 1 |
 | **Duration** | Instant |
 | **Call**| "Surprise" |
-| **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses).  May be combined with Critical Strike. Effect ends at rest or when invoking Backstab against a different target.|
+| **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses). As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 
 ### Level 2 Agility Abilities
 #### **Entangling Shot**
@@ -1550,9 +1550,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 2 |
-| **Duration** | Rest |
+| **Duration** | Indefinite |
 | **Call**| "I hope this gets infected" |
-| **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. Ends at Rest or upon invoking Poisoned Quiver against a new target. |
+| **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 ### Level 3 Agility Abilities
@@ -1610,6 +1610,16 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 ### Level 6 Agility Abilities
 
+#### **Blinding Shot**
+| Ability | **Blinding Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 5 |
+| **Duration** | Indefinite |
+| **Call**| "I invoke Blinding Shot against you" |
+| **Description** | The character gains the ability to add a Blind aura to their ranged weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
+| **Requirements**| Ranged Weapon|
+
 #### **Waylay**
 | Ability | **Waylay** |
 |:---|---|
@@ -1626,9 +1636,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 7 |
-| **Duration** | Rest |
+| **Duration** | Indefinite |
 | **Call**| "Your Defenses Shall Do You No Good...X \[Type\] Vital"" |
-| **Description** |This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Description** |This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 #### **Cursing Shot**
@@ -1636,9 +1646,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 7 |
-| **Duration** | Instant |
-| **Call**| "Physical Curse" |
-| **Description** |This skill allows the user to throw a single Physical Curse.|
+| **Duration** | Indefinite |
+| **Call**| "I invoke Cursing Shot against you" |
+| **Description** | The character gains the ability to add a Curse aura to their ranged weapon blows against a single target of their choice. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 ### Level 8 Agility Abilities
@@ -1650,7 +1660,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 8 |
 | **Duration** | Instant |
 | **Call**| "I am not left-handed." |
-| **Description** | This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target and for Rogues, without needing to be behind the target.  May not be used with Backstab, Waylay, or Murder.|
+| **Description** | This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target. Additionally, for Rogues, without needing to be behind the target.  May not be used with Backstab, Waylay, or Murder. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target.|
 | **Requirements**|Ranged Weapon, Stamina Points (Ranged Proficiency), One-Handed Weapon.|
 
 ### Level 9 Agility Abilities
@@ -1673,6 +1683,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Rest|
 | **Call**| "I Hone My Agile Skill" |
 |**Description**| Agile Proficiencies are purchased with Agility Points, and last until the character next rests. Agile Proficiencies increase the damage dealt with Ranged Weapons, and the damage dealt with Short Weapons when attacking from Behind. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call. Agility Points spent on Agile Proficiency cannot be restored by any means, other than Rest.|
+
 #### **Murder**
 | Ability | **Murder** |
 |:---|---|
@@ -4456,6 +4467,10 @@ If a player is in an unconscious state (Bleeding Out, Sleep, Dead, etc.) and the
 ## Effect Clarifications
 
 ---
+
+### Critical Ability
+A character invoking a Critical ability is able to use the specified ability against a single target of their choice. They may continue to use the ability against that target until either the character completes a Rest, or the character invokes another Critical ability (against the same or another target).
+
 ### Curse of Transformation
 * Curse of Transformation (CoT) makes the target immune to CoT, meaning the effect does not stack.
 * Any character or NPC created by CoT is not capable of inflicting CoT on another character. The only time this is not true is for very specific and limited plot reasons.
@@ -4487,6 +4502,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | AURA | Ability user may swing <x> as their damage type | Varies by source. | No |
 | BREACH ARMOR | Ability user reduces target's armor pool to 0. | \<Type\> Breach Armor | No |
 | CORROSIVE| Ability user causes all tagged items that make physical contact are destroyed (as per shatter/destroy) at the end of the encounter | OOC | No |
+| CRITICAL X | The character gains the ability to swing X against a single target of their choice. | I Invoke Critical X | No |
 | DAMAGE CAP X| Ability user is only hit for maximum of x damage. | Damage Cap or Cap X| No |
 | DESTROY | Target is destroyed after x time.| Varies by source. |Yes |
 | DOUBLE DAMAGE | Ability user does double damage for x type. | Harm Double | Not Applicable |
@@ -4601,7 +4617,102 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 ***Enslavement can be identified by using a Break Enslavement Rune.
 
 # Glossary
+ ## Reference Charts
+ ### Abilities
+|Skill|F|T|R|M|
+|---|---|---|---|---|
+|Additional Defense Slot|	10+30	|10+30	|10+30	|10+30|
+|Armor Training|3+1|3+3|3+3|3+3|
+|Cutpurse|10|10|3|10||
+|Dexterity Armor|5+5|5+5|5+5|5+5|
+|Escape Artist|5+2|5+2|3+1|3+1||
+|First Aid|4|4|4|4||
+|Lockpicking|5+5|5+5|3+1|3+3||
+|Mimicry|5+10|20+10|3+5|20+10|
+|Performing|1+1|1+1|1+1|1+1||
+|Toughness|3+3|3+5|3+5|3+5|
+|Tracking|20|20|20|20||
+|Trapping|10|10|3|6||
+| Ritual Magic |  20  |  20  |  20  |  20  |-|
+| School Initiation  | 5+5 | 3+4 | 5+5  | 3+1 |
+| School Specialization | 20 | 15  | 20 | 10  |
 
+### Gathering Skills
+|Skill|F|T|R|M|Prerequisites|
+|---|---|---|---|---|---|
+| Primary Gathering Skill | 1+1 | 1+1 | 1+1 | 1+1 | -   |
+| Secondary Gathering Skill   | 2+1 | 2+1 | 2+1 | 2+1 | -   |
+| Tertiary Gathering Skill | 3+1 | 3+1 | 3+1 | 3+1 | -   |
+
+### Production Skills
+|Skill|F|T|R|M|Prerequisites|
+|---|---|---|---|---|---|
+| Primary Crafting Skill | 1+1 | 1+1 | 1+1 | 1+1 | -   |
+| Secondary Crafting Skill   | 2+1 | 2+1 | 2+1 | 2+1 | -   |
+| Tertiary Crafting Skill | 3+1 | 3+1 | 3+1 | 3+1 | -   |
+| Artificing | 20 | 20 | 20 | 20 | 5 Ranks in each of Alchemy, Rune Carving, Smithing |
+| Recycling   | 8 | 8 | 8 | 8 | -   |
+
+ ### Resource Pools
+|Resource Pool (+10 pts)|F|T|R|M|
+|---|---|---|---|---|
+|Agility|10+10|20+10|5+5|20+10|
+| Mana | 10+10 | 3+4 | 10+8 | 3+1 |
+|Stamina|5+3|5+5|5+5|20+10|
+ 
+ ### Weapon Skills
+| Skill Point Cost  |  F  |  T  |  R  |  M  | Prereqs|
+|:---|:---:|:---:|:---:|:---:|---|
+| One-Handed Weapon |  3  |  3  |  5  |  8  |-|
+| Two-Hand Weapon|  3  |  3  | 5  | 8 |-|
+| Ranged Weapon  |  3  | 5  |  3  | 8  |-|
+| Shield|  3  |  3  | 5  | 8  |-|
+| Dual Wield |  3  |  3  |  5  | 8  | One-Handed Weapon |
+| Parrying Dagger |  2  | 2  |  2  | 2  |-|
+ 
+ ### Pool Skills
+| Level | Agility | Stamina |
+|---|---|---|
+| 1 | Backstab | Blind<br>Critical Strike<br>Disarm<br>Slow |
+| 2 | Entangling Shot<br>Poison Shot | Stop Thrust |
+| 3 | Shake It Off | Rapid Refit |
+| 4 | Kneeling Shot<br>Resourceful | Disable Limb<br>Kneel<br>Parry<br>Spell Parry |
+| 5 | Breaching Shot<br>Warbow Training | Critical Silence<br>Vital Blow |
+| 6 | Blinding Shot<br>Waylay | Fear<br>Intercept | 
+| 7 | Ballista<br>Cursing Shot | Critical Curse<br>Destroy |
+| 8 | Surprising Proficiency | Endurance<br>Stun |
+| 9 | Dodge | Regenerate |
+| 10 | Agile Proficiency<br>Murder | Slay<br>Weapon Proficiency |
+
+### Spells
+| Tier | Universal | Arcane | Spirit | Nature |
+|---|---|---|---|---|
+| 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink |
+| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike |
+| 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  |
+| 4  | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb  | Entangle Arms<br>Command: Kneel |
+| 5  | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify  | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
+| 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body |
+| 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine |
+| 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
+| 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
+| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Sanctuary<br>Spider Web |
+
+### Production Item Reference Table
+> † indicates an item that can scale to higher tiers.
+
+| Tier | Alchemy | Smithing | Rune Carving | 
+|---|---|---|---|
+| 1  | Blinding Toxin†<br>Poison Dart 5<br>Slowing Toxin†| Alarm Trap<br>Key<br>Lock<br>Rusty Weapon | Glowing Wand Stone<br>Rune of Trap Compression<br>Wand of Agility†<br>Wand of Stamina†<br>Wand of Magic† |
+| 2  | Explosive Grenade<br>Poison Dart 10<br>Solvent<br>Toxin Antidote | Armor Resizing Kit<br>Lockpicks<br>Suit of Armor 10† | Rune of Imbuing<br>Rune of Marking/Unmarking<br>Runic Rebreather  |
+| 3  | C-1 Explosive<br>Heal Wounds Potion<br>Poison Dart 15<br>Weakness Toxin† | Hardening†<br>Knight-Night Helmet<br>Repair Lock | Environmental Adaptation Rune<br>Rune of Beacon<br>Rune of Obscuring  |
+| 4  | Alchemical Adhesive<br>Kneel Toxin†<br>Silver Dart | One-Handed Weapon<br>Lock Hardening<br>Shield | Lock Corroding Rune<br>Lock Enhancing Rune<br>Rune of Hastening  |
+| 5  | Oil of Silver<br>Silencing Toxin†<br>Suppressing Oil<br> | Silver Weapon Forging<br>Two-Handed Weapon<br>Whetstone |  Elemental Blade Rune<br>Rune of Chambering<br>Rune of Limited Elemental Shift |
+| 6  | Cleansing Draught<br>Heal Wounds Toxin<br>Sleep Toxin† | Golem Repair Kit<br>Pick Pocket Tools<br>Ranged Weapon | Rune of Spellstrike<br>Rune of True Death<br>Thiefbane Rune  |
+| 7  | C-2 Explosive<br>Cursing Toxin†<br>Entangling Dart | Reinforcement Kit<br>Resistant Plating<br>Weighted Ammunition | Rune of Elemental Barrier<br>Rune of Mirror Shield<br>Rune of Shield Spikes Rune |
+| 8  | Incredible Disappearing Ink<br>Minimize Potion<br>Stunning Toxin† | Expandable Weapon<br>Recycling Kit<br>Trickleblade Modification | Elemental Channeling Rune<br>Glyph of Haven<br>Rune of Mystic Lock |
+| 9  | Confining Dart<br>Gaseous Concoction<br>Reviving Draught | Armor Repair Kit<br>Forgemaster's Hammer<br>Risky Smithing | Rune of Endless Storage<br>Rune of Recall<br>Vengeance Rune  |
+| 10 | Elixir of Energy<br>Elixir of Invulnerability<br>Elixir of Venom Spitting | Masterwork Armor<br>Masterwork Shield<br>Masterwork Weapon | Break Enslavement Rune<br>Glyph of Anchoring<br>Glyph of Warding<br>Rune of Erasure |
 
 |Term|Meaning|Explanation|
 |:---|:---|:---|
@@ -4634,6 +4745,22 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 |Turtling|Hiding all viable strike zones of the body behind a shield.|Not presenting a viable target to opponents in combat is disallowed.|
 
 # Changelog
+## 3.1.3 [2023-08-08]
+* Added reference section to glossary containing all skills costs, spells, and production items
+
+Critical Ability
+* Added Critical Ability to effects chart
+* Changed Stamina Curse and Silence physical strikes to Critical Curse Aura and Critical Silence Aura
+* Changed Slay to work until it connects
+* Added Blinding Shot, a new level 6 ability to Agility
+* Changed Agility Backstab, Ballista Cursing Shot, Poison Shot, and Surprising Proficiency to be Critical Abilities
+
+Minor Updates
+* Added clarifications regarding secondary characters to the Life and Death chapter
+* Added clarifications that secondary character XP is rounded up, and that characters can be swapped from primary/secondary/tertiary with staff approval
+
+---
+
 ## 3.1.2 [2023-07-14]
 ### Armor
   * **Reduced cost of Dexterity Armor for all classes from 5+10 to 5+5**
