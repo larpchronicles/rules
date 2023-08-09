@@ -1,4 +1,24 @@
 # Changelog
+## 3.1.3 [2023-08-08]
+* Added reference section to glossary containing all skills costs, spells, and production items
+
+Critical Ability
+* Added Critical Ability to effects chart
+* Changed Stamina Curse and Silence physical strikes to Critical Curse Aura and Critical Silence Aura
+* Changed Slay to work until it connects
+* Added Blinding Shot, a new level 6 ability to Agility
+* Changed Agility Backstab, Ballista Cursing Shot, Poison Shot, and Surprising Proficiency to be Critical Abilities
+
+Minor Updates
+* Added clarifications regarding secondary characters to the Life and Death chapter
+* Added clarifications that secondary character XP is rounded up, and that characters can be swapped from primary/secondary/tertiary with staff approval
+* Corrected Golem Repair Kit uses.
+* Updated new player terms in introduction. 
+* Added Body, Rep, and IG to Glossary.
+* Updated descriptions in ritual magic to align with game lore.
+* Updated Goblin Point rewards to add Debt Relief for Skill Point Debt.
+---
+
 ## 3.1.2 [2023-07-14]
 ### Armor
   * **Reduced cost of Dexterity Armor for all classes from 5+10 to 5+5**

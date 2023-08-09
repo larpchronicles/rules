@@ -1,4 +1,4 @@
-**Rules Version: 3.1.2**  _Wed Jul 12 2023_
+**Rules Version: 3.1.3**  _Tue Aug 08 2023_
 
 
 # Chronicles Game Rules
@@ -28,7 +28,7 @@ Wondering where to find a particular sheet or form?  Check the list below, and i
   * Battle-Board
 
 [Forms](https://drive.google.com/drive/folders/1rn8_-PmbtBhRNPs0cJDY6ccTxmmNL0Sr?usp=share_link)
-  * Character Sheets (Printable and PDF Forms)
+  * Character Sheet
   * Code of Conduct
   * Liability Waiver
   * Photo Release Form
@@ -54,7 +54,7 @@ If they have not before reaching this section, new players are sure to hear plen
 |NPC|Non-Player Character|This is either plot or a player volunteering time and is either going to be a character or a mob.|
 |OOG/OOC|Out of Game/ Out of Character.|Separating a player's knowledge from their character's knowledge is a hard practiced skill.  Most players actively avoid engaging in metagaming, but there are good forms of metagaming, such as ensuring others get involved.|
 |PC|Player Character|This is often used to refer to the players, but in general it refers the character a player is portraying.|
-|Phys Rep|Physical representation|Also referred to as "rep".  Term for any weapon, shield, armor, or item prop.|
+|Phys Rep/Rep|Physical representation|Also referred to as "rep".  Term for any weapon, shield, armor, or item prop.|
 |Retcon|Revising words or actions.|Retconning is announced on an out of game level and refers to when a player wishes to "take back" character's actions or words.  Most often, this is done because of an out of game misunderstanding.|
 |RP|Roleplay|Roleplay refers to actions, emotes, or words that are considered to be performed not by the player, but by a character.|
 |SP|Skill Points|Points that accrue over a number of events a player attend that can be used to purchase or improve skills.|
@@ -74,11 +74,13 @@ All new players start with 100 Skill Points (SP), 10 body, and 5 armor.  <i>Body
 Have a character in another LARP system and want to transfer it to Chronicles?  Please see our Transfer Policy!
 
 ### Secondary Characters 
-Once a player hits 200 Skill Points, they may create a secondary character.  This character will always have 75 percent of the primary character's SP.  All characters beyond the second character will have 50 percent of the primary character's SP.  No matter what character is played, all gained SP will be applied to the primary character.  Aside from SP, everything is tracked separately for each character (strain, ritual effects, items, etc).
+Once a player hits 200 Skill Points, they may create a secondary character.  This character will always have 75 percent of the primary character's SP, rounded up to the nearest whole number.  All characters beyond the second character will have 50 percent of the primary character's SP, rounded up to the nearest whole number.  No matter what character is played, all gained SP will be applied to the primary character.  Aside from SP, everything is tracked separately for each character (strain, ritual effects, items, etc).
 
 Example:
 > Jim has 275 SP.  His primary character has 275 SP. His seconary character has 206 SP.  His third/fourth/fifth/etc character has 137 SP.
 > Jim attends a 2 day event and gains 6 SP.  His primary character now has 281 SP.  His secondary character has 75% of this, and now has 210 SP.  His third/fourth/fifth/etc character has 140 SP.
+
+If a player wants to promote a character to their primary character and demote their primary to that character’s position, they may do so with Plot’s approval.  
 
 ### Identify Ability
 Allows the character to Identify an item, a group of items, or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
@@ -1245,9 +1247,9 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | 2 | Stop Thrust |
 | 3 | Rapid Refit |
 | 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry |
-| 5 | Silence<br>Vital Blow |
+| 5 | Critical Silence<br>Vital Blow |
 | 6 | Fear<br>Intercept | 
-| 7 | Curse<br>Destroy |
+| 7 | Critical Curse<br>Destroy |
 | 8 | Endurance<br>Stun |
 | 9 | Regenerate |
 | 10 | Slay<br>Weapon Proficiency |
@@ -1352,23 +1354,23 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ### Level 5 Stamina Abilities
 
-#### **Silence**
-| Ability | **Silence**|
+#### **Critical Silence Aura**
+| Ability | **Critical Silence Aura**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 5 |
-| **Duration** | 20 Seconds |
-| **Call**| "Physical Silence"|
-| **Description** | This is a strike that will silence an opponent for 20 seconds. A silenced opponent may not speak in game, but may still make game system calls that are not in game speech. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended.  This is a SILENCE effect. |
+| **Duration** | Indefinite |
+| **Call**| "I invoke Critical Silence Aura against you"|
+| **Description** | The character gains the ability to add a Silence aura to their melee weapon blows against a single target of their choice. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. | 
 
 #### **Vital Blow**
 | Ability | **Vital Blow**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 5 |
-| **Duration** | Instant|
+| **Duration** | Indefinite |
 | **Call**| "Your Defenses Shall Do You No Good...X \[Type\] Vital"|
-| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Melee Weapon|
 
 ### Level 6 Stamina Abilities
@@ -1393,14 +1395,14 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ### Level 7 Stamina Abilities
 
-#### **Curse**
-| Ability | **Curse**|
+#### **Critical Curse Aura**
+| Ability | **Critical Curse Aura**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 7 |
-| **Duration** | 20 Seconds|
-| **Call**| "Physical Curse" |
-| **Description** | This strike renders the opponent especially vulnerable to all damage for 20 Seconds, taking double damage from all sources.  The effect of this skill may not be stacked or extended.  This is a CURSE effect.|
+| **Duration** | Indefinite|
+| **Call**| "I Invoke Critical Curse Aura against you" |
+| **Description** | The character gains the ability to add a Curse aura to their melee weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 
 
 #### **Destroy**
@@ -1453,7 +1455,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Level**| 10   |
 | **Duration** | Instant   |
 | **Call**| "Prepare to Die...100 \[Type\] Slay" |
-| **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 damage. Slay may not be stacked with any carriers or Flame/Frost/Shock/Stone. |
+| **Description** | The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as "100 type Slay". The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers. |
 
 #### **Weapon Proficiencies**
 | Ability | **Proficiency**  | 
@@ -1515,7 +1517,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 3 | Shake It Off |
 | 4 | Kneeling Shot<br>Resourceful |
 | 5 | Breaching Shot<br>Warbow Training |
-| 6 | Waylay |
+| 6 | Blinding Shot<br>Waylay |
 | 7 | Ballista<br>Cursing Shot |
 | 8 | Surprising Proficiency |
 | 9 | Dodge |
@@ -1530,7 +1532,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 1 |
 | **Duration** | Instant |
 | **Call**| "Surprise" |
-| **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses).  May be combined with Critical Strike. Effect ends at rest or when invoking Backstab against a different target.|
+| **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses). As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 
 ### Level 2 Agility Abilities
 #### **Entangling Shot**
@@ -1548,9 +1550,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 2 |
-| **Duration** | Rest |
+| **Duration** | Indefinite |
 | **Call**| "I hope this gets infected" |
-| **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. Ends at Rest or upon invoking Poisoned Quiver against a new target. |
+| **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 ### Level 3 Agility Abilities
@@ -1608,6 +1610,16 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 ### Level 6 Agility Abilities
 
+#### **Blinding Shot**
+| Ability | **Blinding Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 5 |
+| **Duration** | Indefinite |
+| **Call**| "I invoke Blinding Shot against you" |
+| **Description** | The character gains the ability to add a Blind aura to their ranged weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
+| **Requirements**| Ranged Weapon|
+
 #### **Waylay**
 | Ability | **Waylay** |
 |:---|---|
@@ -1624,9 +1636,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 7 |
-| **Duration** | Rest |
+| **Duration** | Indefinite |
 | **Call**| "Your Defenses Shall Do You No Good...X \[Type\] Vital"" |
-| **Description** |This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Description** |This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 #### **Cursing Shot**
@@ -1634,9 +1646,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 7 |
-| **Duration** | Instant |
-| **Call**| "Physical Curse" |
-| **Description** |This skill allows the user to throw a single Physical Curse.|
+| **Duration** | Indefinite |
+| **Call**| "I invoke Cursing Shot against you" |
+| **Description** | The character gains the ability to add a Curse aura to their ranged weapon blows against a single target of their choice. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 ### Level 8 Agility Abilities
@@ -1648,7 +1660,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 8 |
 | **Duration** | Instant |
 | **Call**| "I am not left-handed." |
-| **Description** | This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target and for Rogues, without needing to be behind the target.  May not be used with Backstab, Waylay, or Murder.|
+| **Description** | This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target. Additionally, for Rogues, without needing to be behind the target.  May not be used with Backstab, Waylay, or Murder. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target.|
 | **Requirements**|Ranged Weapon, Stamina Points (Ranged Proficiency), One-Handed Weapon.|
 
 ### Level 9 Agility Abilities
@@ -1671,6 +1683,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Rest|
 | **Call**| "I Hone My Agile Skill" |
 |**Description**| Agile Proficiencies are purchased with Agility Points, and last until the character next rests. Agile Proficiencies increase the damage dealt with Ranged Weapons, and the damage dealt with Short Weapons when attacking from Behind. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call. Agility Points spent on Agile Proficiency cannot be restored by any means, other than Rest.|
+
 #### **Murder**
 | Ability | **Murder** |
 |:---|---|
@@ -2898,7 +2911,7 @@ Item production is the process by which characters are able to craft consumable 
 ### Tier VI
 
 #### Golem Repair Kit
-> The kit that has everything a Golemancer needs to keep their mechanical servants going. The user may expend a charge from this kit and spends 1 Minute of Roleplay to fully restore the body of a Golem they are in contact with. Acts as per Regenerate on a Golem. This is consumed on use.
+> The kit that has everything a golemancer needs to keep their mechanical servants going. The user may expend a charge from this kit and spends 1 minute of roleplay to fully restore the body of a golem they are in contact with. Acts as per Regenerate on a golem. This is consumed on use.
 #### Pick Pocket Tools
    >These tools require the Cutpurse skill to use. These tools allow the would-be thief to slip a hand into another character pouch or pocket and randomly take a single game item. This item is represented by a clip that has an ID that corresponds to the character. This ID is issued by Logistics, though a player can request a new ID at any time. The player slips the clip onto the pouch, or pocket, and goes to notify a Game Marshal. The Game Marshal will approach the picked character and retrieve one random game item from the picked character. If there is nothing in the picked pouch, then the larceny has resulted in no reward. The transfer of goods from Game Marshal to thief takes place out of sight from other players.  Tools have 10 charges.
 #### Ranged Weapon
@@ -3278,19 +3291,23 @@ Certain enchantments **do not** require attuning to be used:
 ## About Ritual Magic
 
 ---
-Ritual Magic is the way through which an individual attempts to weave the powers of themselves or greater beings to affect incredible and often long-lasting effects upon the world. A Ritualist is someone who is trained in these magics and in the art of channeling them to achieve their desired goals. Purchasing the Ritual Magic Skill enables the user to perform Rituals.
+Ritual Magic is the way through which an individual attempts to weave the powers of themselves or greater beings to affect incredible and often long-lasting effects upon the world. A ritualist is someone who is trained in these magics and in the art of channeling them to achieve their desired goals. Purchasing the Ritual Magic Skill enables the user to perform rituals.
 
-A Ritual is the act through which a Ritualist attempts to conduct these magics, and each Ritualist's method for enacting a Ritual is different, though there are a few generally agreed upon elements that must be achieved in order for a Ritual to succeed. Firstly, a Ritual must last at least 5 minutes in order for success to be achieved. It has been said that in times of great need a Ritualist can attempt to end the Ritual earlier than this, but they risk Failure at best, horrible Backlash at worst. Secondly, a Ritual must contain a persistent visual or auditory element. Some Ritualists chant, sing, or recite scripture of their Deity. Others may choose to draw or cast Runes, dance, or create art as a focus for their magic. All that matters is that these elements are consistent throughout the Ritual, without long lapses or interruptions. Third, the Ritualist must provide a source of Power other than their own for the ritual, often in the form of Spirit Gems, a number of which must be provided equal to the Level of the Ritual. Lastly, and most importantly, the Ritualist must have the Ritual Scroll open and accessible to them at all times during the Ritual, even if they do not need to actively gaze upon it. If the Ritual Scroll is not present, or if during the Ritual it is removed or hidden from the Ritualist, the Ritual will fail. These four elements are commonly referred to as the "Fundamental Four Elements" of Rituals, without which a Ritual is all but doomed to failure.
+A ritual is the act through which a ritualist attempts to conduct these magics, and each ritualist's method for enacting a ritual is different, though there are a few generally agreed upon elements that must be achieved in order for a ritual to succeed. Firstly, a ritual must last at least 5 minutes in order for success to be achieved. It has been said that in times of great need a ritualist can attempt to end the ritual earlier than this, but they risk failure at best, horrible backlash at worst. Secondly, a ritual must contain a persistent visual or auditory element. Some ritualists chant, sing, or recite scripture of their Deity. Others may choose to draw or cast runes, dance, or create art as a focus for their magic. All that matters is that these elements are consistent throughout the ritual, without long lapses or interruptions. Third, the ritualist must provide a source of power other than their own for the ritual, often in the form of Spirit Gems, a number of which must be provided equal to the level of the ritual. Lastly, and most importantly, the ritualist must have the ritual scroll open and accessible to them at all times during the ritual, even if they do not need to actively gaze upon it. If the ritual scroll is not present, or if during the ritual it is removed or hidden from the ritualist, the ritual will fail. These four elements are commonly referred to as the "fundamental four elements" of rituals, without which a ritual is all but doomed to failure.
 
-There are other ways through which a Ritualist may enhance their casting and thus the odds of success. A few of the more commonly accepted methods are as follows. First, the inclusion of further Ritual props, themed appropriately for the Ritual being attempted, though some Rituals may require specific props to be present to even be cast at all. Secondly, secondary Ritualists who can aid in the focusing and channeling of the magic, and even non-Ritualists whose nature or actions are particularly in-tune with the desired outcome of the Ritual may aid in its success. Some Ritualists opine that at their core, Rituals are a Performance for the Gods, and as such, the more devoted the casters are to providing a grand spectacle, the more likely the Gods are to look upon their attempts with favor and grant their desires. Conversely, if the participants in the Ritual are clearly out of sync, underprepared, or otherwise break the flow of the ritual, the Gods are more likely to punish the attempt.
+There are other ways through which a ritualist may enhance their casting and thus the odds of success. A few of the more commonly accepted methods are as follows. First, the inclusion of further ritual props, themed appropriately for the ritual being attempted, though some rituals may require specific props to be present to even be cast at all. Secondly, secondary ritualists who can aid in the focusing and channeling of the magic, and even non-ritualists whose nature or actions are particularly in-tune with the desired outcome of the ritual may aid in its success. Some ritualists opine that at their core, rituals are a performance for the gods, and as such, the more devoted the casters are to providing a grand spectacle, the more likely the gods are to look upon their attempts with favor and grant their desires. Conversely, if the participants in the ritual are clearly out of sync, under prepared, or otherwise break the flow of the ritual, the Gods are more likely to punish the attempt.
 
-There exists for Ritualists a "Standard Library" of Rituals, of which all Ritualists have access to at all times, as they are capable of producing a new scroll  for these Rituals from Memory. Rituals outside of this Library must be acquired through diligent research or through discovery in the world at large. Scrolls for Rituals outside the Standard Library may have the potential to be Memorized or even Taught, with each Scroll indicating how many times, if at all, it may be Memorized, and subsequently if it can be Taught and how often. Once Memorized, a Scroll is considered part of that Ritualist's Standard Library. If a Ritual is not part of the Ritualist's Standard Library, they must have the exact scroll to perform the Ritual, and this must be shown to Plot before Ritual can begin. If a Ritualist wishes to Memorize a Scroll, they must do so by showing the Scroll to Plot, so Plot can note their Character Sheet and the Scroll appropriately. For any Ritual in the Standard Library, a Ritualist must still have a Scroll representation during the Ritual, following all normal rules, they simply do not need the tagged Scroll item.
+There exists for ritualists a "standard library" of rituals, of which all ritualists have access to at all times, as they are capable of producing a new scroll for these rituals from memory. Rituals outside of this library must be acquired through diligent research or through discovery in the world at large. scrolls for rituals outside the standard library may have the potential to be memorized or even taught, with each scroll indicating how many times, if at all, it may be memorized, and subsequently if it can be taught and how often. Once memorized, a scroll is considered part of that ritualist's standard library. If a ritual is not part of the ritualist's standard library, they must have the exact scroll to perform the ritual, and this must be shown to Plot before the ritual can begin. If a ritualist wishes to memorize a scroll, they must do so by showing the scroll to Plot, so Plot can note their character sheet and the scroll appropriately. For any ritual in the standard library, a ritualist must still have a scroll representation during the ritual, following all normal rules, they simply do not need the tagged scroll item.
 
-For Base Standard Library (not Memorized) Rituals, only the Fundamental Four Elements need to be achieved in order to guarantee success. For all others, it is recommended that further aspects be added, as with each increase in a Ritual's level, the odds of success decrease. It is claimed that a Ritualist who attempts to cast a Ritual using only the Fundamental Four Elements, they have at best a 60% chance of success. Use of Props, secondary Casters, or other Participants can help increase these odds. Similarly, poor performance, inappropriate props or participants, or disjointed or disharmonic casting may decrease the odds of success, and invite potential Backlash.
+For base standard library (not memorized) rituals, only the fundamental four elements need to be achieved in order to guarantee success. For all others, it is recommended that further aspects be added, as with each increase in a ritual's level, the odds of success decrease. It is claimed that a ritualist who attempts to cast a ritual using only the fundamental four elements, they have at best a 60% chance of success. Use of props, secondary casters, or other participants can help increase these odds. Similarly, poor performance, inappropriate props or participants, or disjointed or disharmonic casting may decrease the odds of success, and invite potential backlash.
 
-A Ritual has 4 Possible Outcomes. First is Success. This indicates that the Ritual has succeeded as intended, and the desired effect has been achieved without further incident. Second is a Flaw. This means that the Ritual has completed, but often with a side-effect of some kind, with varying degrees of severity. Third is a Failure. This indicates that the Ritual failed, with no further effects, but any Spirit Gems or other consumable materials used in the Ritual are still consumed. Last, and most feared, is a Backlash. This indicates that the Ritual not only Failed, but a severe negative effect has occurred, up to and including Death of the Caster or Participants, and just as a Failure, any Spirit Gems or materials are still consumed.
+A ritual has 4 possible outcomes:
+* Success - This indicates that the ritual has succeeded as intended, and the desired effect has been achieved without further incident.
+* Flaw - This means that the ritual has completed, but often with a side effect of some kind, with varying degrees of severity.
+* Failure - This indicates that the ritual failed, with no further effects, but any spirit gems or other consumable materials used in the ritual are still consumed.
+* Backlash - This indicates that the ritual not only failed, but a severe negative effect has occurred, up to and including death of the caster or participants.  Any spirit gems or materials are still consumed.
 
-Following are the Standard Library, and other Rituals for which the Scroll must be discovered or re-invented.
+Following are the standard library, and other rituals for which the scroll must be discovered or re-invented.
 
 ## Standard Library
 
@@ -3330,7 +3347,7 @@ The caster attempts to extend their will to create an area that prevents the use
 The caster specifies a target to reshape its spirit of a race chosen by the caster. If the ritual succeeds the target is changed to the targeted race and gains the racial traits of the selected race, whilst losing those of the original.
 
 #### Purify/Corrupt The Land
-The caster reaches out and taps into the primordial energy of the surrounding environment to either purify it of dark taint or call upon the fiends to spread their necrotic tendrils into the land. The size of surrounding land affected is 10x the caster's ritual magic level.
+The caster reaches out to the surrounding environment and attempts to either restore it to its natural state or corrupt it into an inherently damaging state.
 
 ### Ritual Level IV
 
@@ -3343,7 +3360,7 @@ The caster reaches out and taps into the primordial energy of the surrounding en
     Other than via changing the bond with a Rest, the Spirit Linked item cannot be removed from the individual, and will stay with the individual even through death and resurrection.
     
 #### Spirit Lock
-This ritual forms a permanent bond between a specific item and a target individual. This bond transcends the physical realm, ensuring that no matter where the individual may go, the item will always follow. As long as the item endures, it is Locked to the target, unable to be stolen, given away, or even used by another individual. If the target should die and their spirit departs to seek resurrection, the item will follow them. This does not grant any extra resilience for the item, and the effect will fade if the item is destroyed or expires. If the individual somehow becomes incapable of possessing the item (ex: permanent death), the item is destroyed immediately.
+This ritual forms a permanent bond between a specific item and a target individual. This bond transcends the physical realm, ensuring that no matter where the individual may go, the item will always follow. As long as the item endures, it is locked to the target, unable to be stolen, given away, or even used by another individual. If the target should die and their spirit departs to seek resurrection, the item will follow them. This does not grant any extra resilience for the item, and the effect will fade if the item is destroyed or expires. If the individual somehow becomes incapable of possessing the item (ex: permanent death), the item is destroyed immediately.
 
 #### Magical Barrier
 This ritual is designed to imbue the participants with additional magical shielding. Each target that actively participates in the casting of the ritual gains a single use of Resist Magic that lasts for one day or until used. This defensive is subject to an available Defensive Slot.
@@ -3360,7 +3377,7 @@ The caster reaches into the very essence of the target and gives the target a gl
 ### Ritual Level VIII
 
 #### Destroy Ritual Magic
-The caster attempts to focus their mastery of ritual magic in order to destroy any Ritual Magic effect. The difficulty of this spell is variable based on the level of the effect the caster is attempting to destroy. It is highly recommended that anyone undertaking this Ritual prepare thoroughly and do everything in their power to boost their chance of success, as any magic that might require such an intervention is likely to prove difficult to Destroy.
+The caster attempts to focus their mastery of ritual magic in order to destroy any ritual magic effect. The difficulty of this spell is variable based on the level of the effect the caster is attempting to destroy. It is highly recommended that anyone undertaking this Ritual prepare thoroughly and do everything in their power to boost their chance of success, as any magic that might require such an intervention is likely to prove difficult to Destroy.
 
 ### Ritual Level IX
 
@@ -3369,7 +3386,7 @@ The caster attempts to focus their mastery of ritual magic in order to destroy a
 ### Ritual Level X
 
 #### Empower Spirit
-The ritualist empowers a character with grand energies of might and magic. This ritual channels the energies of the consumed Spirit Gems directly into the target character, granting them incredible resilience to face an upcoming challenge. The target gains 2x Resist Physical and 2x Resist Spell, and an intangible suit of 50 Armor that cannot be refit by any means, but stacks over any worn armor and bypasses normal Armor Caps. These last until expended, the target resurrects, or 24 hours have passed. A character may be empowered in this way no more than once per week.
+The ritualist empowers a character with grand energies of might and magic. This ritual channels the energies of the consumed spirit gems directly into the target character, granting them incredible resilience to face an upcoming challenge. The target gains 2x Resist Physical and 2x Resist Spell, and an intangible suit of 50 armor that cannot be refit by any means, but stacks over any worn armor and bypasses normal armor caps. These last until expended, the target resurrects, or 24 hours have passed. A character may be empowered in this way no more than once per week.
 
 ## Uncommon Rituals
 
@@ -3392,20 +3409,12 @@ The ritualist empowers a character with grand energies of might and magic. This 
 ### Ritual Level V
 
 #### Spirit Familiar Transformation
-This ritual is designed to empower and shape the powers of the target's Spirit Familiar, which in turn will help guide the target down the Path of Power of the creature they wish to emulate. A Spirit Familiar Transformation scroll will have a specific type of creature listed for the Transformation. After the Ritual has been cast, the Target will be provided a list of available Transform Abilities that they can pursue the relevant Transform Ability Ritual Scrolls for, and once those have been cast, they will gain access to those as purchasable skills, until such time as their Spirit Familiar is replaced. A Spirit Familiar that has been subject to a Spirit Familiar Transformation cannot receive a different Transformation. If an individual wishes to change their chosen Creature, they must cast a new Spirit Familiar, losing all currently unlocked Transform Abilities, and incurring the usual SP loss for changing Spirit Familiars.
-
-At casting, the player assigns an amount of skill points taken from the character, up to a maximum 50% of the character's total skill points. These skill points are deducted from the character's total skill points and placed into a skill point pool for the Spirit Familiar that may be used to purchase unlocked Transform Abilities.
-
-
-The player may transfer more skill points from the character to the Spirit Familiar between events, but the Spirit Familiar may never have more than 50% of the character's total maximum skill points. The skill points allocated to the Spirit Familiar cannot be reclaimed by the character unless a new Spirit Familiar or Spirit Forge ritual is cast.
-
-
-Upon the permanent death of the character, the Spirit Familiar will die, returning the stored Skill Points to the character, and bestowing the full transformation power to the character. The character will become an optional NPC available to the local Plot Team.
+This ritual is designed to empower and shape the powers of the target's Spirit Familiar, which in turn will help guide the target down the path of power of the creature they wish to emulate. A Spirit Familiar Transformation scroll will have a specific type of creature listed for the transformation. After the ritual has been cast, the target will be provided a list of available transform abilities that they can pursue the relevant transform ability ritual scrolls for, and once those have been cast, they will gain access to those as purchasable skills, until such time as their Spirit Familiar is replaced. A Spirit Familiar that has been subject to a Spirit Familiar Transformation cannot receive a different Transformation. If an individual wishes to change their chosen creature, they must cast a new Spirit Familiar.
 
 ### Ritual Level VI
 
 #### Summon Entity
-The caster attempts to call forth a being from beyond. The being, if summoned, can interact only with the caster for x min's = the casters ritual magic level. The being can be that of a spirit that has been long deceased, a creature of the dark nether, or some other extraplanar entity known to the caster.
+The caster attempts to call forth a being from beyond. The being, if summoned, can interact only with the caster for x min's = the casters ritual magic level.
 
 ### Ritual Level VII
 
@@ -3796,7 +3805,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Type: | Passive |
 | Cost: | 30 (Single Purchase)|
 | Tier: | 9 |
-| Description: | This ability allows the user to wield any weapon with remarkable ease. The user may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest weapon proficiency with all weapon types.|
+| Description: | This ability allows the user to wield any weapon with remarkable ease. The user may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest weapon proficiency with all weapon types.  This skill grants all weapon skills.|
 
 ### Mythical - Tier X
 
@@ -4049,7 +4058,7 @@ When a player resurrects all Non-Ritual effects are removed unless otherwise tol
 
 Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions. 
 
-## SP Debt
+## Skill Point Debt
 When a character resurrects, they incur **SP Debt**, which results in a portion of the character's SP becoming temporarily unavailable to be used. 
 
 **Total Debt**: SP that is held "in debt", unable to be use by the character.  
@@ -4091,8 +4100,15 @@ See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d
 ## Permanent Death
 
 ---
-A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then roll 50% of the accumulated SP of the **Permanently Dead** character into a new Character, plus the base 100 SP for a new character.
+A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then allocate 75%, rounded up, of the accumulated SP of the **Permanently Dead** character into a new Character, or promote their secondary character to their primary status with 75%, rounded up, of the accumulated SP of the now **Permanently Dead** character.
 
+If a player creates a new character.  The secondary and tertiary characters SP will be recalculated based off the new primary character’s total. 
+
+Only the Primary Character can receive Permanent Death. 
+
+## Retiring a Character
+
+Have you slayed your families’ killers, wiped out those pesky goblins, or even ascended into Godhood?  If so, you may feel that your character’s arc has ended, or perhaps a situation has arisen where it is no longer fun to play the character, and it is time to hang up their boots.   With Plot’s approval you may retire your character and allocate 100% of the XP to a new character or promote another with no XP loss.
 
 ## Killing Blow
 
@@ -4130,6 +4146,7 @@ Instead of resurrecting normally, a character with a Spirit Bottle may choose to
 When initially created, a Spirit Bottle has 10 charges. If, at any time, the Spirit Bottle is reduced to 0 charges, it can no longer be used to reform. A character with a Spirit Bottle that has 0 charges still crumbles at 0 body, but must resurrect (and incur Strain) normally.
 
 Spirit Bottles may have their charges replenished. Doing so requires the casting of the Spirit Bottle ritual. A Spirit Bottle cannot have more than 10 charges.
+
 # Resting
 
 ## Resetting Skills and Magic Items
@@ -4208,7 +4225,6 @@ Aside from the shiny feel-good emotions of having helped out their chapter, Chro
 * 400 Goblin Points for a two day event.
 * 600 Goblin Points for a three day event.
 * Full Skill Point accrual, plus an additional reward of 1 Skill Point per day.
-* 1 point removal of Strain from their character per day of the event.
 * Free Event Fee.
 * Three Mystery Sacks per event day.  These are a grab bag reward that each contain one of the following:
   * A bundle of five Tier 1 crafting materials.
@@ -4220,7 +4236,6 @@ Aside from the shiny feel-good emotions of having helped out their chapter, Chro
 * 600 Goblin Points for a two day event.
 * 900 Goblin Points for a three day event.
 * Full Skill Point accrual, plus an additional reward of 1 Skill Point per day.
-* 2 point removal of Strain from their character per day of the event.
 * Free Event Fee & Meal Ticket.
 * Five Mystery Sacks per event day.  These are a grab bag reward that each contain one of the following:
   * A bundle of five Tier 1 crafting materials.
@@ -4231,7 +4246,20 @@ Aside from the shiny feel-good emotions of having helped out their chapter, Chro
 ## How Do I Claim Mystery Sacks?
 
 ---
-Mystery Sacks can be claimed at the end of an NPC Shift with any staff or plot person or by emailing `plot@larpchronicles.com` and requesting it as part of a Production Request for the next game.
+Mystery Sacks are automatically filled after the event and can be picked up as part of any production requests during check-in.
+
+| Level | Stamina Abilities | Agility Abilities |
+|---|---|
+| 1 | Blind<br>Critical Strike<br>Disarm<br>Slow | Backstab |
+| 2 | Stop Thrust | Entangling Shot<br>Poison Shot |
+| 3 | Rapid Refit | Shake It Off |
+| 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry<br>Stun | Kneeling Shot<br>Resourceful |
+| 5 | Silence<br>Vital Blow | Breaching Shot<br>Warbow Training |
+| 6 | Fear<br>Intercept | Waylay | 
+| 7 | Curse<br>Destroy | Ballista<br>Cursing Shot |
+| 8 | Endurance | Surprising Proficiency |
+| 9 | Regenerate | Dodge |
+| 10 | Slay<br>Weapon Proficiency | Murder |
 
 # Goblin Points
 
@@ -4369,7 +4397,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>200 Goblin Point Rewards</u>**
 
-* <u>Death Forgiveness</u>.  On purchase, this reward will remove a single point of Strain from the character’s soul.  This reward must be used at the time of purchase and may not be purchased again for twelve months.
+* <u>Debt Relief</u>.  On purchase, this reward will remove a single event's worth of Skill Point Debt.  This reward must be used at the time of purchase and may not be purchased again for twelve months.
 * <u>Goblin Tag.</u>  Did a player miss an event?  This reward will immediately grant them half of the Skill Points they would have earned.  For any two day event, they will receive 3 Skill Points.  For any three day event, they will receive 5 Skill Points. These may be purchased for any event they missed since their first event attendance.  If they have under 200 Skill Points, they will receive 6 Skill Points for a two day event and 9 for a three day event.
 
 **<u>400 Goblin Point Rewards</u>**
@@ -4382,7 +4410,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>1000 Goblin Point Rewards</u>**
 
-* <u>Refreshing Scroll</u>.  This reward will allow a player to “reset” a single use of a consumed TEACH or MEMORIZE of a Ritual Magic scroll or Crafting recipe.  This reward must be redeemed with plot approval, in the case of any scrolls existing that are uniquely limited for plot reasons and should not be reset.  This is limited to one purchase per character per calendar year.
+* <u>Refreshing Scroll</u>.  This reward will allow a player to "reset" a single use of a consumed TEACH or MEMORIZE of a Ritual Magic scroll or Crafting recipe.  This reward must be redeemed with plot approval, in the case of any scrolls existing that are uniquely limited for plot reasons and should not be reset.  This is limited to one purchase per character per calendar year.
 
 # Transfer Policy
 
@@ -4433,6 +4461,10 @@ If a player is in an unconscious state (Bleeding Out, Sleep, Dead, etc.) and the
 ## Effect Clarifications
 
 ---
+
+### Critical Ability
+A character invoking a Critical ability is able to use the specified ability against a single target of their choice. They may continue to use the ability against that target until either the character completes a Rest, or the character invokes another Critical ability (against the same or another target).
+
 ### Curse of Transformation
 * Curse of Transformation (CoT) makes the target immune to CoT, meaning the effect does not stack.
 * Any character or NPC created by CoT is not capable of inflicting CoT on another character. The only time this is not true is for very specific and limited plot reasons.
@@ -4464,6 +4496,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | AURA | Ability user may swing <x> as their damage type | Varies by source. | No |
 | BREACH ARMOR | Ability user reduces target's armor pool to 0. | \<Type\> Breach Armor | No |
 | CORROSIVE| Ability user causes all tagged items that make physical contact are destroyed (as per shatter/destroy) at the end of the encounter | OOC | No |
+| CRITICAL X | The character gains the ability to swing X against a single target of their choice. | I Invoke Critical X | No |
 | DAMAGE CAP X| Ability user is only hit for maximum of x damage. | Damage Cap or Cap X| No |
 | DESTROY | Target is destroyed after x time.| Varies by source. |Yes |
 | DOUBLE DAMAGE | Ability user does double damage for x type. | Harm Double | Not Applicable |
@@ -4578,11 +4611,107 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 ***Enslavement can be identified by using a Break Enslavement Rune.
 
 # Glossary
+ ## Reference Charts
+ ### Abilities
+|Skill|F|T|R|M|
+|---|---|---|---|---|
+|Additional Defense Slot|	10+30	|10+30	|10+30	|10+30|
+|Armor Training|3+1|3+3|3+3|3+3|
+|Cutpurse|10|10|3|10||
+|Dexterity Armor|5+5|5+5|5+5|5+5|
+|Escape Artist|5+2|5+2|3+1|3+1||
+|First Aid|4|4|4|4||
+|Lockpicking|5+5|5+5|3+1|3+3||
+|Mimicry|5+10|20+10|3+5|20+10|
+|Performing|1+1|1+1|1+1|1+1||
+|Toughness|3+3|3+5|3+5|3+5|
+|Tracking|20|20|20|20||
+|Trapping|10|10|3|6||
+| Ritual Magic |  20  |  20  |  20  |  20  |-|
+| School Initiation  | 5+5 | 3+4 | 5+5  | 3+1 |
+| School Specialization | 20 | 15  | 20 | 10  |
 
+### Gathering Skills
+|Skill|F|T|R|M|Prerequisites|
+|---|---|---|---|---|---|
+| Primary Gathering Skill | 1+1 | 1+1 | 1+1 | 1+1 | -   |
+| Secondary Gathering Skill   | 2+1 | 2+1 | 2+1 | 2+1 | -   |
+| Tertiary Gathering Skill | 3+1 | 3+1 | 3+1 | 3+1 | -   |
+
+### Production Skills
+|Skill|F|T|R|M|Prerequisites|
+|---|---|---|---|---|---|
+| Primary Crafting Skill | 1+1 | 1+1 | 1+1 | 1+1 | -   |
+| Secondary Crafting Skill   | 2+1 | 2+1 | 2+1 | 2+1 | -   |
+| Tertiary Crafting Skill | 3+1 | 3+1 | 3+1 | 3+1 | -   |
+| Artificing | 20 | 20 | 20 | 20 | 5 Ranks in each of Alchemy, Rune Carving, Smithing |
+| Recycling   | 8 | 8 | 8 | 8 | -   |
+
+ ### Resource Pools
+|Resource Pool (+10 pts)|F|T|R|M|
+|---|---|---|---|---|
+|Agility|10+10|20+10|5+5|20+10|
+| Mana | 10+10 | 3+4 | 10+8 | 3+1 |
+|Stamina|5+3|5+5|5+5|20+10|
+ 
+ ### Weapon Skills
+| Skill Point Cost  |  F  |  T  |  R  |  M  | Prereqs|
+|:---|:---:|:---:|:---:|:---:|---|
+| One-Handed Weapon |  3  |  3  |  5  |  8  |-|
+| Two-Hand Weapon|  3  |  3  | 5  | 8 |-|
+| Ranged Weapon  |  3  | 5  |  3  | 8  |-|
+| Shield|  3  |  3  | 5  | 8  |-|
+| Dual Wield |  3  |  3  |  5  | 8  | One-Handed Weapon |
+| Parrying Dagger |  2  | 2  |  2  | 2  |-|
+ 
+ ### Pool Skills
+| Level | Agility | Stamina |
+|---|---|---|
+| 1 | Backstab | Blind<br>Critical Strike<br>Disarm<br>Slow |
+| 2 | Entangling Shot<br>Poison Shot | Stop Thrust |
+| 3 | Shake It Off | Rapid Refit |
+| 4 | Kneeling Shot<br>Resourceful | Disable Limb<br>Kneel<br>Parry<br>Spell Parry |
+| 5 | Breaching Shot<br>Warbow Training | Critical Silence<br>Vital Blow |
+| 6 | Blinding Shot<br>Waylay | Fear<br>Intercept | 
+| 7 | Ballista<br>Cursing Shot | Critical Curse<br>Destroy |
+| 8 | Surprising Proficiency | Endurance<br>Stun |
+| 9 | Dodge | Regenerate |
+| 10 | Agile Proficiency<br>Murder | Slay<br>Weapon Proficiency |
+
+### Spells
+| Tier | Universal | Arcane | Spirit | Nature |
+|---|---|---|---|---|
+| 1  | Glowing Light| Blinding Light<br>Mana Bolt | Control: Minor Undead<br>Transfer Malady<br>Heal Wounds | Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink |
+| 2  | | Disrupt Aether<br>Stop<br>Mana Bolt| Harm Undead<br>Heal Wounds<br>Healing Touch<br>Preserve Corpse<br>  | Boon of Nature<br>Entangle Foot<br>Plant Spike |
+| 3  | | Limited Time Stop<br>Mana Bolt| Cause Weakness<br>Heal Wounds  | Boon of the Armadillo<br>Boon of the Tiger<br>Freedom  |
+| 4  | Barrier | Conjure Weapon<br>Mana Bolt<br>Temporal Shift†| Heal Wounds<br>Rot Limb  | Entangle Arms<br>Command: Kneel |
+| 5  | Entrap Spirit | Conjure Shield<br>Enchanted Blade<br>Mana Bolt| Cleanse<br>Field Resurrection<br>Heal Wounds<br>Revivify  | <br>Command: Silence<br>Strengthen Resolve<br>Treehome† |
+| 6  | | Limited Teleport†<br>Mana Bolt<br>Nullify Spell<br>Stasis† | Dull Pain<br>Fear<br>Heal Wounds<br>Solidify  | Command: Sleep<br>Entangle Body |
+| 7  | | Destroy<br>Haste<br>Mana Bolt<br>Rift Lock| Curse<br>Heal Wounds<br>Vampiric Touch | Command: Confuse<br>Confine |
+| 8  | Reflect | Bag of Holding<br>Mana Bolt| Destroy Undead<br>Heal Wounds<br>Limited Phylactery†<br>Repair Undead | Boon of the Cat<br>Command: Stun  |
+| 9  | Dispel Magic | Circle of Power<br>Mana Bolt| Create Undead<br>Enervate<br>Heal Wounds<br>  | Treewalk†<br>Regenerate<br>Wrath of Nature, Other |
+| 10 |  | Arcane Torrent<br>Doom| Storm of Curses<br>Life | Sanctuary<br>Spider Web |
+
+### Production Item Reference Table
+> † indicates an item that can scale to higher tiers.
+
+| Tier | Alchemy | Smithing | Rune Carving | 
+|---|---|---|---|
+| 1  | Blinding Toxin†<br>Poison Dart 5<br>Slowing Toxin†| Alarm Trap<br>Key<br>Lock<br>Rusty Weapon | Glowing Wand Stone<br>Rune of Trap Compression<br>Wand of Agility†<br>Wand of Stamina†<br>Wand of Magic† |
+| 2  | Explosive Grenade<br>Poison Dart 10<br>Solvent<br>Toxin Antidote | Armor Resizing Kit<br>Lockpicks<br>Suit of Armor 10† | Rune of Imbuing<br>Rune of Marking/Unmarking<br>Runic Rebreather  |
+| 3  | C-1 Explosive<br>Heal Wounds Potion<br>Poison Dart 15<br>Weakness Toxin† | Hardening†<br>Knight-Night Helmet<br>Repair Lock | Environmental Adaptation Rune<br>Rune of Beacon<br>Rune of Obscuring  |
+| 4  | Alchemical Adhesive<br>Kneel Toxin†<br>Silver Dart | One-Handed Weapon<br>Lock Hardening<br>Shield | Lock Corroding Rune<br>Lock Enhancing Rune<br>Rune of Hastening  |
+| 5  | Oil of Silver<br>Silencing Toxin†<br>Suppressing Oil<br> | Silver Weapon Forging<br>Two-Handed Weapon<br>Whetstone |  Elemental Blade Rune<br>Rune of Chambering<br>Rune of Limited Elemental Shift |
+| 6  | Cleansing Draught<br>Heal Wounds Toxin<br>Sleep Toxin† | Golem Repair Kit<br>Pick Pocket Tools<br>Ranged Weapon | Rune of Spellstrike<br>Rune of True Death<br>Thiefbane Rune  |
+| 7  | C-2 Explosive<br>Cursing Toxin†<br>Entangling Dart | Reinforcement Kit<br>Resistant Plating<br>Weighted Ammunition | Rune of Elemental Barrier<br>Rune of Mirror Shield<br>Rune of Shield Spikes Rune |
+| 8  | Incredible Disappearing Ink<br>Minimize Potion<br>Stunning Toxin† | Expandable Weapon<br>Recycling Kit<br>Trickleblade Modification | Elemental Channeling Rune<br>Glyph of Haven<br>Rune of Mystic Lock |
+| 9  | Confining Dart<br>Gaseous Concoction<br>Reviving Draught | Armor Repair Kit<br>Forgemaster's Hammer<br>Risky Smithing | Rune of Endless Storage<br>Rune of Recall<br>Vengeance Rune  |
+| 10 | Elixir of Energy<br>Elixir of Invulnerability<br>Elixir of Venom Spitting | Masterwork Armor<br>Masterwork Shield<br>Masterwork Weapon | Break Enslavement Rune<br>Glyph of Anchoring<br>Glyph of Warding<br>Rune of Erasure |
 
 |Term|Meaning|Explanation|
 |:---|:---|:---|
 |Aether|Unblockable.|Anything delivered with "aether" in the call cannot be blocked, resisted, reflected, or defended against.|
+|Body|Numerical value representative of a character's health.|Also sometimes referred to as health or hit points.|
 |Boffer|A weapon physical representation.|Also referred to as "claws" or "bites" depending on length.  These are simple weapon reps.|
 |Charging|Refers to when a player is physically too close to another player during combat.|Combatants should never be inside the physical reach another combatant or be able to make skin to skin contact.|
 |Concentration|A state where a character is focused on a specific action or spell.||
@@ -4592,7 +4721,7 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 |Healing Arts|Hold over term referencing First Aid.|May be heard when someone is using First Aid to check on a target for visible effects.|
 |Hold|This is an emergency call.|During a Hold, all gameplay and movement is immediately suspended in order to assist someone in need of medical attention.|
 |IBGA|In Between Game Actions|This is a heads up email sent to plot at least a week prior to the next event that gives them an idea of what your character worked on "off board".  It's a good option for things that do not need back and forth such as research, sending a letter, or a boring thing you don't want to do at game. |
-|IC|In Character| Refers to things that are happening in the game.|
+|IC/IG|In Character/In Game|Refers to things that are happening in the game.|
 |Magic Deliverance|Magically delivered effects without incants.|A rare ability, but may be used by NPCs.|
 |Metagaming|Players choosing to use OOC knowledge as their characters.|This is when a character knows things they did not actually learn in game and either communicates it to others or modifies their behavior against their normal behavior or in response to the OOC knowledge.|
 |Mod|Module|This is an event during game where plot will run pieces of storyline for players to interact with.|
@@ -4602,7 +4731,7 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 |Packet|An OOC term for the physical representations of ranged attacks.|Packets are small pieces of cloth wrapped around birdseed and held with a rubber band.  They are used for throwing magic spells and for ranged physical attacks such as toxins and arrows.|
 |Page|A non-combatant player marked by an orange headband.|Children under the age of 13 or individuals that cannot participate in physical combat for medical reasons.  Pages must wear orange headbands.|
 |PC|Player Character|This is often used to refer to the players, but in general it refers the character a player is portraying.|
-|Phys Rep|Physical representation|Term for any weapon, shield, armor, or item prop.|
+|Phys Rep/Rep|Physical representation|Also referred to as "rep".  Term for any weapon, shield, armor, or item prop.|
 |Retcon|Revising words or actions.|Retconning is announced on an OOC level and refers to when a player wishes to "take back" character's actions or words.  Most often, this is done because of an OOC misunderstanding.|
 |RP|Roleplay|Roleplay refers to actions, emotes, or words that are performed not by the player, but by a character.|
 |SP|Skill Points|Points that accrue over a number of events you attend that can be used to purchase or improve skills.|
@@ -4611,6 +4740,26 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 |Turtling|Hiding all viable strike zones of the body behind a shield.|Not presenting a viable target to opponents in combat is disallowed.|
 
 # Changelog
+## 3.1.3 [2023-08-08]
+* Added reference section to glossary containing all skills costs, spells, and production items
+
+Critical Ability
+* Added Critical Ability to effects chart
+* Changed Stamina Curse and Silence physical strikes to Critical Curse Aura and Critical Silence Aura
+* Changed Slay to work until it connects
+* Added Blinding Shot, a new level 6 ability to Agility
+* Changed Agility Backstab, Ballista Cursing Shot, Poison Shot, and Surprising Proficiency to be Critical Abilities
+
+Minor Updates
+* Added clarifications regarding secondary characters to the Life and Death chapter
+* Added clarifications that secondary character XP is rounded up, and that characters can be swapped from primary/secondary/tertiary with staff approval
+* Corrected Golem Repair Kit uses.
+* Updated new player terms in introduction. 
+* Added Body, Rep, and IG to Glossary.
+* Updated descriptions in ritual magic to align with game lore.
+* Updated Goblin Point rewards to add Debt Relief for Skill Point Debt.
+---
+
 ## 3.1.2 [2023-07-14]
 ### Armor
   * **Reduced cost of Dexterity Armor for all classes from 5+10 to 5+5**

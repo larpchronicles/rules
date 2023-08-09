@@ -61,7 +61,7 @@ When a player resurrects all Non-Ritual effects are removed unless otherwise tol
 
 Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection unless they are hit with a decimate effect.  This can be used to refuse effects including those delivered by a killing blow (except decimate).  This is an OOG decision and the player does not need to explain their decisions. 
 
-## SP Debt
+## Skill Point Debt
 When a character resurrects, they incur **SP Debt**, which results in a portion of the character's SP becoming temporarily unavailable to be used. 
 
 **Total Debt**: SP that is held "in debt", unable to be use by the character.  
@@ -103,8 +103,15 @@ See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d
 ## Permanent Death
 
 ---
-A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then roll 50% of the accumulated SP of the **Permanently Dead** character into a new Character, plus the base 100 SP for a new character.
+A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then allocate 75%, rounded up, of the accumulated SP of the **Permanently Dead** character into a new Character, or promote their secondary character to their primary status with 75%, rounded up, of the accumulated SP of the now **Permanently Dead** character.
 
+If a player creates a new character.  The secondary and tertiary characters SP will be recalculated based off the new primary character’s total. 
+
+Only the Primary Character can receive Permanent Death. 
+
+## Retiring a Character
+
+Have you slayed your families’ killers, wiped out those pesky goblins, or even ascended into Godhood?  If so, you may feel that your character’s arc has ended, or perhaps a situation has arisen where it is no longer fun to play the character, and it is time to hang up their boots.   With Plot’s approval you may retire your character and allocate 100% of the XP to a new character or promote another with no XP loss.
 
 ## Killing Blow
 

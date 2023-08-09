@@ -25,7 +25,7 @@ Wondering where to find a particular sheet or form?  Check the list below, and i
   * Battle-Board
 
 [Forms](https://drive.google.com/drive/folders/1rn8_-PmbtBhRNPs0cJDY6ccTxmmNL0Sr?usp=share_link)
-  * Character Sheets (Printable and PDF Forms)
+  * Character Sheet
   * Code of Conduct
   * Liability Waiver
   * Photo Release Form
@@ -51,7 +51,7 @@ If they have not before reaching this section, new players are sure to hear plen
 |NPC|Non-Player Character|This is either plot or a player volunteering time and is either going to be a character or a mob.|
 |OOG/OOC|Out of Game/ Out of Character.|Separating a player's knowledge from their character's knowledge is a hard practiced skill.  Most players actively avoid engaging in metagaming, but there are good forms of metagaming, such as ensuring others get involved.|
 |PC|Player Character|This is often used to refer to the players, but in general it refers the character a player is portraying.|
-|Phys Rep|Physical representation|Also referred to as "rep".  Term for any weapon, shield, armor, or item prop.|
+|Phys Rep/Rep|Physical representation|Also referred to as "rep".  Term for any weapon, shield, armor, or item prop.|
 |Retcon|Revising words or actions.|Retconning is announced on an out of game level and refers to when a player wishes to "take back" character's actions or words.  Most often, this is done because of an out of game misunderstanding.|
 |RP|Roleplay|Roleplay refers to actions, emotes, or words that are considered to be performed not by the player, but by a character.|
 |SP|Skill Points|Points that accrue over a number of events a player attend that can be used to purchase or improve skills.|
@@ -71,11 +71,13 @@ All new players start with 100 Skill Points (SP), 10 body, and 5 armor.  <i>Body
 Have a character in another LARP system and want to transfer it to Chronicles?  Please see our Transfer Policy!
 
 ### Secondary Characters 
-Once a player hits 200 Skill Points, they may create a secondary character.  This character will always have 75 percent of the primary character's SP.  All characters beyond the second character will have 50 percent of the primary character's SP.  No matter what character is played, all gained SP will be applied to the primary character.  Aside from SP, everything is tracked separately for each character (strain, ritual effects, items, etc).
+Once a player hits 200 Skill Points, they may create a secondary character.  This character will always have 75 percent of the primary character's SP, rounded up to the nearest whole number.  All characters beyond the second character will have 50 percent of the primary character's SP, rounded up to the nearest whole number.  No matter what character is played, all gained SP will be applied to the primary character.  Aside from SP, everything is tracked separately for each character (strain, ritual effects, items, etc).
 
 Example:
 > Jim has 275 SP.  His primary character has 275 SP. His seconary character has 206 SP.  His third/fourth/fifth/etc character has 137 SP.
 > Jim attends a 2 day event and gains 6 SP.  His primary character now has 281 SP.  His secondary character has 75% of this, and now has 210 SP.  His third/fourth/fifth/etc character has 140 SP.
+
+If a player wants to promote a character to their primary character and demote their primary to that character’s position, they may do so with Plot’s approval.  
 
 ### Identify Ability
 Allows the character to Identify an item, a group of items, or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.

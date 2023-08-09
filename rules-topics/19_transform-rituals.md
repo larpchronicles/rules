@@ -360,7 +360,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Type: | Passive |
 | Cost: | 30 (Single Purchase)|
 | Tier: | 9 |
-| Description: | This ability allows the user to wield any weapon with remarkable ease. The user may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest weapon proficiency with all weapon types.|
+| Description: | This ability allows the user to wield any weapon with remarkable ease. The user may use any weapon type as if they possessed the requisite skill. Furthermore, they may use their highest weapon proficiency with all weapon types.  This skill grants all weapon skills.|
 
 ### Mythical - Tier X
 
