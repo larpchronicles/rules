@@ -50,7 +50,6 @@ Aside from the shiny feel-good emotions of having helped out their chapter, Chro
 * 400 Goblin Points for a two day event.
 * 600 Goblin Points for a three day event.
 * Full Skill Point accrual, plus an additional reward of 1 Skill Point per day.
-* 1 point removal of Strain from their character per day of the event.
 * Free Event Fee.
 * Three Mystery Sacks per event day.  These are a grab bag reward that each contain one of the following:
   * A bundle of five Tier 1 crafting materials.
@@ -62,7 +61,6 @@ Aside from the shiny feel-good emotions of having helped out their chapter, Chro
 * 600 Goblin Points for a two day event.
 * 900 Goblin Points for a three day event.
 * Full Skill Point accrual, plus an additional reward of 1 Skill Point per day.
-* 2 point removal of Strain from their character per day of the event.
 * Free Event Fee & Meal Ticket.
 * Five Mystery Sacks per event day.  These are a grab bag reward that each contain one of the following:
   * A bundle of five Tier 1 crafting materials.
@@ -73,4 +71,4 @@ Aside from the shiny feel-good emotions of having helped out their chapter, Chro
 ## How Do I Claim Mystery Sacks?
 
 ---
-Mystery Sacks can be claimed at the end of an NPC Shift with any staff or plot person or by emailing `plot@larpchronicles.com` and requesting it as part of a Production Request for the next game.
+Mystery Sacks are automatically filled after the event and can be picked up as part of any production requests during check-in.
