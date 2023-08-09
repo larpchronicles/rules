@@ -1,4 +1,12 @@
 # Changelog
+## 3.1.3 [2023-08-08]
+Minor Updates
+- Added skill and spell cost tables to glossary chapter 
+- Added clarifications regarding secondary characters to the Life and Death chapter
+- Added clarifications that secondary character XP is rounded up, and that characters can be swapped from primary/secondary/tertiary with staff approval
+
+---
+
 ## 3.1.2 [2023-07-14]
 ### Armor
   * **Reduced cost of Dexterity Armor for all classes from 5+10 to 5+5**
