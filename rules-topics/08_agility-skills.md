@@ -29,7 +29,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 3 | Shake It Off |
 | 4 | Kneeling Shot<br>Resourceful |
 | 5 | Breaching Shot<br>Warbow Training |
-| 6 | Waylay |
+| 6 | Blinding Shot<br>Waylay |
 | 7 | Ballista<br>Cursing Shot |
 | 8 | Surprising Proficiency |
 | 9 | Dodge |
@@ -44,7 +44,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 1 |
 | **Duration** | Instant |
 | **Call**| "Surprise" |
-| **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses).  May be combined with Critical Strike. Effect ends at rest or when invoking Backstab against a different target.|
+| **Description** | This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses). As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 
 ### Level 2 Agility Abilities
 #### **Entangling Shot**
@@ -62,9 +62,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 2 |
-| **Duration** | Rest |
+| **Duration** | Indefinite |
 | **Call**| "I hope this gets infected" |
-| **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. Ends at Rest or upon invoking Poisoned Quiver against a new target. |
+| **Description** |Allows the user to throw "Poison" as their damage type with a bow or crossbow against a single target. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 ### Level 3 Agility Abilities
@@ -122,6 +122,16 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 ### Level 6 Agility Abilities
 
+#### **Blinding Shot**
+| Ability | **Blinding Shot** |
+|:---|---|
+| **Type**| Agility|
+| **Level**| 5 |
+| **Duration** | Indefinite |
+| **Call**| "I invoke Blinding Shot against you" |
+| **Description** | The character gains the ability to add a Blind aura to their ranged weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
+| **Requirements**| Ranged Weapon|
+
 #### **Waylay**
 | Ability | **Waylay** |
 |:---|---|
@@ -138,9 +148,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 7 |
-| **Duration** | Rest |
+| **Duration** | Indefinite |
 | **Call**| "Your Defenses Shall Do You No Good...X \[Type\] Vital"" |
-| **Description** |This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Description** |This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 #### **Cursing Shot**
@@ -148,9 +158,9 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Type**| Agility|
 | **Level**| 7 |
-| **Duration** | Instant |
-| **Call**| "Physical Curse" |
-| **Description** |This skill allows the user to throw a single Physical Curse.|
+| **Duration** | Indefinite |
+| **Call**| "I invoke Cursing Shot against you" |
+| **Description** | The character gains the ability to add a Curse aura to their ranged weapon blows against a single target of their choice. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Ranged Weapon|
 
 ### Level 8 Agility Abilities
@@ -162,7 +172,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 8 |
 | **Duration** | Instant |
 | **Call**| "I am not left-handed." |
-| **Description** | This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target and for Rogues, without needing to be behind the target.  May not be used with Backstab, Waylay, or Murder.|
+| **Description** | This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target. Additionally, for Rogues, without needing to be behind the target.  May not be used with Backstab, Waylay, or Murder. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target.|
 | **Requirements**|Ranged Weapon, Stamina Points (Ranged Proficiency), One-Handed Weapon.|
 
 ### Level 9 Agility Abilities
@@ -185,6 +195,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Rest|
 | **Call**| "I Hone My Agile Skill" |
 |**Description**| Agile Proficiencies are purchased with Agility Points, and last until the character next rests. Agile Proficiencies increase the damage dealt with Ranged Weapons, and the damage dealt with Short Weapons when attacking from Behind. When invoking this skill, the user may activate as many as they wish, up to their maximum, with a single Call. Agility Points spent on Agile Proficiency cannot be restored by any means, other than Rest.|
+
 #### **Murder**
 | Ability | **Murder** |
 |:---|---|

@@ -60,9 +60,9 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | 2 | Stop Thrust |
 | 3 | Rapid Refit |
 | 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry |
-| 5 | Silence<br>Vital Blow |
+| 5 | Critical Silence<br>Vital Blow |
 | 6 | Fear<br>Intercept | 
-| 7 | Curse<br>Destroy |
+| 7 | Critical Curse<br>Destroy |
 | 8 | Endurance<br>Stun |
 | 9 | Regenerate |
 | 10 | Slay<br>Weapon Proficiency |
@@ -167,23 +167,23 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ### Level 5 Stamina Abilities
 
-#### **Silence**
-| Ability | **Silence**|
+#### **Critical Silence Aura**
+| Ability | **Critical Silence Aura**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 5 |
-| **Duration** | 20 Seconds |
-| **Call**| "Physical Silence"|
-| **Description** | This is a strike that will silence an opponent for 20 seconds. A silenced opponent may not speak in game, but may still make game system calls that are not in game speech. This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended.  This is a SILENCE effect. |
+| **Duration** | Indefinite |
+| **Call**| "I invoke Critical Silence Aura against you"|
+| **Description** | The character gains the ability to add a Silence aura to their melee weapon blows against a single target of their choice. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. | 
 
 #### **Vital Blow**
 | Ability | **Vital Blow**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 5 |
-| **Duration** | Instant|
+| **Duration** | Indefinite |
 | **Call**| "Your Defenses Shall Do You No Good...X \[Type\] Vital"|
-| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. The effect ends at rest or when invoking Critical Strike against a different target. |
+| **Description** | This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 | **Requirements**| Melee Weapon|
 
 ### Level 6 Stamina Abilities
@@ -208,14 +208,14 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 
 ### Level 7 Stamina Abilities
 
-#### **Curse**
-| Ability | **Curse**|
+#### **Critical Curse Aura**
+| Ability | **Critical Curse Aura**|
 |:---|---|
 | **Type**| Stamina|
 | **Level**| 7 |
-| **Duration** | 20 Seconds|
-| **Call**| "Physical Curse" |
-| **Description** | This strike renders the opponent especially vulnerable to all damage for 20 Seconds, taking double damage from all sources.  The effect of this skill may not be stacked or extended.  This is a CURSE effect.|
+| **Duration** | Indefinite|
+| **Call**| "I Invoke Critical Curse Aura against you" |
+| **Description** | The character gains the ability to add a Curse aura to their melee weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target. |
 
 
 #### **Destroy**
@@ -268,7 +268,7 @@ Physical strikes are weapon delivered combat effects used by characters. A physi
 | **Level**| 10   |
 | **Duration** | Instant   |
 | **Call**| "Prepare to Die...100 \[Type\] Slay" |
-| **Description** | This is a strike that deals damage equal to amount of Stamina spent times 10.  It deals a minimum of 100 damage. Slay may not be stacked with any carriers or Flame/Frost/Shock/Stone. |
+| **Description** | The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as "100 type Slay". The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers. |
 
 #### **Weapon Proficiencies**
 | Ability | **Proficiency**  | 

@@ -22,6 +22,10 @@ If a player is in an unconscious state (Bleeding Out, Sleep, Dead, etc.) and the
 ## Effect Clarifications
 
 ---
+
+### Critical Ability
+A character invoking a Critical ability is able to use the specified ability against a single target of their choice. They may continue to use the ability against that target until either the character completes a Rest, or the character invokes another Critical ability (against the same or another target).
+
 ### Curse of Transformation
 * Curse of Transformation (CoT) makes the target immune to CoT, meaning the effect does not stack.
 * Any character or NPC created by CoT is not capable of inflicting CoT on another character. The only time this is not true is for very specific and limited plot reasons.
@@ -53,6 +57,7 @@ Skilless refers to any abilities purchased with Skill Points. A character does n
 | AURA | Ability user may swing <x> as their damage type | Varies by source. | No |
 | BREACH ARMOR | Ability user reduces target's armor pool to 0. | \<Type\> Breach Armor | No |
 | CORROSIVE| Ability user causes all tagged items that make physical contact are destroyed (as per shatter/destroy) at the end of the encounter | OOC | No |
+| CRITICAL X | The character gains the ability to swing X against a single target of their choice. | I Invoke Critical X | No |
 | DAMAGE CAP X| Ability user is only hit for maximum of x damage. | Damage Cap or Cap X| No |
 | DESTROY | Target is destroyed after x time.| Varies by source. |Yes |
 | DOUBLE DAMAGE | Ability user does double damage for x type. | Harm Double | Not Applicable |
