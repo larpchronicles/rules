@@ -34,7 +34,8 @@ Wondering where to find a particular sheet or form?  Check the list below, and i
   * Photo Release Form
 
 Pre-Registration and Post-Event Surveys
-* [Pre-Registration & Bed Reservation](https://forms.gle/W8HvcE4tzAK4uBVt8)
+* Camp Illinek: [Pre-Registration & Bed Reservation](https://forms.gle/W8HvcE4tzAK4uBVt8)
+* Camp Eastman: [Pre-Registration](https://forms.gle/vcSh8WGc3qTr3MUW9)
 * [Post-Event Survey](https://forms.gle/wr3D4CRHD7NkR2n49)
 
 ## Quick-Start For New Players
