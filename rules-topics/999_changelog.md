@@ -1,4 +1,7 @@
 # Changelog
+## 3.1.4 [2023-09-27]
+* Introduction: Added registration link for Camp Eastman and clarified link for Camp Illinek.
+
 ## 3.1.3 [2023-08-08]
 * Added reference section to glossary containing all skills costs, spells, and production items
 
