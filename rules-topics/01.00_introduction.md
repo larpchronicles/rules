@@ -1,4 +1,4 @@
-# Chronicles Game Rules
+# Chronicles Game Rules Test
 
 ## Introduction
 
