@@ -87,7 +87,7 @@ Minor Updates
 * Dead Visible? To No
 * Silence Visible? To No
 * Weaken Visible? To Yes
-* Added Added “How to Diagnose” Table with below
+* Added Added "How to Diagnose" Table with below
 * ANIMATE - Identify
 * BERSERK - Visible
 * BLEED OUT - First Aid
@@ -239,7 +239,7 @@ Minor Updates
 * Clarified Shield Construction Rules.
 * Added Note that spears cannot swing.
 * Added Note that blunt weapons and polearms cannot stab.
-* Clarified maximum size of a crossbow to be 24” x 24”.
+* Clarified maximum size of a crossbow to be 24" x 24".
 
 ### Combat
 * Clarified that Dual-Wield requires at least one weapon be Short length.
@@ -589,7 +589,7 @@ Minor Updates
 * Identify Magic - Removed.  Identify effect moved to Arcane Mastery.
 * Magic Missile 10, 20, 30, 40 - Removed.
 * Mana Bolt - May now be cast at any rank as Magic or Element (Elemental Shift) where damage = 5x mana spent.
-* Personal Dimension - Renamed to Stasis.  Removed “hidden” effects.
+* Personal Dimension - Renamed to Stasis.  Removed "hidden" effects.
 * Pocket Dimension - Renamed to Bag of Holding.
 * Reality Anchor - Removed.
 * Spell Ward - Removed.
@@ -731,11 +731,11 @@ Minor Updates
 ---
 ### Production
 <u>Alchemy</u>
-* Removal of “alcohol” items. Spicy Beverage, Pink Elephant Cocktail, Look Out Rum!
+* Removal of "alcohol" items. Spicy Beverage, Pink Elephant Cocktail, Look Out Rum!
 * Feeblemind and Charm Darts removed.
-* All Toxin Darts have become “<Effect> Toxin”, Poisonous Darts are still Darts.
-* Poisonous Darts are now “Poisonous Damage Darts”
-* Paralyzing Dart is now “Stunning Toxin”
+* All Toxin Darts have become "<Effect> Toxin", Poisonous Darts are still Darts.
+* Poisonous Darts are now "Poisonous Damage Darts"
+* Paralyzing Dart is now "Stunning Toxin"
 * Itching Powder Toxin is now Kneel Toxin and is a KNEEL effect
 * Warblade's Armor Polish is now a 3 count.
 * Well Purification Tablet now takes 60 seconds to apply.
@@ -746,7 +746,7 @@ Minor Updates
 * Rune of Chambering can now be set to the DRAINED condition.
 
 <u>Tinkering</u>
-* Portable Wildfire and Grenade are now "Normal Flame" not “Physical Flame”
+* Portable Wildfire and Grenade are now "Normal Flame" not "Physical Flame"
 * Tinkering's gathering skill renamed to Scrapping to match its components of Scrap Parts.
 
 <u>Smithing</u>
@@ -766,20 +766,20 @@ Minor Updates
 
 ### Magic
 * All spells have been alphabetized within their ranks.
-* All defensive “Self/Other” spells are now merged into one spell.
+* All defensive "Self/Other" spells are now merged into one spell.
 * All defensive Resist spells are now Rank 4.
 * All defensive Reflect spells are now Rank 8.
 
 <u>Nature</u>
 * Treewalk is now based on steps rather than duration. If you cannot reach another tree, you must return to the tree of origin and are immediately set to DEAD and begin your death count.
-This change is to prevent abuse of the spell, and to bring it in line with other “teleport” style abilities.
+This change is to prevent abuse of the spell, and to bring it in line with other "teleport" style abilities.
 * Charm is now Command: Stun
 * Foebane Weapon no longer requires max body loss.
 * Command: Retreat has been replaced with Command: Kneel
 * Purify Food & Drink now removes ANY active effects.
 
 </u>Arcane</u>
-* “Elemental Doom” is now properly titled simply “Doom”
+* "Elemental Doom" is now properly titled simply "Doom"
 * Arcane Knockback renamed to Halt and updated to use the STOP THRUST effect.
 * Magic Short Weapon and Magic Long Weapon combined into single Conjure Weapon spell.
 

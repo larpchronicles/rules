@@ -55,7 +55,7 @@ Characters may still choose to memorize their spells, and doing so will grant th
 The following spells may be cast using any of Arcane, Nature, or Spirit mana:
 I   - Glowing Light  
 IV  - Barrier
-V   - Entrap Spirit, change incant to “...entrap your spirit”  
+V   - Entrap Spirit, change incant to "...entrap your spirit"  
 VII - Reflect  
 IX  - Dispel Magic  
 

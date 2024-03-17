@@ -172,7 +172,7 @@ There are no assigned cabins, but there is a requirement that you allow others t
 * Four cabins have two bunk beds and either a couch or a futon-style bench that can accommodate a fifth person.
 * Four cabins have one bunk bed.
 * The Lodge has a loft area with several sleeping mats or space for cots.  This building is limited to eleven people.
-* Cook’s Cabin has three rooms, a bathroom, a kitchenette, and a refrigerator.
+* Cook's Cabin has three rooms, a bathroom, a kitchenette, and a refrigerator.
     * Two rooms have two single-person beds.
     * One room has two bunk beds.
 * Silver Tomahawk is for Plot Team and Full-Time NPCs only, but may be used if all other areas are full.
@@ -702,9 +702,9 @@ Bows may be used to block attacks.  Bows may also be used to block attacks while
 
 ### Casting Spells
 
-Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use your magic.
+Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell's energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use your magic.
 
-When casting a spell, first you must have a spell packet in hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic.
+When casting a spell, first you must have a spell packet in hand. Then, you cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If your spell packet strikes a target successfully, they are affected as per the spell's description, unless they are capable of resisting the magic.
 
 You must be careful when casting spells, because if an enemy is within reach, or they have a ranged weapon, you risk your spell being disrupted mid-cast if they manage to strike you with a weapon blow, or if you take damage from any source during the incant. If your spell is disrupted, it is lost and you must complete a rest to recover it.
 
@@ -772,7 +772,7 @@ The target of a killing blow may refuse it, so long as they are capable of movem
 
 Rarely, you may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such.
 
-Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they’d been struck by the spell directly.
+Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they'd been struck by the spell directly.
 
 Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If you are struck by an Aether spell, no resistances can prevent the effect, and you are affected by it immediately.
 
@@ -825,9 +825,9 @@ Armor is described as extra garb pieces made of defined materials and worn in ta
 
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
-Once a character’s Armor Points are below their maximum total, they may recover them through one of two methods:
-1. The Rapid Refit Stamina Ability, which requires 5 seconds of uninterrupted roleplay to restore a character’s Armor Point total back to its maximum.
-2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character’s armor total back to its maximum.
+Once a character's Armor Points are below their maximum total, they may recover them through one of two methods:
+1. The Rapid Refit Stamina Ability, which requires 5 seconds of uninterrupted roleplay to restore a character's Armor Point total back to its maximum.
+2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character's armor total back to its maximum.
    The time required may be lowered by specific items, skills, or abilities.
 
 ### Armor Point Calculations
@@ -992,7 +992,7 @@ All weapons must have a closed cell foam pommel that completely envelopes the po
 
 ### Weapon Crafting Materials ###
 * Ultralight Cores of carbon fiber, kitespar tube, fiberglass tube, or wrapped graphite tube.  Aluminum cores may only used for polearms.  Diameter should be between .414-.610".
-* Closed Cell Foam.  This can be pipe foam insulation and pool noodles and is used to pad the “blade" of a boffer.  It should have a wall at least 5/8" thick.
+* Closed Cell Foam.  This can be pipe foam insulation and pool noodles and is used to pad the "blade" of a boffer.  It should have a wall at least 5/8" thick.
 * Open Cell Foam.  Used for boffer tips, this is a less dense foam commonly found in fabric stores as fill for pillows or in hardware stores as pipe foam.
 * Kite Tape or nylon rip stop repair tape.  Preferred vendor - [FunWithWind](https://funwithwind.com/store/ListCategoriesAndProducts2.asp?idCategory=186&idparent=171)
 * [Dap Weldwood Contact Cement](https://www.amazon.com/00271-Weldwood-Original-Contact-Cement/dp/B0006MXRY8/ref=pd_di_sccai_2?pd_rd_w=gdI93&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=NXDNHRFGZV673SHKBQWS&pd_rd_r=377eca45-f83c-4a21-a00f-3b4859ff9ab9&pd_rd_wg=MvJFD&pd_rd_i=B0006MXRY8&psc=1)
@@ -1472,7 +1472,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 6 |
 | **Duration** | 20 Seconds |
 | **Call**| "Physical Waylay" |
-| **Description** | This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character’s weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying "Refresh Waylay". This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect. |
+| **Description** | This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character's weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying "Refresh Waylay". This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect. |
 
 #### Level 7 Agility Abilities
 
@@ -3336,7 +3336,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Active|
 | Cost: | 3 + 5|
-| Description: | User can go Gaseous on a three count, gaining the effects of Gaseous Form for up to 5 minutes. User reforms on a three count. “One I go Gaseous…” and “One I Reform…”  |
+| Description: | User can go Gaseous on a three count, gaining the effects of Gaseous Form for up to 5 minutes. User reforms on a three count. "One I go Gaseous…" and “One I Reform…”  |
 
 ##### Parry/Spell Parry
 | Name: | Parry/Spell Parry |
@@ -3433,7 +3433,7 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 |---|---|
 | Type: | Passive |
 | Cost: | 20 (Single Purchase)|
-| Description: | User’s weapons are considered part of their body, and the user may, at their discretion, elect to take 20 points of damage in lieu of letting a weapon suffer from a destruction effect. This may designate all weapons, specific weapons, or shields based on the transform.|
+| Description: | User's weapons are considered part of their body, and the user may, at their discretion, elect to take 20 points of damage in lieu of letting a weapon suffer from a destruction effect. This may designate all weapons, specific weapons, or shields based on the transform.|
 
 ##### Destroy Ritual Magic
 | Name: | Destroy Ritual Magic|
@@ -3949,7 +3949,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 **50-250 GP - <u>Plot Submissions</u>**
 
-* Do you have an idea burning a hole into your head that you think would be a fun addition to Chronicles?  Did you spend time creating something unique and interesting that brings the world within Chronicles to life?  Great!  We love to hear about these and submissions of them, used or not, are rewarded.  This donation of time can include anything from writing mod card ideas, plotline writeups, creating in game news articles, in game artwork, and more!  Please absolutely send these in to [plot@larpchronicles.org](mailto:plot@larpchronicles.org) and be sure to ask how many Goblin Points it’s worth!
+* Do you have an idea burning a hole into your head that you think would be a fun addition to Chronicles?  Did you spend time creating something unique and interesting that brings the world within Chronicles to life?  Great!  We love to hear about these and submissions of them, used or not, are rewarded.  This donation of time can include anything from writing mod card ideas, plotline writeups, creating in game news articles, in game artwork, and more!  Please absolutely send these in to [plot@larpchronicles.org](mailto:plot@larpchronicles.org) and be sure to ask how many Goblin Points it's worth!
 
 **100-600 GP - <u>NPC Shifts</u>**
 
@@ -3988,7 +3988,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 **10 GP per $1 - <u>Chronicles Amazon Wishlist Item(s)</u>**
 
-* If you make a donation through the chapter’s [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/28K7OWJ8ZWO60?ref_=wl_share), make sure that plot and/or staff are aware that it is coming from you – also so that they know to watch for the package!  Anything purchased from the Wishlist is worth 10 GP per $1, rounded up.  This means if you spend $9.34 on packet supplies, it will count as $10 and you will be given 100 GP.  If an item you purchased for the Chapter from the Wishlist has a comment of “Needed” or “Critically Needed,” then you will be granted extra GP as detailed at the top of this document.
+* If you make a donation through the chapter's [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/28K7OWJ8ZWO60?ref_=wl_share), make sure that plot and/or staff are aware that it is coming from you – also so that they know to watch for the package!  Anything purchased from the Wishlist is worth 10 GP per $1, rounded up.  This means if you spend $9.34 on packet supplies, it will count as $10 and you will be given 100 GP.  If an item you purchased for the Chapter from the Wishlist has a comment of “Needed” or “Critically Needed,” then you will be granted extra GP as detailed at the top of this document.
 
 **50 GP per 25 - <u>Packet Donation (25 count)</u>**
 
@@ -4018,7 +4018,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>200 Goblin Point Rewards</u>**
 
-* <u>Death Forgiveness</u>.  On purchase, this reward will remove a single point of Strain from your character’s soul.  This reward must be used at the time of purchase and may not be purchased again for twelve months.
+* <u>Death Forgiveness</u>.  On purchase, this reward will remove a single point of Strain from your character's soul.  This reward must be used at the time of purchase and may not be purchased again for twelve months.
 * <u>Goblin Tag.</u>  Did you miss an event?  This reward will immediately grant you half of the Skill Points you would have earned.  For any two day event, you will receive 3 Skill Points.  For any three day event, you will receive 5 Skill Points. These may be purchased for any event you missed since your first event attendance.  If you have under 200 Skill Points, you will receive 6 Skill Points for a two day event and 9 for a three day event.
 
 **<u>400 Goblin Point Rewards</u>**
@@ -4729,7 +4729,7 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 * Poisonous Darts are now “Poisonous Damage Darts”
 * Paralyzing Dart is now “Stunning Toxin”
 * Itching Powder Toxin is now Kneel Toxin and is a KNEEL effect
-* Warblade’s Armor Polish is now a 3 count.
+* Warblade's Armor Polish is now a 3 count.
 * Well Purification Tablet now takes 60 seconds to apply.
 * Ingestible Toxin Catalyst added at Rank I. Turns any <Effect> Toxin into an ingestible version.
 * Poison Antidote is now Toxin Antidote
@@ -4747,7 +4747,7 @@ Skilless refers to any abilities purchased with Skill Points. You do not lose an
 * New Rank I recipe added:  Quiver.
 
 <u>Artificing</u>
-* Titan’s Iron Boots removed.  Will be replaced in next version.
+* Titan's Iron Boots removed.  Will be replaced in next version.
 * Endless Quiver removed.
 
 <u>Wood Carving</u>
