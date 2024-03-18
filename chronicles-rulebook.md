@@ -80,7 +80,7 @@ Example:
 > Jim has 275 SP.  His primary character has 275 SP. His seconary character has 206 SP.  His third/fourth/fifth/etc character has 137 SP.
 > Jim attends a 2 day event and gains 6 SP.  His primary character now has 281 SP.  His secondary character has 75% of this, and now has 210 SP.  His third/fourth/fifth/etc character has 140 SP.
 
-If a player wants to promote a character to their primary character and demote their primary to that character’s position, they may do so with Plot’s approval.  
+If a player wants to promote a character to their primary character and demote their primary to that character's position, they may do so with Plot's approval.  
 
 ### Identify Ability
 Allows the character to Identify an item, a group of items, or target after 1 minute of concentration and continuous contact. This will make the nature and workings of enchantments on an item/creature known to the character, at the discretion of plot. There may be some properties that still remain hidden to the character.
@@ -242,7 +242,7 @@ There are no assigned cabins, but there is a requirement that you allow others t
 * Four cabins have two bunk beds and either a couch or a futon-style bench that can accommodate a fifth person.
 * Four cabins have one bunk bed.
 * The Lodge has a loft area with several sleeping mats or space for cots.  This building is limited to eleven people.
-* Cook’s Cabin has three rooms, a bathroom, a kitchenette, and a refrigerator.
+* Cook's Cabin has three rooms, a bathroom, a kitchenette, and a refrigerator.
     * Two rooms have two single-person beds.
     * One room has two bunk beds.
 * Silver Tomahawk is for Plot Team and Full-Time NPCs only, but may be used if all other areas are full.
@@ -793,9 +793,9 @@ Bows may be used to block attacks.  Bows may also be used to block attacks while
 ## Casting Spells
 
 ---
-Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell’s energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use magic.
+Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell's energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use magic.
 
-When casting a spell, first a player must have a spell packet in a free hand. Then, they cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If the spell packet strikes a target successfully, they are affected as per the spell’s description, unless they are capable of resisting the magic. 
+When casting a spell, first a player must have a spell packet in a free hand. Then, they cast the spell by stating the incant, each spell having its own unique incant, and then either touching the packet to the intended target, or throwing it. If the spell packet strikes a target successfully, they are affected as per the spell's description, unless they are capable of resisting the magic. 
 
 A "Free Hand" in this instance means that the hand holding the spell packet may not be holding any other in-game or tagged items. I.E., no swords, shields, potions, and such. A player may hold multiple spell packets in the same hand and still cast, as they are not considered in-game items.
 
@@ -870,7 +870,7 @@ example, Shock, Stone, Flame, or Frost).  Creatures with this ability cannot be 
 
 Examples:  
 You are healed by Frost.
-* If you are hit with a spell "I conjure a Frost Bolt 10." Or "Spellstrike I conjure a Frost Bolt 10" you would say “Got it, appears to heal me” and restore up to 10 body (if you are below your maximum body).
+* If you are hit with a spell "I conjure a Frost Bolt 10." Or "Spellstrike I conjure a Frost Bolt 10" you would say "Got it, appears to heal me" and restore up to 10 body (if you are below your maximum body).
 * If you are hit with an "Aether Frost Bolt 10" you would call “Got it, appears to heal me”.
 * If you are hit with a sword and someone says “10 Magic Frost” the call would be “Got it” and you would take the damage as normally.
 
@@ -913,7 +913,7 @@ The target of a killing blow may refuse it, so long as they are capable of movem
 ---
 Rarely, one may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such.
 
-Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they’d been struck by the spell directly. This ability does not require the caster to have a Spell Packet in hand.
+Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they'd been struck by the spell directly. This ability does not require the caster to have a Spell Packet in hand.
 
 Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If a player is struck by an Aether spell, no resistances can prevent the effect, and they are affected by it immediately.
 
@@ -973,9 +973,9 @@ Armor is described as extra garb pieces made of defined materials and worn in ta
 
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
-Once a character’s Armor Points are below their maximum total, they may recover them through one of two methods:  
-1. The Rapid Refit Stamina Ability, which requires 5 seconds of uninterrupted roleplay to restore a character’s Armor Point total back to its maximum.
-2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character’s armor total back to its maximum.
+Once a character's Armor Points are below their maximum total, they may recover them through one of two methods:  
+1. The Rapid Refit Stamina Ability, which requires 5 seconds of uninterrupted roleplay to restore a character's Armor Point total back to its maximum.
+2. Roleplay- A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps and its fit to restore a character's armor total back to its maximum.
 The time required may be lowered by specific items, skills, or abilities.
 
 ## Armor Point Calculations
@@ -1627,7 +1627,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level**| 6 |
 | **Duration** | 20 Seconds |
 | **Call**| "Physical Waylay" |
-| **Description** | This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character’s weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying "Refresh Waylay". This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect. |
+| **Description** | This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character's weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying "Refresh Waylay". This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect. |
 
 ### Level 7 Agility Abilities
 
@@ -2534,7 +2534,7 @@ Characters may alternatively choose to explicitly memorize their spell list. Doi
 #### First Aid
 >This skill is purchased once. First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say "Performing First Aid". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply. Other in-game tools can lessen this time. The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.
 > 
->This skill also allows a character to touch a downed or seemingly disabled character and ask, "First Aid, what do I see?"  If the character is under an effect that can be diagnosed by first aid, or is a visible effect, the player may reply with the specific effect ("Are you Dead", "Are you Bleeding Out", "Are you reviving", etc).  The character may also ask how long a countdown remains on first aid or visible effects ("How long until you dissipate", "How long until you’re dead", etc).  The character cannot ask how long the timer was, just its current time left).  
+>This skill also allows a character to touch a downed or seemingly disabled character and ask, "First Aid, what do I see?"  If the character is under an effect that can be diagnosed by first aid, or is a visible effect, the player may reply with the specific effect ("Are you Dead", "Are you Bleeding Out", "Are you reviving", etc).  The character may also ask how long a countdown remains on first aid or visible effects ("How long until you dissipate", "How long until you're dead", etc).  The character cannot ask how long the timer was, just its current time left).  
 >
 >The following statuses can be determined with first aid.  First aid can determine the count down timer on statuses that are diagnosed with physical effects or first aid.
 >
@@ -4102,13 +4102,13 @@ See [larpchronicles.com/spdebtcalculator](https://docs.google.com/spreadsheets/d
 ---
 A character who is **Permanently Dead** may no longer be returned to life by any means. The Player of a **Permanently Dead** character may then allocate 75%, rounded up, of the accumulated SP of the **Permanently Dead** character into a new Character, or promote their secondary character to their primary status with 75%, rounded up, of the accumulated SP of the now **Permanently Dead** character.
 
-If a player creates a new character.  The secondary and tertiary characters SP will be recalculated based off the new primary character’s total. 
+If a player creates a new character.  The secondary and tertiary characters SP will be recalculated based off the new primary character's total. 
 
 Only the Primary Character can receive Permanent Death. 
 
 ## Retiring a Character
 
-Have you slayed your families’ killers, wiped out those pesky goblins, or even ascended into Godhood?  If so, you may feel that your character’s arc has ended, or perhaps a situation has arisen where it is no longer fun to play the character, and it is time to hang up their boots.   With Plot’s approval you may retire your character and allocate 100% of the XP to a new character or promote another with no XP loss.
+Have you slayed your families' killers, wiped out those pesky goblins, or even ascended into Godhood?  If so, you may feel that your character's arc has ended, or perhaps a situation has arisen where it is no longer fun to play the character, and it is time to hang up their boots.   With Plot's approval you may retire your character and allocate 100% of the XP to a new character or promote another with no XP loss.
 
 ## Killing Blow
 
@@ -4326,7 +4326,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 **50-250 GP - <u>Plot Submissions</u>**
 
-* Do you have an idea burning a hole into your head that you think would be a fun addition to Chronicles?  Did you spend time creating something unique and interesting that brings the world within Chronicles to life?  Great!  We love to hear about these and submissions of them, used or not, are rewarded.  This donation of time can include anything from writing mod card ideas, plotline writeups, creating in game news articles, in game artwork, and more!  Please absolutely send these in to [plot@larpchronicles.org](mailto:plot@larpchronicles.org) and be sure to ask how many Goblin Points it’s worth!
+* Do you have an idea burning a hole into your head that you think would be a fun addition to Chronicles?  Did you spend time creating something unique and interesting that brings the world within Chronicles to life?  Great!  We love to hear about these and submissions of them, used or not, are rewarded.  This donation of time can include anything from writing mod card ideas, plotline writeups, creating in game news articles, in game artwork, and more!  Please absolutely send these in to [plot@larpchronicles.org](mailto:plot@larpchronicles.org) and be sure to ask how many Goblin Points it's worth!
 
 **100-600 GP - <u>NPC Shifts</u>**
 
@@ -4366,7 +4366,7 @@ From time to time, the chapter may need some things more than others.  When this
 
 **10 GP per $1 - <u>Chronicles Amazon Wishlist Item(s)</u>**
 
-* If a player makes a donation through the chapter’s [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/28K7OWJ8ZWO60?ref_=wl_share), make sure that plot and/or staff are aware that it is coming from them – also so that they know to watch for the package!  Anything purchased from the Wishlist is worth 10 GP per $1, rounded up.  This means if they spend $9.34 on packet supplies, it will count as $10 and they will be given 100 GP.  If an item the player purchased for the Chapter from the Wishlist has a comment of “Needed” or “Critically Needed,” then they will be granted extra GP as detailed at the top of this document.
+* If a player makes a donation through the chapter's [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/28K7OWJ8ZWO60?ref_=wl_share), make sure that plot and/or staff are aware that it is coming from them – also so that they know to watch for the package!  Anything purchased from the Wishlist is worth 10 GP per $1, rounded up.  This means if they spend $9.34 on packet supplies, it will count as $10 and they will be given 100 GP.  If an item the player purchased for the Chapter from the Wishlist has a comment of “Needed” or “Critically Needed,” then they will be granted extra GP as detailed at the top of this document.
 
 **50 GP per 25 - <u>Packet Donation (25 count)</u>**
 
