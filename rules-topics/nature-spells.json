@@ -1,0 +1,194 @@
+[
+    {
+        "Spell": "Command: Disarm",
+        "School": "Nature",
+        "Level": "1",
+        "Duration": "5 seconds",
+        "Incant": "By nature, I command you to disarm &lt;named item, item>.",
+        "Description": "This spell causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This spell is a DISARM effect."
+    },
+    {
+        "Spell": "Grasping Grasses",
+        "School": "Nature",
+        "Level": "1",
+        "Duration": "20 seconds",
+        "Incant": "By the flora, I slow your steps.",
+        "Description": "This spell causes the local flora to reach up and seize the target's feet, preventing the target from moving at a faster movement rate than a walk. This spell does not stack with itself, and further castings on an already slowed target will not renew the duration.  This is a SLOW effect."
+    },
+    {
+        "Spell": "Purify Food and Drink",
+        "School": "Nature",
+        "Level": "1",
+        "Duration": "Instant",
+        "Incant": "By nature, I purify this nourishment.",
+        "Description": " This spell will remove any active effects from one serving of food and one serving of potable fluid."
+    },
+    {
+        "Spell": "Boon of Nature",
+        "School": "Nature",
+        "Level": "2",
+        "Duration": "1 minute",
+        "Incant": "By nature, I bless this nourishment.",
+        "Description": " This spell will enchant one serving of food or one serving of potable fluid for consumption. If the nourishment is consumed within the duration of the enchantment the substance will heal the consumer for 5 body."
+    },
+    {
+        "Spell": "Entangle Foot",
+        "School": "Nature",
+        "Level": "2",
+        "Duration": "20 seconds",
+        "Incant": "By the flora, I entangle your foot.",
+        "Description": " This spell entangles the target's right foot to the ground. The character is unable to move their foot, except for pivoting on the ball of their foot. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect."
+    },
+    {
+        "Spell": "Plant Spike ",
+        "School": "Nature",
+        "Level": "2",
+        "Duration": "Instant",
+        "Incant": "By the flora, I throw a plant spike, 10 Normal.",
+        "Description": "This spell allows the caster conjure a throwable plant spike for 10 Normal damage. The Spike does not need to be thrown immediately, and lasts until Rest. A caster may not have more than 1 Plant Spike active at a time."
+    },
+    {
+        "Spell": "Boon of the Armadillo",
+        "School": "Nature",
+        "Level": "3",
+        "Duration": "20 seconds",
+        "Incant": "By the fauna, I grant you an armadillo's boon.",
+        "Description": " This spell grants the target limited protection from physical damage. Any physical damage that affects the target is reduced to half effectiveness.  This is a REDUCED DAMAGE effect."
+    },
+    {
+        "Spell": "Boon of the Tiger",
+        "School": "Nature",
+        "Level": "3",
+        "Duration": "Rest",
+        "Incant": "By the fauna, I grant you a tiger's boon.",
+        "Description": " This spell will grant the target the use of a pair of claws suitable for combat. The target is innately able to use the claws for combat without requiring the skill Unarmed Combat. These claws have a base damage of 1."
+    },
+    {
+        "Spell": "Freedom",
+        "School": "Nature",
+        "Level": "3",
+        "Duration": "Instant",
+        "Incant": "By nature, I grant you freedom.",
+        "Description": " This spell will release the target from magical and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, CONFINE."
+    },
+    {
+        "Spell": "Command: Kneel",
+        "School": "Nature",
+        "Level": "4",
+        "Duration": "Instant ",
+        "Incant": "By nature, I command you to kneel.",
+        "Description": "This spell forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this spell may not be stacked or extended.  This spell is a KNEEL effect."
+    },
+    {
+        "Spell": "Entangle Arms",
+        "School": "Nature",
+        "Level": "4",
+        "Duration": "20 seconds",
+        "Incant": "By the flora, I entangle your arms.",
+        "Description": " This spell entangles the target's arms to their side, rendering the arms useless. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect."
+    },
+    {
+        "Spell": "Command: Silence",
+        "School": "Nature",
+        "Level": "5",
+        "Duration": "20 seconds",
+        "Incant": "By nature, I command you to be silent.",
+        "Description": " This spell renders the target unable to speak in game. This prevents the character from communicating verbally or speaking verbal incantations. This spell does not stop the player from communicating out of game calls such as melee damage and defenses. This spell is a SILENCE effect."
+    },
+    {
+        "Spell": "Treehome†",
+        "School": "Nature",
+        "Level": "5",
+        "Duration": "1 minute",
+        "Incant": "By the flora, I enter a treehome.",
+        "Description": " This spell will allow the caster to become absorbed into a physical tree that the caster is touching at the time of casting. While absorbed into the tree, the caster and tree are both protected from any game effects other than Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Treehome and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Treehome. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect."
+    },
+    {
+        "Spell": "Command: Sleep",
+        "School": "Nature",
+        "Level": "6",
+        "Duration": "20 seconds",
+        "Incant": "By nature, I command you to sleep.",
+        "Description": " This spell will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This is a SLEEP effect."
+    },
+    {
+        "Spell": "Entangle Body",
+        "School": "Nature",
+        "Level": "6",
+        "Duration": "20 seconds",
+        "Incant": "By the flora, I entangle your body.",
+        "Description": " This spell entangles the target's entire form in place, rendering the target helpless and unable to move from the neck down. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect."
+    },
+    {
+        "Spell": "Command: Confuse",
+        "School": "Nature",
+        "Level": "7",
+        "Duration": "20 seconds",
+        "Incant": "By nature, I command you to be confused.",
+        "Description": " This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect"
+    },
+    {
+        "Spell": "Confine",
+        "School": "Nature",
+        "Level": "7",
+        "Duration": "20 seconds",
+        "Incant": "By nature, I confine you.",
+        "Description": " This spell renders the target completely unable to move while under the effects of this spell.  This is a CONFINE effect."
+    },
+    {
+        "Spell": "Boon of the Cat",
+        "School": "Nature",
+        "Level": "8",
+        "Duration": "Rest",
+        "Incant": "By the fauna, I grant you a cat's boon.",
+        "Description": " This spell prevents the target from becoming Dead when they otherwise might. The caster must prepare the spell by spending 1 minute of concentration to prime this spell. While primed, if the target reaches 59 seconds of their Dying count, this spell triggers to return the target to 1 Body instead of becoming Dead, and the target must declare Endurance This spell is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once."
+    },
+    {
+        "Spell": "Command: Stun",
+        "School": "Nature",
+        "Level": "8",
+        "Duration": "20 seconds",
+        "Incant": "By nature, I command you to be stunned.",
+        "Description": " This spell causes the target to be unable to take action (move, attack, defend, speak). This spell is a STUN effect."
+    },
+    {
+        "Spell": "Treewalk†",
+        "School": "Nature",
+        "Level": "9",
+        "Duration": "1 Minute",
+        "Incant": "By the flora, grant me your stride.",
+        "Description": " This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second Rift Out to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second Rift In. During both Rift counts, the character is immobile and cannot attack or defend themselves. The caster must begin their Rift In three count within 1 Minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion."
+    },
+    {
+        "Spell": "Regenerate",
+        "School": "Nature",
+        "Level": "9",
+        "Duration": "1 minute ",
+        "Incant": "By nature, I regenerate you.",
+        "Description": "This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect."
+    },
+    {
+        "Spell": "Wrath of Nature, Other",
+        "School": "Nature",
+        "Level": "9",
+        "Duration": "Concentration, up to 1 Minute",
+        "Incant": "By nature, I grant you a vengeful wrath.",
+        "Description": " This spell must be touch-cast upon the target. During the entirety of the spell, the target's body cannot be brought to below 1 point as long as the caster is within arm's reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute."
+    },
+    {
+        "Spell": "Sanctuary",
+        "School": "Nature",
+        "Level": "10",
+        "Duration": "5 Minutes",
+        "Incant": "By Nature, I grant myself Sanctuary",
+        "Description": "The caster crosses their arms with their arms pointing down. The caster becomes immune to all weapon blows and physical effects, but may only self-cast spells. This effect lasts 5 minutes, or until the caster suffers body damage, uncrosses their arms, or suffers any effect that would normally prevent spellcasting."
+    },
+    {
+        "Spell": "Spider Web",
+        "School": "Nature",
+        "Level": "10",
+        "Duration": "Concentration",
+        "Incant": "By Nature, I set the webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ...",
+        "Description": "The caster plants their feet and is able to throw Physical Entangle Body until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense."
+    }
+]
