@@ -1,138 +1,138 @@
 [
     {
-        "Ability": "Critical Strike",
-        "Type": "Stamina",
-        "Level": "1",
-        "Duration": "Instant",
-        "Call": "I Invoke Critical Strike",
-        "Description": "Critical Strikes are purchased with Stamina Points and allow the user to add +1 damage against a single target.  This damage may be stacked up to +5 damage.  The effect ends at rest or when invoking Critical Strike against a different target."
+        "name": "Critical Strike",
+        "pool": "Stamina",
+        "level": "1",
+        "duration": "Instant",
+        "verbal": "I Invoke Critical Strike",
+        "description": "Critical Strikes are purchased with Stamina Points and allow the user to add +1 damage against a single target.  This damage may be stacked up to +5 damage.  The effect ends at rest or when invoking Critical Strike against a different target."
     },
     {
-        "Ability": "Critical Poison",
-        "Type": "Stamina",
-        "Level": "2",
-        "Duration": "Instant",
-        "Call": "I hope this gets infected.",
-        "Description": "Allows the user to swing Poison as their damage type with a weapon against a single target. Ends at Rest or upon invoking Critical Poison against a new target."
+        "name": "Critical Poison",
+        "pool": "Stamina",
+        "level": "2",
+        "duration": "Instant",
+        "verbal": "I hope this gets infected.",
+        "description": "Allows the user to swing Poison as their damage type with a weapon against a single target. Ends at Rest or upon invoking Critical Poison against a new target."
     },
     {
-        "Ability": "Stop Thrust",
-        "Type": "Stamina",
-        "Level": "2",
-        "Duration": "20 Seconds",
-        "Call": "Physical Stop Thrust",
-        "Description": "This is a strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This is a STOP THRUST effect."
+        "name": "Stop Thrust",
+        "pool": "Stamina",
+        "level": "2",
+        "duration": "20 Seconds",
+        "verbal": "Physical Stop Thrust",
+        "description": "This is a strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This is a STOP THRUST effect."
     },
     {
-        "Ability": "Rapid Refit",
-        "Type": "Stamina",
-        "Level": "3",
-        "Duration": "5 Seconds",
-        "Call": "Refitting Armor 1...2...3...4...5",
-        "Description": "This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character's armor pool is reset to its maximum.  Does not apply to Dexterity Armor."
+        "name": "Rapid Refit",
+        "pool": "Stamina",
+        "level": "3",
+        "duration": "5 Seconds",
+        "verbal": "Refitting Armor 1...2...3...4...5",
+        "description": "This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character's armor pool is reset to its maximum.  Does not apply to Dexterity Armor."
     },
     {
-        "Ability": "Shake It Off",
-        "Type": "Stamina",
-        "Level": "3",
-        "Duration": "3 Seconds",
-        "Call": "I steel my mind against stuns.  1 I shake it off...2 I shake it off... 3 I shake it off",
-        "Description": "This skill allows the user a reduce a 20 second STUN to a 3 second count and end the Stun effect.  During the 3 count, the user is still considered stunned until the completion of the count and may not make any other calls.  This is a MINIMIZE effect."
+        "name": "Shake It Off",
+        "pool": "Stamina",
+        "level": "3",
+        "duration": "3 Seconds",
+        "verbal": "I steel my mind against stuns.  1 I shake it off...2 I shake it off... 3 I shake it off",
+        "description": "This skill allows the user a reduce a 20 second STUN to a 3 second count and end the Stun effect.  During the 3 count, the user is still considered stunned until the completion of the count and may not make any other calls.  This is a MINIMIZE effect."
     },
     {
-        "Ability": "Encourage",
-        "Type": "Stamina",
-        "Level": "4",
-        "Duration": "Rest",
-        "Call": "Beginning Encouragement...Encouragement Complete.  Physical Bolster 10.",
-        "Description": "User must spend 1 minute role-playing inspiring the target in some way, even if the target is the user.  This ability grants the target temporary body, which lasts until it is lost or the target completes a rest, whichever occurs first.  Temporary body is lost first and is not soaked by armor.  Does not stack."
+        "name": "Encourage",
+        "pool": "Stamina",
+        "level": "4",
+        "duration": "Rest",
+        "verbal": "Beginning Encouragement...Encouragement Complete.  Physical Bolster 10.",
+        "description": "User must spend 1 minute role-playing inspiring the target in some way, even if the target is the user.  This ability grants the target temporary body, which lasts until it is lost or the target completes a rest, whichever occurs first.  Temporary body is lost first and is not soaked by armor.  Does not stack."
     },
     {
-        "Ability": "Parry",
-        "Type": "Stamina",
-        "Level": "4",
-        "Duration": "20 Seconds",
-        "Call": "I focus my defenses against weapons.",
-        "Description": "This skill allows the character to Resist Physical once.  This is a RESIST effect."
+        "name": "Parry",
+        "pool": "Stamina",
+        "level": "4",
+        "duration": "20 Seconds",
+        "verbal": "I focus my defenses against weapons.",
+        "description": "This skill allows the character to Resist Physical once.  This is a RESIST effect."
     },
     {
-        "Ability": "Spell Parry",
-        "Type": "Stamina",
-        "Level": "4",
-        "Duration": "20 Seconds",
-        "Call": "I focus my defenses against magic.",
-        "Description": "This skill allows the character to Resist Spell once. This is a RESIST effect."
+        "name": "Spell Parry",
+        "pool": "Stamina",
+        "level": "4",
+        "duration": "20 Seconds",
+        "verbal": "I focus my defenses against magic.",
+        "description": "This skill allows the character to Resist Spell once. This is a RESIST effect."
     },
     {
-        "Ability": "Critical Vital",
-        "Type": "Stamina",
-        "Level": "5",
-        "Duration": "Indefinite",
-        "Call": "Your Defenses Shall Do You No Good...X \[Type\] Vital",
-        "Description": "This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target."
+        "name": "Critical Vital",
+        "pool": "Stamina",
+        "level": "5",
+        "duration": "Indefinite",
+        "verbal": "Your Defenses Shall Do You No Good...X <Type> Vital",
+        "description": "This allows the user to swing their base weapon damage and proficiencies as Vital against a single target.  The damage may not be increased by any other skills, abilities, or effects. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target."
     },
     {
-        "Ability": "Intercept",
-        "Type": "Stamina",
-        "Level": "6",
-        "Duration": "Instant",
-        "Call": "Intercept",
-        "Description": "This skill allows the character to accept a weapon or spell attack that struck a nearby target upon themselves instead. The intercepted target must be within weapon striking range of the character when the attack landed in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect. If no defense is available, or they choose to not use a defense, they take the effect or damage instead of the target."
+        "name": "Intercept",
+        "pool": "Stamina",
+        "level": "6",
+        "duration": "Instant",
+        "verbal": "Intercept",
+        "description": "This skill allows the character to accept a weapon or spell attack that struck a nearby target upon themselves instead. The intercepted target must be within weapon striking range of the character when the attack landed in order for the character to be able to intercept the attack. Upon intercepting the attack, the character may call a defense to negate the attack as if they had been struck by the effect. If no defense is available, or they choose to not use a defense, they take the effect or damage instead of the target."
     },
     {
-        "Ability": "Invigorate",
-        "Type": "Stamina",
-        "Level": "6",
-        "Duration": "20 seconds",
-        "Call": "Physical Invigorate",
-        "Description": "This skill doubles the healing (max 2x) from an effect that would have otherwise healed the user for the duration. This includes all healing effects."
+        "name": "Invigorate",
+        "pool": "Stamina",
+        "level": "6",
+        "duration": "20 seconds",
+        "verbal": "Physical Invigorate",
+        "description": "This skill doubles the healing (max 2x) from an effect that would have otherwise healed the user for the duration. This includes all healing effects."
     },
     {
-        "Ability": "Critical Curse",
-        "Type": "Stamina",
-        "Level": "7",
-        "Duration": "Indefinite",
-        "Call": "I Invoke Critical Curse against you",
-        "Description": "The character gains the ability to add a Curse aura to their melee weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target."
+        "name": "Critical Curse",
+        "pool": "Stamina",
+        "level": "7",
+        "duration": "Indefinite",
+        "verbal": "I Invoke Critical Curse against you",
+        "description": "The character gains the ability to add a Curse aura to their melee weapon blows against a single target of their choice, as per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target."
     },
     {
-        "Ability": "Destroy",
-        "Type": "Stamina",
-        "Level": "7",
-        "Duration": "Instant",
-        "Call": "Physical Destroy <target item>",
-        "Description": "This is strike that instantly destroys the target's armor, weapon, or shield. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect."
+        "name": "Destroy",
+        "pool": "Stamina",
+        "level": "7",
+        "duration": "Instant",
+        "verbal": "Physical Destroy <target item>",
+        "description": "This is strike that instantly destroys the target's armor, weapon, or shield. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect."
     },
     {
-        "Ability": "Endurance",
-        "Type": "Stamina",
-        "Level": "8",
-        "Duration": "Instant",
-        "Call": "Endurance",
-        "Description": "This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare Endurance.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once."
+        "name": "Endurance",
+        "pool": "Stamina",
+        "level": "8",
+        "duration": "Instant",
+        "verbal": "Endurance",
+        "description": "This skill prevents the user from becoming Dead when they otherwise might. The user must prepare themselves by spending 1 minute of concentration to prime this skill. While primed, if the user reaches 59 seconds of their Dying count, this ability triggers to return the target to 1 Body instead of becoming Dead, and the user must declare Endurance.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once."
     },
     {
-        "Ability": "Regenerate",
-        "Type": "Stamina",
-        "Level": "9",
-        "Duration": "1 Minute",
-        "Call": "Begin Regenerate...Regenerate Complete",
-        "Description": "This skill allows the user to Concentrate for 1 Minute and restore to their maximum body.  During Concentration, the user may not do anything else including communicate, use abilities, use or activate items, etc."
+        "name": "Regenerate",
+        "pool": "Stamina",
+        "level": "9",
+        "duration": "1 Minute",
+        "verbal": "Begin Regenerate...Regenerate Complete",
+        "description": "This skill allows the user to Concentrate for 1 Minute and restore to their maximum body.  During Concentration, the user may not do anything else including communicate, use abilities, use or activate items, etc."
     },
     {
-        "Ability": "Rally",
-        "Type": "Stamina",
-        "Level": "10  ",
-        "Duration": "Instant  ",
-        "Call": "Beginning Encouragement...Encouragement Complete.  Physical Bolster 10.",
-        "Description": "User must spend 1 minute role-playing, concentrating, inspiring the group in some way.  While the call must be library-volume, the inspiring speech/chant/etc does not.  The user has 10 seconds to give out all charges.  May spend stamina in increments of 10 to affect as many targets as Stamina expended.  Targets receive 10 temporary body, which lasts until it is lost or the target completes a rest, whichever occurs first.  Temporary body is lost first and is not soaked by armor.  Does not stack."
+        "name": "Rally",
+        "pool": "Stamina",
+        "level": "10",
+        "duration": "Instant",
+        "verbal": "Beginning Encouragement...Encouragement Complete.  Physical Bolster 10.",
+        "description": "User must spend 1 minute role-playing, concentrating, inspiring the group in some way.  While the call must be library-volume, the inspiring speech/chant/etc does not.  The user has 10 seconds to give out all charges.  May spend stamina in increments of 10 to affect as many targets as Stamina expended.  Targets receive 10 temporary body, which lasts until it is lost or the target completes a rest, whichever occurs first.  Temporary body is lost first and is not soaked by armor.  Does not stack."
     },
     {
-        "Ability": "Slay",
-        "Type": "Stamina",
-        "Level": "10  ",
-        "Duration": "Instant  ",
-        "Call": "Prepare to Die...100 <Type> Slay",
-        "Description": "The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as 100 type Slay. The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers."
+        "name": "Slay",
+        "pool": "Stamina",
+        "level": "10",
+        "duration": "Instant",
+        "verbal": "Prepare to Die...100 <Type> Slay",
+        "description": "The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as 100 type Slay. The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers."
     }
 ]

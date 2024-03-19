@@ -33,7 +33,7 @@
         }
     },
     {
-        "name": "Attunmenet",
+        "name": "Attunement",
         "description": "Increases the characters Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
         "spCosts": {
             "base": {
