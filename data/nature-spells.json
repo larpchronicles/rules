@@ -100,7 +100,7 @@
         "school": "Nature",
         "level": "5",
         "duration": "1 minute",
-        "incant": "By the flora, I enter a treehome.",
+        "incant": "I call upon nature to grant safe haven.",
         "description": " This spell will allow the caster to become absorbed into a physical tree that the caster is touching at the time of casting. While absorbed into the tree, the caster and tree are both protected from any game effects other than Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Treehome and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Treehome. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect."
     },
     {
@@ -156,7 +156,7 @@
         "school": "Nature",
         "level": "9",
         "duration": "1 Minute",
-        "incant": "By the flora, grant me your stride.",
+        "incant": "I call upon nature to clear a path.",
         "description": " This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second Rift Out to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second Rift In. During both Rift counts, the character is immobile and cannot attack or defend themselves. The caster must begin their Rift In three count within 1 Minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion."
     },
     {
