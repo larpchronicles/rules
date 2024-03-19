@@ -34,6 +34,15 @@
     }
   },
   {
+    "name": "Identify",
+    "description": "Identify allows a character to spend 1 minute concentrating while maintaining contact with a person or items to determine what, if any, magical properties the target has.",
+    "spCosts": {
+      "base": {
+        "primary": "0"
+      }
+    }
+  },
+  {
     "name": "Parrying Dagger",
     "description": "This skill allows the user to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12\"-18\" in length, the handle is a maximum of 6\", and the tips of the weapon must be red for easy identification.",
     "spCosts": {
@@ -57,6 +66,15 @@
     "spCosts": {
       "base": {
         "primary": "10"
+      }
+    }
+  },
+  {
+    "name": "Spell Strike",
+    "description": "All characters choose between being able to packet-deliver their spells, or spellstrike their spells. This choice cannot be changed during an event.",
+    "spCosts": {
+      "base": {
+        "primary": "0"
       }
     }
   },
