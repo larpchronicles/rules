@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Agility Points",
+        "description": "Increases the character's Agility Pool by 10 points. Agility Points are expended to perform Agility Abilities (See: Agility). Agility Pool Points are refreshed upon a successful Rest.",
+        "spCosts": {
+            "base": {
+                "primary": 5,
+                "secondary": 5,
+                "tertiary": 10
+            },
+            "increment": {
+                "primary": 3,
+                "secondary": 5,
+                "tertiary": 10
+            }
+        }
+    },
+    {
+        "name": "Backstab",
+        "description":  "This skill allows the character add 2 damage to their melee weapon swings, while attacking from behind their target. The player must be physically behind the target and able to see both of the target's shoulder blades. This skill stacks with other Weapon Proficiencies.",
+        "spCosts": {
+            "base": {
+                "primary": 10,
+                "secondary": 10,
+                "tertiary": 10
+            },
+            "increment": {
+                "primary": 2,
+                "secondary": 5,
+                "tertiary": 10
+            }
+        }
+    },
+    {
+        "name": "Escape Artist",
+        "description": "",
+        "spCosts": {
+            "base": {
+                "primary": 3,
+                "secondary": 4,
+                "tertiary": 5
+            },
+            "increment": {
+                "primary": 1,
+                "secondary": 1,
+                "tertiary": 2
+            }
+        }
+    },
+    {
+        "name": "Lockpicking",
+        "description": "",
+        "spCosts": {
+            "base": {
+                "primary": 3,
+                "secondary": 3,
+                "tertiary": 5
+            },
+            "increment": {
+                "primary": 1,
+                "secondary": 3,
+                "tertiary": 5
+            }
+        }
+    },
+    {
+        "name": "Mimicry",
+        "description": "",
+        "spCosts": {
+            "base": {
+                "primary": 3,
+                "secondary": 5,
+                "tertiary": 20
+            },
+            "increment": {
+                "primary": 5,
+                "secondary": 10,
+                "tertiary": 10
+            }
+        }
+    },
+    {
+        "name": "Trapping",
+        "description": "",
+        "spCosts": {
+            "base": {
+                "primary": 3,
+                "secondary": 6,
+                "tertiary": 10
+            }
+        }
+    }
+]
