@@ -79,6 +79,15 @@
     }
   },
   {
+    "name": "Tap Reserves",
+    "description": "All characters have the ability to summon reserve energy when necessary. Tap Reserves allows a character to spend 1 minute in concentration to set the ability pool associated with their Primary skillset to 5 points. This requires the character to have a maximum of at least 5 points in their primary skillset ability pool. (A Fighter primary character can set their Stamina Points to 5, a Rogue primary character can set their Agility Points to 5, and a Mage primary character can set their Mana Points to 5.) Note: This does NOT increasse their current pool points by 5, it sets the pool to 5 points. If the character had greater than 5 points in their pool prior to using Tap Reserves, they would be effectively losing points in that pool.) A character may never be compelled to use this ability by any means, it is always the choice of the player to use Tap Reserves.",
+    "spCosts": {
+      "base": {
+        "primary": "0"
+      }
+    }
+  },
+  {
     "name": "Tracking",
     "description": "This skill is purchased once. Using this skill, the character can attempt to track a target's tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number. Tracking can be combined with the survivalist knowledge skill to gain greater bonuses and be considered master tracker. When a player asks to track something/someone a marshal will determine if the tracking succeeds and how much information a player gets.  PCs cannot track other PCs.",
     "spCosts": {
