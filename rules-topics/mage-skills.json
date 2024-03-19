@@ -1,7 +1,7 @@
 [
     {
         "name": "Primary Initiation",
-        "description": "",
+        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
         "spCosts": {
             "base": {
                 "primary": "3",
@@ -12,7 +12,7 @@
     },
     {
         "name": "Secondary Initiation",
-        "description": "",
+        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
         "spCosts": {
             "base": {
                 "primary": 4,
@@ -23,7 +23,7 @@
     },
     {
         "name": "Tertiary Initiation",
-        "description": "",
+        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
         "spCosts": {
             "base": {
                 "primary": 5,
