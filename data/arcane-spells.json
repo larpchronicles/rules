@@ -1,0 +1,155 @@
+[
+    {
+        "name": "Blinding Light",
+        "school": "Arcane",
+        "level": "1",
+        "duration": "20 seconds",
+        "incant": "With arcane forces I blind you.",
+        "description": "This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. "
+    },
+    {
+        "name": "Mana Bolt",
+        "school": "Arcane",
+        "level": "1",
+        "duration": "Instant",
+        "incant": "I conjure a Mana Bolt <#>.",
+        "description": "This spell creates a bolt of magic that does 5x the mana used to deliver magic damage to the target. If the caster has an active Elemental Shift, they may choose to throw either Magic or their element.  This spell may be used at all Levels."
+    },
+    {
+        "name": "Disrupt Aether",
+        "school": "Arcane",
+        "level": "2",
+        "duration": "20 seconds",
+        "incant": "With arcane forces I disrupt your aether.",
+        "description": "This spell will prevent the target from activating spells from wands, tattoos, the effects of Runes, or using the active effects of any possessed magic items. This is an INERT effect. "
+    },
+    {
+        "name": "Stop",
+        "school": "Arcane",
+        "level": "2",
+        "duration": "Instant",
+        "incant": "With arcane forces I stop you.",
+        "description": "This spell prevents the target from advancing into combat until the spell has ended or is removed. This is a STOP THRUST effect. "
+    },
+    {
+        "name": "Limited Time Stop",
+        "school": "Arcane",
+        "level": "3",
+        "duration": "1 minute",
+        "incant": "With arcane forces I stop time on <spell name>",
+        "description": "This spell will target a specific spell in effect on the target. Limited Time Stop will pause the duration timer of the targeted spell for 1 minute. Once the Limited Time Stop spell has ended, the duration timer of the targeted spell resumes from where it had stopped. Limited Time Stop cannot be affected by itself and a spell may only be affected by Limited Time Stop once.  This is a PRESERVE effect. "
+    },
+    {
+        "name": "Conjure Weapon",
+        "school": "Arcane",
+        "level": "4",
+        "duration": "Rest",
+        "incant": "I conjure an arcane <weapon>.",
+        "description": "This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the appropriate weapon skill in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell may not be wielded with a conjured shield. "
+    },
+    {
+        "name": "Temporal Shift†",
+        "school": "Arcane",
+        "level": "4",
+        "duration": "Instant",
+        "incant": "With arcane forces I create a temporal shift. <effect name>",
+        "description": "This spell will immediately end a chosen timed magic effect on the caster. The spell will act as if it had naturally reached the end of its duration."
+    },
+    {
+        "name": "Enchanted Blade",
+        "school": "Arcane",
+        "level": "5",
+        "duration": "Rest",
+        "incant": "I grant you the power of an Enchanted Blade.",
+        "description": "This spell will grant the target the ability to strike with magic damage against a single opponent of the target's choice. To use the Enchanted Blade, the target must state I invoke Enchanted Blade, at which point they will have to choose the opponent that they may use magic damage against. This spell ends when 5 minutes have passed since the invocation, the opponent dies, or if the target rests.  This is an AURA effect. "
+    },
+    {
+        "name": "Conjure Shield",
+        "school": "Arcane",
+        "level": "5",
+        "duration": "Rest",
+        "incant": "I conjure an arcane shield.",
+        "description": "This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the Shield skill in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured shield. A shield summoned by this spell may not be wielded with a conjured weapon. "
+    },
+    {
+        "name": "Limited Teleport†",
+        "school": "Arcane",
+        "level": "5",
+        "duration": "20 Seconds",
+        "incant": "With arcane forces I move across time and space.",
+        "description": "This spell will teleport the caster up to 10 steps in any direction. The teleport may not be impeded by walls or other physical barriers. Once this spell is cast, the caster will complete a three second count rifting out, move to a location with 10 steps, and then three count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The caster must immediately move upon completion of the Rift Out three count. The caster must begin their Rift In three count within 20 seconds of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. "
+    },
+    {
+        "name": "Nullify",
+        "school": "Arcane",
+        "level": "6",
+        "duration": "Instant",
+        "incant": "I summon a force to nullify your <Effect>.",
+        "description": "This spell will instantly remove the named spell effect from the character. This spell is considered a kind of dispel magic effect and will affect spells that are affected by a Dispel Magic while on a character. This spell will not affect spells on inanimate objects. "
+    },
+    {
+        "name": "Stasis†",
+        "school": "Arcane",
+        "level": "6",
+        "duration": "1 minute",
+        "incant": "With arcane forces I enter stasis",
+        "altincat": "I conjure an arcane stasis",
+        "description": "This spell pulls briefly pull the caster out of time. While the character is in stasis, they are immune to all game effects except Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The effect may be ended by the caster at any point. When this spell ends, the character must immediately announce, Stasis Down the caster may not cast this spell again for 5 seconds. This is a STASIS effect."
+    },
+    {
+        "name": "Destroy",
+        "school": "Arcane",
+        "level": "7",
+        "duration": "Instant",
+        "incant": "With arcane forces I destroy your <item>.",
+        "description": "This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. This is a DESTROY effect. "
+    },
+    {
+        "name": "Haste",
+        "school": "Arcane",
+        "level": "7",
+        "duration": "Instant",
+        "incant": "With arcane forces I hasten your time.",
+        "description": "This spell will cause timer based effects that have a base duration of 20 seconds or less to instantly reach their expiration on the target. "
+    },
+    {
+        "name": "Rift Lock",
+        "school": "Arcane",
+        "level": "7",
+        "duration": "20 Seconds",
+        "incant": "I conjure a rift lock.",
+        "description": "This spell prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Treewalk, Rift, and Rune of Recall.  If this spell hits a target who has begun a Rift Out or similar count, this spell interrupts it. This is a RIFT LOCK effect. "
+    },
+    {
+        "name": "Bag of Holding",
+        "school": "Arcane",
+        "level": "8",
+        "duration": "Rest",
+        "incant": "I conjure a bag of holding.",
+        "description": "This spell, when cast on a container of up to 64 cubic inches, allows item tags to be stored within the container without the need for also carrying the physical representation. Removing any item from a Bag of Holding requires 60 seconds of concentration. Once an item tag is removed from the container, the player must provide a physical representation as required by the item tag. Once the Bag of Holding ends, all item tags are ejected from the container. The item tags must then be taken to a game storage location if no suitable physical representations are available. A Bag of Holding container is not protected from destruction by the Bag of Holding spell; should a Bag of Holding container be destroyed, all items within the container are also destroyed. Bag of Holding does not protect any items within from being targeted. A Bag of Holding may be affected by a Dispel Magic, but only if the Dispel Magic targets the container specifically. Game NPCs and PCs cannot be stored within the Bag of Holding without express permission from the Plot Team. In th event a Bag of Holding is Spirit Locked, only the Bag is brought along through Resurrection, nothing inside it. "
+    },
+    {
+        "name": "Circle of Power",
+        "school": "Arcane",
+        "level": "9",
+        "duration": "5 minutes",
+        "incant": "I conjure a Circle of Power.",
+        "description": "This spell requires the caster to first place a braided white and red rope physical representation on the ground in a circular formation that is no larger than 20 feet in diameter. The Circle of Power will become a cylinder shaped container 20 feet high with a top and bottom surface. Once the physical representation is placed, the caster must cast the Circle of Power spell on the physical representation rope. For the duration of this spell, and as long as the caster maintains concentration, no effects, including Aether or Voice Radius, may cross the barrier of the circle. Any effects or attacks from outside the circle may not pass in, and any effects or attacks from inside the circle may not pass out. Creatures may not pass into the circle except through Rift effects. Creatures inside the circle may exit on a 10 second count, but during this count they may be effected by effects from either side of the circle.  "
+    },
+    {
+        "name": "Arcane Torrent",
+        "school": "Arcane",
+        "level": "10",
+        "duration": "Concentration",
+        "incant": "I rain destruction about you all! ... Magic mana bolt 5, Magic mana bolt 5, ...",
+        "description": "The caster plants their feet and is able to throw 'Magic Mana Bolt 5' until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. "
+    },
+    {
+        "name": "Doom",
+        "school": "Arcane",
+        "level": "10",
+        "duration": "Instant",
+        "incant": "I set your doom upon you, 25",
+        "description": "The caster hurls a bolt of Arcane energy at their target that deals 25 damage. This spell requires 2 defences in order to be negated. "
+    }
+]

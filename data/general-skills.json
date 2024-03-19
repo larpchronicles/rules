@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Additional Defense Slot",
+    "description": "This skill grants an additional Defense Slot which may be used to activate additional defenses.  A character may only have as many Active Defenses as they have Defensive Slots.  Any skill, ability, or effect that grants a Resist or Dodge requires a Defensive Slot to be prepared.  This includes Transforms.  All characters automatically have 1 Defense Slot for free and additional slots may be purchased with Skill Points.",
+    "spCosts": {
+      "base": {
+        "primary": "10"
+      },
+      "increment": {
+        "primary": "30"
+      }
+    }
+  },
+  {
+    "name": "Dexterity Armor",
+    "description": "This skill adds 5 points of armor to the character for each time that this skill is purchased. Dexterity armor does not need to be represented by a physical representation.  Dexterity armor does not stack with any other source of armor except the 5 points of Armor every character gets by default.  This skill is not blocked by resting.  Dexterity armor take 1 minute of stretching (Concentration) to refit in which the player must roleplay stretching, yoga, etc.  Dexterity armor cannot exceed the character's Armor Training Cap.",
+    "prereqs": ["Armor Training"],
+    "spCosts": {
+      "base": {
+        "primary": "5"
+      },
+      "increment": {
+        "primary": "5"
+      }
+    }
+  },
+  {
+    "name": "First Aid",
+    "description": "First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say \"Performing First Aid\". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.",
+    "spCosts": {
+      "base": {
+        "primary": "4"
+      }
+    }
+  },
+  {
+    "name": "Identify",
+    "description": "Identify allows a character to spend 1 minute concentrating while maintaining contact with a person or items to determine what, if any, magical properties the target has.",
+    "spCosts": {
+      "base": {
+        "primary": "0"
+      }
+    }
+  },
+  {
+    "name": "Parrying Dagger",
+    "description": "This skill allows the user to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12\"-18\" in length, the handle is a maximum of 6\", and the tips of the weapon must be red for easy identification.",
+    "spCosts": {
+      "base": {
+        "primary": "2"
+      }
+    }
+  },
+  {
+    "name": "Ritual Magic",
+    "description": "This skill allows the user to access the standard ritual magic library.  More information can be found in the Ritual Magic section.",
+    "spCosts": {
+      "base": {
+        "primary": "20"
+      }
+    }
+  },
+  {
+    "name": "Specialization",
+    "description": "When purchased, the character must specify which skillset they have mastery over. This skill allows that character to access level 10 abilities or spells.  This skill may be purchased only once.",
+    "spCosts": {
+      "base": {
+        "primary": "10"
+      }
+    }
+  },
+  {
+    "name": "Spell Strike",
+    "description": "All characters choose between being able to packet-deliver their spells, or spellstrike their spells. This choice cannot be changed during an event.",
+    "spCosts": {
+      "base": {
+        "primary": "0"
+      }
+    }
+  },
+  {
+    "name": "Tracking",
+    "description": "This skill is purchased once. Using this skill, the character can attempt to track a target's tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number. Tracking can be combined with the survivalist knowledge skill to gain greater bonuses and be considered master tracker. When a player asks to track something/someone a marshal will determine if the tracking succeeds and how much information a player gets.  PCs cannot track other PCs.",
+    "spCosts": {
+      "base": {
+        "primary": "20"
+      }
+    }
+  },
+  {
+    "name": "Foraging",
+    "description": "This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, reagents, or catalysts for use with the Alchemy skill.",
+    "spCosts": {
+      "base": {
+        "primary": "1",
+        "secondary": "2",
+        "tertiary": "3"
+      },
+      "increment": {
+        "primary": "1",
+        "secondary": "1",
+        "tertiary": "1"
+      }
+    }
+  },
+  {
+    "name": "Logging",
+    "description": "This skill is the is used to gather the materials for the Rune Carving Skill. Logging represents the character collecting pieces of wood for use with the Rune Carving skill.",
+    "spCosts": {
+      "base": {
+        "primary": "1",
+        "secondary": "2",
+        "tertiary": "3"
+      },
+      "increment": {
+        "primary": "1",
+        "secondary": "1",
+        "tertiary": "1"
+      }
+    }
+  },
+  {
+    "name": "Mining",
+    "description": "This skill is the is used to gather the materials for the Smithing Skill. Mining represents the character collecting raw ore for use with the Smithing skill.",
+    "spCosts": {
+      "base": {
+        "primary": "1",
+        "secondary": "2",
+        "tertiary": "3"
+      },
+      "increment": {
+        "primary": "1",
+        "secondary": "1",
+        "tertiary": "1"
+      }
+    }
+  },
+  {
+    "name": "Alchemy",
+    "description": "This skill allows the user to alchemy carving items of a tier equal to the number of ranks purchased.",
+    "spCosts": {
+      "base": {
+        "primary": "1",
+        "secondary": "2",
+        "tertiary": "3"
+      },
+      "increment": {
+        "primary": "1",
+        "secondary": "1",
+        "tertiary": "1"
+      }
+    }
+  },
+  {
+    "name": "Rune Carving",
+    "description": "This skill allows the user to craft rune carving items of a tier equal to the number of ranks purchased.",
+    "spCosts": {
+      "base": {
+        "primary": "1",
+        "secondary": "2",
+        "tertiary": "3"
+      },
+      "increment": {
+        "primary": "1",
+        "secondary": "1",
+        "tertiary": "1"
+      }
+    }
+  },
+  {
+    "name": "Smithing",
+    "description": "This skill allows the user to craft smithing items of a tier equal to the number of ranks purchased.",
+    "spCosts": {
+      "base": {
+        "primary": "1",
+        "secondary": "2",
+        "tertiary": "3"
+      },
+      "increment": {
+        "primary": "1",
+        "secondary": "1",
+        "tertiary": "1"
+      }
+    }
+  },
+  {
+    "name": "Artificing",
+    "description": "This skill allows the user to craft advanced magical items from a standard library of recipes.  This skill requires the user to have 5 ranks in every crafting skill (Alchemy, Smithing, Rune Carving).",
+    "prereqs": [
+      {
+        "name": "Alchemy",
+        "ranks": "5"
+      },
+      {
+        "name": "Smithing",
+        "ranks": "5"
+      },{
+        "name": "Rune Carving",
+        "ranks": "5"
+      }],
+    "spCosts": {
+      "base": {
+        "primary": "20"
+      }
+    }
+  },
+  {
+    "name": "Recycling",
+    "description": "The Recycling skill allows the user to reclaim some of the raw materials used to craft an item that has been reduced to 0 Durability, been destroyed, or is an item no longer desired.  Items that are in use or activated may not be recycled.  Recycling returns 1/3rd of the materials used to construct it, rounded down to a minimum of one. These materials can either be claimed for future use or utilized immediately in the construction of a new item. This may not be used on consumable items.",
+    "spCosts": {
+      "base": {
+        "primary": "8"
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Primary Initiation",
+        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
+        "spCosts": {
+            "base": {
+                "primary": "3",
+                "secondary": "4",
+                "tertiary": "5"
+            }
+        }
+    },
+    {
+        "name": "Secondary Initiation",
+        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
+        "spCosts": {
+            "base": {
+                "primary": 4,
+                "secondary": 10,
+                "tertiary": 10
+            }
+        }
+    },
+    {
+        "name": "Tertiary Initiation",
+        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
+        "spCosts": {
+            "base": {
+                "primary": 5,
+                "secondary": 15,
+                "tertiary": 30
+            }
+        }
+    },
+    {
+        "name": "Attunement",
+        "description": "Increases the characters Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
+        "spCosts": {
+            "base": {
+                "primary": "3",
+                "secondary": "5",
+                "tertiary": "10"
+            },
+            "increment": {
+                "primary": "1",
+                "secondary": "5",
+                "tertiary": "10"
+            }
+        }
+    }
+]
