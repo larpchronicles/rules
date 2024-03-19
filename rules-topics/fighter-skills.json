@@ -1,0 +1,58 @@
+[
+    {
+        "name": "One-Handed Proficiency",
+        "description":  "This skill allows the character to use one hand weapon between 24\" long and less than 48\" long in melee combat.  One-Handed weapons include short swords, short axes, short hammer, short club, long swords, rapier, battleaxe, warhammer, warmace, spear, and club.  This skill allows the use of the weapon in either hand, but not the ability to wield a One-Handed Weapon in both hands at once.",
+        "primary": "10+2",
+        "secondary": "10+5",
+        "tertiary": "10+10"
+    },
+    {
+        "name": "Off-Handed Proficiency",
+        "description": "This skill allows the character to wield two One-Handed Weapons, one in each hand, while in combat. At least one weapon must be of Short Length or lower. This skill does not apply other skills or abilities to both weapon hands. <br/>Requires the One-Handed Weapon skill.",
+        "primary": "10+2",
+        "secondary": "10+5",
+        "tertiary": "10+10"
+    },
+    {
+        "name": "Ranged Proficiency",
+        "description": "This skill allows the character to wield a ranged weapon in combat. Ranged weapons include bow, crossbow, and throwing weapons. Bows and crossbows may be used to block attacks, but must be restrung prior to continued use.",
+        "primary": "10+2",
+        "secondary": "10+5",
+        "tertiary": "10+10"
+    },
+    {
+        "name": "Two-Handed Proficiency",
+        "description": "Allows the character to wield two-handed weapons in combat, such as polearms and two-handed swords. Attacking with a two-handed weapon always requires both hands to be wielding the weapon. A character wielding a two-handed weapon with only one hand may block attacks with that weapon, so long as their other hand is empty.",
+        "primary": "10+2",
+        "secondary": "10+5",
+        "tertiary": "10+10"
+    },
+    {
+        "name": "Armor Training",
+        "description": "This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. To gain benefit from this skill, the character must also wear proper physreps for the armor (see: Armor) . Armor stacks with the 5 points of Armor every character gets by default.",
+        "primary": "3+1",
+        "secondary": "3+2",
+        "tertiary": "3+3"
+    },
+    {
+        "name": "Shield",
+        "description": "This skill allows the character to wield a shield in combat. A shield may NEVER be used for striking in combat. Shields may not be used with two-handed weapons, bows, or crossbows. A character may not dual wield shields. (See: Shields)",
+        "primary": "3",
+        "secondary": "5",
+        "tertiary": "8"
+    },
+    {
+        "name": "Stamina Points",
+        "description": "Increases the characters Stamina Pool by 10 points. Stamina Points are expended to perform Stamina Abilities (See: Stamina). Stamina Pool Points are refreshed upon a successful Rest.",
+        "primary": "5+3",
+        "secondary": "5+5",
+        "tertiary": "20+10"
+    },
+    {
+        "name": "Toughness",
+        "description": "This skill adds 5 points of maximum health to the character for each time that this skill is purchased.",
+        "primary": "3+3",
+        "secondary": "3+4",
+        "tertiary": "3+5"
+    }
+]
