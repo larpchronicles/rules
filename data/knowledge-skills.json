@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Arcane Knowledge",
+    "description": "Covers Arcane Magic in all its forms and uses. Higher ranks will provide greater insight to Arcane questions or provide more detailed information on the target of an inquiry."
+  },
+  {
+    "name": "Criminal Knowledge",
+    "description": "Covers laws (their avoidance and subversion), various criminal organizations and their structure, cons, and illegal activity. Higher ranks will point one to contacts within some of these organizations or reveal information some may regret knowing."
+  },
+  {
+    "name": "Economic Knowledge",
+    "description": "Covers trade routes, values of goods, and merchants of specific items. Higher ranks will reveal more hidden information or let someone sniff out particularly good deals."
+  },
+  {
+    "name": "Geographical Knowledge",
+    "description": "Covers landmarks, terrain, maps, roads, approximate distances, and navigation. Higher ranks will allow for more detailed information or better navigation."
+  },
+  {
+    "name": "Historical Knowledge",
+    "description": "Covers recent to far-flung historical events.  Higher ranks will allow for knowledge of the distant past or more accurate recollections of events."
+  },
+  {
+    "name": "Nature Knowledge",
+    "description": "Covers Nature Magic in all its forms and uses.  Higher ranks will provide greater insight to Nature questions or provide more detailed information on the target of an inquiry."
+  },
+  {
+    "name": "Political Knowledge",
+    "description": "Covers laws (their enforcement and creation), local and foreign political hierarchy, alliances, hostilities, territories, and holdings. Higher ranks will reveal well-hidden information or let one find the truth behind malicious rumors."
+  },
+  {
+    "name": "Spirit Knowledge",
+    "description": "Covers Spirit Magic in all its forms and uses. Higher ranks will provide greater insight to Spirit questions or provide more detailed information on the target of an inquiry."
+  },
+  {
+    "name": "Survivalist Knowledge",
+    "description": "Covers subjects related to living in the wild, such as hunting, fishing, and identifying plants and animals.  A survivalist may be able to recognize the mark left by a creature, but to truly track them they will need the tracking skill."
+  },
+  {
+    "name": "Theology Knowledge",
+    "description": "Covers churches, cults, religious beliefs, deities, and gods. Higher ranks will reveal more in-depth information on various groups or reveal hidden aspects."
+  }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Agility Points",
+        "description": "Increases the character's Agility Pool by 10 points. Agility Points are expended to perform Agility Abilities (See: Agility). Agility Pool Points are refreshed upon a successful Rest.",
+        "spCosts": {
+            "base": {
+                "primary": 5,
+                "secondary": 5,
+                "tertiary": 10
+            },
+            "increment": {
+                "primary": 3,
+                "secondary": 5,
+                "tertiary": 10
+            }
+        }
+    },
+    {
+        "name": "Backstab",
+        "description":  "This skill allows the character add 2 damage to their melee weapon swings, while attacking from behind their target. The player must be physically behind the target and able to see both of the target's shoulder blades. This skill stacks with other Weapon Proficiencies.",
+        "spCosts": {
+            "base": {
+                "primary": 10,
+                "secondary": 10,
+                "tertiary": 10
+            },
+            "increment": {
+                "primary": 2,
+                "secondary": 5,
+                "tertiary": 10
+            }
+        }
+    },
+    {
+        "name": "Escape Artist",
+        "description": "This skill is purchased multiple times. Each time this skill is purchased, the character may escape from magical, or non-magical bindings by completing a 3 second count of escaping the bonds. \"1 I escape binding...2 I escape binding…\" This skill is refreshed each Rest.",
+        "spCosts": {
+            "base": {
+                "primary": 3,
+                "secondary": 4,
+                "tertiary": 5
+            },
+            "increment": {
+                "primary": 1,
+                "secondary": 1,
+                "tertiary": 2
+            }
+        }
+    },
+    {
+        "name": "Lockpicking",
+        "description": "This skill is purchased multiple times. Each skill rank indicates the proficiency of the character in picking locks. To pick a lock, the character must provide their own draw bag and several beads in each of four colors. One color represents success (one bead). One color represents breaking the lock (one bead). One color represents that the character can continue the attempt (several beads), And one color represents resetting the bag (several beads). The base bag has 1 success, 1 break, 4 continue, 1 reset. The character's skill rank is compared to the tier of the lock. For each rank that the character's skill is under the lock, add 2 continue and 1 reset. If the character's skill is equal to, or above the lock there is no change to the bag. The character may draw from the bag every 30 seconds until success, or the lock is broken.",
+        "spCosts": {
+            "base": {
+                "primary": 3,
+                "secondary": 3,
+                "tertiary": 5
+            },
+            "increment": {
+                "primary": 1,
+                "secondary": 3,
+                "tertiary": 5
+            }
+        }
+    },
+    {
+        "name": "Mimicry",
+        "description": "This skill allows the user to use any single Spell or Stamina ability once per purchase of Mimicry.  The user must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate.  Mimicry cannot be used on level 10 Spells.  Use requires the verbal:  My turn!  <ability verbal/incant>",
+        "spCosts": {
+            "base": {
+                "primary": 3,
+                "secondary": 5,
+                "tertiary": 20
+            },
+            "increment": {
+                "primary": 5,
+                "secondary": 10,
+                "tertiary": 10
+            }
+        }
+    },
+    {
+        "name": "Trapping",
+        "description": "This skill is purchased once. Trapping allows the character the chance to set a trap using the in-game trap tag, trap physical representation, and trap trigger. Setting a trap takes as long as it actually takes to set the trap. Trapping also allows the character to attempt to disarm a set trap using out of game and in-game tools. The character must actually disarm the trigger of the trap, and do so without destroying the trigger. Most disarmed traps can be saved for later use.",
+        "spCosts": {
+            "base": {
+                "primary": 3,
+                "secondary": 6,
+                "tertiary": 10
+            }
+        }
+    }
+]
