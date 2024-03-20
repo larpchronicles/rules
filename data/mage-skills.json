@@ -50,7 +50,7 @@
     },
     {
         "name": "Blood Magic",
-        "description": "Blood Magic reduces a character's Mana Point cap to 25% of their maximum Mana Points (rounded down). However, Blood Mages are able replenish their Mana Points (up to their new maximum Mana Points) with the Exsanguinate ability.",
+        "description": "Blood Magic reduces a character's Mana Point cap to 25% of their maximum Mana Points (rounded down). However, Blood Mages are able replenish their Mana Points (up to their new maximum Mana Points) with the Exsanguinate ability. Blood Mages cannot use memorization, and are ineligble for the bonus Mana Points associated with it.",
         "spCosts": {
             "base": {
                 "primary": "5",
