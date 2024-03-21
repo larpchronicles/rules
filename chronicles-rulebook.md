@@ -1,7 +1,7 @@
-**Rules Version: 4.0.0**  _Wed Mar 20 2024_
+**Rules Version: 4.0.1**  _Wed Mar 20 2024_
 
 
-# Chronicles Game Rules Test
+# Chronicles Game Rules
 
 ## Introduction
 
@@ -1880,7 +1880,7 @@ This skill adds 5 points of maximum health to the character for each time that t
 |Primary Initiation|3|4|5|
 |Secondary Initiation|4|10|10|
 |Tertiary Initiation|5|15|30|
-|Attunement|5+3|5+5|20+10|
+|Attunement|3+1|5+5|10+10|
 |Blood Magic|5|10|15|
 |Exsanguinate|0|0|0|
 
