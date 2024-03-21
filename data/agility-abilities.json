@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Critical Backstab",
+        "pool": "Agility",
+        "level": "1",
+        "duration": "Instant",
+        "verbal": "Surprise",
+        "description": "This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses). As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target."
+    },
+    {
+        "name": "Blinding Strike",
+        "pool": "Agility",
+        "level": "1",
+        "duration": "20 seconds",
+        "verbal": "Physical Blindness",
+        "description": "This skill is a strike that renders the target blind and unable to attack targets not in melee range of the blind character for 20 seconds. The effect of this skill may not be stacked or extended. This skill is expended on use. This is a BLIND effect."
+    },
+    {
+        "name": "Slowing Strike",
+        "pool": "Agility",
+        "level": "1",
+        "duration": "20 Seconds",
+        "verbal": "Physical Slow",
+        "description": "This is a strike that renders the target unable to move faster than a normal walking speed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells and can be removed by healing the affected character. The effect of this skill may not be stacked or extended.  This is a SLOW effect."
+    },
+    {
+        "name": "Disarming Strike",
+        "pool": "Agility",
+        "level": "2",
+        "duration": "5 Seconds",
+        "verbal": "Physical Disarm <Item>",
+        "description": "This skill causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This is a DISARM effect."
+    },
+    {
+        "name": "Entangling Strike",
+        "pool": "Agility",
+        "level": "2",
+        "duration": "20 Seconds",
+        "verbal": "Physical Entangle Foot",
+        "description": "This skill allows the user to throw a single Physical Entangle Foot."
+    },
+    {
+        "name": "Kneeling Strike",
+        "pool": "Agility",
+        "level": "3",
+        "duration": "20 Seconds",
+        "verbal": "Physical Kneel",
+        "description": "Allows the user to throw a single Physical Kneel."
+    },
+    {
+        "name": "Resourceful",
+        "pool": "Agility",
+        "level": "3",
+        "duration": "Instant",
+        "verbal": "I've got it here somewhere!",
+        "description": "This skill allows the user to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the tier of the consumable. User announces,\"I've got it here somewhere!\" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed."
+    },
+    {
+        "name": "Parry",
+        "pool": "Agility",
+        "level": "4",
+        "duration": "20 Seconds",
+        "verbal": "I focus my defenses against weapons.",
+        "description": "This skill allows the character to Resist Physical once.  This is a RESIST effect."
+    },
+    {
+        "name": "Spell Parry",
+        "pool": "Agility",
+        "level": "4",
+        "duration": "20 Seconds",
+        "verbal": "I focus my defenses against magic.",
+        "description": "This skill allows the character to Resist Spell once. This is a RESIST effect."
+    },
+    {
+        "name": "Weakening Strike",
+        "pool": "Agility",
+        "level": "4",
+        "duration": "20 Seconds",
+        "verbal": "Physical Weakness",
+        "description": "This skill is a strike that makes the target swing for half their normal damage for 20 seconds. The effect of this skill may not be stacked or extended. This skill is expended on use. This is a WEAKNESS effect."
+    },
+    {
+        "name": "Breaching Strike",
+        "pool": "Agility",
+        "level": "5",
+        "duration": "Instant",
+        "verbal": "Toxin Breach Armor",
+        "description": "Allows the user to throw a single Toxin Breach Armor, which immediately reduces the target's armor value to 0."
+    },
+    {
+        "name": "Silencing Strike",
+        "pool": "Agility",
+        "level": "5",
+        "duration": "Indefinite",
+        "verbal": "Physical Silence",
+        "description": "The character gains the ability to add a Silence aura to their melee weapon blows against a single target of their choice. As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target."
+    },
+    {
+        "name": "Fearful Strike",
+        "pool": "Agility",
+        "level": "6",
+        "duration": "20 Seconds",
+        "verbal": "Physical Fear",
+        "description": "This is a strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 20 seconds. The fear effect can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended.  This is a FEAR effect."
+    },
+    {
+        "name": "Waylay",
+        "pool": "Agility",
+        "level": "6",
+        "duration": "20 Seconds",
+        "verbal": "Physical Waylay",
+        "description": "This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character's weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying, \"Refresh Waylay\". This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect."
+    },
+    {
+        "name": "Critical Empowerment",
+        "pool": "Agility",
+        "level": "7",
+        "duration": "Instant",
+        "verbal": "I empower my <effect> strike!",
+        "description": "This skill allows user to swing one other agility skill effect against a single target. Effect ends at rest or when invoking Backstab against a different target. The other skill it is being combined with is used at the same time this skill is."
+    },
+    {
+        "name": "Warbow Training",
+        "pool": "Agility",
+        "level": "7",
+        "duration": "Rest",
+        "verbal": "My Bow is Ready",
+        "description": "This skill allows the user to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  User must spend 1 minute roleplaying inspecting their bow and recalling their training."
+    },
+    {
+        "name": "Stunning Strike ",
+        "pool": "Agility",
+        "level": "8",
+        "duration": "20 Seconds",
+        "verbal": "Physical Stun",
+        "description": "This skill is a strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This is a STUN effect."
+    },
+    {
+        "name": "Trickle Blade",
+        "pool": "Agility",
+        "level": "8",
+        "duration": "Instant",
+        "verbal": "Toxin Strike <effect>",
+        "description": "Toxin Strike allows the character to expend a toxin ingestible, coating, or dart tag to deliver the effect of that consumable as a Toxin Strike <effect>. This consumes the item, even if the attack is unsuccessful."
+    },
+    {
+        "name": "Surprising Proficiency",
+        "pool": "Agility",
+        "level": "8",
+        "duration": "Instant",
+        "verbal": "I am not left-handed.",
+        "description": "This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target without needing to be behind the target. May not be used with Backstab, Waylay, or Murder. Acts as per Critical Ability.,"
+    },
+    {
+        "name": "Dodge",
+        "pool": "Agility",
+        "level": "9",
+        "duration": "Instant",
+        "verbal": "I'm untouchable! ... Dodge",
+        "description": "Dodge allows a character to defend against any single, non-Aether, packet or weapon delivered effect or attack by calling \"Dodge\".  This takes 1 Defense Slot to be active.  Regardless of the number of Defense Slots a character has, they may not have more than one active Dodge at a time.  This is a DODGE effect."
+    },
+    {
+        "name": "Shadow Walk",
+        "pool": "Agility",
+        "level": "9",
+        "duration": "1 Minute",
+        "verbal": "Physical Shadow walk, 1 I rift out...",
+        "description": "Shadow Walk allows a character to teleport up to 30 steps in any direction. The Shadow Walk may not be impeded by walls or other physical barriers. Once this ability is used, the caster will complete a five second count rifting out, move to a location with 30 steps, and then one count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The user must immediately move upon completion of the Rift Out five count. The caster must begin their Rift In count within one minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The user may not use this ability again within 5 seconds of its completion."
+    },
+    {
+        "name": "Murder",
+        "pool": "Agility",
+        "level": "10",
+        "duration": "Instant",
+        "verbal": "Physical Strike Doom 100",
+        "description": "Murder allows the character to deliver a single \"Physical Strike Doom 100\" strike to a target. Defending against this ability requires the target to expend 2 relevant Active Defenses, or take 100 damage. Murder must be performed from behind the target."
+    },
+    {
+        "name": "Purge",
+        "pool": "Agility",
+        "level": "10",
+        "duration": "Instant",
+        "verbal": "<Type> Purge",
+        "description": "Purge removes all active defenses that could be used to defend against the declared Delivery Type from the target. This includes Resist, Dodge, Rebound, or any other relevant Active Defense. When delivering this ability, the caster may choose to purge Physical, Toxin, or Magic active defenses by declaring that as the Delivery Type for the Purge."
+    },
+    {
+        "name": "Tagalong",
+        "pool": "Agility",
+        "level": "10",
+        "duration": "Instant",
+        "verbal": "I'm coming with you.",
+        "description": "Tagalong allows a character to force their way into an active Rift-type ability, even if that ability would not normally allow others to be brought along, such as Limited Teleport or Reposition. The user must declare the incant and make contact with the original Rift user and complete the count with the original caster, making at minimum a 3 count, for this ability to work. If either you or the original caster fail to complete the count, you do not rift. The tagalong user follows the original caster through the rift. The Rift user may still refuse the Tagalong, which they would accomplish by stating Refused."
+    }
+]
