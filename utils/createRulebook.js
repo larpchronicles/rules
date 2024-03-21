@@ -4,7 +4,7 @@
     const fs = require("fs"),
         path = require("path");
 
-    let versionFileContents = require("./version.json");
+    let versionFileContents = require("../version.json");
 
     let rulesVersion;
 
