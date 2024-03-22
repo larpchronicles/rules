@@ -5,7 +5,7 @@
         "level": "1",
         "duration": "Instant",
         "verbal": "Surprise",
-        "description": "This skill allows user to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses). As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target."
+        "description": "This skill allows character to add +2 damage against a single target, but is only usable while behind the target. May be stacked up to +10 damage (2 Backstab uses). As per Critical Ability. The effect ends when the character completes a Rest, or invokes another Critical ability against any target."
     },
     {
         "name": "Blinding Strike",
@@ -37,7 +37,7 @@
         "level": "2",
         "duration": "20 Seconds",
         "verbal": "Physical Entangle Foot",
-        "description": "This skill allows the user to throw a single Physical Entangle Foot."
+        "description": "This skill allows the character to throw a single Physical Entangle Foot."
     },
     {
         "name": "Kneeling Strike",
@@ -45,7 +45,7 @@
         "level": "3",
         "duration": "20 Seconds",
         "verbal": "Physical Kneel",
-        "description": "Allows the user to throw a single Physical Kneel."
+        "description": "Allows the character to throw a single Physical Kneel."
     },
     {
         "name": "Resourceful",
@@ -53,7 +53,7 @@
         "level": "3",
         "duration": "Instant",
         "verbal": "I've got it here somewhere!",
-        "description": "This skill allows the user to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the tier of the consumable. User announces,\"I've got it here somewhere!\" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed."
+        "description": "This skill allows the character to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the tier of the consumable. Character announces,\"I've got it here somewhere!\" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed."
     },
     {
         "name": "Parry",
@@ -85,7 +85,7 @@
         "level": "5",
         "duration": "Instant",
         "verbal": "Toxin Breach Armor",
-        "description": "Allows the user to throw a single Toxin Breach Armor, which immediately reduces the target's armor value to 0."
+        "description": "Allows the character to throw a single Toxin Breach Armor, which immediately reduces the target's armor value to 0."
     },
     {
         "name": "Silencing Strike",
@@ -117,7 +117,7 @@
         "level": "7",
         "duration": "Instant",
         "verbal": "I empower my <effect> strike!",
-        "description": "This skill allows user to swing one other agility skill effect against a single target. Effect ends at rest or when invoking Backstab against a different target. The other skill it is being combined with is used at the same time this skill is."
+        "description": "This skill allows character to swing one other agility skill effect against a single target. Effect ends at rest or when invoking Backstab against a different target. The other skill it is being combined with is used at the same time this skill is."
     },
     {
         "name": "Warbow Training",
@@ -125,7 +125,7 @@
         "level": "7",
         "duration": "Rest",
         "verbal": "My Bow is Ready",
-        "description": "This skill allows the user to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  User must spend 1 minute roleplaying inspecting their bow and recalling their training."
+        "description": "This skill allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  Character must spend 1 minute roleplaying inspecting their bow and recalling their training."
     },
     {
         "name": "Stunning Strike ",
@@ -149,7 +149,7 @@
         "level": "8",
         "duration": "Instant",
         "verbal": "I am not left-handed.",
-        "description": "This skill allows the user to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target without needing to be behind the target. May not be used with Backstab, Waylay, or Murder. Acts as per Critical Ability.,"
+        "description": "This skill allows the character to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target without needing to be behind the target. May not be used with Backstab, Waylay, or Murder. Acts as per Critical Ability.,"
     },
     {
         "name": "Dodge",
@@ -165,7 +165,7 @@
         "level": "9",
         "duration": "1 Minute",
         "verbal": "Physical Shadow walk, 1 I rift out...",
-        "description": "Shadow Walk allows a character to teleport up to 30 steps in any direction. The Shadow Walk may not be impeded by walls or other physical barriers. Once this ability is used, the caster will complete a five second count rifting out, move to a location with 30 steps, and then one count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The user must immediately move upon completion of the Rift Out five count. The caster must begin their Rift In count within one minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The user may not use this ability again within 5 seconds of its completion."
+        "description": "Shadow Walk allows a character to teleport up to 30 steps in any direction. The Shadow Walk may not be impeded by walls or other physical barriers. Once this ability is used, the caster will complete a five second count rifting out, move to a location with 30 steps, and then one count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The character must immediately move upon completion of the Rift Out five count. The caster must begin their Rift In count within one minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The character may not use this ability again within 5 seconds of its completion."
     },
     {
         "name": "Murder",
@@ -189,6 +189,6 @@
         "level": "10",
         "duration": "Instant",
         "verbal": "I'm coming with you.",
-        "description": "Tagalong allows a character to force their way into an active Rift-type ability, even if that ability would not normally allow others to be brought along, such as Limited Teleport or Reposition. The user must declare the incant and make contact with the original Rift user and complete the count with the original caster, making at minimum a 3 count, for this ability to work. If either you or the original caster fail to complete the count, you do not rift. The tagalong user follows the original caster through the rift. The Rift user may still refuse the Tagalong, which they would accomplish by stating Refused."
+        "description": "Tagalong allows a character to force their way into an active Rift-type ability, even if that ability would not normally allow others to be brought along, such as Limited Teleport or Reposition. The character must declare the incant and make contact with the original Rift character and complete the count with the original caster, making at minimum a 3 count, for this ability to work. If either you or the original caster fail to complete the count, you do not rift. The tagalong character follows the original caster through the rift. The Rift character may still refuse the Tagalong, which they would accomplish by stating Refused."
     }
 ]
