@@ -4,7 +4,7 @@
     "School": "Ritual",
     "Level": "1",
     "Duration": "Instant",
-    "Description": "This ritual augments \"Mana Bolt\" for an arcane magic user to deal damage as one of the following: Flame, Frost, Shock, Stone. The target of this ritual chooses the element at the end of the ritual casting. This change is permanent until this ritual is once again cast on the target at which time a different element may be selected. This ritual requires that the ritualist use a physical representation for each of the four elements: Fire, Air, Water, and Earth.",
+    "Description": "This ritual augments \"Mana Bolt\" for an arcane magic character to deal damage as one of the following: Flame, Frost, Shock, Stone. The target of this ritual chooses the element at the end of the ritual casting. This change is permanent until this ritual is once again cast on the target at which time a different element may be selected. This ritual requires that the ritualist use a physical representation for each of the four elements: Fire, Air, Water, and Earth.",
     "isStandard": true
   },
   {

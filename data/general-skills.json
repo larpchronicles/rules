@@ -44,7 +44,7 @@
   },
   {
     "name": "Parrying Dagger",
-    "description": "This skill allows the user to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12\"-18\" in length, the handle is a maximum of 6\", and the tips of the weapon must be red for easy identification.",
+    "description": "This skill allows the character to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12\"-18\" in length, the handle is a maximum of 6\", and the tips of the weapon must be red for easy identification.",
     "spCosts": {
       "base": {
         "primary": "2"
@@ -53,7 +53,7 @@
   },
   {
     "name": "Ritual Magic",
-    "description": "This skill allows the user to access the standard ritual magic library.  More information can be found in the Ritual Magic section.",
+    "description": "This skill allows the character to access the standard ritual magic library.  More information can be found in the Ritual Magic section.",
     "spCosts": {
       "base": {
         "primary": "20"
@@ -146,7 +146,7 @@
   },
   {
     "name": "Alchemy",
-    "description": "This skill allows the user to alchemy carving items of a tier equal to the number of ranks purchased.",
+    "description": "This skill allows the character to alchemy carving items of a tier equal to the number of ranks purchased.",
     "spCosts": {
       "base": {
         "primary": "1",
@@ -162,7 +162,7 @@
   },
   {
     "name": "Rune Carving",
-    "description": "This skill allows the user to craft rune carving items of a tier equal to the number of ranks purchased.",
+    "description": "This skill allows the character to craft rune carving items of a tier equal to the number of ranks purchased.",
     "spCosts": {
       "base": {
         "primary": "1",
@@ -178,7 +178,7 @@
   },
   {
     "name": "Smithing",
-    "description": "This skill allows the user to craft smithing items of a tier equal to the number of ranks purchased.",
+    "description": "This skill allows the character to craft smithing items of a tier equal to the number of ranks purchased.",
     "spCosts": {
       "base": {
         "primary": "1",
@@ -194,7 +194,7 @@
   },
   {
     "name": "Artificing",
-    "description": "This skill allows the user to craft advanced magical items from a standard library of recipes.  This skill requires the user to have 5 ranks in every crafting skill (Alchemy, Smithing, Rune Carving).",
+    "description": "This skill allows the character to craft advanced magical items from a standard library of recipes.  This skill requires the character to have 5 ranks in every crafting skill (Alchemy, Smithing, Rune Carving).",
     "prereqs": [
       {
         "name": "Alchemy",
@@ -215,7 +215,7 @@
   },
   {
     "name": "Recycling",
-    "description": "The Recycling skill allows the user to reclaim some of the raw materials used to craft an item that has been reduced to 0 Durability, been destroyed, or is an item no longer desired.  Items that are in use or activated may not be recycled.  Recycling returns 1/3rd of the materials used to construct it, rounded down to a minimum of one. These materials can either be claimed for future use or utilized immediately in the construction of a new item. This may not be used on consumable items.",
+    "description": "The Recycling skill allows the character to reclaim some of the raw materials used to craft an item that has been reduced to 0 Durability, been destroyed, or is an item no longer desired.  Items that are in use or activated may not be recycled.  Recycling returns 1/3rd of the materials used to construct it, rounded down to a minimum of one. These materials can either be claimed for future use or utilized immediately in the construction of a new item. This may not be used on consumable items.",
     "spCosts": {
       "base": {
         "primary": "8"
