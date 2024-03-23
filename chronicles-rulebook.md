@@ -2090,7 +2090,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 2 | Disarming Strike |
 | 2 | Entangling Strike |
 | 3 | Kneeling Strike |
-| 3 | Resourceful |
+| 4 | Resourceful |
 | 4 | Parry |
 | 4 | Spell Parry |
 | 4 | Weakening Strike |
@@ -2153,7 +2153,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 | | **Resourceful** |
 |:---|---|
-| **Level** | 3 |
+| **Level** | 4 |
 | **Duration** | Instant |
 | **Verbal** | "I've got it here somewhere!" |
 | **Description** | This skill allows the character to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the tier of the consumable. Character announces,"I've got it here somewhere!" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed. |
@@ -2219,7 +2219,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 7 |
 | **Duration** | Rest |
 | **Verbal** | "My Bow is Ready" |
-| **Description** | This skill allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  Character must spend 1 minute roleplaying inspecting their bow and recalling their training. |
+| **Description** | The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest. |
 
 | | **Stunning Strike ** |
 |:---|---|
