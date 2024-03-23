@@ -1,4 +1,4 @@
-**Rules Version: 4.0.2**  _Fri Mar 22 2024_
+**Rules Version: 4.0.3**  _Fri Mar 22 2024_
 
 
 # Chronicles Game Rules
@@ -2090,7 +2090,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 2 | Disarming Strike |
 | 2 | Entangling Strike |
 | 3 | Kneeling Strike |
-| 3 | Resourceful |
+| 4 | Resourceful |
 | 4 | Parry |
 | 4 | Spell Parry |
 | 4 | Weakening Strike |
@@ -2153,7 +2153,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 | | **Resourceful** |
 |:---|---|
-| **Level** | 3 |
+| **Level** | 4 |
 | **Duration** | Instant |
 | **Verbal** | "I've got it here somewhere!" |
 | **Description** | This skill allows the character to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the tier of the consumable. Character announces,"I've got it here somewhere!" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed. |
@@ -2219,7 +2219,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 7 |
 | **Duration** | Rest |
 | **Verbal** | "My Bow is Ready" |
-| **Description** | This skill allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  Character must spend 1 minute roleplaying inspecting their bow and recalling their training. |
+| **Description** | The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest. |
 
 | | **Stunning Strike ** |
 |:---|---|
@@ -3001,6 +3001,15 @@ Resting takes 10 minutes. Using any game skills, running, losing health, dying, 
  
 The player must record the time of their Rest on their battleboard or character sheet, and must inform a Logistics Marshal as soon as is convenient.
 
+When a player checks in, they will be issued a labeled battleboard. Logistics will also label additional battleboards with the player and character's name, and these will be kept in a file folder at logistics. When the player wants to Rest, they'll need to head to logistics to swap out their old battleboard for their next one.
+
+The file folders will be accessible by players in such a way that, if a logistics marshal isn't present at that time, the player can still exchange their battleboards. The player is still responsible for informing the logistics marshal at their earliest convenience, or leave a note with their name and the time they swapped out their battleboards at the logistics station.
+
+During an event, a character may Rest a number of times equal to twice the number of the game days in the event, minus one.  
+
+> Example:
+> A character may Rest up to 3 times during a 2-day event (aka, the most common and typical Chronicles event).
+> For a 3-day event (such as Memorial Day and Labor Day weekends), a character may Rest up to 5 times.
 
 ## Per Day
 

@@ -50,7 +50,7 @@
     {
         "name": "Resourceful",
         "pool": "Agility",
-        "level": "3",
+        "level": "4",
         "duration": "Instant",
         "verbal": "I've got it here somewhere!",
         "description": "This skill allows the character to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the tier of the consumable. Character announces,\"I've got it here somewhere!\" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed."
@@ -125,7 +125,7 @@
         "level": "7",
         "duration": "Rest",
         "verbal": "My Bow is Ready",
-        "description": "This skill allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.  Character must spend 1 minute roleplaying inspecting their bow and recalling their training."
+        "description": "The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest."
     },
     {
         "name": "Stunning Strike ",
