@@ -12,7 +12,7 @@
         "school": " Universal",
         "level": "4",
         "duration": "Rest",
-        "incant": "I summon a force to barrier <Delivery Type>",
+        "incant": "I call forth mystic force to barrier <Delivery Type>",
         "description": "This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Magic. This is an ACTIVE RESIST effect."
     },
     {
@@ -20,7 +20,7 @@
         "school": "Universal",
         "level": "5",
         "duration": "Rest",
-        "incant": "I summon a force to entrap your spirit.",
+        "incant": "I call forth mystic force to entrap your spirit.",
         "description": "This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it."
     },
     {
@@ -28,7 +28,7 @@
         "school": "Universal",
         "level": "9",
         "duration": "Instant",
-        "incant": "I summon a force to dispel magic",
+        "incant": "I call forth mystic force to to dispel magic",
         "description": "This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. Dispel Magic does not effect Glyphs or similar items."
     }
 ]
