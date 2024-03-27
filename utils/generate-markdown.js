@@ -9,6 +9,9 @@
     let glossary = [];
     let incants = [];
 
+    glossary.spells = [];
+
+
     fs.readdir(dir, function (err, files) {
         if (err) {
             return console.log('Unable to scan directory: ' + err);
@@ -41,12 +44,16 @@
                 }
             }
         }
+
         console.log(markdown.join("\n"));
         console.log(glossary.join("\n"));
         console.log("\n## Incants");
         incants = incants.sort();
         console.log(incants.join("\n"));
+
     });
+
+    console.log(JSON.stringify(glossary.spells, null, 4));
 
     function titleCase(string){
         return string[0].toUpperCase() + string.slice(1).toLowerCase();
@@ -162,6 +169,11 @@
                 skills[i].incant = skills[i].incant.replace(/</, "\\<");
             }
             markdown.push(`| ${skills[i].level} | ${skills[i].name} | _${skills[i].incant}_ |`);
+            if (!Array.isArray(glossary.spells)) { glossary.spells = []; }
+            if (!Array.isArray(glossary.spells[skills[i].level])) {glossary.spells[skills[i].level] = []; }
+            glossary.spells[skills[i].level] = glossary.spells[skills[i].level] || [];
+            glossary.spells[skills[i].level].push({"name": skills[i].name, "school": skills[i].school, "incant": skills[i].incant});
+            //console.log(JSON.stringify(glossary.spells, null, 4));
         }
         markdown.push("");
 
