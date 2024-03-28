@@ -53,7 +53,7 @@
         "level": "4",
         "duration": "Instant",
         "verbal": "I've got it here somewhere!",
-        "description": "This skill allows the character to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the tier of the consumable. Character announces,\"I've got it here somewhere!\" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed."
+        "description": "This skill allows the character to produce and immediately expend or consume a standard consumable from the standard, non-Artificing production disciplines.  This ability costs an additional number of Agility Points equal to the tier of the item produced. Character announces,\"I've got it here somewhere!\" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The item may be given to another person, but it still must be expended immediately upon doing so."
     },
     {
         "name": "Parry",
