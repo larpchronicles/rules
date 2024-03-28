@@ -13,8 +13,7 @@
   },
   {
     "name": "Dexterity Armor",
-    "description": "This skill adds 5 points of armor to the character for each time that this skill is purchased. Dexterity armor does not need to be represented by a physical representation.  Dexterity armor does not stack with any other source of armor except the 5 points of Armor every character gets by default.  This skill is not blocked by resting.  Dexterity armor take 1 minute of stretching (Concentration) to refit in which the player must roleplay stretching, yoga, etc.  Dexterity armor cannot exceed the character's Armor Training Cap.",
-    "prereqs": ["Armor Training"],
+    "description": "This skill adds 5 points of Dexterity Armor to the character for each purchase of the skill. Dexterity armor does not require a physrep.  Dexterity armor does not stack with any other source of armor.  This armor exists independently of and does not interact with the character's Armor Cap, and does not require the Armor Training skill. Refitting Dexterity Armor requires 1 minute of concentration, during which player must roleplay stretching, yoga, shadowboxing, etc..",
     "spCosts": {
       "base": {
         "primary": "5"

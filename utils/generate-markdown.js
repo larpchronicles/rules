@@ -6,10 +6,24 @@
 
     let dir = "../data";
 
-    let glossary = [];
+    let glossary = {};
     let incants = [];
 
-    glossary.spells = [];
+    glossary.spells = {};
+    glossary.abilities = {};
+    glossary.markdown = [];
+    for (let i = 1; i < 11; i++) {
+        glossary.spells[i] = {
+            arcane: [],
+            nature: [],
+            spirit: [],
+            universal: []
+        };
+        glossary.abilities[i] = {
+            agility: [],
+            stamina: []
+        };
+    }
 
 
     fs.readdir(dir, function (err, files) {
@@ -25,35 +39,69 @@
 
             // Only match files that fit the format "00-something.md"
             if (filename.search(/\.json$/) > -1) {
-                /*let fileContents,
-                    headingText;
-
-                fileContents = fs.readFileSync(path.join(dir, filename), "utf-8");*/
+                let fileMd;
                 let skills;
-                //skills = require("../data/fighter-skills.json");
                 skills = require(path.join(dir, filename));
 
                 markdown.push("\n ------------------------------------------------ \n");
                 markdown.push(`# ${filename}\n`);
                 if (filename.search("skills") > -1) {
-                    markdown = markdown.concat(generateSkillFile(skills));
+                    fileMd = generateSkillFile(skills);
+                    fs.writeFileSync(`out/${filename}.md`, fileMd.join("\n"), "utf-8");
+                    markdown = markdown.concat(fileMd);
                 } else if (filename.search("abilities") > -1) {
-                    markdown = markdown.concat(generateAbilityFile(skills));
+                    fileMd = generateAbilityFile(skills);
+                    fs.writeFileSync(`out/${filename}.md`, fileMd.join("\n"), "utf-8");
+                    markdown = markdown.concat(fileMd);
                 } else if (filename.search("spells") > -1) {
-                    markdown = markdown.concat(generateSpellFile(skills));
+                    fileMd = generateSpellFile(skills);
+                    fs.writeFileSync(`out/${filename}.md`, fileMd.join("\n"), "utf-8");
+                    markdown = markdown.concat(fileMd);
                 }
             }
         }
 
+
+
+        let spellsTable = [];
+        spellsTable.push("| Level | Arcane | Nature | Spirit | Universal |");
+        spellsTable.push("|---|---|---|---|---|");
+        for (let i = 1; i < 11; i++) {
+            let line = `| ${i} |`;
+            line = line + glossary.spells[i].arcane.join("<br>") + "|";
+            line = line + glossary.spells[i].nature.join("<br>") + "|";
+            line = line + glossary.spells[i].spirit.join("<br>") + "|";
+            line = line + glossary.spells[i].universal.join("<br>") + "|";
+            spellsTable.push(line);
+        }
+        //console.log(spellsTable.join("\n"));
+        glossary.markdown.push("");
+        glossary.markdown = glossary.markdown.concat(spellsTable);
+
+        let abilitiesTable = [];
+        abilitiesTable.push("| Level | Agility | Stamina |");
+        abilitiesTable.push("|---|---|---|");
+        for (let i = 1; i < 11; i++) {
+            let line = `| ${i} |`;
+            line = line + glossary.abilities[i].agility.join("<br>") + "|";
+            line = line + glossary.abilities[i].stamina.join("<br>") + "|";
+            abilitiesTable.push(line);
+        }
+        //console.log(abilitiesTable.join("\n"));
+        glossary.markdown.push("");
+        glossary.markdown = glossary.markdown.concat(abilitiesTable)
+
+        fs.writeFileSync(`out/glossary.md`, glossary.markdown.join("\n"), "utf-8");
+
         console.log(markdown.join("\n"));
-        console.log(glossary.join("\n"));
+        console.log(glossary.markdown.join("\n"));
         console.log("\n## Incants");
         incants = incants.sort();
         console.log(incants.join("\n"));
 
     });
 
-    console.log(JSON.stringify(glossary.spells, null, 4));
+
 
     function titleCase(string){
         return string[0].toUpperCase() + string.slice(1).toLowerCase();
@@ -62,15 +110,17 @@
 
     let generateAbilityFile = function (skills) {
         let markdown = [];
-        markdown.push("| Level | Abilities |");
-        markdown.push("|---|---|");
+        markdown.push("| Level | Ability | Verbal |");
+        markdown.push("|---|---|---|");
         for (let i = 0; i < skills.length; i++) {
-            markdown.push(`| ${skills[i].level} | ${skills[i].name} |`);
+            markdown.push(`| ${skills[i].level} | ${skills[i].name} | _${skills[i].verbal.replace(/\</, "\\<")}_ |`);
+            // In the form of: glossary.spells[1]["arcane"].push("Mana Bolt")
+            glossary.abilities[skills[i].level][skills[i].pool.toLowerCase().trim()].push(skills[i].name);
         }
         markdown.push("");
 
-        glossary.push("");
-        glossary = glossary.concat(markdown);
+        glossary.markdown.push("");
+        glossary.markdown = glossary.markdown.concat(markdown);
 
         for (let i = 0; i < skills.length; i++) {
             markdown.push(`| | **${skills[i].name}** |`)
@@ -149,8 +199,8 @@
             }
         }
 
-        glossary.push("");
-        glossary = glossary.concat(markdown);
+        glossary.markdown.push("");
+        glossary.markdown = glossary.markdown.concat(markdown);
 
         for (let i = 0; i < skills.length; i++) {
             markdown.push("");
@@ -169,16 +219,15 @@
                 skills[i].incant = skills[i].incant.replace(/</, "\\<");
             }
             markdown.push(`| ${skills[i].level} | ${skills[i].name} | _${skills[i].incant}_ |`);
-            if (!Array.isArray(glossary.spells)) { glossary.spells = []; }
-            if (!Array.isArray(glossary.spells[skills[i].level])) {glossary.spells[skills[i].level] = []; }
-            glossary.spells[skills[i].level] = glossary.spells[skills[i].level] || [];
-            glossary.spells[skills[i].level].push({"name": skills[i].name, "school": skills[i].school, "incant": skills[i].incant});
-            //console.log(JSON.stringify(glossary.spells, null, 4));
+            // In the form of: glossary.spells[1]["arcane"].push("Mana Bolt")
+            glossary.spells[skills[i].level][skills[i].school.toLowerCase().trim()].push(skills[i].name);
+            
+
         }
         markdown.push("");
 
-        glossary.push("");
-        glossary = glossary.concat(markdown);
+        glossary.markdown.push("");
+        glossary.markdown = glossary.markdown.concat(markdown);
 
         for (let i = 0; i < skills.length; i++) {
             markdown.push(`| | **${skills[i].name}** |`)
