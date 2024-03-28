@@ -94,7 +94,7 @@
         "duration": "1 minute",
         "incant": "With arcane forces I enter stasis",
         "altincat": "I conjure an arcane stasis",
-        "description": "This spell pulls briefly pull the caster out of time. While the character is in stasis, they are immune to all game effects except Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The effect may be ended by the caster at any point. When this spell ends, the character must immediately announce, Stasis Down the caster may not cast this spell again for 5 seconds. This is a STASIS effect."
+        "description": "This spell creates a rigid, impenetrable barrier between the caster and the rest of the world. While the character is in stasis, they are immune to all game effects except Dispel Magic, Nullify Magic, and Suppress Magic, which will end the effect immediately. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The effect may be ended by the caster at any time. When this spell ends, regardless of its duration running out, being dispelled, or dropped by the caster, the character must immediately announce, \"Stasis Down\". The caster may not cast this spell again for 5 seconds. This is a STASIS effect."
     },
     {
         "name": "Destroy",
