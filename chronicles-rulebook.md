@@ -1,4 +1,4 @@
-**Rules Version: 4.0.3**  _Fri Mar 22 2024_
+**Rules Version: 4.0.4**  _Thu Mar 28 2024_
 
 
 # Chronicles Game Rules
@@ -1120,13 +1120,10 @@ Overall, other races regard the Brood as a terrifying race capable of great dest
 
 **Racial Abilities**:
 
-*Innate Claws*: Built for battle and a readiness to defend themselves, Brood have a set of limbs with large claws.  Possessing such natural weapons, they are unable to take up the physical weapons of other races.  Passively, all Brood have natural dual claws that deal a base of 1 Physical each. Brood cannot wield any weapons other than shields and ranged weapons.  To use a shield or ranged weapons, they must purchase the proper weapon skill.
-
-
 *Rip Free*: _Brood abhor the sensation of being trapped and when they find themselves in such a situation, they will do anything in their power to regain their freedom._ Once per rest, a Brood may have one free usage of Escape Artist.
 
 
-*Acidic Secretion*:  _Along with being capable of great destruction in general, Brood have acidic blood that is capable of destroying items._  Once per day, a Brood may spend 1 minute in concentration to destroy an item. This functions as per the Destroy spell.
+*Acidic Secretion*:  _Along with being capable of great destruction in general, Brood have acidic blood that is capable of destroying items._  Once per day, a Brood character may spend 1 minute in concentration to gain a single `Physical Rebound Physical Destroy` defense.  This acts as per Rebound, and requires an open defense slot.
 
 
 **Makeup Suggestions and Guidelines**:  All Brood player characters must use a different colored paint to add markings and may not only have brown or black paint.  The design and color of these markings is player choice.  Physical representations for the carapace should be present and may be colored brown or black and given an iridescent coating.
@@ -1829,29 +1826,8 @@ This skillset encompasses skills that have a general availability.  There are no
 |Stamina Points|5+3|5+5|20+10|
 |Toughness|3+3|3+4|3+5|
 
-
-## **Weapon Proficiencies**
-Proficiencies may use any melee proficiency for any melee weapon, for either hand.<br>
->Example: Atilla the Fighter spends 20 Stamina Points for two "One-handed Proficiencies". Atilla may use their +2 damage with any longsword, claw, two-handed sword, polearm, etc. (Everything but a bow or thrown.)
-
-Two-Handed Weapons receive 1.5x (rounded down) benefit from Proficiencies.
->Example:  Bran spends 20 Stamina Points for 2x Two-handed Weapon Proficiencies. He can now swing his Two-handed Sword for +3 damage.|
-
-|Two-handed Weapon Profs|Damage Increase|
-|---|---|
-|1|	+1 Damage|
-|2|	+3 Damage|
-|3|	+3 Damage|
-|4|	+6 Damage|
-|5|	+6 Damage|
-|6|	+9 Damage|
-|7|	+9 Damage|
-|8|	+12 Damage|
-|9|	+12 Damage|
-|10| +15 Damage|
-
 ## One-Handed Proficiency  
-This skill allows the character to wield a single one-handed weapon in their designated main hand in combat, and increases the amount of damage done with One-Handed Weapons in the main hand by 1 for each purchase.
+This skill allows the character to wield a single one-handed weapon in their designated main hand in combat, and increases the amount of damage done with One-Handed Weapons in the main hand by 1 for each purchase.  This applies to any one-handed weapon, including unarmed and claws.
 
 ## Off-Handed Proficiency  
 This skill allows the character to wield a second One-Handed Weapon, in their designated offhand, in combat, and increases the amount of damage done by One-Handed Weapons in the offhand by 1 for each purchase. At least one weapon must be of Short Length or lower. This skill does not apply other skills or abilities to both weapon hands. Requires an equal or greater number of purchases of One-Handed Weapon Skill.
@@ -1936,25 +1912,25 @@ This skill is purchased once. Trapping allows the character the chance to set a 
 ## Stamina Abilities
 
 ----
-| Level | Abilities |
-|---|---|
-| 1 | Critical Strike |
-| 2 | Critical Poison |
-| 2 | Stop Thrust |
-| 3 | Rapid Refit |
-| 3 | Shake It Off |
-| 4 | Encourage |
-| 4 | Parry |
-| 4 | Spell Parry |
-| 5 | Critical Vital |
-| 6 | Intercept |
-| 6 | Invigorate |
-| 7 | Critical Curse |
-| 7 | Destroy |
-| 8 | Endurance |
-| 9 | Regenerate |
-| 10 | Rally |
-| 10 | Slay |
+| Level | Ability | Verbal |
+|---|---|---|
+| 1 | Critical Strike | _I Invoke Critical Strike_ |
+| 2 | Critical Poison | _I hope this gets infected._ |
+| 2 | Stop Thrust | _Physical Stop Thrust_ |
+| 3 | Rapid Refit | _Refitting Armor 1...2...3...4...5_ |
+| 3 | Shake It Off | _I steel my mind against stuns.  1 I shake it off...2 I shake it off... 3 I shake it off_ |
+| 4 | Encourage | _Beginning Encouragement...Encouragement Complete.  Physical Bolster Health 10._ |
+| 4 | Parry | _I focus my defenses against weapons._ |
+| 4 | Spell Parry | _I focus my defenses against magic._ |
+| 5 | Critical Vital | _Your Defenses Shall Do You No Good...X \<Type> Vital_ |
+| 6 | Intercept | _Intercept_ |
+| 6 | Invigorate | _Physical Invigorate_ |
+| 7 | Critical Curse | _I Invoke Critical Curse against you_ |
+| 7 | Destroy | _Physical Destroy \<target item>_ |
+| 8 | Endurance | _Endurance_ |
+| 9 | Regenerate | _Begin Regenerate...Regenerate Complete_ |
+| 10 | Rally | _Beginning Encouragement...Encouragement Complete.  Physical Bolster Health 10, Physical Bolster Health 10, Physical Bolster Health 10._ |
+| 10 | Slay | _Prepare to Die...100 \<Type> Slay_ |
 
 | | **Critical Strike** |
 |:---|---|
@@ -1995,8 +1971,8 @@ This skill is purchased once. Trapping allows the character the chance to set a 
 |:---|---|
 | **Level** | 4 |
 | **Duration** | Rest |
-| **Verbal** | "Beginning Encouragement...Encouragement Complete.  Physical Bolster 10." |
-| **Description** | Character must spend 1 minute role-playing inspiring the target in some way, even if the target is the character.  This ability grants the target temporary body, which lasts until it is lost or the target completes a rest, whichever occurs first.  Temporary body is lost first and is not soaked by armor.  Does not stack. |
+| **Verbal** | "Beginning Encouragement...Encouragement Complete.  Physical Bolster Health 10." |
+| **Description** | Character must spend 1 minute role-playing inspiring the target in some way, even if the target is the character.  This ability grants the target temporary body, which lasts until it is lost or the target completes a rest, whichever occurs first.  Temporary Body is always lost the first Body Points to be lost whenever a character’s health pool would be reduced.  This ability oes not stack with any other ability that grants Temporary Body. |
 
 | | **Parry** |
 |:---|---|
@@ -2065,8 +2041,8 @@ This skill is purchased once. Trapping allows the character the chance to set a 
 |:---|---|
 | **Level** | 10 |
 | **Duration** | Instant |
-| **Verbal** | "Beginning Encouragement...Encouragement Complete.  Physical Bolster 10." |
-| **Description** | Character must spend 1 minute role-playing, concentrating, inspiring the group in some way.  While the call must be library-volume, the inspiring speech/chant/etc does not.  The character has 10 seconds to give out all charges.  May spend stamina in increments of 10 to affect as many targets as Stamina expended.  Targets receive 10 temporary body, which lasts until it is lost or the target completes a rest, whichever occurs first.  Temporary body is lost first and is not soaked by armor.  Does not stack. |
+| **Verbal** | "Beginning Encouragement...Encouragement Complete.  Physical Bolster Health 10, Physical Bolster Health 10, Physical Bolster Health 10." |
+| **Description** | Character must spend 1 minute role-playing, concentrating, inspiring the group in some way.  While the call must be library-volume, the inspiring speech/chant/etc does not.  The character has 10 seconds to give out all charges.  May spend stamina in increments of 10 to affect as many targets as Stamina expended.  Targets receive 10 temporary body, which lasts until it is lost or the target completes a rest, whichever occurs first.  Temporary Body is always lost the first Body Points to be lost whenever a character’s health pool would be reduced.  This ability oes not stack with any other ability that grants Temporary Body. |
 
 | | **Slay** |
 |:---|---|
@@ -2074,6 +2050,7 @@ This skill is purchased once. Trapping allows the character the chance to set a 
 | **Duration** | Instant |
 | **Verbal** | "Prepare to Die...100 \<Type> Slay" |
 | **Description** | The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as 100 type Slay. The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers. |
+
 # Agility Skills
 
 
@@ -2082,32 +2059,32 @@ This skill is purchased once. Trapping allows the character the chance to set a 
 ---
 The Agility Point cost of each ability is equal to its level.  Characters may "memorize" their Agility Abilities at Rest for a 10% bonus to their Agility Pool (same as spells, and stamina).
 
-| Level | Abilities |
-|---|---|
-| 1 | Critical Backstab |
-| 1 | Blinding Strike |
-| 1 | Slowing Strike |
-| 2 | Disarming Strike |
-| 2 | Entangling Strike |
-| 3 | Kneeling Strike |
-| 4 | Resourceful |
-| 4 | Parry |
-| 4 | Spell Parry |
-| 4 | Weakening Strike |
-| 5 | Breaching Strike |
-| 5 | Silencing Strike |
-| 6 | Fearful Strike |
-| 6 | Waylay |
-| 7 | Critical Empowerment |
-| 7 | Warbow Training |
-| 8 | Stunning Strike  |
-| 8 | Trickle Blade |
-| 8 | Surprising Proficiency |
-| 9 | Dodge |
-| 9 | Shadow Walk |
-| 10 | Murder |
-| 10 | Purge |
-| 10 | Tagalong |
+| Level | Ability | Verbal |
+|---|---|---|
+| 1 | Critical Backstab | _Surprise_ |
+| 1 | Blinding Strike | _Physical Blindness_ |
+| 1 | Slowing Strike | _Physical Slow_ |
+| 2 | Disarming Strike | _Physical Disarm \<Item>_ |
+| 2 | Entangling Strike | _Physical Entangle Foot_ |
+| 3 | Kneeling Strike | _Physical Kneel_ |
+| 4 | Resourceful | _I've got it here somewhere!_ |
+| 4 | Parry | _I focus my defenses against weapons._ |
+| 4 | Spell Parry | _I focus my defenses against magic._ |
+| 4 | Weakening Strike | _Physical Weakness_ |
+| 5 | Breaching Strike | _Toxin Breach Armor_ |
+| 5 | Silencing Strike | _Physical Silence_ |
+| 6 | Fearful Strike | _Physical Fear_ |
+| 6 | Waylay | _Physical Waylay_ |
+| 7 | Critical Empowerment | _I empower my \<effect> strike!_ |
+| 7 | Warbow Training | _My Bow is Ready_ |
+| 8 | Stunning Strike | _Physical Stun_ |
+| 8 | Pernicious Strike | _Toxin Strike \<effect>_ |
+| 8 | Surprising Proficiency | _I am not left-handed._ |
+| 9 | Dodge | _I'm untouchable! ... Dodge_ |
+| 9 | Shadow Walk | _Physical Shadow walk, 1 I rift out..._ |
+| 10 | Murder | _Physical Strike Doom 100_ |
+| 10 | Purge | _\<Type> Purge_ |
+| 10 | Tagalong | _I'm coming with you._ |
 
 | | **Critical Backstab** |
 |:---|---|
@@ -2156,7 +2133,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 4 |
 | **Duration** | Instant |
 | **Verbal** | "I've got it here somewhere!" |
-| **Description** | This skill allows the character to produce and immediately consume a standard consumable from Alchemy, Smithing, or Tinkering at the cost of 4 Agility Points + Agility Points equal to the tier of the consumable. Character announces,"I've got it here somewhere!" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The consumble may be given to another person, but still must be immediately consumed. |
+| **Description** | This skill allows the character to produce and immediately expend or consume a standard consumable from the standard, non-Artificing production disciplines.  This ability costs an additional number of Agility Points equal to the tier of the item produced. Character announces,"I've got it here somewhere!" and must spend 10 seconds roleplaying patting themselves down and searching their pockets. The item may be given to another person, but it still must be expended immediately upon doing so. |
 
 | | **Parry** |
 |:---|---|
@@ -2205,7 +2182,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 6 |
 | **Duration** | 20 Seconds |
 | **Verbal** | "Physical Waylay" |
-| **Description** | This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character's weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying, "Refresh Waylay". This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect. |
+| **Description** | Waylay is a strike renders the target unconscious and helpless for 20 seconds.  The character taps the target on the back (NOT the target's head, neck, or spine) with the striking surface of a melee weapon.  Waylay must be delivered from behind the target (able to see both of the target's shoulder blades).  Any character skilled in Waylay can refresh the effect of a Waylay without expending another use of the skill by announcing, "Refreshing Waylay", and gently performing the strike.  Suffering body damage will cause the target to awaken immediately.  This is a SLEEP effect. |
 
 | | **Critical Empowerment** |
 |:---|---|
@@ -2221,14 +2198,14 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Verbal** | "My Bow is Ready" |
 | **Description** | The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest. |
 
-| | **Stunning Strike ** |
+| | **Stunning Strike** |
 |:---|---|
 | **Level** | 8 |
 | **Duration** | 20 Seconds |
 | **Verbal** | "Physical Stun" |
-| **Description** | This skill is a strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This is a STUN effect. |
+| **Description** | This skill is a strike that renders the target stunned for 20 seconds.  The stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  The effect of this skill may not be stacked or extended. This is a STUN effect. |
 
-| | **Trickle Blade** |
+| | **Pernicious Strike** |
 |:---|---|
 | **Level** | 8 |
 | **Duration** | Instant |
@@ -2254,7 +2231,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 9 |
 | **Duration** | 1 Minute |
 | **Verbal** | "Physical Shadow walk, 1 I rift out..." |
-| **Description** | Shadow Walk allows a character to teleport up to 30 steps in any direction. The Shadow Walk may not be impeded by walls or other physical barriers. Once this ability is used, the caster will complete a five second count rifting out, move to a location with 30 steps, and then one count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The character must immediately move upon completion of the Rift Out five count. The caster must begin their Rift In count within one minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The character may not use this ability again within 5 seconds of its completion. |
+| **Description** | Shadow Walk allows a character to teleport up to 30 steps in any direction. The Shadow Walk may not be impeded by walls or other physical barriers. Once this ability is used, the caster will complete a five second count rifting out, move to a location with 30 steps, and then one count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The character must immediately move upon completion of the Rift Out five count. The caster must begin their Rift In count within 45 seconds of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The character may not use this ability again within 5 seconds of a previous use. |
 
 | | **Murder** |
 |:---|---|
@@ -2276,15 +2253,16 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Instant |
 | **Verbal** | "I'm coming with you." |
 | **Description** | Tagalong allows a character to force their way into an active Rift-type ability, even if that ability would not normally allow others to be brought along, such as Limited Teleport or Reposition. The character must declare the incant and make contact with the original Rift character and complete the count with the original caster, making at minimum a 3 count, for this ability to work. If either you or the original caster fail to complete the count, you do not rift. The tagalong character follows the original caster through the rift. The Rift character may still refuse the Tagalong, which they would accomplish by stating Refused. |
+
 # Universal Spells
 
 ---
 | Level | Spell | Incant |
 |---:|---|:---|
 | 1 | Glowing Light | _I conjure a glowing light._ |
-| 4 | Barrier | _I summon a force to barrier \<Delivery Type>_ |
-| 5 | Entrap Spirit | _I summon a force to entrap your spirit._ |
-| 9 | Dispel Magic | _I summon a force to dispel magic_ |
+| 4 | Barrier | _I call forth mystic force to barrier \<Delivery Type>_ |
+| 5 | Entrap Spirit | _I call forth mystic force to entrap your spirit._ |
+| 9 | Dispel Magic | _I call forth mystic force to to dispel magic_ |
 
 | | **Glowing Light** |
 |:---|---|
@@ -2297,22 +2275,23 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Level** | 4 |
 | **Duration** | Rest |
-| **Incant** | _I summon a force to barrier \<Delivery Type>_ |
+| **Incant** | _I call forth mystic force to barrier \<Delivery Type>_ |
 | **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Magic. This is an ACTIVE RESIST effect. |
 
 | | **Entrap Spirit** |
 |:---|---|
 | **Level** | 5 |
 | **Duration** | Rest |
-| **Incant** | _I summon a force to entrap your spirit._ |
+| **Incant** | _I call forth mystic force to entrap your spirit._ |
 | **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it. |
 
 | | **Dispel Magic** |
 |:---|---|
 | **Level** | 9 |
 | **Duration** | Instant |
-| **Incant** | _I summon a force to dispel magic_ |
+| **Incant** | _I call forth mystic force to to dispel magic_ |
 | **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. Dispel Magic does not effect Glyphs or similar items. |
+# Arcane Spells
 ---
 
 | Level | Spell | Incant |
@@ -2419,7 +2398,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 6 |
 | **Duration** | 1 minute |
 | **Incant** | _With arcane forces I enter stasis_ |
-| **Description** | This spell pulls briefly pull the caster out of time. While the character is in stasis, they are immune to all game effects except Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The effect may be ended by the caster at any point. When this spell ends, the character must immediately announce, Stasis Down the caster may not cast this spell again for 5 seconds. This is a STASIS effect. |
+| **Description** | This spell creates a rigid, impenetrable barrier between the caster and the rest of the world. While the character is in stasis, they are immune to all game effects except Dispel Magic, Nullify Magic, and Suppress Magic, which will end the effect immediately. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The effect may be ended by the caster at any time. When this spell ends, regardless of its duration running out, being dispelled, or dropped by the caster, the character must immediately announce, "Stasis Down". The caster may not cast this spell again for 5 seconds. This is a STASIS effect. |
 
 | | **Destroy** |
 |:---|---|
@@ -2469,6 +2448,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Instant |
 | **Incant** | _I set your doom upon you, 25_ |
 | **Description** | The caster hurls a bolt of Arcane energy at their target that deals 25 damage. This spell requires 2 defences in order to be negated.  |
+
 # Nature Magic
 
 ---
@@ -2667,30 +2647,29 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Concentration |
 | **Incant** | _I call upon Nature to set webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..._ |
 | **Description** | The caster plants their feet and is able to throw Physical Entangle Body until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
-# Spirit Magic
-
+# Spirit Spells
 
 ---
+
 | Level | Spell | Incant |
 |---:|---|:---|
 | 1 | Control: Minor Undead | _I curse you with mindless obedience._ |
 | 1 | Heal Wounds | _I call upon the spirits to heal wounds \<#>._ |
 | 1 | Transfer Malady | _I call upon the spirits to transfer this malady. &lt;effect name>_ |
 | 2 | Harm Undead | _I call upon the spirits to harm undead 20._ |
-| 2 | Healing Touch | _I grant you the power of a healing touch._ |
 | 2 | Preserve Corpse | _I call upon the spirits to preserve your corpse._ |
 | 3 | Weakness | _I curse you with weakness_ |
 | 4 | Disable Limb | _I curse you with a disabled \<limb>_ |
 | 5 | Cleanse | _I call upon the spirits to cleanse you._ |
 | 5 | Field Resurrection | _I call upon the spirits to resurrect you._ |
-| 5 | Revivify | _undefined_ |
+| 5 | Revivify | _I call upon the spirits to revivify you._ |
 | 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
 | 6 | Fear | _I curse you with fear._ |
 | 6 | Solidify | _I call upon the spirits to solidify your form._ |
 | 7 | Curse | _I curse you with vulnerability._ |
 | 7 | Vampiric Touch | _I curse you with a vampiric touch._ |
 | 8 | Destroy Undead | _I call upon the spirits to destroy undead 80._ |
-| undefined | Limited Phylactery† | _I call upon the spirits to create a phylactery._ |
+| 8 | Limited Phylactery† | _I call upon the spirits to create a phylactery._ |
 | 9 | Create Undead | _I curse you to rise as an undead._ |
 | 9 | Enervate | _I curse you with enervation_ |
 | 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
@@ -2723,13 +2702,6 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Instant |
 | **Incant** | _I call upon the spirits to harm undead 20._ |
 | **Description** | This spell will cause 20 points of body damage to an undead target.  |
-
-| | **Healing Touch** |
-|:---|---|
-| **Level** | 2 |
-| **Duration** | Concentration |
-| **Incant** | _I grant you the power of a healing touch._ |
-| **Description** | This spell will continuously heal the target for 1 body every 3 seconds as long as the caster is within arm's reach of the target and role-playing touching them, and the caster is able to maintain concentration. Every three seconds, the caster will repeat the phrase Healing 1 while in contact with the target in order to let the target know that they have received 1 point of healing.  |
 
 | | **Preserve Corpse** |
 |:---|---|
@@ -2770,8 +2742,8 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Level** | 5 |
 | **Duration** | Instant |
-| **Incant** | _undefined_ |
-| **Description** | This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect.  |
+| **Incant** | _I call upon the spirits to revivify you._ |
+| **Description** | This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect. |
 
 | | **Enhanced Focus** |
 |:---|---|
@@ -2792,7 +2764,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 6 |
 | **Duration** | Instant |
 | **Incant** | _I call upon the spirits to solidify your form._ |
-| **Description** | This spell will cause a gaseous, incorporeal, or phased-out target to reform physically on a 3-count, removing the gaseous or incorporeal effect.  This is a SOLIDIFY effect.  |
+| **Description** | This spell will cause a gaseous target to reform physically on a 3-count, removing the gaseous effect.  This is a SOLIDIFY effect.  |
 
 | | **Curse** |
 |:---|---|
@@ -2817,7 +2789,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 | | **Limited Phylactery†** |
 |:---|---|
-| **Level** | undefined |
+| **Level** | 8 |
 | **Duration** | Rest |
 | **Incant** | _I call upon the spirits to create a phylactery._ |
 | **Description** | This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body be reduced to 0, the caster immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body without incurring SP Debt. The phylactery is always destroyable. Should the phylactery be destroyed, the character dies and the spirit must seek resurrection normally, including incurring SP Debt.  This is a SPIRIT BOTTLE effect.  |
@@ -2849,6 +2821,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | 5 seconds |
 | **Incant** | _I grant you the gift of Life._ |
 | **Description** | This spell will restore a living or dead target to full maximum body, and remove all ongoing effects of the target's choice. This is a LIFE effect.  |
+
 # Ritual Magic
 
 
@@ -3057,7 +3030,7 @@ Some items have limited uses. This is represented by a durability rating. If you
 This skill grants an additional Defense Slot which may be used to activate additional defenses.  A character may only have as many Active Defenses as they have Defensive Slots.  Any skill, ability, or effect that grants a Resist or Dodge requires a Defensive Slot to be prepared.  This includes Transforms.  All characters automatically have 1 Defense Slot for free and additional slots may be purchased with Skill Points.
 
 ## Dexterity Armor  
-This skill adds 5 points of armor to the character for each time that this skill is purchased. Dexterity armor does not need to be represented by a physical representation.  Dexterity armor does not stack with any other source of armor except the 5 points of Armor every character gets by default.  This skill is not blocked by resting.  Dexterity armor take 1 minute of stretching (Concentration) to refit in which the player must roleplay stretching, yoga, etc.  Dexterity armor cannot exceed the character's Armor Training Cap.
+This skill adds 5 points of Dexterity Armor to the character for each purchase of the skill. Dexterity armor does not require a physrep.  Dexterity armor does not stack with any other source of armor.  This armor exists independently of and does not interact with the character's Armor Cap, and does not require the Armor Training skill. Refitting Dexterity Armor requires 1 minute of concentration, during which player must roleplay stretching, yoga, shadowboxing, etc..
 
 ## First Aid  
 First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say "Performing First Aid". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.
@@ -3321,7 +3294,7 @@ The Recycling skill allows the character to reclaim some of the raw materials us
 > A marvel of intricate crafting, this weapon modification is designed to allow the wielder the ultimate flexibility in controlling their reach. With 1 minute of roleplay, the wielder may change the length of this weapon, from up to a Two-Handed weapon down to a Short length one-handed weapon. This allows the wielder to use this item with a Short, Long, or Two-Handed weapon rep interchangably. This cannot be applied to Unarmed or Claws.
 #### Recycling Kit
 > This kit is designed to assist in helping a Recycler be more efficient with their reclamation of materials. When a kit is made, a single Crafting Type is chosen from Alchemy, Smithing or Rune Carving. When the character recycles an item from that type, they may expend a charge from this kit to recover 1/2 of the ranks in materials used to construct it, rounded down to a minimum of one, instead of the usual 1/3. In the case of Recycling an Artificing item, the character only benefits from this increase for the materials of the chosen type, though multiple kits may be used in tandem. Ex: If an item required all three material types, and you use an Alchemy Recycling Kit and a Smithing Recycling Kit, you'd get 1/2 of those materials, but only 1/3 of the Rune Carving materials. This item has 3 charges.
-#### Trickleblade Modification
+#### Trickle Blade Modification
 > This modification can be applied to any weapon, adding a resevoir and specially treated channels to the weapon that allow Toxins to flow along the edge of the blade. The wielder of this blade may apply Ingestible Toxins to this as if they were Weapon Coatings.
 
 
@@ -4334,36 +4307,23 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 # Glossary
  ## Reference Charts
- 
 
-| Level | Abilities |
-|---|---|
-| 1 | Critical Backstab |
-| 1 | Blinding Strike |
-| 1 | Slowing Strike |
-| 2 | Disarming Strike |
-| 2 | Entangling Strike |
-| 3 | Kneeling Strike |
-| 3 | Resourceful |
-| 4 | Parry |
-| 4 | Spell Parry |
-| 4 | Weakening Strike |
-| 5 | Breaching Strike |
-| 5 | Silencing Strike |
-| 6 | Fearful Strike |
-| 6 | Waylay |
-| 7 | Critical Empowerment |
-| 7 | Warbow Training |
-| 8 | Stunning Strike  |
-| 8 | Trickle Blade |
-| 8 | Surprising Proficiency |
-| 9 | Dodge |
-| 9 | Shadow Walk |
-| 10 | Murder |
-| 10 | Purge |
-| 10 | Tagalong |
+### Spells
+| Level | Arcane | Nature | Spirit | Universal |
+|---|---|---|---|---|
+| 1 |Blinding Light<br>Mana Bolt|Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink|Control: Minor Undead<br>Heal Wounds<br>Transfer Malady|Glowing Light|
+| 2 |Disrupt Aether<br>Stop|Boon of Nature<br>Entangle Foot<br>Plant Spike|Harm Undead<br>Preserve Corpse||
+| 3 |Limited Time Stop|Boon of the Armadillo<br>Boon of the Tiger<br>Freedom|Weakness||
+| 4 |Conjure Weapon<br>Temporal Shift†|Command: Kneel<br>Entangle Arms|Disable Limb|Barrier|
+| 5 |Enchanted Blade<br>Conjure Shield<br>Limited Teleport†|Command: Silence<br>Treehome†|Cleanse<br>Field Resurrection<br>Revivify|Entrap Spirit|
+| 6 |Nullify<br>Stasis†|Command: Sleep<br>Entangle Body|Enhanced Focus<br>Fear<br>Solidify||
+| 7 |Destroy<br>Haste<br>Rift Lock|Command: Confuse<br>Confine|Curse<br>Vampiric Touch||
+| 8 |Bag of Holding|Boon of the Cat<br>Command: Stun|Destroy Undead<br>Limited Phylactery†||
+| 9 |Circle of Power|Treewalk†<br>Regenerate<br>Wrath of Nature, Other|Create Undead<br>Enervate|Dispel Magic|
+| 10 |Arcane Torrent<br>Doom|Sanctuary<br>Spider Web|Storm of Curses<br>Life||
 
 
+#### Arcane Spells
 | Level | Spell | Incant |
 |---:|---|:---|
 | 1 | Blinding Light | _With arcane forces I blind you._ |
@@ -4387,47 +4347,8 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 10 | Doom | _I set your doom upon you, 25_ |
 
 
-| Skill | Primary | Secondary | Tertiary |
-|---|---|---|---|
-|One-Handed Proficiency|10+2|10+5|10+10|
-|Off-Handed Proficiency|10+2|10+5|10+10|
-|Ranged Proficiency|10+2|10+5|10+10|
-|Two-Handed Proficiency|10+2|10+5|10+10|
-|Armor Training|3+1|3+2|3+3|
-|Shield|3|5|8|
-|Stamina Points|5+3|5+5|20+10|
-|Toughness|3+3|3+4|3+5|
 
-| Skill | Primary | Secondary | Tertiary |
-|---|---|---|---|
-|Additional Defense Slot|10+30|||
-|Dexterity Armor|5+5|||
-|First Aid|4|||
-|Identify|0|||
-|Parrying Dagger|2|||
-|Ritual Magic|20|||
-|Specialization|10|||
-|Spell Strike|0|||
-|Tracking|20|||
-|Foraging|1+1|2+1|3+1|
-|Logging|1+1|2+1|3+1|
-|Mining|1+1|2+1|3+1|
-|Alchemy|1+1|2+1|3+1|
-|Rune Carving|1+1|2+1|3+1|
-|Smithing|1+1|2+1|3+1|
-|Artificing|20|||
-|Recycling|8|||
-
-| Skill | Primary | Secondary | Tertiary |
-|---|---|---|---|
-
-| Skill | Primary | Secondary | Tertiary |
-|---|---|---|---|
-|Primary Initiation|3|4|5|
-|Secondary Initiation|4|10|10|
-|Tertiary Initiation|5|15|30|
-|Attunement|3+1|5+5|10+10|
-
+#### Nature Spells
 | Level | Spell | Incant |
 |---:|---|:---|
 | 1 | Command: Disarm | _I command you to disarm \<item>._ |
@@ -4455,7 +4376,147 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 10 | Sanctuary | _I call upon Nature to grant you Sanctuary_ |
 | 10 | Spider Web | _I call upon Nature to set webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..._ |
 
+#### Spirit Spells
+| Level | Spell | Incant |
+|---:|---|:---|
+| 1 | Control: Minor Undead | _I curse you with mindless obedience._ |
+| 1 | Heal Wounds | _I call upon the spirits to heal wounds \<#>._ |
+| 1 | Transfer Malady | _I call upon the spirits to transfer this malady. &lt;effect name>_ |
+| 2 | Harm Undead | _I call upon the spirits to harm undead 20._ |
+| 2 | Preserve Corpse | _I call upon the spirits to preserve your corpse._ |
+| 3 | Weakness | _I curse you with weakness_ |
+| 4 | Disable Limb | _I curse you with a disabled \<limb>_ |
+| 5 | Cleanse | _I call upon the spirits to cleanse you._ |
+| 5 | Field Resurrection | _I call upon the spirits to resurrect you._ |
+| 5 | Revivify | _I call upon the spirits to revivify you._ |
+| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
+| 6 | Fear | _I curse you with fear._ |
+| 6 | Solidify | _I call upon the spirits to solidify your form._ |
+| 7 | Curse | _I curse you with vulnerability._ |
+| 7 | Vampiric Touch | _I curse you with a vampiric touch._ |
+| 8 | Destroy Undead | _I call upon the spirits to destroy undead 80._ |
+| 8 | Limited Phylactery† | _I call upon the spirits to create a phylactery._ |
+| 9 | Create Undead | _I curse you to rise as an undead._ |
+| 9 | Enervate | _I curse you with enervation_ |
+| 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
+| 10 | Life | _I grant you the gift of Life._ |
 
+#### Universal Spells
+| Level | Spell | Incant |
+|---:|---|:---|
+| 1 | Glowing Light | _I conjure a glowing light._ |
+| 4 | Barrier | _I call forth mystic force to barrier \<Delivery Type>_ |
+| 5 | Entrap Spirit | _I call forth mystic force to entrap your spirit._ |
+| 9 | Dispel Magic | _I call forth mystic force to to dispel magic_ |
+
+### Abilities
+| Level | Agility | Stamina |
+|---|---|---|
+| 1 |Critical Backstab<br>Blinding Strike<br>Slowing Strike|Critical Strike|
+| 2 |Disarming Strike<br>Entangling Strike|Critical Poison<br>Stop Thrust|
+| 3 |Kneeling Strike|Rapid Refit<br>Shake It Off|
+| 4 |Resourceful<br>Parry<br>Spell Parry<br>Weakening Strike|Encourage<br>Parry<br>Spell Parry|
+| 5 |Breaching Strike<br>Silencing Strike|Critical Vital|
+| 6 |Fearful Strike<br>Waylay|Intercept<br>Invigorate|
+| 7 |Critical Empowerment<br>Warbow Training|Critical Curse<br>Destroy|
+| 8 |Stunning Strike<br>Pernicious Strike<br>Surprising Proficiency|Endurance|
+| 9 |Dodge<br>Shadow Walk|Regenerate|
+| 10 |Murder<br>Purge<br>Tagalong|Rally<br>Slay| 
+
+#### Agility Abilities
+| Level | Ability | Verbal |
+|---|---|---|
+| 1 | Critical Backstab | _Surprise_ |
+| 1 | Blinding Strike | _Physical Blindness_ |
+| 1 | Slowing Strike | _Physical Slow_ |
+| 2 | Disarming Strike | _Physical Disarm \<Item>_ |
+| 2 | Entangling Strike | _Physical Entangle Foot_ |
+| 3 | Kneeling Strike | _Physical Kneel_ |
+| 4 | Resourceful | _I've got it here somewhere!_ |
+| 4 | Parry | _I focus my defenses against weapons._ |
+| 4 | Spell Parry | _I focus my defenses against magic._ |
+| 4 | Weakening Strike | _Physical Weakness_ |
+| 5 | Breaching Strike | _Toxin Breach Armor_ |
+| 5 | Silencing Strike | _Physical Silence_ |
+| 6 | Fearful Strike | _Physical Fear_ |
+| 6 | Waylay | _Physical Waylay_ |
+| 7 | Critical Empowerment | _I empower my \<effect> strike!_ |
+| 7 | Warbow Training | _My Bow is Ready_ |
+| 8 | Stunning Strike | _Physical Stun_ |
+| 8 | Pernicious Strike | _Toxin Strike \<effect>_ |
+| 8 | Surprising Proficiency | _I am not left-handed._ |
+| 9 | Dodge | _I'm untouchable! ... Dodge_ |
+| 9 | Shadow Walk | _Physical Shadow walk, 1 I rift out..._ |
+| 10 | Murder | _Physical Strike Doom 100_ |
+| 10 | Purge | _\<Type> Purge_ |
+| 10 | Tagalong | _I'm coming with you._ |
+
+#### Stamina Abilities
+| Level | Ability | Verbal |
+|---|---|---|
+| 1 | Critical Strike | _I Invoke Critical Strike_ |
+| 2 | Critical Poison | _I hope this gets infected._ |
+| 2 | Stop Thrust | _Physical Stop Thrust_ |
+| 3 | Rapid Refit | _Refitting Armor 1...2...3...4...5_ |
+| 3 | Shake It Off | _I steel my mind against stuns.  1 I shake it off...2 I shake it off... 3 I shake it off_ |
+| 4 | Encourage | _Beginning Encouragement...Encouragement Complete.  Physical Bolster Health 10._ |
+| 4 | Parry | _I focus my defenses against weapons._ |
+| 4 | Spell Parry | _I focus my defenses against magic._ |
+| 5 | Critical Vital | _Your Defenses Shall Do You No Good...X \<Type> Vital_ |
+| 6 | Intercept | _Intercept_ |
+| 6 | Invigorate | _Physical Invigorate_ |
+| 7 | Critical Curse | _I Invoke Critical Curse against you_ |
+| 7 | Destroy | _Physical Destroy \<target item>_ |
+| 8 | Endurance | _Endurance_ |
+| 9 | Regenerate | _Begin Regenerate...Regenerate Complete_ |
+| 10 | Rally | _Beginning Encouragement...Encouragement Complete.  Physical Bolster Health 10..._ |
+| 10 | Slay | _Prepare to Die...100 \<Type> Slay_ |
+
+### Fighter Skills
+| Skill | Primary | Secondary | Tertiary |
+|---|---|---|---|
+|One-Handed Proficiency|10+2|10+5|10+10|
+|Off-Handed Proficiency|10+2|10+5|10+10|
+|Ranged Proficiency|10+2|10+5|10+10|
+|Two-Handed Proficiency|10+2|10+5|10+10|
+|Armor Training|3+1|3+2|3+3|
+|Shield|3|5|8|
+|Stamina Points|5+3|5+5|20+10|
+|Toughness|3+3|3+4|3+5|
+
+### General Skills
+| Skill | Primary | Secondary | Tertiary |
+|---|---|---|---|
+|Additional Defense Slot|10+30|||
+|Dexterity Armor|5+5|||
+|First Aid|4|||
+|Identify|0|||
+|Parrying Dagger|2|||
+|Ritual Magic|20|||
+|Specialization|10|||
+|Spell Strike|0|||
+|Tap Reserves|0|||
+|Tracking|20|||
+|Foraging|1+1|2+1|3+1|
+|Logging|1+1|2+1|3+1|
+|Mining|1+1|2+1|3+1|
+|Alchemy|1+1|2+1|3+1|
+|Rune Carving|1+1|2+1|3+1|
+|Smithing|1+1|2+1|3+1|
+|Artificing|20|||
+|Recycling|8|||
+
+### Mage Skills
+| Skill | Primary | Secondary | Tertiary |
+|---|---|---|---|
+|Primary Initiation|3|4|5|
+|Secondary Initiation|4|10|10|
+|Tertiary Initiation|5|15|30|
+|Attunement|3+1|5+5|10+10|
+|Blood Magic|5|10|15|
+|Exsanguinate|0|||
+
+### Rogue Skills
 | Skill | Primary | Secondary | Tertiary |
 |---|---|---|---|
 |Agility Points|5+3|5+5|10+10|
@@ -4465,61 +4526,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 |Mimicry|3+5|5+10|20+10|
 |Trapping|3|6|10|
 
-| Level | Spell | Incant |
-|---:|---|:---|
-| 1 | Control: Minor Undead | _I curse you with mindless obedience._ |
-| 1 | Heal Wounds | _I call upon the spirits to heal wounds \<#>._ |
-| 1 | Transfer Malady | _I call upon the spirits to transfer this malady. &lt;effect name>_ |
-| 2 | Harm Undead | _I call upon the spirits to harm undead 20._ |
-| 2 | Healing Touch | _I grant you the power of a healing touch._ |
-| 2 | Preserve Corpse | _I call upon the spirits to preserve your corpse._ |
-| 3 | Weakness | _I curse you with weakness_ |
-| 4 | Disable Limb | _I curse you with a disabled \<limb>_ |
-| 5 | Cleanse | _I call upon the spirits to cleanse you._ |
-| 5 | Field Resurrection | _I call upon the spirits to resurrect you._ |
-| 5 | Revivify | _undefined_ |
-| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
-| 6 | Fear | _I curse you with fear._ |
-| 6 | Solidify | _I call upon the spirits to solidify your form._ |
-| 7 | Curse | _I curse you with vulnerability._ |
-| 7 | Vampiric Touch | _I curse you with a vampiric touch._ |
-| 8 | Destroy Undead | _I call upon the spirits to destroy undead 80._ |
-| undefined | Limited Phylactery† | _I call upon the spirits to create a phylactery._ |
-| 9 | Create Undead | _I curse you to rise as an undead._ |
-| 9 | Enervate | _I curse you with enervation_ |
-| 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
-| 10 | Life | _I grant you the gift of Life._ |
-
-
-| Level | Abilities |
-|---|---|
-| 1 | Critical Strike |
-| 2 | Critical Poison |
-| 2 | Stop Thrust |
-| 3 | Rapid Refit |
-| 3 | Shake It Off |
-| 4 | Encourage |
-| 4 | Parry |
-| 4 | Spell Parry |
-| 5 | Critical Vital |
-| 6 | Intercept |
-| 6 | Invigorate |
-| 7 | Critical Curse |
-| 7 | Destroy |
-| 8 | Endurance |
-| 9 | Regenerate |
-| 10 | Rally |
-| 10 | Slay |
-
-
-| Level | Spell | Incant |
-|---:|---|:---|
-| 1 | Glowing Light | _I conjure a glowing light._ |
-| 4 | Barrier | _I summon a force to barrier \<Delivery Type>_ |
-| 5 | Entrap Spirit | _I summon a force to entrap your spirit._ |
-| 9 | Dispel Magic | _I summon a force to dispel magic_ |
-
-
+### Spell Incants
 | Incants |
 |---|
 | _I call upon Nature to..._ |
@@ -4531,7 +4538,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | _I grant you the power of..._ |
 | _I rain destruction about you all!_ |
 | _I set your doom upon you_ |
-| _I summon a force to..._ |
+| _I call forth mystic force to..._ |
 | _With arcane forces I..._ |
 
 ### Production Item Reference Table
@@ -4632,6 +4639,19 @@ In cases of extreme weather, staff may declare special exceptions for armor and 
 For armor, this would allow players to have their full armor points based on the assessment of their armor reps during check in, but would not require them to wear all armor pieces.
 
 For make up, this would lift the requirement of full face make up, so long as the character's race is still clearly represented.
+| Level | Stamina Abilities | Agility Abilities |
+|---|---|
+| 1 | Blind<br>Critical Strike<br>Disarm<br>Slow | Backstab |
+| 2 | Stop Thrust | Entangling Shot<br>Poison Shot |
+| 3 | Rapid Refit | Shake It Off |
+| 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry<br>Stun | Kneeling Shot<br>Resourceful |
+| 5 | Silence<br>Vital Blow | Breaching Shot<br>Warbow Training |
+| 6 | Fear<br>Intercept | Waylay | 
+| 7 | Curse<br>Destroy | Ballista<br>Cursing Shot |
+| 8 | Endurance | Surprising Proficiency |
+| 9 | Regenerate | Dodge |
+| 10 | Slay<br>Weapon Proficiency | Murder |
+
 # Changelog
 ## 3.1.4 [2023-09-27]
 * Introduction: Added registration link for Camp Eastman and clarified link for Camp Illinek.
