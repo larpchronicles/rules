@@ -136,7 +136,7 @@
         "description": "This skill is a strike that renders the target stunned for 20 seconds.  The stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  The effect of this skill may not be stacked or extended. This is a STUN effect."
     },
     {
-        "name": "Trickle Blade",
+        "name": "Pernicious Strike",
         "pool": "Agility",
         "level": "8",
         "duration": "Instant",
