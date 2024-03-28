@@ -25,25 +25,29 @@
 
             // Only match files that fit the format "00-something.md"
             if (filename.search(/\.json$/) > -1) {
-                /*let fileContents,
-                    headingText;
-
-                fileContents = fs.readFileSync(path.join(dir, filename), "utf-8");*/
+                let fileMd;
                 let skills;
-                //skills = require("../data/fighter-skills.json");
                 skills = require(path.join(dir, filename));
 
                 markdown.push("\n ------------------------------------------------ \n");
                 markdown.push(`# ${filename}\n`);
                 if (filename.search("skills") > -1) {
-                    markdown = markdown.concat(generateSkillFile(skills));
+                    fileMd = generateSkillFile(skills);
+                    fs.writeFileSync(`out/${filename}.md`, fileMd.join("\n"), "utf-8");
+                    markdown = markdown.concat(fileMd);
                 } else if (filename.search("abilities") > -1) {
-                    markdown = markdown.concat(generateAbilityFile(skills));
+                    fileMd = generateAbilityFile(skills);
+                    fs.writeFileSync(`out/${filename}.md`, fileMd.join("\n"), "utf-8");
+                    markdown = markdown.concat(fileMd);
                 } else if (filename.search("spells") > -1) {
-                    markdown = markdown.concat(generateSpellFile(skills));
+                    fileMd = generateSpellFile(skills);
+                    fs.writeFileSync(`out/${filename}.md`, fileMd.join("\n"), "utf-8");
+                    markdown = markdown.concat(fileMd);
                 }
             }
         }
+
+        fs.writeFileSync(`out/glossary.md`, glossary.join("\n"), "utf-8");
 
         console.log(markdown.join("\n"));
         console.log(glossary.join("\n"));
