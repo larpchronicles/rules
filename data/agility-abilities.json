@@ -128,12 +128,12 @@
         "description": "The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest."
     },
     {
-        "name": "Stunning Strike ",
+        "name": "Stunning Strike",
         "pool": "Agility",
         "level": "8",
         "duration": "20 Seconds",
         "verbal": "Physical Stun",
-        "description": "This skill is a strike that renders the target stunned for 20 seconds.  Stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  This effect may be affected by the Transfer Malady or Cure Body. The effect of this skill may not be stacked or extended. This is a STUN effect."
+        "description": "This skill is a strike that renders the target stunned for 20 seconds.  The stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  The effect of this skill may not be stacked or extended. This is a STUN effect."
     },
     {
         "name": "Trickle Blade",
