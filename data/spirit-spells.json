@@ -101,7 +101,7 @@
         "level": "6",
         "duration": "Instant",
         "incant": "I call upon the spirits to solidify your form.",
-        "description": "This spell will cause a gaseous, incorporeal, or phased-out target to reform physically on a 3-count, removing the gaseous or incorporeal effect.  This is a SOLIDIFY effect. "
+        "description": "This spell will cause a gaseous target to reform physically on a 3-count, removing the gaseous effect.  This is a SOLIDIFY effect. "
     },
     {
         "name": "Curse",
