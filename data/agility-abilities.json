@@ -109,7 +109,7 @@
         "level": "6",
         "duration": "20 Seconds",
         "verbal": "Physical Waylay",
-        "description": "This skill is a strike from behind that renders the target unconscious and helpless for 20 seconds. A Waylay strike is dealt to the back of the target, not to the head, with the striking surface of the character's weapon. A character skilled in Waylay can refresh the effect of a waylay without expending a use of the skill by tapping the target on the back and saying, \"Refresh Waylay\". This effect may be affected by the Transfer Malady or Cure Body spells. A waylaid target will awaken instantly if damaged or healed.  This is a SLEEP effect."
+        "description": "Waylay is a strike renders the target unconscious and helpless for 20 seconds.  The character taps the target on the back (NOT the target's head, neck, or spine) with the striking surface of a melee weapon.  Waylay must be delivered from behind the target (able to see both of the target's shoulder blades).  Any character skilled in Waylay can refresh the effect of a Waylay without expending another use of the skill by announcing, \"Refreshing Waylay\", and gently performing the strike.  Suffering body damage will cause the target to awaken immediately.  This is a SLEEP effect."
     },
     {
         "name": "Critical Empowerment",
