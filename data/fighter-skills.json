@@ -1,7 +1,7 @@
 [
     {
         "name": "One-Handed Proficiency",
-        "description":  "This skill allows the character to wield a single one-handed weapon in their designated main hand in combat, and increases the amount of damage done with One-Handed Weapons in the main hand by 1 for each purchase.",
+        "description":  "This skill allows the character to wield a single one-handed weapon in their designated main hand in combat, and increases the amount of damage done with One-Handed Weapons in the main hand by 1 for each purchase.  This applies to any one-handed weapon, including unarmed and claws.",
         "spCosts": {
             "base": {
                 "primary": "10",
