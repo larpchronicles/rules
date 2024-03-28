@@ -165,7 +165,7 @@
         "level": "9",
         "duration": "1 Minute",
         "verbal": "Physical Shadow walk, 1 I rift out...",
-        "description": "Shadow Walk allows a character to teleport up to 30 steps in any direction. The Shadow Walk may not be impeded by walls or other physical barriers. Once this ability is used, the caster will complete a five second count rifting out, move to a location with 30 steps, and then one count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The character must immediately move upon completion of the Rift Out five count. The caster must begin their Rift In count within one minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The character may not use this ability again within 5 seconds of its completion."
+        "description": "Shadow Walk allows a character to teleport up to 30 steps in any direction. The Shadow Walk may not be impeded by walls or other physical barriers. Once this ability is used, the caster will complete a five second count rifting out, move to a location with 30 steps, and then one count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The character must immediately move upon completion of the Rift Out five count. The caster must begin their Rift In count within 45 seconds of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The character may not use this ability again within 5 seconds of a previous use."
     },
     {
         "name": "Murder",
