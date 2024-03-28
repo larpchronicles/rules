@@ -110,10 +110,10 @@
 
     let generateAbilityFile = function (skills) {
         let markdown = [];
-        markdown.push("| Level | Abilities |");
-        markdown.push("|---|---|");
+        markdown.push("| Level | Ability | Verbal |");
+        markdown.push("|---|---|---|");
         for (let i = 0; i < skills.length; i++) {
-            markdown.push(`| ${skills[i].level} | ${skills[i].name} |`);
+            markdown.push(`| ${skills[i].level} | ${skills[i].name} | _${skills[i].verbal.replace(/\</, "\\<")}_ |`);
             // In the form of: glossary.spells[1]["arcane"].push("Mana Bolt")
             glossary.abilities[skills[i].level][skills[i].pool.toLowerCase().trim()].push(skills[i].name);
         }
