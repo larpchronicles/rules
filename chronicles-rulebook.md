@@ -3,7 +3,7 @@
 
 # Chronicles Game Rules
 
-- [Chronicles Game Rules][chronicles-game-rules]
+- [chronicles-game-rules][Chronicles Game Rules]
     - [Introduction][introduction]
     - [Common Forms][common-forms]
 - [New Player Guide][new-player-guide]
