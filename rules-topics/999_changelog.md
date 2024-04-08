@@ -23,10 +23,6 @@
 * Updated wording for Slay as minimum 10 Stamina Points.
 * Updated Stamina-abilities json for Rapid Refit and Slay.
 
-### Agility Abilities
-* Updated Warbow to remove restringing penalty.
-* Updated agility-abilities json
-
 ### Inventory
 * Added Loot Split section.
 

@@ -125,7 +125,7 @@
         "level": "7",
         "duration": "Rest",
         "verbal": "My Bow is Ready",
-        "description": "The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical."
+        "description": "The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest."
     },
     {
         "name": "Stunning Strike",
