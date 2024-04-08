@@ -1,4 +1,52 @@
 # Changelog
+
+## 4.0.5 [2024-04-07]
+### Armor
+* Updated description for standard armor refitting to clarify character may not walk.
+* Updated section name from Armor and Combat to Armor Repair / Refit Armor
+
+### Combat
+* Updated verbiage for Magic Deliverance to clarify requirements and that it does not grant immunity to silence effects.
+
+### Effects
+* Added Count section to Effects and clarified that characters may not walk during n-counts that are not Concentration abilities or skills.
+* Updated SLEEP effect to clarify that the effect ends when the target's Body is reduced.
+* Updated SLEEP effect to clarify that the target may not be shaken awake.
+* Updated MAGIC DELIVERANCE to clarify it is still subject to normal casting requirements and does not grant immunity to SILENCE.
+
+### Mage Skillset
+* Fixed typos for Blood Magic.
+* Updated mage-skillset json for Blood Magic.
+
+### Stamina Abilities
+* Updated Rapid Refit to clarify that a character may not walk during the 5 second count.
+* Updated wording for Slay as minimum 10 Stamina Points.
+* Updated Stamina-abilities json for Rapid Refit and Slay.
+
+### Agility Abilities
+* Updated Warbow to remove restringing penalty.
+* Updated agility-abilities json
+
+### Inventory
+* Added Loot Split section.
+
+### Smithing
+* Added Parrying Dagger recipe.
+
+### Knowledge Skills
+* Added Engineering as a knowledge skill.
+* Added Engineering to knowledge-skills json.
+
+### Character Creation
+* Added note for section being under construction.
+
+### Goblin Points
+* Removed mentions of Scrap Parts
+* Updated some clarifications for claiming gold.
+
+### Glossary
+* Added Parrying Dagger
+
 ## 3.1.4 [2023-09-27]
 * Introduction: Added registration link for Camp Eastman and clarified link for Camp Illinek.
 
