@@ -37,13 +37,13 @@
         "description": "Increases the characters Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
         "spCosts": {
             "base": {
-                "primary": "3",
-                "secondary": "5",
+                "primary": "4",
+                "secondary": "4",
                 "tertiary": "10"
             },
             "increment": {
-                "primary": "1",
-                "secondary": "5",
+                "primary": "2",
+                "secondary": "4",
                 "tertiary": "10"
             }
         }

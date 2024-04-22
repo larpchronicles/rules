@@ -1,4 +1,14 @@
 # Changelog
+
+## 4.0.5 [2024-04-22]
+
+### Introduction
+* Updated link for calculators.
+
+### Mage Skillset
+* Updated costs for Attunement.
+* Updated costs for Attunement in mage-skillset json.
+
 ## 3.1.4 [2023-09-27]
 * Introduction: Added registration link for Camp Eastman and clarified link for Camp Illinek.
 
