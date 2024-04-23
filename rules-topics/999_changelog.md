@@ -9,6 +9,10 @@
 * Updated costs for Attunement.
 * Updated costs for Attunement in mage-skillset json.
 
+### Transform Rituals
+* Replaced Claws with Innate Armaments
+* Updated Body to Toughness Expert
+
 ## 3.1.4 [2023-09-27]
 * Introduction: Added registration link for Camp Eastman and clarified link for Camp Illinek.
 
