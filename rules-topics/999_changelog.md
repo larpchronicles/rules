@@ -1,6 +1,10 @@
 # Changelog
 
-## 4.0.5 [2024-04-07]
+## 4.0.5 [2024-04-22]
+
+### Introduction
+* Updated link for calculators.
+
 ### Armor
 * Updated description for standard armor refitting to clarify character may not walk.
 * Updated section name from Armor and Combat to Armor Repair / Refit Armor
@@ -17,11 +21,17 @@
 ### Mage Skillset
 * Fixed typos for Blood Magic.
 * Updated mage-skillset json for Blood Magic.
+* Updated costs for Attunement.
+* Updated costs for Attunement in mage-skillset json.
 
 ### Stamina Abilities
 * Updated Rapid Refit to clarify that a character may not walk during the 5 second count.
 * Updated wording for Slay as minimum 10 Stamina Points.
 * Updated Stamina-abilities json for Rapid Refit and Slay.
+
+### Transform Rituals
+* Replaced Claws with Innate Armaments
+* Updated Body to Toughness Expert
 
 ### Inventory
 * Added Loot Split section.
