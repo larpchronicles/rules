@@ -29,7 +29,7 @@
         "level": "3",
         "duration": "5 Seconds",
         "verbal": "Refitting Armor 1...2...3...4...5",
-        "description": "This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character's armor pool is reset to its maximum.  Does not apply to Dexterity Armor."
+        "description": "This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character's armor pool is reset to its maximum. Character may not walk during this count. Does not apply to Dexterity Armor."
     },
     {
         "name": "Shake It Off",
@@ -133,6 +133,6 @@
         "level": "10",
         "duration": "Instant",
         "verbal": "Prepare to Die...100 <Type> Slay",
-        "description": "The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as 100 type Slay. The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers."
+        "description": "The character may swing for 10 times the amount of Stamina expended on this skill (minimum 10 Stamina Points), as 100 type Slay. The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers."
     }
 ]
