@@ -2,6 +2,10 @@
 
 ## 4.0.5 [2024-04-22]
 
+* Moved Enhanced Focus from Spirit to Nature
+* Added 10 step turret mobility to Enhanced Focus
+* Adjust Armor values for light, medium, heavy armor
+
 ### Introduction
 * Updated link for calculators.
 
