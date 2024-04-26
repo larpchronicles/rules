@@ -37,20 +37,20 @@
         "description": "Increases the characters Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
         "spCosts": {
             "base": {
-                "primary": "3",
-                "secondary": "5",
+                "primary": "4",
+                "secondary": "4",
                 "tertiary": "10"
             },
             "increment": {
-                "primary": "1",
-                "secondary": "5",
+                "primary": "2",
+                "secondary": "4",
                 "tertiary": "10"
             }
         }
     },
     {
         "name": "Blood Magic",
-        "description": "Blood Magic reduces a character's Mana Point cap to 25% of their maximum Mana Points (rounded down). However, Blood Mages are able replenish their Mana Points (up to their new maximum Mana Points) with the Exsanguinate ability. Blood Mages cannot use memorization, and are ineligble for the bonus Mana Points associated with it.",
+        "description": "Blood Magic reduces a character's Mana Point cap to 25% of their maximum Mana Points (rounded down). However, Blood Mages are able to replenish their Mana Points (up to their new maximum Mana Points) with the Exsanguinate ability. Blood Mages cannot use memorization, and are ineligible for the bonus Mana Points associated with it.",
         "spCosts": {
             "base": {
                 "primary": "5",

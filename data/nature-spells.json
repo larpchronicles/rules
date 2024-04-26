@@ -120,6 +120,14 @@
         "description": " This spell entangles the target's entire form in place, rendering the target helpless and unable to move from the neck down. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect."
     },
     {
+        "name": "Enhanced Focus",
+        "school": "Nature",
+        "level": "6",
+        "duration": "20 seconds",
+        "incant": "I grant you the power of enhanced focus.",
+        "description": "Enhanced Focus allows the target to maintain Concentration despite taking damage. If the target has an active turret-style spell (such as Arcane Torrent, or Spiderwebs), that target may immediately take up to 10 steps without interrupting the turret spell. Status effects that interrupt concentration (such as Stun) will still do so. A character may not be affected by Enhanced Focus for at least 1 minute after being affected by a previous Enhanced Focus effect."
+    },
+    {
         "name": "Command: Confuse",
         "school": "Nature",
         "level": "7",

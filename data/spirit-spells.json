@@ -80,14 +80,6 @@
         "description": "This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect."
     },
     {
-        "name": "Enhanced Focus",
-        "school": "Spirit",
-        "level": "6",
-        "duration": "20 seconds",
-        "incant": "I grant you the power of enhanced focus.",
-        "description": "This spell causes the target's focus to reach truly superhuman levels, allowing them to maintain Concentration on spells or abilities, even while taking damage. Any effect that would render them unable to act, such as STUN or SLEEP will still break their concentration.  "
-    },
-    {
         "name": "Fear",
         "school": "Spirit",
         "level": "6",
