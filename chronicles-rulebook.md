@@ -1,4 +1,4 @@
-**Rules Version: 4.0.4**  _Thu Mar 28 2024_
+**Rules Version: 4.0.5**  _Fri Apr 26 2024_
 
 
 # Chronicles Game Rules
@@ -16,7 +16,7 @@ In the next section, there are tips and brief overviews that are aimed to help p
 ---
 Wondering where to find a particular sheet or form?  Check the list below, and if there is something missing, please ask!
 
-[Calculators](https://docs.google.com/spreadsheets/d/1iIQxkBnI7oR4RETRDCmYwzDYJ7S_mmGDHSuNEzvkDCQ/)
+[Calculators](https://drive.google.com/drive/folders/1YGpHUxRS_3i9uJIPsQWbnz_Na8XRgp7F)
   * Character Calculator, with printable character sheet.
   * Skill Point Calculator
   * Battle-Board
@@ -525,14 +525,13 @@ The rep will be subject to a more rigorous safety inspection than a typical mele
 ---
 Armor is described as extra garb pieces made of defined materials and worn in targeted locations for the purpose of providing a character with extra defense in the form of Armor Points. A character can have a number of Armor Points up to their Armor Cap determined by what skills they have purchased. If the character is not using Dexterity Armor, they must also properly phys-rep their armor, with the type of armor required depending on the total amount of Armor Points. Phys-repped armor grants an equivalent based on the armor type and location. Finally, in order to benefit from Phys-repped armor, the character must possess the appropriate armor item tag. A player can only benefit from one armor item tag at a time.
 
-## Armor and Combat
+## Armor Repair / Refit Armor
 
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
 Once a character's Armor Points are below their maximum total, they may recover them through one of two methods:
 1. The Rapid Refit Stamina Ability, which requires 5 seconds of uninterrupted roleplay to restore a character's Armor Point total back to its maximum.
-2. Roleplay - A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps, and fit to restore a character's armor total back to its maximum.
-   The time required may be lowered by specific items, skills, or abilities.
+2. Standard refitting of armor is achieved through roleplay. - A character may spend 1 minute of uninterrupted roleplaying adjusting armor, straps, and fit to restore a character's armor total back to its maximum.  A character may not walk during this.
 
 ## Armor Point Calculations
 
@@ -553,9 +552,9 @@ There are 3 armor types: Light, Medium, and Heavy. An armor rep will be assigned
 
 | **Armor Type** | **Arm Armor Points** | **Leg Armor Points** | **Torso Armor Points** | **Max Armor Points** |
 | --- | --- | --- | --- | --- |
-| Light Armor | 6 | 6 | 8 | 20 |
-| Medium Armor | 12 | 12 | 16 | 40 |
-| Heavy Armor | 24 | 24 | 32 | 80 |
+| Light Armor | 5 | 5 | 10 | 20 |
+| Medium Armor | 10 | 10 | 20 | 40 |
+| Heavy Armor | 20 | 20 | 40 | 80 |
 
 
 ### Light Armor
@@ -788,7 +787,7 @@ The target of a killing blow may refuse it, so long as they are capable of movem
 
 ## Magic Deliverance, Voice Radius, and Aether
 
-Rarely, one may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell, and needs to be reacted to as such.
+Rarely, one may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell and needs to be reacted to as such.  Casting via magic deliverance is still subject to all other casting requirements such as utilizing packets, finishing the call before throwing their packet, etc.  Magic deliverance does not grant immunity to the silence effect.
 
 Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they'd been struck by the spell directly. This ability does not require the caster to have a spell packet in hand.
 
@@ -1647,6 +1646,10 @@ Status that require Identify:
 ### Concentration
 Concentration consists of being silent, not using skills or items, not running, and typically maintaining physical contact with something. Rest refers to a period of time in which a player does not use abilities or run.  This is done to reset expended abilities or skills.  More information about rest can be found in the Resting section.
 
+### Counts for Abilities or Skills
+Your feet must be planted during any n-count, unless the ability or effect explicitly states that the character is able to walk.  This does not apply to Concentration abilities.  See Concentration.
+Example:  Rapid Refit is an ability that requires a 5 second count, during which a character may not walk.  Tap Reserves is an ability that requires 1 minute of Concentration, during which a character may walk.
+
 ### Critical Ability
 A character invoking a Critical ability is able to use the specified ability against a single target of their choice. They may continue to use the ability against that target until either the character completes a Rest, or the character invokes another Critical ability (against the same or another target).
 
@@ -1693,7 +1696,7 @@ Skill-less refers to any abilities purchased with Skill Points. A character does
 | IMMUNITY | Character immune to x effect for y time. | No Effect | Not Applicable |
 | INCORPOREAL | Character is immune to non-magical damage.| N/A |Yes |
 | INFECT| Character may infect a target and inflict them with x effect. |1 I infect you, 2... 3...| Not Applicable |
-| MAGIC DELIVERANCE | Character may cast spells without incants.|Magic X| Not Applicable |
+| MAGIC DELIVERANCE | Character may cast spells without incants.  Still subject to all other normal casting requirements. Does not grant immunity to SILENCE. |Magic X| Not Applicable |
 | MINIMIZE | Character may reduce the duration of an effect to a 3 second count. | Varies. | No |
 | NATURAL ARMOR | Character has armor that does not have to be physically represented. | N/A |Yes |
 | OVERWHELMING STRENGTH| Character swings for Vital damage. Damage from character is always taken unless target makes a defensive call.| N/A | No |
@@ -1756,7 +1759,7 @@ Skill-less refers to any abilities purchased with Skill Points. A character does
 | REVIVE| Character is Dead with Revive ability and waiting for death count to reach 4 minutes and 59 seconds. |Revive |
 | RIFT LOCK | Target is prevented from moving by any form of magical travel for x time. |N/A|
 | SILENCE | Target is unable to speak in game, and is unable to cast spells. May make game system calls. | Varies by source. |
-| SLEEP | Target must be prone or crouched and cannot communicate or use skills or items. | Varies by source. |
+| SLEEP | Target must be prone or crouched and cannot communicate or use skills or items. Receiving damage that reduces Body will end the effect.  Target cannot be shaken awake.| Varies by source. |
 | SLOW | Target is unable to run for x time. | Varies by source. |
 | SPIRIT BOTTLE | Character has used the Spirit Bottle ability and has an active Spirit Bottle. | N/A |
 | STASIS | Target may not move, communicate in any manner, activate items, or use any game skills for duration. Target does not take damage and cannot be moved. Target may choose to end the effect early. | Varies by source. |
@@ -1857,7 +1860,7 @@ This skill adds 5 points of maximum health to the character for each time that t
 |Primary Initiation|3|4|5|
 |Secondary Initiation|4|10|10|
 |Tertiary Initiation|5|15|30|
-|Attunement|3+1|5+5|10+10|
+|Attunement|4+2|4+4|10+10|
 |Blood Magic|5|10|15|
 |Exsanguinate|0|0|0|
 
@@ -1874,7 +1877,7 @@ This skill allows a character to be initiated into a school of magic, allowing t
 Increases the characters Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
 
 ## Blood Magic  
-Blood Magic reduces a character's Mana Point cap to 25% of their maximum Mana Points (rounded down). However, Blood Mages are able replenish their Mana Points (up to their new maximum Mana Points) with the Exsanguinate ability. Blood Mages cannot use memorization, and are ineligble for the bonus Mana Points associated with it.
+Blood Magic reduces a character's Mana Point cap to 40% of their maximum Mana Points (rounded down). However, Blood Mages are able to replenish their Mana Points (up to their new maximum Mana Points) with the Exsanguinate ability. Blood mages are not required to allocate Mana Points to specific schools, though they are still limited to being able to cast only from schools for which they have purchased the Initiation skill. Blood Mages cannot use memorization, and are ineligible for the bonus Mana Points associated with it.
 
 ## Exsanguinate  
 This allows a character to perform an exsanguination on a recently-dead corpse to increase their current Mana Points by 5. "Doing so requires a 3 count of 1 I exsanguinate, 2 I exsanguinate, 3 I exsanguinate". Upon completion, the character's current Mana Points are increased by 5. This does not allow a character to increase their current Mana Points above their maximum Mana Point cap. The target of this ability must be a creature that had a metabolism and is currently in its Death count. Note: Similar to Entrap Spirit, this ability may be used on the corpse of an NPC that did not wait to be searched, Entrapped, or Exsanguinated. Under these circumstances, the player must inform the mod marshal that they intend to use this ability on the mod, or immediately after its use.
@@ -1958,7 +1961,7 @@ This skill is purchased once. Trapping allows the character the chance to set a 
 | **Level** | 3 |
 | **Duration** | 5 Seconds |
 | **Verbal** | "Refitting Armor 1...2...3...4...5" |
-| **Description** | This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character's armor pool is reset to its maximum.  Does not apply to Dexterity Armor. |
+| **Description** | This skill allows the character to quickly and efficiently readjust their damaged armor. After spending 5 seconds of uninterrupted role play fixing their armor, the character's armor pool is reset to its maximum. Character may not walk during this count. Does not apply to Dexterity Armor. |
 
 | | **Shake It Off** |
 |:---|---|
@@ -2049,7 +2052,7 @@ This skill is purchased once. Trapping allows the character the chance to set a 
 | **Level** | 10 |
 | **Duration** | Instant |
 | **Verbal** | "Prepare to Die...100 \<Type> Slay" |
-| **Description** | The character may swing for 10 times the amount of Stamina expended on this skill (minimum 100), as 100 type Slay. The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers. |
+| **Description** | The character may swing for 10 times the amount of Stamina expended on this skill (minimum 10 Stamina Points), as 100 type Slay. The character may continue to swing their slay until they contact a target (ex, a situation where the target would have to call a defense or take the ability). Slay may not be stacked with any carriers. |
 
 # Agility Skills
 
@@ -2196,7 +2199,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 7 |
 | **Duration** | Rest |
 | **Verbal** | "My Bow is Ready" |
-| **Description** | The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest. |
+| **Description** | The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.|
 
 | | **Stunning Strike** |
 |:---|---|
@@ -2469,6 +2472,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 5 | Command: Silence | _I command you to be silent._ |
 | 5 | Treehome† | _I call upon nature to grant safe haven._ |
 | 6 | Command: Sleep | _I command you to sleep._ |
+| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
 | 6 | Entangle Body | _I call upon Nature to entangle your body._ |
 | 7 | Command: Confuse | _I command you to be confused._ |
 | 7 | Confine | _I call upon Nature to confine you._ |
@@ -2578,6 +2582,13 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I command you to sleep._ |
 | **Description** |  This spell will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This is a SLEEP effect. |
 
+| | **Enhanced Focus** |
+|:---|---|
+| **Level** | 6 |
+| **Duration** | 20 seconds |
+| **Incant** | _I grant you the power of enhanced focus._ |
+| **Description** | Enhanced Focus allows the target to maintain Concentration despite taking damage. If the target has an active turret-style spell (such as Arcane Torrent, or Spiderwebs), that target may immediately take up to 10 steps without interrupting the turret spell. Status effects that interrupt concentration (such as Stun) will still do so. A character may not be affected by Enhanced Focus for at least 1 minute after being affected by a previous Enhanced Focus effect. |
+
 | | **Entangle Body** |
 |:---|---|
 | **Level** | 6 |
@@ -2663,7 +2674,6 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 5 | Cleanse | _I call upon the spirits to cleanse you._ |
 | 5 | Field Resurrection | _I call upon the spirits to resurrect you._ |
 | 5 | Revivify | _I call upon the spirits to revivify you._ |
-| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
 | 6 | Fear | _I curse you with fear._ |
 | 6 | Solidify | _I call upon the spirits to solidify your form._ |
 | 7 | Curse | _I curse you with vulnerability._ |
@@ -2744,13 +2754,6 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Instant |
 | **Incant** | _I call upon the spirits to revivify you._ |
 | **Description** | This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect. |
-
-| | **Enhanced Focus** |
-|:---|---|
-| **Level** | 6 |
-| **Duration** | 20 seconds |
-| **Incant** | _I grant you the power of enhanced focus._ |
-| **Description** | This spell causes the target's focus to reach truly superhuman levels, allowing them to maintain Concentration on spells or abilities, even while taking damage. Any effect that would render them unable to act, such as STUN or SLEEP will still break their concentration.   |
 
 | | **Fear** |
 |:---|---|
@@ -2995,6 +2998,8 @@ Magic items, production skills, and some effects recharge or expire at the end o
 A player may approach a fallen NPC and say, "I search you." If the monster has any loot to give, it will provide it. NPCs may also drop loot on the ground. If you find a coin, or tag on the ground, feel free to pick it up. (Be aware that looting other player's kills may be seen unfavorably especially if you're not contributing to combat. This is a reasonable arrangement to ask another player about in character.)
 ## Loot
 Loot comes in a few shapes, the most common being money, tags, and reps. Coins are imprinted metal slugs only of value to this game, or cast resin shapes. Tags are business cards with print on them. Reps are physical representations of things in the game world-- these vary widely as they are often devices to ongoing plots, but can also just be as they are presented.
+## Loot Splits
+Loot splits, or treasure splits are considered an Out Of Game action.  Treasure splits for groups are performed by a Treasure Split Ambassador, which may be someone appointed by plot, someone on plot, or someone designated by the group.  For town mods, which are mods that the entire town or the majority of all event attendees participates in.  The treasure split for these mods includes all player attendees, including any that were not physically present on the mod or were NPCing for the mod.  In the event that a player is unable to collect their split will be taken back to logistics and labeled with the player's name.  Any gold will be credited to their character's bank and any tags will be made available for the player to pick up at their next event.
 ## Money
 Money comes in two forms in Evren. A golden coin minted by the kingdom, or as a naturally occurring impure crystalline mana. Mana Crystals have resin cast phys reps. Players are free to exchange coins in whatever fashion they wish and game events can cause the "market" to fluctuate. The value of items is determined by denizens of the world (this includes you).
 ## Tags
@@ -3223,32 +3228,33 @@ The Recycling skill allows the character to reclaim some of the raw materials us
 
 ### Tier I
 #### Alarm Trap
-   >This creates a trap that can be placed next to a doorway, or the opening to a box. The rune, once activated, will make a loud alarming sound. The trap must have a trigger and a tripwire, or equivalent that will set off the trigger. Alarm Traps may be disarmed as they are a tier I trap. Activating an Alarm Trap requires simply placing the trap rep, the trigger, the trip wire, and the character says "Activate Alarm Trap". This item is consumed on use.
+>This creates a trap that can be placed next to a doorway, or the opening to a box. The rune, once activated, will make a loud alarming sound. The trap must have a trigger and a tripwire, or equivalent that will set off the trigger. Alarm traps may be disarmed as they are a tier I trap. Activating an alarm trap requires simply placing the trap rep, the trigger, the trip wire, and the character says "Activate Alarm Trap". This item is consumed on use.
 #### Key
-   >This recipe allows the Smith to create a key that is keyed for a particular lock by an ID code that both the key and the lock share. Keys will only work for the lock that they are keyed for. To make a Key for a lock, you must bring the lock to Logistics.
+>This recipe allows the Smith to create a key that is keyed for a particular lock by an ID code that both the key and the lock share. Keys will only work for the lock that they are keyed for. To make a Key for a lock, you must bring the lock to Logistics.
 #### Lock
-   >This recipe allows the Smith to create a lock able to keep out unskilled burglars. Lock physical representations are attached to the main door of a structure. This lock indicates that all portals are locked. The tag for the lock will be attached to the back of the lock presentation, and will note the quality of the lock as well as the lock ID code. To be able to enter a locked structure, a character must have a key tag that is ID associated with the lock. A character with a Key may unlock a Locked door on a 3 count, and may re-lock it on another 3 count. The rating of this lock is 1. This has 5 Durability.
+>This recipe allows the Smith to create a lock able to keep out unskilled burglars. Lock physical representations are attached to the main door of a structure. This lock indicates that all portals are locked. The tag for the lock will be attached to the back of the lock presentation, and will note the quality of the lock as well as the lock ID code. To be able to enter a locked structure, a character must have a key tag that is ID associated with the lock. A character with a key may unlock a locked door on a 3 count, and may re-lock it on another 3 count. The rating of this lock is 1. This has 5 Durability.
+#### Parrying Dagger
+>This recipe creates a Parrying Dagger with 5 Durability.  Parrying daggers may only be used for physically blocking weapons and for Killing Blows.  These items may be effected by Rusty Weapon or Silver Weapon Forging, which would impact Killing Blows.
 #### Rusty Weapon
->The sign of a poor smith, or a genius, depending on who you ask. This process intentionally rusts the weapon to make it inflict foul wounds upon those it strikes. This process changes the base damage type of the weapon to Poison, at the cost of reducing its Durability by 2. A Rusty Weapon cannot be Silvered.
+>This process intentionally rusts the weapon to make it inflict foul wounds upon those it strikes. This changes the base damage type of the weapon to Poison, at the cost of reducing its Durability by 2. A Rusty Weapon cannot be Silvered.
 
 
 ### Tier II
 
 #### Armor Resizing Kit
-> This kit has everything a blacksmith needs to adjust suits of armor to better suit their needs. A Smith using this kit may increase an existing suit of armor's value rating by spending additional resources equal to the difference between the current value and the desired value, as if you were making a new Suit of Armor. This does not change the durability of the armor. This has 5 charges.
+>This kit has everything a blacksmith needs to adjust suits of armor to better suit their needs. A Smith using this kit may increase an existing suit of armor's value rating by spending additional resources equal to the difference between the current value and the desired value, as if you were making a new Suit of Armor. This does not change the durability of the armor. This has 5 charges.
 #### Lockpicks
-   >This is a basic item for use with the Lockpicking skill. Having lockpicks lowers the rating of the lock by 1. Lockpicks have 10 charges.
+>This is a basic item for use with the Lockpicking skill. Having lockpicks lowers the rating of the lock by 1. Lockpicks have 10 charges.
 #### Suit of Armor
-   >This creates a finely made suit of armor that has an Armor rating of 10, with 5 Durability. You can increase the Tier of the recipe and the cost in materials by 1 to increase the Armor Rating by 10, up to a max of 80.
-
+>This creates a finely made suit of armor that has an Armor rating of 10, with 5 Durability. You can increase the Tier of the recipe and the cost in materials by 1 to increase the Armor Rating by 10, up to a max of 80.
 
 
 ### Tier III
 
 #### Hardening
-   >This will harden a weapon, shield, armor or magic item to Resist Destruction once. An item may only be Hardened up to three times (For a maximum of Three Resist Destructions) May be applied to untagged items. (Such as Doors).
+   >This will harden a weapon, shield, armor or magic item to Resist Destruction once. An item may only be Hardened up to three times (For a maximum of 3 Resist Destroys) May be applied to untagged items. (Such as Doors).
 #### Knight-Night Helmet
-   >This specially designed helmet for knights who have too often fell victim to physically-induced-narcolepsy. This helmet will let the wearer Minimize any Waylay effect they receive. This has 5 charges, and must be repped.
+   >This specially designed helmet for knights who have too often fell victim to physically-induced-narcolepsy. This helmet will let the wearer Minimize any Waylay effect they receive. This has 5 charges and must be repped.
 #### Repair Lock
    >The smith is able to fix a previously broken lock. The repair of the lock takes 1 minute of time in addition to the three ranks of raw materials. This is not a tagged item.
 
@@ -3291,11 +3297,11 @@ The Recycling skill allows the character to reclaim some of the raw materials us
 ### Tier VIII
 
 #### Expandable Weapon
-> A marvel of intricate crafting, this weapon modification is designed to allow the wielder the ultimate flexibility in controlling their reach. With 1 minute of roleplay, the wielder may change the length of this weapon, from up to a Two-Handed weapon down to a Short length one-handed weapon. This allows the wielder to use this item with a Short, Long, or Two-Handed weapon rep interchangably. This cannot be applied to Unarmed or Claws.
+> A marvel of intricate crafting, this weapon modification is designed to allow the wielder the ultimate flexibility in controlling their reach. With 1 minute of roleplay, the wielder may change the length of this weapon, from up to a Two-Handed weapon down to a Short length one-handed weapon. This allows the wielder to use this item with a Short, Long, or Two-Handed weapon rep interchangeably. This cannot be applied to Unarmed or Claws.
 #### Recycling Kit
 > This kit is designed to assist in helping a Recycler be more efficient with their reclamation of materials. When a kit is made, a single Crafting Type is chosen from Alchemy, Smithing or Rune Carving. When the character recycles an item from that type, they may expend a charge from this kit to recover 1/2 of the ranks in materials used to construct it, rounded down to a minimum of one, instead of the usual 1/3. In the case of Recycling an Artificing item, the character only benefits from this increase for the materials of the chosen type, though multiple kits may be used in tandem. Ex: If an item required all three material types, and you use an Alchemy Recycling Kit and a Smithing Recycling Kit, you'd get 1/2 of those materials, but only 1/3 of the Rune Carving materials. This item has 3 charges.
 #### Trickle Blade Modification
-> This modification can be applied to any weapon, adding a resevoir and specially treated channels to the weapon that allow Toxins to flow along the edge of the blade. The wielder of this blade may apply Ingestible Toxins to this as if they were Weapon Coatings.
+> This modification can be applied to any weapon, adding a reservoir and specially treated channels to the weapon that allow Toxins to flow along the edge of the blade. The wielder of this blade may apply Ingestible Toxins to this as if they were Weapon Coatings.
 
 
 
@@ -3649,6 +3655,9 @@ Covers laws (their avoidance and subversion), various criminal organizations and
 ## Economic Knowledge  
 Covers trade routes, values of goods, and merchants of specific items. Higher ranks will reveal more hidden information or let someone sniff out particularly good deals.
 
+## Engineering Knowledge
+Covers civil engineering and infrastructure such as bridges, aqueducts, walls, buildings, roads, cranes, siege weapons, etc.  It cannot be used to affect game mechanics.  Higher ranks will allow for more detailed insights.
+
 ## Geographical Knowledge  
 Covers landmarks, terrain, maps, roads, approximate distances, and navigation. Higher ranks will allow for more detailed information or better navigation.
 
@@ -3671,7 +3680,7 @@ Covers subjects related to living in the wild, such as hunting, fishing, and ide
 Covers churches, cults, religious beliefs, deities, and gods. Higher ranks will reveal more in-depth information on various groups or reveal hidden aspects.
 # Character Creation Process
 
-## First Topic
+## This section is still under construction.
 # Transformation
 # Transform Ability Rituals
 
@@ -3763,19 +3772,19 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 
 ### Basic - Tier I
 
-#### Claws 
-| Name: | Claws |
+#### Innate Armaments 
+| Name: | Innate Armaments |
 |---|---|
 | Type: | Passive|
 | Cost: | 5 (Single Purchase) |
 | Tier: | 1 |
-| Description: | Claws function as One-Handed Weapons and may be used to qualify for any abilities that require One-Handed Weapon as a prerequisite. Additionally, the character may wield two claws as though they possessed the Dual Wield ability. |
+| Description: | Character may Concentrate for 1 minute to cast Conjure Magic Weapon or Conjure Magic Shield. |
 
 
 ### Advanced - Tier III
 
-#### Body
-| Name: | Body |
+#### Toughness Expert
+| Name: | Toughness Expert |
 |---|---|
 | Type: | Passive |
 | Cost: | 10  |
@@ -3880,14 +3889,6 @@ Alternatively, a character may still perform the Unlock Transform Abilities ritu
 | Cost: | 15 (Single Purchase)|
 | Tier: | 5 |
 | Description: | Magic carrier, applies to any weapon, or unarmed, that is wielded.|
-
-##### Proficiency Expert
-| Name: | Proficiency Expert |
-|---|---|
-| Type: | Passive|
-| Cost: | 15 |
-| Tier: | 5 |
-| Description: | Reduces the Stamina cost of Proficiency by 2 (10->8). |
 
 #### Spirit Bottle
 | Name: | Spirit Bottle |
@@ -4173,31 +4174,9 @@ Goblin Points are awarded from plot and/or staff for contributions, donations, a
 From time to time, the chapter may need some things more than others.  When this is true, specific listings will be tagged as "Needed" or "Critically Needed."  These tags mean that the normal GP awarded for them is increased.
 
 * **"Needed" Items.** These are items that if we do not receive or maintain on a semi-regular basis would impact the game quality significantly. Examples include: Packets, weapons, and tabards.
+  * Needed Items award Goblin Points with a x1.5 multiplier.  Example:  15 GP per $1 USD value.
 * **"Critically Needed" Items.**  These are items that are in an immediate need in order to continue running the game in the short term sense, we cannot run an event properly without an immediate donation of these items. Examples include: as per Needed, but assuming stock is extremely low, we have run out, all our supplies were lost, or similar.
-
-<table>
-  <tr>
-   <td colspan="3" >
-<strong>Have a Little Extra for...</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Needed Items
-   </td>
-   <td>x1.5 Multiplier
-   </td>
-   <td>15 Goblin Points per $1 USD Value, Rounded Up
-   </td>
-  </tr>
-  <tr>
-   <td>Critically Needed Items
-   </td>
-   <td>x2 Multiplier
-   </td>
-   <td>20 Goblin Points per $1 USD Value, Rounded Up
-   </td>
-  </tr>
-</table>
+  * Critically Needed Items award Goblin Points with a x2 multiplier.  Example:  20 Goblin Points per $1 USD Value.
 
 
 
@@ -4280,13 +4259,13 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>100 Goblin Point Rewards</u>**
 
-* <u>Crafting Materials</u>.  A player may claim a cumulative 10 Tiers of crafting materials.  They may freely pick from among the types:  Catalyst, Ore, Scrap Parts, and Wood.  Examples include:
+* <u>Crafting Materials</u>.  A player may claim a cumulative 10 Tiers of crafting materials.  They may freely pick from among the types:  Catalyst, Ore, and Wood.  Examples include:
     * 10 pieces of Tier 1 Wood
     * 1 piece of Tier 10 Ore
-    * 1 piece of Tier 5 Scrap Parts, 2 pieces of Tier 1 Wood, and 2 pieces of Tier 2 Catalyst.
+    * 1 piece of Tier 5 Ore, 2 pieces of Tier 1 Wood, and 2 pieces of Tier 2 Catalyst.
 * <u>Rare Craft Material</u>.  One Spirit Gem.  This is limited to one purchase per event.
-* <u>Currency</u>.  One credit or five mana.  This is limited to one purchase per event.
-* <u>Mini-Mod</u>: GREATER IBGA, limit 1 per event.
+* <u>Currency</u>.  One credit or five mana.  This is limited to one purchase per event.  This will be immediately deposited to a character's bank.
+* <u>Mini-Mod</u>: GREATER IBGA, limit 1 per event.  Mini-mods occur between games and may be done over a voice call or in person depending on the availability of the requester and the plot person.  These must be scheduled with a specific plot person.
 
 **<u>200 Goblin Point Rewards</u>**
 
@@ -4316,7 +4295,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 3 |Limited Time Stop|Boon of the Armadillo<br>Boon of the Tiger<br>Freedom|Weakness||
 | 4 |Conjure Weapon<br>Temporal Shift†|Command: Kneel<br>Entangle Arms|Disable Limb|Barrier|
 | 5 |Enchanted Blade<br>Conjure Shield<br>Limited Teleport†|Command: Silence<br>Treehome†|Cleanse<br>Field Resurrection<br>Revivify|Entrap Spirit|
-| 6 |Nullify<br>Stasis†|Command: Sleep<br>Entangle Body|Enhanced Focus<br>Fear<br>Solidify||
+| 6 |Nullify<br>Stasis†|Command: Sleep<br>Enhanced Focus<br>Entangle Body|Fear<br>Solidify||
 | 7 |Destroy<br>Haste<br>Rift Lock|Command: Confuse<br>Confine|Curse<br>Vampiric Touch||
 | 8 |Bag of Holding|Boon of the Cat<br>Command: Stun|Destroy Undead<br>Limited Phylactery†||
 | 9 |Circle of Power|Treewalk†<br>Regenerate<br>Wrath of Nature, Other|Create Undead<br>Enervate|Dispel Magic|
@@ -4365,6 +4344,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 5 | Command: Silence | _I command you to be silent._ |
 | 5 | Treehome† | _I call upon nature to grant safe haven._ |
 | 6 | Command: Sleep | _I command you to sleep._ |
+| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
 | 6 | Entangle Body | _I call upon Nature to entangle your body._ |
 | 7 | Command: Confuse | _I command you to be confused._ |
 | 7 | Confine | _I call upon Nature to confine you._ |
@@ -4389,7 +4369,6 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 5 | Cleanse | _I call upon the spirits to cleanse you._ |
 | 5 | Field Resurrection | _I call upon the spirits to resurrect you._ |
 | 5 | Revivify | _I call upon the spirits to revivify you._ |
-| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
 | 6 | Fear | _I curse you with fear._ |
 | 6 | Solidify | _I call upon the spirits to solidify your form._ |
 | 7 | Curse | _I curse you with vulnerability._ |
@@ -4546,7 +4525,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 | Tier | Alchemy | Smithing | Rune Carving | 
 |---|---|---|---|
-| 1  | Blinding Toxin†<br>Poison Dart 5<br>Slowing Toxin†| Alarm Trap<br>Key<br>Lock<br>Rusty Weapon | Glowing Wand Stone<br>Rune of Trap Compression<br>Wand of Agility†<br>Wand of Stamina†<br>Wand of Magic† |
+| 1  | Blinding Toxin†<br>Poison Dart 5<br>Slowing Toxin†| Alarm Trap<br>Key<br>Lock<br>Parrying Dagger<br>Rusty Weapon | Glowing Wand Stone<br>Rune of Trap Compression<br>Wand of Agility†<br>Wand of Stamina†<br>Wand of Magic† |
 | 2  | Explosive Grenade<br>Poison Dart 10<br>Solvent<br>Toxin Antidote | Armor Resizing Kit<br>Lockpicks<br>Suit of Armor 10† | Rune of Imbuing<br>Rune of Marking/Unmarking<br>Runic Rebreather  |
 | 3  | C-1 Explosive<br>Heal Wounds Potion<br>Poison Dart 15<br>Weakness Toxin† | Hardening†<br>Knight-Night Helmet<br>Repair Lock | Environmental Adaptation Rune<br>Rune of Beacon<br>Rune of Obscuring  |
 | 4  | Alchemical Adhesive<br>Kneel Toxin†<br>Silver Dart | One-Handed Weapon<br>Lock Hardening<br>Shield | Lock Corroding Rune<br>Lock Enhancing Rune<br>Rune of Hastening  |
@@ -4653,6 +4632,64 @@ For make up, this would lift the requirement of full face make up, so long as th
 | 10 | Slay<br>Weapon Proficiency | Murder |
 
 # Changelog
+
+## 4.0.5 [2024-04-22]
+
+* Moved Enhanced Focus from Spirit to Nature
+* Added 10 step turret mobility to Enhanced Focus
+* Adjust Armor values for light, medium, heavy armor
+
+### Introduction
+* Updated link for calculators.
+
+### Armor
+* Updated description for standard armor refitting to clarify character may not walk.
+* Updated section name from Armor and Combat to Armor Repair / Refit Armor
+
+### Combat
+* Updated verbiage for Magic Deliverance to clarify requirements and that it does not grant immunity to silence effects.
+
+### Effects
+* Added Count section to Effects and clarified that characters may not walk during n-counts that are not Concentration abilities or skills.
+* Updated SLEEP effect to clarify that the effect ends when the target's Body is reduced.
+* Updated SLEEP effect to clarify that the target may not be shaken awake.
+* Updated MAGIC DELIVERANCE to clarify it is still subject to normal casting requirements and does not grant immunity to SILENCE.
+
+### Mage Skillset
+* Fixed typos for Blood Magic.
+* Updated mage-skillset json for Blood Magic.
+* Updated costs for Attunement.
+* Updated costs for Attunement in mage-skillset json.
+
+### Stamina Abilities
+* Updated Rapid Refit to clarify that a character may not walk during the 5 second count.
+* Updated wording for Slay as minimum 10 Stamina Points.
+* Updated Stamina-abilities json for Rapid Refit and Slay.
+
+### Transform Rituals
+* Replaced Claws with Innate Armaments
+* Updated Body to Toughness Expert
+
+### Inventory
+* Added Loot Split section.
+
+### Smithing
+* Added Parrying Dagger recipe.
+
+### Knowledge Skills
+* Added Engineering as a knowledge skill.
+* Added Engineering to knowledge-skills json.
+
+### Character Creation
+* Added note for section being under construction.
+
+### Goblin Points
+* Removed mentions of Scrap Parts
+* Updated some clarifications for claiming gold.
+
+### Glossary
+* Added Parrying Dagger
+
 ## 3.1.4 [2023-09-27]
 * Introduction: Added registration link for Camp Eastman and clarified link for Camp Illinek.
 
