@@ -4,7 +4,7 @@
         "description": "Increases the character's Agility Pool by 10 points. Agility Points are expended to perform Agility Abilities (See: Agility). Agility Pool Points are refreshed upon a successful Rest.",
         "spCosts": {
             "base": {
-                "primary": 5,
+                "primary": 3,
                 "secondary": 5,
                 "tertiary": 10
             },
