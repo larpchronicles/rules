@@ -185,7 +185,7 @@
         "description": "This spell will restore dead target to 1 body. It does nothing to a target that is not dead. This is a LIFE effect. "
     },
     {
-        "name": "Plague of Paralysis",
+        "name": "Paralytic Plague",
         "school": "Spirit",
         "level": "10",
         "duration": "Concentration",

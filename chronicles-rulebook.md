@@ -2627,7 +2627,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 9 | Create Undead | _I curse you to rise as an undead._ |
 | 9 | Enervate | _I curse you with enervation_ |
 | 10 | Life | _I grant you the gift of Life._ |
-| 10 | Plague of Paralysis | _I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb..._ |
+| 10 | Paralytic Plague | _I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb..._ |
 | 10 | Regenerate | _I call upon Nature to regenerate you._ |
 | 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
 
@@ -2792,7 +2792,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I grant you the gift of Life._ |
 | **Description** | This spell will restore dead target to 1 body. It does nothing to a target that is not dead. This is a LIFE effect.  |
 
-| | **Plague of Paralysis** |
+| | **Paralytic Plague** |
 |:---|---|
 | **Level** | 10 |
 | **Duration** | Concentration |
@@ -4287,7 +4287,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 7 |Destroy<br>Rift Lock|Command: Calm|Curse<br>Vampiric Touch||
 | 8 |Ricochet Physical<br>Bag of Holding|Ricochet Toxin|Heal Mortal Wounds<br>Destroy Undead<br>Limited Phylactery†<br>Ricochet Magic||
 | 9 |Circle of Power<br>Dispel Magic|Confine|Create Undead<br>Enervate||
-| 10 |Arcane Torrent<br>Doom<br>Suppress Magic|Command: Stun<br>Sanctuary<br>Spider Web|Life<br>Plague of Paralysis<br>Regenerate<br>Storm of Curses||
+| 10 |Arcane Torrent<br>Doom<br>Suppress Magic|Command: Stun<br>Sanctuary<br>Spider Web|Life<br>Paralytic Plague<br>Regenerate<br>Storm of Curses||
 
 
 #### Arcane Spells
@@ -4366,7 +4366,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 9 | Create Undead | _I curse you to rise as an undead._ |
 | 9 | Enervate | _I curse you with enervation_ |
 | 10 | Life | _I grant you the gift of Life._ |
-| 10 | Plague of Paralysis | _I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb..._ |
+| 10 | Paralytic Plague | _I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb..._ |
 | 10 | Regenerate | _I call upon Nature to regenerate you._ |
 | 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
 
