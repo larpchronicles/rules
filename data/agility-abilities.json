@@ -114,10 +114,10 @@
     {
         "name": "Critical Empowerment",
         "pool": "Agility",
-        "level": "7",
+        "level": "10",
         "duration": "Instant",
         "verbal": "I empower my <effect> strike!",
-        "description": "This skill allows character to swing one other agility skill effect against a single target. Effect ends at rest or when invoking Backstab against a different target. The other skill it is being combined with is used at the same time this skill is."
+        "description": "This skill allows character to swing one other agility skill effect against a single target as an aura, as per Critical Ability. Effect ends at rest or when invoking Backstab against a different target. The other skill it is being combined with is used at the same time this skill is. This ability increases the Agility Point cost of the ability by an amount equal to its level (ex: Critical Empowered Weakening Strike costs 8 Agility Points: 4 for the Weakening Strike, and another 4 for the Critical Empowerment.)"
     },
     {
         "name": "Warbow Training",

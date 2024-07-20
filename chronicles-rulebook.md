@@ -1,4 +1,4 @@
-**Rules Version: 4.0.5**  _Fri Apr 26 2024_
+**Rules Version: 4.1.0**  _Sat Jul 20 2024_
 
 
 # Chronicles Game Rules
@@ -1857,37 +1857,41 @@ This skill adds 5 points of maximum health to the character for each time that t
 ---
 | Skill | Primary | Secondary | Tertiary |
 |---|---|---|---|
-|Primary Initiation|3|4|5|
-|Secondary Initiation|4|10|10|
-|Tertiary Initiation|5|15|30|
-|Attunement|4+2|4+4|10+10|
-|Blood Magic|5|10|15|
-|Exsanguinate|0|0|0|
+|Attunement: Arcane|4+2|4+4|10+10|
+|Attunement: Nature|4+2|4+4|10+10|
+|Attunement: Spirit|4+2|4+4|10+10|
+|Attunement: Thaumaturgy|16+4|||
+|Last Rites|0|||
+|Dredge|10|||
 
-## Primary Initiation  
-This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).
+## Attunement: Arcane  
+Increases the characters Arcane Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
 
-## Secondary Initiation  
-This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).
+## Attunement: Nature  
+Increases the characters Nature Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
 
-## Tertiary Initiation  
-This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).
+## Attunement: Spirit  
+Increases the characters Spirit Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
 
-## Attunement  
-Increases the characters Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
+## Attunement: Thaumaturgy  
+Increases the character's Thaumaturgy Mana Pool by 10 points. A character may NOT purchase Attunement: Thaumaturgy if they have any other Attunement skill. Only characters with Thaumaturgy as their Primary Skillset may purchase Attunement: Thaumaturgy; it cannot be a Secondary or Tertiary skill. Thaumaturges cannot use memorization and are ineligible for the bonus Mana Points associated with it (they may still use memorization for any Stamina or Agility pools they have, if they choose).<br><br>Thaumaturgy does not grant access to a school of spells like other Attunement skills do for their respective spell lists. Instead, each Rest, Thaumaturges may, for each spell level below 10, choose 2 spells from different schools of magic to be able to cast that day. These are the only spells on which the character may expend Mana Points. If the Thaumaturge has purchased the Specialization skill for one of Arcane, Nature, or Spirit, then they are also able to cast all of the 10th level spells in that school.
 
-## Blood Magic  
-Blood Magic reduces a character's Mana Point cap to 40% of their maximum Mana Points (rounded down). However, Blood Mages are able to replenish their Mana Points (up to their new maximum Mana Points) with the Exsanguinate ability. Blood mages are not required to allocate Mana Points to specific schools, though they are still limited to being able to cast only from schools for which they have purchased the Initiation skill. Blood Mages cannot use memorization, and are ineligible for the bonus Mana Points associated with it.
+## Last Rites  
+This allows a character to perform a short ritual on a recently-dead corpse to replenish their mana. Upon completion, the character's current Thaumaturgy Mana Points are increased by 5. This does not allow a character to increase their current Mana Points above their maximum Mana Point cap.<br><br>The target of this ability must be a creature that had a metabolism, is currently in its Death count, is not Reviving, cannot seek resurrection <i>(ie, not a PC)</i>, and was physically repped by a player <i>(situational exceptions may be granted only by Plot)</i>. Note: Similar to Entrap Spirit, this ability may be used on the corpse of an NPC that did not wait to be searched, Entrapped, or given Last Rites. Under these circumstances, the player <b><i>must</b></i> inform the mod marshal that they intend to use this ability on the mod or immediately after its use.<br><br>Performing the Last Rites ability requires the in game verbal, 'Last Rites' and then a thematically appropriate couplet of the character's choice. All verbals must be approved by the Head of Plot, recorded and signed off on the player's character sheet.<br><br>Ex:<br>"A strengthened pounding in my chest, as I now lay you to rest."
 
-## Exsanguinate  
-This allows a character to perform an exsanguination on a recently-dead corpse to increase their current Mana Points by 5. "Doing so requires a 3 count of 1 I exsanguinate, 2 I exsanguinate, 3 I exsanguinate". Upon completion, the character's current Mana Points are increased by 5. This does not allow a character to increase their current Mana Points above their maximum Mana Point cap. The target of this ability must be a creature that had a metabolism and is currently in its Death count. Note: Similar to Entrap Spirit, this ability may be used on the corpse of an NPC that did not wait to be searched, Entrapped, or Exsanguinated. Under these circumstances, the player must inform the mod marshal that they intend to use this ability on the mod, or immediately after its use.
+"Your mana drank adds to my power, now my enemies quake and cower."
+
+"By sword and spell you have been slain, leave only body and blood stains."
+
+## Dredge  
+This skill replaces the Last Rites ability. Dredge allows a Thaumaturge access to the spells Control Minor Undead, Entrap Spirit, Vampiric Touch, Create Undead, and Enervate, without needing to allocate them to one of their 2 spells/level.<br><br>Game Lore Note: Dredging a corpse is a form of necromancy and is illegal in most kingdoms. It carries a social stigma in nearly all cultures; it is perceived as a desecration and is regarded as disrespectful, vile, unclean, a perversion, <i>etc.</i>.
 # Rogue Skillset
 
 ---
 | Skill | Primary | Secondary | Tertiary |
 |---|---|---|---|
-|Agility Points|5+3|5+5|10+10|
-|Backstab|10+2|10+5|10+10|
+|Agility Points|3+3|5+5|10+10|
+|Backstab|10+5|10+7|10+10|
 |Escape Artist|3+1|4+1|5+2|
 |Lockpicking|3+1|3+3|5+5|
 |Mimicry|3+5|5+10|20+10|
@@ -1897,7 +1901,7 @@ This allows a character to perform an exsanguination on a recently-dead corpse t
 Increases the character's Agility Pool by 10 points. Agility Points are expended to perform Agility Abilities (See: Agility). Agility Pool Points are refreshed upon a successful Rest.
 
 ## Backstab  
-This skill allows the character add 2 damage to their melee weapon swings, while attacking from behind their target. The player must be physically behind the target and able to see both of the target's shoulder blades. This skill stacks with other Weapon Proficiencies.
+For each purchase of this skill, the character gains +3 damage that can be allocated as chosen between front and back damage. The total of the damage allocated to only backstabbing must be equal to or greater than double the damage allocated to the front, and at least 1 point must be allocated to the front. Ie, no more than 1/3rd of the damage points can be allocated to the front. Put another way, the front damage cannot exceed the number of Backstabs purchased. A character cannot purchase both the Proficiency skill and the Backstab skill. To use the damage from behind, the player must be physically behind the target and able to see both of the target's shoulder blades. <br><br>Example:<br>Reynold the Rogue purchases 10 Backstabs. He may allocate his +30 damage points in any of these ways: +10 front /+20 back, +5 front /+25 back, +1 front/+29 back.
 
 ## Escape Artist  
 This skill is purchased multiple times. Each time this skill is purchased, the character may escape from magical, or non-magical bindings by completing a 3 second count of escaping the bonds. "1 I escape binding...2 I escape binding…" This skill is refreshed each Rest.
@@ -2078,7 +2082,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 5 | Silencing Strike | _Physical Silence_ |
 | 6 | Fearful Strike | _Physical Fear_ |
 | 6 | Waylay | _Physical Waylay_ |
-| 7 | Critical Empowerment | _I empower my \<effect> strike!_ |
+| 10 | Critical Empowerment | _I empower my \<effect> strike!_ |
 | 7 | Warbow Training | _My Bow is Ready_ |
 | 8 | Stunning Strike | _Physical Stun_ |
 | 8 | Pernicious Strike | _Toxin Strike \<effect>_ |
@@ -2189,17 +2193,17 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 | | **Critical Empowerment** |
 |:---|---|
-| **Level** | 7 |
+| **Level** | 10 |
 | **Duration** | Instant |
 | **Verbal** | "I empower my \<effect> strike!" |
-| **Description** | This skill allows character to swing one other agility skill effect against a single target. Effect ends at rest or when invoking Backstab against a different target. The other skill it is being combined with is used at the same time this skill is. |
+| **Description** | This skill allows character to swing one other agility skill effect against a single target as an aura, as per Critical Ability. Effect ends at rest or when invoking Backstab against a different target. The other skill it is being combined with is used at the same time this skill is. This ability increases the Agility Point cost of the ability by an amount equal to its level (ex: Critical Empowered Weakening Strike costs 8 Agility Points: 4 for the Weakening Strike, and another 4 for the Critical Empowerment.) |
 
 | | **Warbow Training** |
 |:---|---|
 | **Level** | 7 |
 | **Duration** | Rest |
 | **Verbal** | "My Bow is Ready" |
-| **Description** | The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest.|
+| **Description** | The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest. |
 
 | | **Stunning Strike** |
 |:---|---|
@@ -2260,12 +2264,34 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 # Universal Spells
 
 ---
+
+# Arcane Spells
+---
+
 | Level | Spell | Incant |
 |---:|---|:---|
 | 1 | Glowing Light | _I conjure a glowing light._ |
-| 4 | Barrier | _I call forth mystic force to barrier \<Delivery Type>_ |
-| 5 | Entrap Spirit | _I call forth mystic force to entrap your spirit._ |
+| 1 | Mana Bolt | _I conjure a Mana Bolt \<#>._ |
+| 2 | Disrupt Aether | _With arcane forces I disrupt your aether._ |
+| 2 | Stop | _With arcane forces I stop you._ |
+| 3 | Control: Minor Elemental | _With arcane forces I control you._ |
+| 3 | Elemental Blade | _I grant you the power of an Enchanted Blade._ |
+| 4 | Barrier: Magic | _I call forth mystic force to barrier magic_ |
+| 4 | Conjure Weapon | _I conjure an arcane \<weapon>._ |
+| 4 | Enchanted Blade | _I grant you the power of an Enchanted Blade._ |
+| 5 | Conjure Shield | _I conjure an arcane shield._ |
+| 5 | Limited Teleport† | _With arcane forces I move across time and space._ |
+| 6 | Nullify | _I summon a force to nullify your \<Effect>._ |
+| 6 | Stasis† | _With arcane forces I enter stasis_ |
+| 7 | Destroy | _With arcane forces I destroy your \<item>._ |
+| 7 | Rift Lock | _I conjure a rift lock._ |
+| 8 | Ricochet Physical | _I call forth mystic force to ricochet physical_ |
+| 8 | Bag of Holding | _I conjure a bag of holding._ |
+| 9 | Circle of Power | _I conjure a Circle of Power._ |
 | 9 | Dispel Magic | _I call forth mystic force to to dispel magic_ |
+| 10 | Arcane Torrent | _I rain destruction about you all! ... Magic mana bolt 5, Magic mana bolt 5, ..._ |
+| 10 | Doom | _I set your doom upon you, 50_ |
+| 10 | Suppress Magic | _I call forth mystic force to suppress magic_ |
 
 | | **Glowing Light** |
 |:---|---|
@@ -2273,58 +2299,6 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | 12 hours |
 | **Incant** | _I conjure a glowing light._ |
 | **Description** | This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6 in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another. |
-
-| | **Barrier** |
-|:---|---|
-| **Level** | 4 |
-| **Duration** | Rest |
-| **Incant** | _I call forth mystic force to barrier \<Delivery Type>_ |
-| **Description** | This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Magic. This is an ACTIVE RESIST effect. |
-
-| | **Entrap Spirit** |
-|:---|---|
-| **Level** | 5 |
-| **Duration** | Rest |
-| **Incant** | _I call forth mystic force to entrap your spirit._ |
-| **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it. |
-
-| | **Dispel Magic** |
-|:---|---|
-| **Level** | 9 |
-| **Duration** | Instant |
-| **Incant** | _I call forth mystic force to to dispel magic_ |
-| **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. Dispel Magic does not effect Glyphs or similar items. |
-# Arcane Spells
----
-
-| Level | Spell | Incant |
-|---:|---|:---|
-| 1 | Blinding Light | _With arcane forces I blind you._ |
-| 1 | Mana Bolt | _I conjure a Mana Bolt \<#>._ |
-| 2 | Disrupt Aether | _With arcane forces I disrupt your aether._ |
-| 2 | Stop | _With arcane forces I stop you._ |
-| 3 | Limited Time Stop | _With arcane forces I stop time on \<spell name>_ |
-| 4 | Conjure Weapon | _I conjure an arcane \<weapon>._ |
-| 4 | Temporal Shift† | _With arcane forces I create a temporal shift. \<effect name>_ |
-| 5 | Enchanted Blade | _I grant you the power of an Enchanted Blade._ |
-| 5 | Conjure Shield | _I conjure an arcane shield._ |
-| 5 | Limited Teleport† | _With arcane forces I move across time and space._ |
-| 6 | Nullify | _I summon a force to nullify your \<Effect>._ |
-| 6 | Stasis† | _With arcane forces I enter stasis_ |
-| 7 | Destroy | _With arcane forces I destroy your \<item>._ |
-| 7 | Haste | _With arcane forces I hasten your time._ |
-| 7 | Rift Lock | _I conjure a rift lock._ |
-| 8 | Bag of Holding | _I conjure a bag of holding._ |
-| 9 | Circle of Power | _I conjure a Circle of Power._ |
-| 10 | Arcane Torrent | _I rain destruction about you all! ... Magic mana bolt 5, Magic mana bolt 5, ..._ |
-| 10 | Doom | _I set your doom upon you, 25_ |
-
-| | **Blinding Light** |
-|:---|---|
-| **Level** | 1 |
-| **Duration** | 20 seconds |
-| **Incant** | _With arcane forces I blind you._ |
-| **Description** | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect.  |
 
 | | **Mana Bolt** |
 |:---|---|
@@ -2347,30 +2321,37 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _With arcane forces I stop you._ |
 | **Description** | This spell prevents the target from advancing into combat until the spell has ended or is removed. This is a STOP THRUST effect.  |
 
-| | **Limited Time Stop** |
+| | **Control: Minor Elemental** |
 |:---|---|
 | **Level** | 3 |
-| **Duration** | 1 minute |
-| **Incant** | _With arcane forces I stop time on \<spell name>_ |
-| **Description** | This spell will target a specific spell in effect on the target. Limited Time Stop will pause the duration timer of the targeted spell for 1 minute. Once the Limited Time Stop spell has ended, the duration timer of the targeted spell resumes from where it had stopped. Limited Time Stop cannot be affected by itself and a spell may only be affected by Limited Time Stop once.  This is a PRESERVE effect.  |
+| **Duration** | 5 minutes |
+| **Incant** | _With arcane forces I control you._ |
+| **Description** | This spell allows the caster to vocally control a minor elemental creature. The creature cannot understand complex instructions, but it will follow simple directions to the best of its ability. This is a VOICE CONTROL effect.  |
+
+| | **Elemental Blade** |
+|:---|---|
+| **Level** | 3 |
+| **Duration** | Rest |
+| **Incant** | _I grant you the power of an Enchanted Blade._ |
+| **Description** | This spell will grant the target the ability to strike with a chosen element aura against a single opponent of the target's choice. To use the Elemental Blade, the target must state I invoke an [Element] Blade, where Element is one of Flame, Frost, Shock, or Stone, at which point they will have to choose the opponent that they may use the aura against. Acts as per Critical Effect. Effect is lost if the target dies and requires a LIFE effect, or if the target rests.  This is an AURA effect.  |
+
+| | **Barrier: Magic** |
+|:---|---|
+| **Level** | 4 |
+| **Duration** | Rest |
+| **Incant** | _I call forth mystic force to barrier magic_ |
+| **Description** | This spell grants the target a single use of Resist Magic. This is an ACTIVE RESIST effect, and requires the use of a defense slot. |
 
 | | **Conjure Weapon** |
 |:---|---|
 | **Level** | 4 |
 | **Duration** | Rest |
 | **Incant** | _I conjure an arcane \<weapon>._ |
-| **Description** | This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the appropriate weapon skill in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured weapon. The weapon has a base damage of 1 magic. A weapon summoned by this spell may not be wielded with a conjured shield.  |
-
-| | **Temporal Shift†** |
-|:---|---|
-| **Level** | 4 |
-| **Duration** | Instant |
-| **Incant** | _With arcane forces I create a temporal shift. \<effect name>_ |
-| **Description** | This spell will immediately end a chosen timed magic effect on the caster. The spell will act as if it had naturally reached the end of its duration. |
+| **Description** | This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the appropriate weapon skill in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured weapon. The weapon conveys a single, non-stacking Proficiency to the wielder. A weapon summoned by this spell may not be wielded with a conjured shield, but 2 conjured weapons may be wielded (requiring a second casting of Conjure Weapon).  |
 
 | | **Enchanted Blade** |
 |:---|---|
-| **Level** | 5 |
+| **Level** | 4 |
 | **Duration** | Rest |
 | **Incant** | _I grant you the power of an Enchanted Blade._ |
 | **Description** | This spell will grant the target the ability to strike with magic damage against a single opponent of the target's choice. To use the Enchanted Blade, the target must state I invoke Enchanted Blade, at which point they will have to choose the opponent that they may use magic damage against. This spell ends when 5 minutes have passed since the invocation, the opponent dies, or if the target rests.  This is an AURA effect.  |
@@ -2410,19 +2391,19 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _With arcane forces I destroy your \<item>._ |
 | **Description** | This spell allows the caster to destroy a single item instantly. The caster must clearly state what item they are attempting to destroy. If the destroyed object is a container, any items within the container must be immediately transferred to a new container, or dumped on the ground. The maximum dimension of the item targeted may be no more than 36 inches. In the event a target has multiple items matching the declared type, this ability will first target a matching item type that is being actively wielded.  If no matching item types are currently being wielded, the target may choose which of their matching items is effected. This is a DESTROY effect. This is a DESTROY effect.  |
 
-| | **Haste** |
-|:---|---|
-| **Level** | 7 |
-| **Duration** | Instant |
-| **Incant** | _With arcane forces I hasten your time._ |
-| **Description** | This spell will cause timer based effects that have a base duration of 20 seconds or less to instantly reach their expiration on the target.  |
-
 | | **Rift Lock** |
 |:---|---|
 | **Level** | 7 |
 | **Duration** | 20 Seconds |
 | **Incant** | _I conjure a rift lock._ |
 | **Description** | This spell prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Treewalk, Rift, and Rune of Recall.  If this spell hits a target who has begun a Rift Out or similar count, this spell interrupts it. This is a RIFT LOCK effect.  |
+
+| | **Ricochet Physical** |
+|:---|---|
+| **Level** | 8 |
+| **Duration** | Rest |
+| **Incant** | _I call forth mystic force to ricochet physical_ |
+| **Description** | This spell grants the target a single use of Physical Rebound Magic Stop. This is an ACTIVE RESIST effect, and requires the use of a defense slot. |
 
 | | **Bag of Holding** |
 |:---|---|
@@ -2438,6 +2419,13 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I conjure a Circle of Power._ |
 | **Description** | This spell requires the caster to first place a braided white and red rope physical representation on the ground in a circular formation that is no larger than 20 feet in diameter. The Circle of Power will become a cylinder shaped container 20 feet high with a top and bottom surface. Once the physical representation is placed, the caster must cast the Circle of Power spell on the physical representation rope. For the duration of this spell, and as long as the caster maintains concentration, no effects, including Aether or Voice Radius, may cross the barrier of the circle. Any effects or attacks from outside the circle may not pass in, and any effects or attacks from inside the circle may not pass out. Creatures may not pass into the circle except through Rift effects. Creatures inside the circle may exit on a 10 second count, but during this count they may be effected by effects from either side of the circle.   |
 
+| | **Dispel Magic** |
+|:---|---|
+| **Level** | 9 |
+| **Duration** | Instant |
+| **Incant** | _I call forth mystic force to to dispel magic_ |
+| **Description** | This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. Dispel Magic does not effect Glyphs or similar items. |
+
 | | **Arcane Torrent** |
 |:---|---|
 | **Level** | 10 |
@@ -2449,8 +2437,15 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Level** | 10 |
 | **Duration** | Instant |
-| **Incant** | _I set your doom upon you, 25_ |
-| **Description** | The caster hurls a bolt of Arcane energy at their target that deals 25 damage. This spell requires 2 defences in order to be negated.  |
+| **Incant** | _I set your doom upon you, 50_ |
+| **Description** | The caster hurls a bolt of Arcane energy at their target that deals 50 damage. This spell requires 2 defences in order to be negated.  |
+
+| | **Suppress Magic** |
+|:---|---|
+| **Level** | 10 |
+| **Duration** | 5 minutes |
+| **Incant** | _I call forth mystic force to suppress magic_ |
+| **Description** | The target may not cast spells, use magical abilities, activate magic items, activate runes, or regain or replenish Mana Points. The target may continue to use and benefit from passive magical abilities and effects. This effect is not affected by Dispel Magic. |
 
 # Nature Magic
 
@@ -2458,59 +2453,45 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 
 | Level | Spell | Incant |
 |---:|---|:---|
-| 1 | Command: Disarm | _I command you to disarm \<item>._ |
-| 1 | Grasping Grasses | _I call upon Nature to slow your steps._ |
-| 1 | Purify Food and Drink | _I call upon Nature to purify this nourishment._ |
-| 2 | Boon of Nature | _I call upon Nature to bless this nourishment._ |
+| 1 | Command: Slow | _I command you to be slow._ |
+| 1 | Hot Foot | _I command you to dance._ |
+| 2 | Command: Disarm | _I command you to disarm \<item>._ |
 | 2 | Entangle Foot | _I call upon Nature to entangle your foot._ |
-| 2 | Plant Spike | _I conjure a plant spike, 10 Normal._ |
-| 3 | Boon of the Armadillo | _I grant you the power of an armadillo's boon._ |
-| 3 | Boon of the Tiger | _I grant you the power of a tiger's boon._ |
 | 3 | Freedom | _I call upon Nature to grant you freedom._ |
+| 3 | Repel | _I call forth mystic force to repel you_ |
+| 4 | Barrier: Physical | _I call forth mystic force to barrier physical_ |
 | 4 | Command: Kneel | _I command you to kneel._ |
 | 4 | Entangle Arms | _I call upon Nature to entangle your arms._ |
 | 5 | Command: Silence | _I command you to be silent._ |
-| 5 | Treehome† | _I call upon nature to grant safe haven._ |
 | 6 | Command: Sleep | _I command you to sleep._ |
-| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
-| 6 | Entangle Body | _I call upon Nature to entangle your body._ |
-| 7 | Command: Confuse | _I command you to be confused._ |
-| 7 | Confine | _I call upon Nature to confine you._ |
-| 8 | Boon of the Cat | _I grant you the power of a cat's boon._ |
-| 8 | Command: Stun | _I command you to be stunned._ |
-| 9 | Treewalk† | _I call upon nature to clear a path._ |
-| 9 | Regenerate | _I call upon Nature to regenerate you._ |
-| 9 | Wrath of Nature, Other | _I grant you the power of a vengeful wrath._ |
+| 6 | Command: Focus | _I grant you the power of enhanced focus._ |
+| 7 | Command: Calm | _I command you to be calm._ |
+| 8 | Ricochet Toxin | _I call forth mystic force to ricochet toxin_ |
+| 9 | Confine | _I call upon Nature to confine you._ |
+| 10 | Command: Stun | _I command you to be stunned._ |
 | 10 | Sanctuary | _I call upon Nature to grant you Sanctuary_ |
 | 10 | Spider Web | _I call upon Nature to set webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..._ |
 
-| | **Command: Disarm** |
-|:---|---|
-| **Level** | 1 |
-| **Duration** | 5 seconds |
-| **Incant** | _I command you to disarm \<item>._ |
-| **Description** | This spell causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This spell is a DISARM effect. |
-
-| | **Grasping Grasses** |
+| | **Command: Slow** |
 |:---|---|
 | **Level** | 1 |
 | **Duration** | 20 seconds |
-| **Incant** | _I call upon Nature to slow your steps._ |
+| **Incant** | _I command you to be slow._ |
 | **Description** | This spell causes the local flora to reach up and seize the target's feet, preventing the target from moving at a faster movement rate than a walk. This spell does not stack with itself, and further castings on an already slowed target will not renew the duration.  This is a SLOW effect. |
 
-| | **Purify Food and Drink** |
+| | **Hot Foot** |
 |:---|---|
 | **Level** | 1 |
-| **Duration** | Instant |
-| **Incant** | _I call upon Nature to purify this nourishment._ |
-| **Description** |  This spell will remove any active effects from one serving of food and one serving of potable fluid. |
+| **Duration** | 20 seconds |
+| **Incant** | _I command you to dance._ |
+| **Description** | The target cannot keep both feet on the ground at the same time. The target may still walk, run, stand on one foot, or shift from one foot to the other, so long as there is motion, as though they are standing barefoot on a very hot surface. |
 
-| | **Boon of Nature** |
+| | **Command: Disarm** |
 |:---|---|
 | **Level** | 2 |
-| **Duration** | 1 minute |
-| **Incant** | _I call upon Nature to bless this nourishment._ |
-| **Description** |  This spell will enchant one serving of food or one serving of potable fluid for consumption. If the nourishment is consumed within the duration of the enchantment the substance will heal the consumer for 5 body. |
+| **Duration** | 5 seconds |
+| **Incant** | _I command you to disarm \<item>._ |
+| **Description** | This spell causes the target to lose control of a handheld item for 5 seconds. The disarmed item is not to be thrown or tossed aside. The caster may name the sword, shield, claw or any other combat-capable item that they wish the target to disarm, but if no item is named, the target may choose which handheld item to be disarmed. This spell is a DISARM effect. |
 
 | | **Entangle Foot** |
 |:---|---|
@@ -2519,33 +2500,26 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I call upon Nature to entangle your foot._ |
 | **Description** |  This spell entangles the target's right foot to the ground. The character is unable to move their foot, except for pivoting on the ball of their foot. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
 
-| | **Plant Spike** |
-|:---|---|
-| **Level** | 2 |
-| **Duration** | Instant |
-| **Incant** | _I conjure a plant spike, 10 Normal._ |
-| **Description** | This spell allows the caster conjure a throwable plant spike for 10 Normal damage. The Spike does not need to be thrown immediately, and lasts until Rest. A caster may not have more than 1 Plant Spike active at a time. |
-
-| | **Boon of the Armadillo** |
-|:---|---|
-| **Level** | 3 |
-| **Duration** | 20 seconds |
-| **Incant** | _I grant you the power of an armadillo's boon._ |
-| **Description** |  This spell grants the target limited protection from physical damage. Any physical damage that affects the target is reduced to half effectiveness.  This is a REDUCED DAMAGE effect. |
-
-| | **Boon of the Tiger** |
-|:---|---|
-| **Level** | 3 |
-| **Duration** | Rest |
-| **Incant** | _I grant you the power of a tiger's boon._ |
-| **Description** |  This spell will grant the target the use of a pair of claws suitable for combat. The target is innately able to use the claws for combat without requiring the skill Unarmed Combat. These claws have a base damage of 1. |
-
 | | **Freedom** |
 |:---|---|
 | **Level** | 3 |
 | **Duration** | Instant |
 | **Incant** | _I call upon Nature to grant you freedom._ |
 | **Description** |  This spell will release the target from magical and non-magical bindings that restrict the movement of the target.  This will remove the following effects:  ENTANGLE, CONFINE. |
+
+| | **Repel** |
+|:---|---|
+| **Level** | 3 |
+| **Duration** | 5 minutes |
+| **Incant** | _I call forth mystic force to repel you_ |
+| **Description** | The target of this spell must maintain a distance of at least 20 steps from the caster. The caster cannot push the target with this spell, and also may not close within the 20 step distance. If the target is physically unable to move 20 steps away, then they must move as far as is safely possible. The caster must hold their arm outstretched, palm facing the target, with fingers upwards for the duration of this spell. If the caster lowers their arm for any reason, the effect ends. If the target breaks lines of sight with the caster for 20 seconds, the effect ends. Any effect which would cause the caster to break concentration causes the effect to end. |
+
+| | **Barrier: Physical** |
+|:---|---|
+| **Level** | 4 |
+| **Duration** | Rest |
+| **Incant** | _I call forth mystic force to barrier physical_ |
+| **Description** | This spell grants the target a single use of Resist Physical. This is an ACTIVE RESIST effect, and requires the use of a defense slot. |
 
 | | **Command: Kneel** |
 |:---|---|
@@ -2568,13 +2542,6 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I command you to be silent._ |
 | **Description** |  This spell renders the target unable to speak in game. This prevents the character from communicating verbally or speaking verbal incantations. This spell does not stop the player from communicating out of game calls such as melee damage and defenses. This spell is a SILENCE effect. |
 
-| | **Treehome†** |
-|:---|---|
-| **Level** | 5 |
-| **Duration** | 1 minute |
-| **Incant** | _I call upon nature to grant safe haven._ |
-| **Description** |  This spell will allow the caster to become absorbed into a physical tree that the caster is touching at the time of casting. While absorbed into the tree, the caster and tree are both protected from any game effects other than Dispel Magic and Solidify. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The caster of this spell is not visible while under the effect of Treehome and must wear a white headband. Only those persons that witnessed the casting of the spell will know that the caster is under the effect of Treehome. When this spell ends, the caster may not cast this spell again for 5 seconds.  This is an INVULNERABLE effect. |
-
 | | **Command: Sleep** |
 |:---|---|
 | **Level** | 6 |
@@ -2582,68 +2549,40 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I command you to sleep._ |
 | **Description** |  This spell will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This is a SLEEP effect. |
 
-| | **Enhanced Focus** |
+| | **Command: Focus** |
 |:---|---|
 | **Level** | 6 |
 | **Duration** | 20 seconds |
 | **Incant** | _I grant you the power of enhanced focus._ |
 | **Description** | Enhanced Focus allows the target to maintain Concentration despite taking damage. If the target has an active turret-style spell (such as Arcane Torrent, or Spiderwebs), that target may immediately take up to 10 steps without interrupting the turret spell. Status effects that interrupt concentration (such as Stun) will still do so. A character may not be affected by Enhanced Focus for at least 1 minute after being affected by a previous Enhanced Focus effect. |
 
-| | **Entangle Body** |
-|:---|---|
-| **Level** | 6 |
-| **Duration** | 20 seconds |
-| **Incant** | _I call upon Nature to entangle your body._ |
-| **Description** |  This spell entangles the target's entire form in place, rendering the target helpless and unable to move from the neck down. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect. |
-
-| | **Command: Confuse** |
+| | **Command: Calm** |
 |:---|---|
 | **Level** | 7 |
 | **Duration** | 20 seconds |
-| **Incant** | _I command you to be confused._ |
+| **Incant** | _I command you to be calm._ |
 | **Description** |  This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect |
 
-| | **Confine** |
-|:---|---|
-| **Level** | 7 |
-| **Duration** | 20 seconds |
-| **Incant** | _I call upon Nature to confine you._ |
-| **Description** |  This spell renders the target completely unable to move while under the effects of this spell.  This is a CONFINE effect. |
-
-| | **Boon of the Cat** |
+| | **Ricochet Toxin** |
 |:---|---|
 | **Level** | 8 |
 | **Duration** | Rest |
-| **Incant** | _I grant you the power of a cat's boon._ |
-| **Description** |  This spell prevents the target from becoming Dead when they otherwise might. The caster must prepare the spell by spending 1 minute of concentration to prime this spell. While primed, if the target reaches 59 seconds of their Dying count, this spell triggers to return the target to 1 Body instead of becoming Dead, and the target must declare Endurance This spell is expended on use.  This is an ENDURE effect. An individual cannot have more than one primed ENDURE effect at once. |
+| **Incant** | _I call forth mystic force to ricochet toxin_ |
+| **Description** | This spell grants the target a single use of Toxin Rebound Magic Entangle Arms. This is an ACTIVE RESIST effect, and requires the use of a defense slot. |
+
+| | **Confine** |
+|:---|---|
+| **Level** | 9 |
+| **Duration** | 20 seconds |
+| **Incant** | _I call upon Nature to confine you._ |
+| **Description** |  This spell renders the target completely unable to move while under the effects of this spell. The target may still speak, and may interrupt killing blows against themselves.  This is a CONFINE effect. |
 
 | | **Command: Stun** |
 |:---|---|
-| **Level** | 8 |
+| **Level** | 10 |
 | **Duration** | 20 seconds |
 | **Incant** | _I command you to be stunned._ |
 | **Description** |  This spell causes the target to be unable to take action (move, attack, defend, speak). This spell is a STUN effect. |
-
-| | **Treewalk†** |
-|:---|---|
-| **Level** | 9 |
-| **Duration** | 1 Minute |
-| **Incant** | _I call upon nature to clear a path._ |
-| **Description** |  This spell allows the caster to enter a nearby tree by touching it immediately after completing the casting of this spell. Once the caster has completed a 3 second Rift Out to enter the tree, the caster may then move up to 100 steps to another tree. The character may not linger while inside a tree, and must move on to the next tree immediately at a walking pace, or end the spell by emerging from the tree that they are currently in. Exiting a tree is another 3 second Rift In. During both Rift counts, the character is immobile and cannot attack or defend themselves. The caster must begin their Rift In three count within 1 Minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. |
-
-| | **Regenerate** |
-|:---|---|
-| **Level** | 9 |
-| **Duration** | 1 minute |
-| **Incant** | _I call upon Nature to regenerate you._ |
-| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
-
-| | **Wrath of Nature, Other** |
-|:---|---|
-| **Level** | 9 |
-| **Duration** | Concentration, up to 1 Minute |
-| **Incant** | _I grant you the power of a vengeful wrath._ |
-| **Description** |  This spell must be touch-cast upon the target. During the entirety of the spell, the target's body cannot be brought to below 1 point as long as the caster is within arm's reach of the target, appropriately roleplays making contact, and maintains concentration, up to a maximum of 1 minute. |
 
 | | **Sanctuary** |
 |:---|---|
@@ -2658,6 +2597,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Concentration |
 | **Incant** | _I call upon Nature to set webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..._ |
 | **Description** | The caster plants their feet and is able to throw Physical Entangle Body until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. |
+
 # Spirit Spells
 
 ---
@@ -2665,46 +2605,38 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | Level | Spell | Incant |
 |---:|---|:---|
 | 1 | Control: Minor Undead | _I curse you with mindless obedience._ |
-| 1 | Heal Wounds | _I call upon the spirits to heal wounds \<#>._ |
-| 1 | Transfer Malady | _I call upon the spirits to transfer this malady. &lt;effect name>_ |
 | 2 | Harm Undead | _I call upon the spirits to harm undead 20._ |
+| 2 | Heal Light Wounds | _I call upon the spirits to heal light wounds 10._ |
 | 2 | Preserve Corpse | _I call upon the spirits to preserve your corpse._ |
+| 3 | Blinding Light | _I curse you with blindness._ |
 | 3 | Weakness | _I curse you with weakness_ |
+| 4 | Barrier: Toxin | _I call forth mystic force to barrier toxin_ |
 | 4 | Disable Limb | _I curse you with a disabled \<limb>_ |
 | 5 | Cleanse | _I call upon the spirits to cleanse you._ |
+| 5 | Entrap Spirit | _I call forth mystic force to entrap your spirit._ |
 | 5 | Field Resurrection | _I call upon the spirits to resurrect you._ |
 | 5 | Revivify | _I call upon the spirits to revivify you._ |
 | 6 | Fear | _I curse you with fear._ |
 | 6 | Solidify | _I call upon the spirits to solidify your form._ |
 | 7 | Curse | _I curse you with vulnerability._ |
 | 7 | Vampiric Touch | _I curse you with a vampiric touch._ |
+| 8 | Heal Mortal Wounds | _I call upon the spirits to heal mortal wounds 40._ |
 | 8 | Destroy Undead | _I call upon the spirits to destroy undead 80._ |
 | 8 | Limited Phylactery† | _I call upon the spirits to create a phylactery._ |
+| 8 | Ricochet Magic | _I call forth mystic force to ricochet magic_ |
 | 9 | Create Undead | _I curse you to rise as an undead._ |
 | 9 | Enervate | _I curse you with enervation_ |
-| 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
 | 10 | Life | _I grant you the gift of Life._ |
+| 10 | Paralytic Plague | _I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb..._ |
+| 10 | Regenerate | _I call upon Nature to regenerate you._ |
+| 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
 
 | | **Control: Minor Undead** |
 |:---|---|
 | **Level** | 1 |
 | **Duration** | 5 minutes |
 | **Incant** | _I curse you with mindless obedience._ |
-| **Description** | This spell allows the caster to vocally control a minor undead creature. The creature cannot understand complex instructions, but it will follow simple directions to the best of its ability. The undead creature is destroyed once this spell ends.  This is a VOICE CONTROL effect.  |
-
-| | **Heal Wounds** |
-|:---|---|
-| **Level** | 1 |
-| **Duration** | Instant |
-| **Incant** | _I call upon the spirits to heal wounds \<#>._ |
-| **Description** | This spell will heal a target with a metabolism 5x the mana used.  Undead can be healed by this spell.  Unless specifically noted as a monster or transform ability PCs and NPCs cannot be hurt by this spell.  Creatures without a metabolism take no effect.  |
-
-| | **Transfer Malady** |
-|:---|---|
-| **Level** | 1 |
-| **Duration** | Instant |
-| **Incant** | _I call upon the spirits to transfer this malady. &lt;effect name>_ |
-| **Description** | This spell allows the caster to transfer a named existing effect from the target to themself. The caster of Transfer Malady must not already be suffering from the effect being transferred. Upon being transferred, the caster has the opportunity to resist the effect if there is a valid resist available to the caster of Transfer Malady. If the effect is not resisted, the effect's duration is renewed upon the caster. The following effects may be transferred: Any TOXIN effect, CURSE, WEAKNESS, SLEEP, SLOW, STUN.  |
+| **Description** | This spell allows the caster to vocally control a minor undead creature. The creature cannot understand complex instructions, but it will follow simple directions to the best of its ability. This is a VOICE CONTROL effect.  |
 
 | | **Harm Undead** |
 |:---|---|
@@ -2713,6 +2645,13 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I call upon the spirits to harm undead 20._ |
 | **Description** | This spell will cause 20 points of body damage to an undead target.  |
 
+| | **Heal Light Wounds** |
+|:---|---|
+| **Level** | 2 |
+| **Duration** | Instant |
+| **Incant** | _I call upon the spirits to heal light wounds 10._ |
+| **Description** | This spell will heal a target for 10 body points.  Unless specifically noted as a monster or transform ability PCs and NPCs cannot be hurt by this spell. |
+
 | | **Preserve Corpse** |
 |:---|---|
 | **Level** | 2 |
@@ -2720,12 +2659,26 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I call upon the spirits to preserve your corpse._ |
 | **Description** | This spell will halt the death count of a dead body as long as the spirit is still tethered to the corpse. Once this spell has ended, the original death count resumes from where it stopped. A corpse may only be preserved once before it must be healed, or revived. May not be dispelled.  This is a PRESERVE effect.  |
 
+| | **Blinding Light** |
+|:---|---|
+| **Level** | 3 |
+| **Duration** | 20 seconds |
+| **Incant** | _I curse you with blindness._ |
+| **Description** | This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect.  |
+
 | | **Weakness** |
 |:---|---|
 | **Level** | 3 |
 | **Duration** | 20 seconds |
 | **Incant** | _I curse you with weakness_ |
 | **Description** | This spell causes the target's total weapon damage to be reduced to half for the duration of this spell. Total weapon damage includes any weapon proficiencies, critical strikes, spell damage bonus, strength bonus, etc. Effect may not be stacked or extended.  This is a WEAKEN effect.  |
+
+| | **Barrier: Toxin** |
+|:---|---|
+| **Level** | 4 |
+| **Duration** | Rest |
+| **Incant** | _I call forth mystic force to barrier toxin_ |
+| **Description** | This spell grants the target a single use of Resist Toxin. This is an ACTIVE RESIST effect, and requires the use of a defense slot. |
 
 | | **Disable Limb** |
 |:---|---|
@@ -2741,6 +2694,13 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I call upon the spirits to cleanse you._ |
 | **Description** | This spell removes a single lingering effect of the target's choice. This may not remove DRAIN, DEAD, UNCONSCIOUS or INFECT.  |
 
+| | **Entrap Spirit** |
+|:---|---|
+| **Level** | 5 |
+| **Duration** | Rest |
+| **Incant** | _I call forth mystic force to entrap your spirit._ |
+| **Description** | This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it. |
+
 | | **Field Resurrection** |
 |:---|---|
 | **Level** | 5 |
@@ -2753,7 +2713,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 5 |
 | **Duration** | Instant |
 | **Incant** | _I call upon the spirits to revivify you._ |
-| **Description** | This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect. |
+| **Description** | This spell restores a dead target to life at 0 body, and unconscious. The target may not become conscious for at least 60 seconds, regardless of any other effect they are affected by (such as Cleanse or healing).  This is a LIFE effect. |
 
 | | **Fear** |
 |:---|---|
@@ -2783,6 +2743,13 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I curse you with a vampiric touch._ |
 | **Description** | This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's body. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's body is fully recovered. This spell will heal either a living or an undead caster.  |
 
+| | **Heal Mortal Wounds** |
+|:---|---|
+| **Level** | 8 |
+| **Duration** | Instant |
+| **Incant** | _I call upon the spirits to heal mortal wounds 40._ |
+| **Description** | This spell will heal a target for 40 body points.  Unless specifically noted as a monster or transform ability PCs and NPCs cannot be hurt by this spell. |
+
 | | **Destroy Undead** |
 |:---|---|
 | **Level** | 8 |
@@ -2796,6 +2763,13 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Duration** | Rest |
 | **Incant** | _I call upon the spirits to create a phylactery._ |
 | **Description** | This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body be reduced to 0, the caster immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body without incurring SP Debt. The phylactery is always destroyable. Should the phylactery be destroyed, the character dies and the spirit must seek resurrection normally, including incurring SP Debt.  This is a SPIRIT BOTTLE effect.  |
+
+| | **Ricochet Magic** |
+|:---|---|
+| **Level** | 8 |
+| **Duration** | Rest |
+| **Incant** | _I call forth mystic force to ricochet magic_ |
+| **Description** | This spell grants the target a single use of Magic Rebound Magic Blinding Light. This is an ACTIVE RESIST effect, and requires the use of a defense slot. |
 
 | | **Create Undead** |
 |:---|---|
@@ -2811,19 +2785,33 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I curse you with enervation_ |
 | **Description** | The caster saps the vital force of the target, weakening their connection to life. For the duration of this effect, if any damage causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state, and they become immune to REVIVIFY effects for their current DEAD count. This is an ENERVATE effect.  |
 
+| | **Life** |
+|:---|---|
+| **Level** | 10 |
+| **Duration** | 5 seconds |
+| **Incant** | _I grant you the gift of Life._ |
+| **Description** | This spell will restore dead target to 1 body. It does nothing to a target that is not dead. This is a LIFE effect.  |
+
+| | **Paralytic Plague** |
+|:---|---|
+| **Level** | 10 |
+| **Duration** | Concentration |
+| **Incant** | _I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb..._ |
+| **Description** | The caster plants their feet and is able to throw Magic Curse until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense.  |
+
+| | **Regenerate** |
+|:---|---|
+| **Level** | 10 |
+| **Duration** | 1 minute |
+| **Incant** | _I call upon Nature to regenerate you._ |
+| **Description** | This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect. |
+
 | | **Storm of Curses** |
 |:---|---|
 | **Level** | 10 |
 | **Duration** | Concentration |
 | **Incant** | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
 | **Description** | The caster plants their feet and is able to throw Magic Curse until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense.  |
-
-| | **Life** |
-|:---|---|
-| **Level** | 10 |
-| **Duration** | 5 seconds |
-| **Incant** | _I grant you the gift of Life._ |
-| **Description** | This spell will restore a living or dead target to full maximum body, and remove all ongoing effects of the target's choice. This is a LIFE effect.  |
 
 # Ritual Magic
 
@@ -3017,7 +3005,7 @@ Some items have limited uses. This is represented by a durability rating. If you
 |First Aid|4|||
 |Identify|0|||
 |Parrying Dagger|2|||
-|Ritual Magic|20|||
+|Ritual Magic|5|||
 |Specialization|10|||
 |Spell Strike|0|||
 |Tap Reserves|0|||
@@ -4290,69 +4278,65 @@ Goblin Points can be spent on a variety of options that may change over time to 
 ### Spells
 | Level | Arcane | Nature | Spirit | Universal |
 |---|---|---|---|---|
-| 1 |Blinding Light<br>Mana Bolt|Command: Disarm<br>Grasping Grasses<br>Purify Food and Drink|Control: Minor Undead<br>Heal Wounds<br>Transfer Malady|Glowing Light|
-| 2 |Disrupt Aether<br>Stop|Boon of Nature<br>Entangle Foot<br>Plant Spike|Harm Undead<br>Preserve Corpse||
-| 3 |Limited Time Stop|Boon of the Armadillo<br>Boon of the Tiger<br>Freedom|Weakness||
-| 4 |Conjure Weapon<br>Temporal Shift†|Command: Kneel<br>Entangle Arms|Disable Limb|Barrier|
-| 5 |Enchanted Blade<br>Conjure Shield<br>Limited Teleport†|Command: Silence<br>Treehome†|Cleanse<br>Field Resurrection<br>Revivify|Entrap Spirit|
-| 6 |Nullify<br>Stasis†|Command: Sleep<br>Enhanced Focus<br>Entangle Body|Fear<br>Solidify||
-| 7 |Destroy<br>Haste<br>Rift Lock|Command: Confuse<br>Confine|Curse<br>Vampiric Touch||
-| 8 |Bag of Holding|Boon of the Cat<br>Command: Stun|Destroy Undead<br>Limited Phylactery†||
-| 9 |Circle of Power|Treewalk†<br>Regenerate<br>Wrath of Nature, Other|Create Undead<br>Enervate|Dispel Magic|
-| 10 |Arcane Torrent<br>Doom|Sanctuary<br>Spider Web|Storm of Curses<br>Life||
+| 1 |Glowing Light<br>Mana Bolt|Command: Slow<br>Hot Foot|Control: Minor Undead||
+| 2 |Disrupt Aether<br>Stop|Command: Disarm<br>Entangle Foot|Harm Undead<br>Heal Light Wounds<br>Preserve Corpse||
+| 3 |Control: Minor Elemental<br>Elemental Blade|Freedom<br>Repel|Blinding Light<br>Weakness||
+| 4 |Barrier: Magic<br>Conjure Weapon<br>Enchanted Blade|Barrier: Physical<br>Command: Kneel<br>Entangle Arms|Barrier: Toxin<br>Disable Limb||
+| 5 |Conjure Shield<br>Limited Teleport†|Command: Silence|Cleanse<br>Entrap Spirit<br>Field Resurrection<br>Revivify||
+| 6 |Nullify<br>Stasis†|Command: Sleep<br>Command: Focus|Fear<br>Solidify||
+| 7 |Destroy<br>Rift Lock|Command: Calm|Curse<br>Vampiric Touch||
+| 8 |Ricochet Physical<br>Bag of Holding|Ricochet Toxin|Heal Mortal Wounds<br>Destroy Undead<br>Limited Phylactery†<br>Ricochet Magic||
+| 9 |Circle of Power<br>Dispel Magic|Confine|Create Undead<br>Enervate||
+| 10 |Arcane Torrent<br>Doom<br>Suppress Magic|Command: Stun<br>Sanctuary<br>Spider Web|Life<br>Paralytic Plague<br>Regenerate<br>Storm of Curses||
 
 
 #### Arcane Spells
 | Level | Spell | Incant |
 |---:|---|:---|
-| 1 | Blinding Light | _With arcane forces I blind you._ |
+| 1 | Glowing Light | _I conjure a glowing light._ |
 | 1 | Mana Bolt | _I conjure a Mana Bolt \<#>._ |
 | 2 | Disrupt Aether | _With arcane forces I disrupt your aether._ |
 | 2 | Stop | _With arcane forces I stop you._ |
-| 3 | Limited Time Stop | _With arcane forces I stop time on \<spell name>_ |
+| 3 | Control: Minor Elemental | _With arcane forces I control you._ |
+| 3 | Elemental Blade | _I grant you the power of an Enchanted Blade._ |
+| 4 | Barrier: Magic | _I call forth mystic force to barrier magic_ |
 | 4 | Conjure Weapon | _I conjure an arcane \<weapon>._ |
-| 4 | Temporal Shift† | _With arcane forces I create a temporal shift. \<effect name>_ |
-| 5 | Enchanted Blade | _I grant you the power of an Enchanted Blade._ |
+| 4 | Enchanted Blade | _I grant you the power of an Enchanted Blade._ |
 | 5 | Conjure Shield | _I conjure an arcane shield._ |
 | 5 | Limited Teleport† | _With arcane forces I move across time and space._ |
 | 6 | Nullify | _I summon a force to nullify your \<Effect>._ |
 | 6 | Stasis† | _With arcane forces I enter stasis_ |
 | 7 | Destroy | _With arcane forces I destroy your \<item>._ |
-| 7 | Haste | _With arcane forces I hasten your time._ |
 | 7 | Rift Lock | _I conjure a rift lock._ |
+| 8 | Ricochet Physical | _I call forth mystic force to ricochet physical_ |
 | 8 | Bag of Holding | _I conjure a bag of holding._ |
 | 9 | Circle of Power | _I conjure a Circle of Power._ |
+| 9 | Dispel Magic | _I call forth mystic force to to dispel magic_ |
 | 10 | Arcane Torrent | _I rain destruction about you all! ... Magic mana bolt 5, Magic mana bolt 5, ..._ |
-| 10 | Doom | _I set your doom upon you, 25_ |
+| 10 | Doom | _I set your doom upon you, 50_ |
+| 10 | Suppress Magic | _I call forth mystic force to suppress magic_ |
 
 
 
 #### Nature Spells
 | Level | Spell | Incant |
 |---:|---|:---|
-| 1 | Command: Disarm | _I command you to disarm \<item>._ |
-| 1 | Grasping Grasses | _I call upon Nature to slow your steps._ |
-| 1 | Purify Food and Drink | _I call upon Nature to purify this nourishment._ |
-| 2 | Boon of Nature | _I call upon Nature to bless this nourishment._ |
+| 1 | Command: Slow | _I command you to be slow._ |
+| 1 | Hot Foot | _I command you to dance._ |
+| 2 | Command: Disarm | _I command you to disarm \<item>._ |
 | 2 | Entangle Foot | _I call upon Nature to entangle your foot._ |
-| 2 | Plant Spike | _I conjure a plant spike, 10 Normal._ |
-| 3 | Boon of the Armadillo | _I grant you the power of an armadillo's boon._ |
-| 3 | Boon of the Tiger | _I grant you the power of a tiger's boon._ |
 | 3 | Freedom | _I call upon Nature to grant you freedom._ |
+| 3 | Repel | _I call forth mystic force to repel you_ |
+| 4 | Barrier: Physical | _I call forth mystic force to barrier physical_ |
 | 4 | Command: Kneel | _I command you to kneel._ |
 | 4 | Entangle Arms | _I call upon Nature to entangle your arms._ |
 | 5 | Command: Silence | _I command you to be silent._ |
-| 5 | Treehome† | _I call upon nature to grant safe haven._ |
 | 6 | Command: Sleep | _I command you to sleep._ |
-| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
-| 6 | Entangle Body | _I call upon Nature to entangle your body._ |
-| 7 | Command: Confuse | _I command you to be confused._ |
-| 7 | Confine | _I call upon Nature to confine you._ |
-| 8 | Boon of the Cat | _I grant you the power of a cat's boon._ |
-| 8 | Command: Stun | _I command you to be stunned._ |
-| 9 | Treewalk† | _I call upon nature to clear a path._ |
-| 9 | Regenerate | _I call upon Nature to regenerate you._ |
-| 9 | Wrath of Nature, Other | _I grant you the power of a vengeful wrath._ |
+| 6 | Command: Focus | _I grant you the power of enhanced focus._ |
+| 7 | Command: Calm | _I command you to be calm._ |
+| 8 | Ricochet Toxin | _I call forth mystic force to ricochet toxin_ |
+| 9 | Confine | _I call upon Nature to confine you._ |
+| 10 | Command: Stun | _I command you to be stunned._ |
 | 10 | Sanctuary | _I call upon Nature to grant you Sanctuary_ |
 | 10 | Spider Web | _I call upon Nature to set webs upon you all! ... Physical Entangle Body, Physical Entangle Body, ..._ |
 
@@ -4360,25 +4344,31 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | Level | Spell | Incant |
 |---:|---|:---|
 | 1 | Control: Minor Undead | _I curse you with mindless obedience._ |
-| 1 | Heal Wounds | _I call upon the spirits to heal wounds \<#>._ |
-| 1 | Transfer Malady | _I call upon the spirits to transfer this malady. &lt;effect name>_ |
 | 2 | Harm Undead | _I call upon the spirits to harm undead 20._ |
+| 2 | Heal Light Wounds | _I call upon the spirits to heal light wounds 10._ |
 | 2 | Preserve Corpse | _I call upon the spirits to preserve your corpse._ |
+| 3 | Blinding Light | _I curse you with blindness._ |
 | 3 | Weakness | _I curse you with weakness_ |
+| 4 | Barrier: Toxin | _I call forth mystic force to barrier toxin_ |
 | 4 | Disable Limb | _I curse you with a disabled \<limb>_ |
 | 5 | Cleanse | _I call upon the spirits to cleanse you._ |
+| 5 | Entrap Spirit | _I call forth mystic force to entrap your spirit._ |
 | 5 | Field Resurrection | _I call upon the spirits to resurrect you._ |
 | 5 | Revivify | _I call upon the spirits to revivify you._ |
 | 6 | Fear | _I curse you with fear._ |
 | 6 | Solidify | _I call upon the spirits to solidify your form._ |
 | 7 | Curse | _I curse you with vulnerability._ |
 | 7 | Vampiric Touch | _I curse you with a vampiric touch._ |
+| 8 | Heal Mortal Wounds | _I call upon the spirits to heal mortal wounds 40._ |
 | 8 | Destroy Undead | _I call upon the spirits to destroy undead 80._ |
 | 8 | Limited Phylactery† | _I call upon the spirits to create a phylactery._ |
+| 8 | Ricochet Magic | _I call forth mystic force to ricochet magic_ |
 | 9 | Create Undead | _I curse you to rise as an undead._ |
 | 9 | Enervate | _I curse you with enervation_ |
-| 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
 | 10 | Life | _I grant you the gift of Life._ |
+| 10 | Paralytic Plague | _I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb..._ |
+| 10 | Regenerate | _I call upon Nature to regenerate you._ |
+| 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
 
 #### Universal Spells
 | Level | Spell | Incant |
@@ -4397,10 +4387,10 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 4 |Resourceful<br>Parry<br>Spell Parry<br>Weakening Strike|Encourage<br>Parry<br>Spell Parry|
 | 5 |Breaching Strike<br>Silencing Strike|Critical Vital|
 | 6 |Fearful Strike<br>Waylay|Intercept<br>Invigorate|
-| 7 |Critical Empowerment<br>Warbow Training|Critical Curse<br>Destroy|
+| 7 |Warbow Training|Critical Curse<br>Destroy|
 | 8 |Stunning Strike<br>Pernicious Strike<br>Surprising Proficiency|Endurance|
 | 9 |Dodge<br>Shadow Walk|Regenerate|
-| 10 |Murder<br>Purge<br>Tagalong|Rally<br>Slay| 
+| 10 |Critical Empowerment<br>Murder<br>Purge<br>Tagalong|Rally<br>Slay|
 
 #### Agility Abilities
 | Level | Ability | Verbal |
@@ -4419,7 +4409,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 5 | Silencing Strike | _Physical Silence_ |
 | 6 | Fearful Strike | _Physical Fear_ |
 | 6 | Waylay | _Physical Waylay_ |
-| 7 | Critical Empowerment | _I empower my \<effect> strike!_ |
+| 10 | Critical Empowerment | _I empower my \<effect> strike!_ |
 | 7 | Warbow Training | _My Bow is Ready_ |
 | 8 | Stunning Strike | _Physical Stun_ |
 | 8 | Pernicious Strike | _Toxin Strike \<effect>_ |
@@ -4488,12 +4478,12 @@ Goblin Points can be spent on a variety of options that may change over time to 
 ### Mage Skills
 | Skill | Primary | Secondary | Tertiary |
 |---|---|---|---|
-|Primary Initiation|3|4|5|
-|Secondary Initiation|4|10|10|
-|Tertiary Initiation|5|15|30|
-|Attunement|3+1|5+5|10+10|
-|Blood Magic|5|10|15|
-|Exsanguinate|0|||
+|Attunement: Arcane|4+2|4+4|10+10|
+|Attunement: Nature|4+2|4+4|10+10|
+|Attunement: Spirit|4+2|4+4|10+10|
+|Attunement: Thaumaturgy|16+4|||
+|Last Rites|0|||
+|Dredge|10|||
 
 ### Rogue Skills
 | Skill | Primary | Secondary | Tertiary |
@@ -4618,19 +4608,6 @@ In cases of extreme weather, staff may declare special exceptions for armor and 
 For armor, this would allow players to have their full armor points based on the assessment of their armor reps during check in, but would not require them to wear all armor pieces.
 
 For make up, this would lift the requirement of full face make up, so long as the character's race is still clearly represented.
-| Level | Stamina Abilities | Agility Abilities |
-|---|---|
-| 1 | Blind<br>Critical Strike<br>Disarm<br>Slow | Backstab |
-| 2 | Stop Thrust | Entangling Shot<br>Poison Shot |
-| 3 | Rapid Refit | Shake It Off |
-| 4 | Disable Limb<br>Kneel<br>Parry<br>Spell Parry<br>Stun | Kneeling Shot<br>Resourceful |
-| 5 | Silence<br>Vital Blow | Breaching Shot<br>Warbow Training |
-| 6 | Fear<br>Intercept | Waylay | 
-| 7 | Curse<br>Destroy | Ballista<br>Cursing Shot |
-| 8 | Endurance | Surprising Proficiency |
-| 9 | Regenerate | Dodge |
-| 10 | Slay<br>Weapon Proficiency | Murder |
-
 # Changelog
 
 ## 4.0.5 [2024-04-22]

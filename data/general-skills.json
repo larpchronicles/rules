@@ -55,7 +55,7 @@
     "description": "This skill allows the character to access the standard ritual magic library.  More information can be found in the Ritual Magic section.",
     "spCosts": {
       "base": {
-        "primary": "20"
+        "primary": "5"
       }
     }
   },

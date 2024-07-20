@@ -5,23 +5,7 @@
         "level": "1",
         "duration": "5 minutes",
         "incant": "I curse you with mindless obedience.",
-        "description": "This spell allows the caster to vocally control a minor undead creature. The creature cannot understand complex instructions, but it will follow simple directions to the best of its ability. The undead creature is destroyed once this spell ends.  This is a VOICE CONTROL effect. "
-    },
-    {
-        "name": "Heal Wounds",
-        "school": "Spirit",
-        "level": "1",
-        "duration": "Instant",
-        "incant": "I call upon the spirits to heal wounds <#>.",
-        "description": "This spell will heal a target with a metabolism 5x the mana used.  Undead can be healed by this spell.  Unless specifically noted as a monster or transform ability PCs and NPCs cannot be hurt by this spell.  Creatures without a metabolism take no effect. "
-    },
-    {
-        "name": "Transfer Malady",
-        "school": "Spirit",
-        "level": "1",
-        "duration": "Instant",
-        "incant": "I call upon the spirits to transfer this malady. &lt;effect name>",
-        "description": "This spell allows the caster to transfer a named existing effect from the target to themself. The caster of Transfer Malady must not already be suffering from the effect being transferred. Upon being transferred, the caster has the opportunity to resist the effect if there is a valid resist available to the caster of Transfer Malady. If the effect is not resisted, the effect's duration is renewed upon the caster. The following effects may be transferred: Any TOXIN effect, CURSE, WEAKNESS, SLEEP, SLOW, STUN. "
+        "description": "This spell allows the caster to vocally control a minor undead creature. The creature cannot understand complex instructions, but it will follow simple directions to the best of its ability. This is a VOICE CONTROL effect. "
     },
     {
         "name": "Harm Undead",
@@ -32,6 +16,14 @@
         "description": "This spell will cause 20 points of body damage to an undead target. "
     },
     {
+        "name": "Heal Light Wounds",
+        "school": "Spirit",
+        "level": "2",
+        "duration": "Instant",
+        "incant": "I call upon the spirits to heal light wounds 10.",
+        "description": "This spell will heal a target for 10 body points.  Unless specifically noted as a monster or transform ability PCs and NPCs cannot be hurt by this spell."
+    },
+    {
         "name": "Preserve Corpse",
         "school": "Spirit",
         "level": "2",
@@ -40,12 +32,28 @@
         "description": "This spell will halt the death count of a dead body as long as the spirit is still tethered to the corpse. Once this spell has ended, the original death count resumes from where it stopped. A corpse may only be preserved once before it must be healed, or revived. May not be dispelled.  This is a PRESERVE effect. "
     },
     {
+        "name": "Blinding Light",
+        "school": "Spirit",
+        "level": "3",
+        "duration": "20 seconds",
+        "incant": "I curse you with blindness.",
+        "description": "This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. "
+    },
+    {
         "name": "Weakness",
         "school": "Spirit",
         "level": "3",
         "duration": "20 seconds",
         "incant": "I curse you with weakness",
         "description": "This spell causes the target's total weapon damage to be reduced to half for the duration of this spell. Total weapon damage includes any weapon proficiencies, critical strikes, spell damage bonus, strength bonus, etc. Effect may not be stacked or extended.  This is a WEAKEN effect. "
+    },
+    {
+        "name": "Barrier: Toxin",
+        "school": "Spirit",
+        "level": "4",
+        "duration": "Rest",
+        "incant": "I call forth mystic force to barrier toxin",
+        "description": "This spell grants the target a single use of Resist Toxin. This is an ACTIVE RESIST effect, and requires the use of a defense slot."
     },
     {
         "name": "Disable Limb",
@@ -64,6 +72,14 @@
         "description": "This spell removes a single lingering effect of the target's choice. This may not remove DRAIN, DEAD, UNCONSCIOUS or INFECT. "
     },
     {
+        "name": "Entrap Spirit",
+        "school": "Spirit",
+        "level": "5",
+        "duration": "Rest",
+        "incant": "I call forth mystic force to entrap your spirit.",
+        "description": "This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it."
+    },
+    {
         "name": "Field Resurrection",
         "school": "Spirit",
         "level": "5",
@@ -77,7 +93,7 @@
         "level": "5",
         "duration": "Instant",
         "incant": "I call upon the spirits to revivify you.",
-        "description": "This spell restores a dead target to life at 0 body, and unconscious. It does not remove any lingering maladies or effects.  This is a LIFE effect."
+        "description": "This spell restores a dead target to life at 0 body, and unconscious. The target may not become conscious for at least 60 seconds, regardless of any other effect they are affected by (such as Cleanse or healing).  This is a LIFE effect."
     },
     {
         "name": "Fear",
@@ -112,6 +128,14 @@
         "description": "This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's body. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's body is fully recovered. This spell will heal either a living or an undead caster. "
     },
     {
+        "name": "Heal Mortal Wounds",
+        "school": "Spirit",
+        "level": "8",
+        "duration": "Instant",
+        "incant": "I call upon the spirits to heal mortal wounds 40.",
+        "description": "This spell will heal a target for 40 body points.  Unless specifically noted as a monster or transform ability PCs and NPCs cannot be hurt by this spell."
+    },
+    {
         "name": "Destroy Undead",
         "school": "Spirit",
         "level": "8",
@@ -126,6 +150,14 @@
         "duration": "Rest",
         "incant": "I call upon the spirits to create a phylactery.",
         "description": "This spell will store the caster's spirit temporarily within a prepared effigy of the character. This spell takes 5 minutes to cast. At the end of the casting of this spell, the caster immediately dies; the caster's spirit is stored within the effigy, and the caster's body rises as an undead fully under the control of the character's spirit. The character's spirit and their body are magically linked so that the spirit may remotely control the body until the spirit rests. The spirit is limited in which skills are now available to the body, the following skills cannot be used by the body: Weapon Skills, Claws, Level 9+ Spells, Stamina abilities, Agility abilities. The Limited Phylactery effect is not able to be dispelled, and it cannot be recast by the caster until the spirit has rested. The body is considered a Greater Undead. Should the body be reduced to 0, the caster immediately crumbles and the spell ends, at which point the caster's spirit returns to the spirit bottle and regenerates their original body without incurring SP Debt. The phylactery is always destroyable. Should the phylactery be destroyed, the character dies and the spirit must seek resurrection normally, including incurring SP Debt.  This is a SPIRIT BOTTLE effect. "
+    },
+    {
+        "name": "Ricochet Magic",
+        "school": "Spirit",
+        "level": "8",
+        "duration": "Rest",
+        "incant": "I call forth mystic force to ricochet magic",
+        "description": "This spell grants the target a single use of Magic Rebound Magic Blinding Light. This is an ACTIVE RESIST effect, and requires the use of a defense slot."
     },
     {
         "name": "Create Undead",
@@ -145,19 +177,35 @@
         "description": "The caster saps the vital force of the target, weakening their connection to life. For the duration of this effect, if any damage causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state, and they become immune to REVIVIFY effects for their current DEAD count. This is an ENERVATE effect. "
     },
     {
+        "name": "Life",
+        "school": "Spirit",
+        "level": "10",
+        "duration": "5 seconds",
+        "incant": "I grant you the gift of Life.",
+        "description": "This spell will restore dead target to 1 body. It does nothing to a target that is not dead. This is a LIFE effect. "
+    },
+    {
+        "name": "Paralytic Plague",
+        "school": "Spirit",
+        "level": "10",
+        "duration": "Concentration",
+        "incant": "I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb...",
+        "description": "The caster plants their feet and is able to throw Magic Curse until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. "
+    },
+    {
+        "name": "Regenerate",
+        "school": "Spirit",
+        "level": "10",
+        "duration": "1 minute",
+        "incant": "I call upon Nature to regenerate you.",
+        "description": "This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect."
+    },
+    {
         "name": "Storm of Curses",
         "school": "Spirit",
         "level": "10",
         "duration": "Concentration",
         "incant": "I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse...",
         "description": "The caster plants their feet and is able to throw Magic Curse until their concentration is broken (body damage or any status effect that would prevent spellcasting), they move their feet, or they activate a game skill other than calling a defense. "
-    },
-    {
-        "name": "Life",
-        "school": "Spirit",
-        "level": "10",
-        "duration": "5 seconds",
-        "incant": "I grant you the gift of Life.",
-        "description": "This spell will restore a living or dead target to full maximum body, and remove all ongoing effects of the target's choice. This is a LIFE effect. "
     }
 ]

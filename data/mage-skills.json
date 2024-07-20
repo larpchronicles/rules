@@ -1,40 +1,7 @@
 [
     {
-        "name": "Primary Initiation",
-        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
-        "spCosts": {
-            "base": {
-                "primary": "3",
-                "secondary": "4",
-                "tertiary": "5"
-            }
-        }
-    },
-    {
-        "name": "Secondary Initiation",
-        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
-        "spCosts": {
-            "base": {
-                "primary": 4,
-                "secondary": 10,
-                "tertiary": 10
-            }
-        }
-    },
-    {
-        "name": "Tertiary Initiation",
-        "description": "This skill allows a character to be initiated into a school of magic, allowing them to allocate mana points to that school or memorize spells from that school each Rest. This skill may be purchased once for each school of magic (Arcane, Nature, Spirit).",
-        "spCosts": {
-            "base": {
-                "primary": 5,
-                "secondary": 15,
-                "tertiary": 30
-            }
-        }
-    },
-    {
-        "name": "Attunement",
-        "description": "Increases the characters Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
+        "name": "Attunement: Arcane",
+        "description": "Increases the characters Arcane Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
         "spCosts": {
             "base": {
                 "primary": "4",
@@ -49,26 +16,72 @@
         }
     },
     {
-        "name": "Blood Magic",
-        "description": "Blood Magic reduces a character's Mana Point cap to 25% of their maximum Mana Points (rounded down). However, Blood Mages are able to replenish their Mana Points (up to their new maximum Mana Points) with the Exsanguinate ability. Blood Mages cannot use memorization, and are ineligible for the bonus Mana Points associated with it.",
+        "name": "Attunement: Nature",
+        "description": "Increases the characters Nature Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
         "spCosts": {
             "base": {
-                "primary": "5",
-                "secondary": "10",
-                "tertiary": "15"
+                "primary": "4",
+                "secondary": "4",
+                "tertiary": "10"
+            },
+            "increment": {
+                "primary": "2",
+                "secondary": "4",
+                "tertiary": "10"
             }
         }
     },
     {
-        "name": "Exsanguinate",
-        "description": "This allows a character to perform an exsanguination on a recently-dead corpse to increase their current Mana Points by 5. \"Doing so requires a 3 count of 1 I exsanguinate, 2 I exsanguinate, 3 I exsanguinate\". Upon completion, the character's current Mana Points are increased by 5. This does not allow a character to increase their current Mana Points above their maximum Mana Point cap. The target of this ability must be a creature that had a metabolism and is currently in its Death count. Note: Similar to Entrap Spirit, this ability may be used on the corpse of an NPC that did not wait to be searched, Entrapped, or Exsanguinated. Under these circumstances, the player must inform the mod marshal that they intend to use this ability on the mod, or immediately after its use.",
+        "name": "Attunement: Spirit",
+        "description": "Increases the characters Spirit Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
+        "spCosts": {
+            "base": {
+                "primary": "4",
+                "secondary": "4",
+                "tertiary": "10"
+            },
+            "increment": {
+                "primary": "2",
+                "secondary": "4",
+                "tertiary": "10"
+            }
+        }
+    },
+    {
+        "name": "Attunement: Thaumaturgy",
+        "description": "Increases the character's Thaumaturgy Mana Pool by 10 points. A character may NOT purchase Attunement: Thaumaturgy if they have any other Attunement skill. Only characters with Thaumaturgy as their Primary Skillset may purchase Attunement: Thaumaturgy; it cannot be a Secondary or Tertiary skill. Thaumaturges cannot use memorization and are ineligible for the bonus Mana Points associated with it (they may still use memorization for any Stamina or Agility pools they have, if they choose).<br><br>Thaumaturgy does not grant access to a school of spells like other Attunement skills do for their respective spell lists. Instead, each Rest, Thaumaturges may, for each spell level below 10, choose 2 spells from different schools of magic to be able to cast that day. These are the only spells on which the character may expend Mana Points. If the Thaumaturge has purchased the Specialization skill for one of Arcane, Nature, or Spirit, then they are also able to cast all of the 10th level spells in that school.",
+        "spCosts": {
+            "base": {
+                "primary": "16"
+            },
+            "increment": {
+                "primary": "4"
+            }
+        }
+    },
+    {
+        "name": "Last Rites",
+        "description": "This allows a character to perform a short ritual on a recently-dead corpse to replenish their mana. Upon completion, the character's current Thaumaturgy Mana Points are increased by 5. This does not allow a character to increase their current Mana Points above their maximum Mana Point cap.<br><br>The target of this ability must be a creature that had a metabolism, is currently in its Death count, is not Reviving, cannot seek resurrection <i>(ie, not a PC)</i>, and was physically repped by a player <i>(situational exceptions may be granted only by Plot)</i>. Note: Similar to Entrap Spirit, this ability may be used on the corpse of an NPC that did not wait to be searched, Entrapped, or given Last Rites. Under these circumstances, the player <b><i>must</b></i> inform the mod marshal that they intend to use this ability on the mod or immediately after its use.<br><br>Performing the Last Rites ability requires the in game verbal, 'Last Rites' and then a thematically appropriate couplet of the character's choice. All verbals must be approved by the Head of Plot, recorded and signed off on the player's character sheet.<br><br>Ex:<br>\"A strengthened pounding in my chest, as I now lay you to rest.\"\n\n\"Your mana drank adds to my power, now my enemies quake and cower.\"\n\n\"By sword and spell you have been slain, leave only body and blood stains.\"",
         "prereqs": [{
-            "name": "Blood Magic",
+            "name": "Attunement: Thaumaturgy",
             "ranks": 1
         }],
         "spCosts": {
             "base": {
                 "primary": "0"
+            }
+        }
+    },
+    {
+        "name": "Dredge",
+        "description": "This skill replaces the Last Rites ability. Dredge allows a Thaumaturge access to the spells Control Minor Undead, Entrap Spirit, Vampiric Touch, Create Undead, and Enervate, without needing to allocate them to one of their 2 spells/level.<br><br>Game Lore Note: Dredging a corpse is a form of necromancy and is illegal in most kingdoms. It carries a social stigma in nearly all cultures; it is perceived as a desecration and is regarded as disrespectful, vile, unclean, a perversion, <i>etc.</i>.",
+        "prereqs": [{
+            "name": "Last Rites",
+            "ranks": 1
+        }],
+        "spCosts": {
+            "base": {
+                "primary": "10"
             }
         }
     }

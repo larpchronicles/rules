@@ -1,34 +1,6 @@
 [
-    {
-        "name": "Glowing Light",
-        "school": " Universal",
-        "level": "1",
-        "duration": "12 hours",
-        "incant": "I conjure a glowing light.",
-        "description": "This spell allows the character to use a filtered light in game. Typical reps for a light include a small filtered flashlight or a glow stick less than 6 in length. Make sure that your light is only emitting a soft glow and not a sharp directed light as a game marshal may ask you to extinguish your light! The light is bound to the caster of the spell; should the caster be affected by a Dispel Magic spell or die, this spell will end immediately. A Glowing Light cannot be passed from one character to another."
-    },
-    {
-        "name": "Barrier",
-        "school": " Universal",
-        "level": "4",
-        "duration": "Rest",
-        "incant": "I call forth mystic force to barrier <Delivery Type>",
-        "description": "This spell grants the target a single use of ONE of Resist Toxin, Resist Physical, or Resist Magic. This is an ACTIVE RESIST effect."
-    },
-    {
-        "name": "Entrap Spirit",
-        "school": "Universal",
-        "level": "5",
-        "duration": "Rest",
-        "incant": "I call forth mystic force to entrap your spirit.",
-        "description": "This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it."
-    },
-    {
-        "name": "Dispel Magic",
-        "school": "Universal",
-        "level": "9",
-        "duration": "Instant",
-        "incant": "I call forth mystic force to to dispel magic",
-        "description": "This spell will remove all spell effects from the target character or item. This spell does not remove TOXIN effects or effects with physical sources. Dispel Magic is assumed to remove a spell effect unless otherwise noted in the spell description. Dispel Magic does not effect Glyphs or similar items."
-    }
+
+
+
+
 ]
