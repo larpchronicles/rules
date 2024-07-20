@@ -1,4 +1,4 @@
-**Rules Version: 4.0.5**  _Sat Jul 20 2024_
+**Rules Version: 4.1.0**  _Sat Jul 20 2024_
 
 
 # Chronicles Game Rules
