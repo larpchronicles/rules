@@ -17,7 +17,7 @@
     },
     {
         "name": "Backstab",
-        "description":  "This skill allows the character add 2 damage to their melee weapon swings, while attacking from behind their target. The player must be physically behind the target and able to see both of the target's shoulder blades. This skill stacks with other Weapon Proficiencies.",
+        "description":  "For each purchase of this skill, the character gains +3 damage that can be allocated as chosen between front and back damage. The total of the damage allocated to only backstabbing must be equal to or greater than double the damage allocated to the front, and at least 1 point must be allocated to the front. Ie, no more than 1/3rd of the damage points can be allocated to the front. Put another way, the front damage cannot exceed the number of Backstabs purchased. A character cannot purchase both the Proficiency skill and the Backstab skill. To use the damage from behind, the player must be physically behind the target and able to see both of the target's shoulder blades. <br><br>Example:<br>Reynold the Rogue purchases 10 Backstabs. He may allocate his +30 damage points in any of these ways: +10 front /+20 back, +5 front /+25 back, +1 front/+29 back.",
         "spCosts": {
             "base": {
                 "primary": 10,
@@ -25,8 +25,8 @@
                 "tertiary": 10
             },
             "increment": {
-                "primary": 2,
-                "secondary": 5,
+                "primary": 5,
+                "secondary": 7,
                 "tertiary": 10
             }
         }
