@@ -32,7 +32,7 @@
         "description": "This spell will halt the death count of a dead body as long as the spirit is still tethered to the corpse. Once this spell has ended, the original death count resumes from where it stopped. A corpse may only be preserved once before it must be healed, or revived. May not be dispelled.  This is a PRESERVE effect. "
     },
     {
-        "name": "Blinding Light",
+        "name": "Blindness",
         "school": "Spirit",
         "level": "3",
         "duration": "20 seconds",
