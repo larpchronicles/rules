@@ -89,20 +89,20 @@
         "description": " This spell will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This is a SLEEP effect."
     },
     {
-        "name": "Command: Focus",
+        "name": "Enhanced Focus",
         "school": "Nature",
         "level": "6",
-        "duration": "20 seconds",
+        "duration": "Indefinite",
         "incant": "I grant you the power of enhanced focus.",
-        "description": "Enhanced Focus allows the target to maintain Concentration despite taking damage. If the target has an active turret-style spell (such as Arcane Torrent, or Spiderwebs), that target may immediately take up to 10 steps without interrupting the turret spell. Status effects that interrupt concentration (such as Stun) will still do so. A character may not be affected by Enhanced Focus for at least 1 minute after being affected by a previous Enhanced Focus effect."
+        "description": "The next time the target's concentration would be interrupted, the effect of this spell is consumed instead. Alternatively, the effect may be consumed to allow the target to immediately take up to 10 steps without interrupting an active turret-style spell (such as Arcane Torrent, Spiderwebs, Paralytic Plague, etc.).<br><br>This spell may be self-cast while concentrating without interrupting the caster's concentration. A character may be affected by Enhanced Focus only if they are already concentrating. A character may not have more than one instance of Enhanced Focus at any time. The effect ends when it is consumed, the current concentration has completed or been interrupted, or the target has been affected by a Dispel Magic, Nullify, Suppress Magic, or similar effect. A character may not benefit from Enhanced Focus more than once per concentration."
     },
     {
         "name": "Command: Calm",
         "school": "Nature",
         "level": "7",
-        "duration": "20 seconds",
+        "duration": "5 minutes",
         "incant": "I command you to be calm.",
-        "description": " This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect"
+        "description": "The target of this spell is unable to take aggressive or violent action against the caster. The target is still free to say or do anything else they like, so long as it is not an attack against the caster. It does not force any changes to what the target thinks or feels of the target. The effect ends immediately if the caster attempts to use any ability or effect on the target."
     },
     {
         "name": "Ricochet Toxin",
