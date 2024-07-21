@@ -44,7 +44,7 @@
         "school": "Arcane",
         "level": "3",
         "duration": "Rest",
-        "incant": "I grant you the power of an Enchanted Blade.",
+        "incant": "I grant you the power of an Elemental Blade.",
         "description": "This spell will grant the target the ability to strike with a chosen element aura against a single opponent of the target's choice. To use the Elemental Blade, the target must state I invoke an [Element] Blade, where Element is one of Flame, Frost, Shock, or Stone, at which point they will have to choose the opponent that they may use the aura against. Acts as per Critical Effect. Effect is lost if the target dies and requires a LIFE effect, or if the target rests.  This is an AURA effect. "
     },
     {
