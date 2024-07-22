@@ -1,4 +1,4 @@
-**Rules Version: 4.1.0**  _Sat Jul 20 2024_
+**Rules Version: 4.1.0-5**  _Sun Jul 21 2024_
 
 
 # Chronicles Game Rules
@@ -196,26 +196,25 @@ If a player wants to promote a character to their primary character and demote t
 # Game Setting
 
 ---
-Chronicles is a sword & sorcery fantasy game set in a pre-industrial world called Evren.  Our chapter primarily centers around the port town of Varos within the Kingdom of the Terran Valley.  Adventurers from all over this world -- and a former world named Tyra -- meet in Varos for the market fairs.
+Chronicles is a sword & sorcery fantasy game set in a pre-industrial world called Evren.  Our chapter primarily centers around the port town of Varos within the Kingdom of the Terran Valley.  Adventurers from all over this world meet in Varos for the market fairs.
 
-In Evren, adventurers are regarded as <i>different</i> from the normal folk in the world.  For example, adventurers are much less likely to easily suffer permanent death, they tend to grow rapidly in skill, and they generate gold -- or so a certain simple Kobold merchant might claim.
+In Evren, adventurers may be regarded as <i>different</i> from the normal folk in the world.  
 
-A weekend event is referred to as a market fair and these are nearly always held in Varos, but Evren has plenty of other locations to visit, ~explode~ explore, form alliances, build towns, make enemies, and more.  A longer, player-maintained glossary of in world places and people can be found here: [Evren Reference and Glossary](https://docs.google.com/document/d/18_MQ0yYi5V50OxzQyPD17ieH1Wy_xmMLid2CtQKyeKM/edit)
+A weekend event is referred to as a market fair and these are nearly always held in Varos, but Evren has plenty of other locations to visit, ~explode~ explore, form alliances, build towns, make enemies, and more.  A longer, player-maintained glossary of in world places and people can be found in the glossary of the rulebook.
 
 ## Game Atmosphere
-Chronicles science, medicine, and technology is roughly in the 14th century (middle ages).  For roleplay, players are encouraged to act, speak, and behave as if they exist in that time frame.  We do of course allow players to use modern medicine but if possible, it should be done away from a large crowd to promote the in game atmosphere.
+Chronicles science, medicine, and technology is roughly equivalent to 14th century Earth.  For roleplay, players are encouraged to act, speak, and behave as if they exist in that time frame.  We do of course allow players to use modern medicine but if possible, it should be done away from a large crowd to promote the in game atmosphere.
 
 ### Religion
 There are beings known as gods in Chronicles, but how a character views or engages with them is up to the individual player.  No character is required to worship a god.
 
-We strive to be inclusive and respectful at Chronicles and do not want anyone to be in the situation of giving offense to others.  Players are disallowed from using real world religious symbols or iconography with their costuming, garb, or props.  Similarly, in roleplay, players should also avoid use of or invocations of gods, demons, or other recognizable figures of real world religious or spiritual importance.
+We strive to be inclusive and respectful at Chronicles and do not want anyone to be in the situation of giving offense to others.  The use of any real world religious symbols or iconography in the game, including costuming, garb, or props, is explicitly disallowed.  Similarly, in roleplay, it is unacceptable to use invocations of gods, demons, mythical creatures, legends, or other recognizable figures of real world religious, spiritual, or mythological importance.
 
 ### Politics
-In game politics are part of life. Whether a character wishes to serve the king loyally, ignore his command, or attempt a rebellion is up to them!  Just know that there may be in-game consequences for a character's actions.  As with religion, it is best to not use any recognizable OOG political symbols, since politics can be an anachronistic and fiery topic.
-It is also best to not talk about OOG politics during game.
+In game politics are part of life. Whether a character wishes to serve the king loyally, ignore his command, or attempt a rebellion is up to them!  Just know that there may be in-game consequences for a character's actions.  OOG political symbols, slogans, and iconography are explicitly disallowed.
 
 ### Necromancy
-Unlike the former world of Tyra, Evren as a whole does not view necromancy as an inherently evil or bad thing.  There will always be differing opinions held by the people of both worlds, but there are plenty of ways an adventurer that wishes to engage in necromancy may do so.
+Evren as a whole does not view necromancy as an inherently evil or bad thing, though most people find it at least distasteful. There are laws against it in nearly all kingdoms, and for those where it isn't, there are guilds that regulate and oversee its use.
 # Who You Will Encounter:  Staff, Players, Trust
 
 ## Plot Members and Marshals
@@ -966,9 +965,9 @@ Death lasts for 5 minutes, at which point, the character's body dissipates, and 
 
 While Dead, a character is not aware of their surroundings, and may not make any game actions, move, speak, be affected by any effect that reduces or heals Body Points, or be affected by any effect that does not specifically target Dead bodies.
 
-During the 5 minutes the character is Dead, if they receive a Life spell or Revivify spell, they become Alive as per the spell they receive _(ie, Life will restore the character's current Body to their maximum Body, Revivify will restore the character to Alive but Unconscious at 0 body)_.
+During the 5 minutes the character is Dead, if they receive a Life spell or Revivify spell, they become Alive as per the spell or effect they receive.
 
-Any effects that were present on the character when they became DEAD remain in effect, unless an effect specifies otherwise.
+Any spells or effects that were present on the character when they became DEAD are lost. This does not include active defenses, permanent effects, or other effects which explicitly state persistence through Death. This does include temporary spell buffs, Conjured Weapons, and status effects.  
 
 
 ## Spirits
@@ -1737,9 +1736,9 @@ Skill-less refers to any abilities purchased with Skill Points. A character does
 | BERSERK | Target feels compelled to attack the closest visible target for the duration. A character may not retreat while affected by Berserk.  A character cannot activate an item, single use effect, any skill or effect that is not renewed with a rest, or use any consumable items (potions, runes, etc.).  Non-consumable items like weapons can still be used. |Berserk|
 | BLEED OUT| Target is in BLEED OUT status and has -1 body. Unless the effect is ended, after 1 minute, target will take DEAD status.| None |
 | BLIND | Target is unable to use skills and attacks that require range beyond touch. | Varies by source. |
+| CALM | The target is unable to take aggressive action against the caster of this effect | |
 | CONCENTRATION | Character is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect. Concentration breaks upon taking damage. | None |
 | CONFINE | Target is bound by the called skill for x time and may not attack, block, or drop held items. They also may not activate any in-game skills other than Escape Artist.| Varies by source. |
-| CONFUSE | Target is disoriented and cannot tell allies from enemies, but is not forced to attack. | Varies by source. |
 | CONSCIOUS| Target in this status has at least 1 body. | Varies by source. |
 | CURSE | Target receives double damage. |(Type) Curse |
 | CURSE OF TRANSFORMATION | Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary. | Killing Blow 1, 2, 3, Curse of Transformation X |
@@ -1801,19 +1800,38 @@ For instance,  there are many creatures that have fangs, so a "fanged humanoid" 
 
 ---
 ## Skillset Prioritization
-Chronicles uses a classless skill system where players may choose primary and secondary skillsets for their character from three: Fighter, Mage, and Rogue.  The skillset not chosen as a primary or secondary will become the character's tertiary.  Choosing these skillsets will adjust the skill point costs of the skills within each skillset.  The available skillsets are named thematically for their related skills, which can give the average player a general idea of what they modify.
+Chronicles uses a classless skill system where players may choose primary and secondary skillsets for their character.  The skillsets not chosen as a primary or secondary will become the character's tertiary.  Choosing these skillsets will adjust the skill point costs of the skills within each skillset.  The available skillsets are named thematically for their related skills, which can give the average player a general idea of what they modify.
+
+### Arcane Skillset
+The Arcane skillset enables a character to delve into Arcane magic and cast Arcane spells.
 
 ### Fighter Skillset
 This skillset has a higher focus on the skills most related to fighting.  It has reduced costs for skills like weapon proficiencies, armor, shield, and stamina.
 
-### Mage Skillset
-This skillset has a higher focus on the skills most related to magic.  It has reduced costs for skills like magic school initiations and attunement.  It does not have reduced costs for ritual magic.
+### Nature Skillset
+The Nature skillset enables a character to delve into Nature magic and cast Nature spells.
+
+### Spirit Skillset
+The Spirit skillset enables a character to delve into Nature magic and cast Spirit spells.
 
 ### Rogue Skillset
 This skillset has a higher focus on the skills most related to subterfuge and utility.  It has reduced costs for skills such ass agility, lockpicking, trapping, and escaping.
 
+### Thaumaturgy Skillset
+The Thaumaturgy skillset enables a character to access all schools' spells, and to be able to refill their mana pool without Resting, but at the cost of a vastly decreased mana pool.
+
 ### General Skillset
 This skillset encompasses skills that have a general availability.  There are no cost adjustments for the skills in this skillset.  This skillset cannot be chosen as a primary, secondary, or tertiary skillset.
+# Arcane Skillset
+
+---
+| Skill | Primary | Secondary | Tertiary |
+|---|---|---|---|
+|Attunement: Arcane|4+2|4+4|10+10|
+
+## Attunement: Arcane  
+Increases the characters Arcane Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
+
 # Fighter Skillset
 
 ---
@@ -1852,39 +1870,25 @@ Increases the characters Stamina Pool by 10 points. Stamina Points are expended 
 
 ## Toughness  
 This skill adds 5 points of maximum health to the character for each time that this skill is purchased.
-# Mage Skillset
+# Nature Skillset
 
 ---
 | Skill | Primary | Secondary | Tertiary |
 |---|---|---|---|
-|Attunement: Arcane|4+2|4+4|10+10|
 |Attunement: Nature|4+2|4+4|10+10|
-|Attunement: Spirit|4+2|4+4|10+10|
-|Attunement: Thaumaturgy|16+4|||
-|Last Rites|0|||
-|Dredge|10|||
-
-## Attunement: Arcane  
-Increases the characters Arcane Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
 
 ## Attunement: Nature  
 Increases the characters Nature Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
 
+# Spirit Skillset
+
+---
+| Skill | Primary | Secondary | Tertiary |
+|---|---|---|---|
+|Attunement: Spirit|4+2|4+4|10+10|
+
 ## Attunement: Spirit  
 Increases the characters Spirit Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.
-
-## Attunement: Thaumaturgy  
-Increases the character's Thaumaturgy Mana Pool by 10 points. A character may NOT purchase Attunement: Thaumaturgy if they have any other Attunement skill. Only characters with Thaumaturgy as their Primary Skillset may purchase Attunement: Thaumaturgy; it cannot be a Secondary or Tertiary skill. Thaumaturges cannot use memorization and are ineligible for the bonus Mana Points associated with it (they may still use memorization for any Stamina or Agility pools they have, if they choose).<br><br>Thaumaturgy does not grant access to a school of spells like other Attunement skills do for their respective spell lists. Instead, each Rest, Thaumaturges may, for each spell level below 10, choose 2 spells from different schools of magic to be able to cast that day. These are the only spells on which the character may expend Mana Points. If the Thaumaturge has purchased the Specialization skill for one of Arcane, Nature, or Spirit, then they are also able to cast all of the 10th level spells in that school.
-
-## Last Rites  
-This allows a character to perform a short ritual on a recently-dead corpse to replenish their mana. Upon completion, the character's current Thaumaturgy Mana Points are increased by 5. This does not allow a character to increase their current Mana Points above their maximum Mana Point cap.<br><br>The target of this ability must be a creature that had a metabolism, is currently in its Death count, is not Reviving, cannot seek resurrection <i>(ie, not a PC)</i>, and was physically repped by a player <i>(situational exceptions may be granted only by Plot)</i>. Note: Similar to Entrap Spirit, this ability may be used on the corpse of an NPC that did not wait to be searched, Entrapped, or given Last Rites. Under these circumstances, the player <b><i>must</b></i> inform the mod marshal that they intend to use this ability on the mod or immediately after its use.<br><br>Performing the Last Rites ability requires the in game verbal, 'Last Rites' and then a thematically appropriate couplet of the character's choice. All verbals must be approved by the Head of Plot, recorded and signed off on the player's character sheet.<br><br>Ex:<br>"A strengthened pounding in my chest, as I now lay you to rest."
-
-"Your mana drank adds to my power, now my enemies quake and cower."
-
-"By sword and spell you have been slain, leave only body and blood stains."
-
-## Dredge  
-This skill replaces the Last Rites ability. Dredge allows a Thaumaturge access to the spells Control Minor Undead, Entrap Spirit, Vampiric Touch, Create Undead, and Enervate, without needing to allocate them to one of their 2 spells/level.<br><br>Game Lore Note: Dredging a corpse is a form of necromancy and is illegal in most kingdoms. It carries a social stigma in nearly all cultures; it is perceived as a desecration and is regarded as disrespectful, vile, unclean, a perversion, <i>etc.</i>.
 # Rogue Skillset
 
 ---
@@ -1901,7 +1905,7 @@ This skill replaces the Last Rites ability. Dredge allows a Thaumaturge access t
 Increases the character's Agility Pool by 10 points. Agility Points are expended to perform Agility Abilities (See: Agility). Agility Pool Points are refreshed upon a successful Rest.
 
 ## Backstab  
-For each purchase of this skill, the character gains +3 damage that can be allocated as chosen between front and back damage. The total of the damage allocated to only backstabbing must be equal to or greater than double the damage allocated to the front, and at least 1 point must be allocated to the front. Ie, no more than 1/3rd of the damage points can be allocated to the front. Put another way, the front damage cannot exceed the number of Backstabs purchased. A character cannot purchase both the Proficiency skill and the Backstab skill. To use the damage from behind, the player must be physically behind the target and able to see both of the target's shoulder blades. <br><br>Example:<br>Reynold the Rogue purchases 10 Backstabs. He may allocate his +30 damage points in any of these ways: +10 front /+20 back, +5 front /+25 back, +1 front/+29 back.
+For each purchase of this skill, the character gains +3 damage that can be allocated as chosen between front and back damage. The total of the damage allocated to only backstabbing must be equal to or greater than double the damage allocated to the front, and at least 1 point must be allocated to the front. Ie, no more than 1/3rd of the damage points can be allocated to the front. Put another way, the front damage cannot exceed the number of Backstabs purchased. This skill grants the character the ability to use one-handed melee weapons, and this skill may only be applied to one-handed melee weapons. The bonus damage from Backstab and One-Handed Weapon Proficiency may never be combined. A character cannot purchase both the One-handed Melee Proficiency skill and the Backstab skill. To use the damage from behind, the player must be physically behind the target and able to see both of the target's shoulder blades.<br><br>Example:<br>Reynold the Rogue purchases 10 Backstabs. He may allocate his +30 damage points in any of these ways: +10 front /+20 back, +5 front /+25 back, +1 front/+29 back.
 
 ## Escape Artist  
 This skill is purchased multiple times. Each time this skill is purchased, the character may escape from magical, or non-magical bindings by completing a 3 second count of escaping the bonds. "1 I escape binding...2 I escape binding…" This skill is refreshed each Rest.
@@ -1914,6 +1918,27 @@ This skill allows the character to use any single Spell or Stamina ability once 
 
 ## Trapping  
 This skill is purchased once. Trapping allows the character the chance to set a trap using the in-game trap tag, trap physical representation, and trap trigger. Setting a trap takes as long as it actually takes to set the trap. Trapping also allows the character to attempt to disarm a set trap using out of game and in-game tools. The character must actually disarm the trigger of the trap, and do so without destroying the trigger. Most disarmed traps can be saved for later use.
+# Thaumaturgy Skillset
+
+---
+| Skill | Primary | Secondary | Tertiary |
+|---|---|---|---|
+|Attunement: Thaumaturgy|16+4|||
+|Last Rites|0|||
+|Dredge|10|||
+
+## Attunement: Thaumaturgy  
+Increases the character's Thaumaturgy Mana Pool by 10 points. A character may NOT purchase Attunement: Thaumaturgy if they have any other Attunement skill. Only characters with Thaumaturgy as their Primary Skillset may purchase Attunement: Thaumaturgy; it cannot be a Secondary or Tertiary skill. Thaumaturges cannot use memorization and are ineligible for the bonus Mana Points associated with it (they may still use memorization for any Stamina or Agility pools they have, if they choose).<br><br>Thaumaturgy does not grant access to a school of spells like other Attunement skills do for their respective spell lists. Instead, each Rest, Thaumaturges may, for each spell level below 10, choose 2 spells from different schools of magic to be able to cast that day. These are the only spells on which the character may expend Mana Points. If the Thaumaturge has purchased the Specialization skill for one of Arcane, Nature, or Spirit, then they are also able to cast all of the 10th level spells in that school.
+
+## Last Rites  
+This allows a character to perform a short ritual on a recently-dead corpse to replenish their mana. Upon completion, the character's current Thaumaturgy Mana Points are increased by 5. This does not allow a character to increase their current Mana Points above their maximum Mana Point cap.<br><br>The target of this ability must be a creature that had a metabolism, is currently in its Death count, is not Reviving, cannot seek resurrection <i>(ie, not a PC)</i>, and was physically repped by a player <i>(situational exceptions may be granted only by Plot)</i>. Note: Similar to Entrap Spirit, this ability may be used on the corpse of an NPC that did not wait to be searched, Entrapped, or given Last Rites. Under these circumstances, the player <b><i>must</b></i> inform the mod marshal that they intend to use this ability on the mod or immediately after its use.<br><br>Performing the Last Rites ability requires the in game verbal, 'Last Rites' and then a thematically appropriate couplet of the character's choice. All verbals must be approved by the Head of Plot, recorded and signed off on the player's character sheet.<br><br>Ex:<br>"A strengthened pounding in my chest, as I now lay you to rest."
+
+"Your mana drank adds to my power, now my enemies quake and cower."
+
+"By sword and spell you have been slain, leave only body and blood stains."
+
+## Dredge  
+This skill replaces the Last Rites ability. Dredge allows a Thaumaturge access to the spells Control Minor Undead, Entrap Spirit, Vampiric Touch, Create Undead, and Enervate, without needing to allocate them to one of their 2 spells/level.<br><br>Game Lore Note: Dredging a corpse is a form of necromancy and is illegal in most kingdoms. It carries a social stigma in nearly all cultures; it is perceived as a desecration and is regarded as disrespectful, vile, unclean, a perversion, <i>etc.</i>.
 # Stamina Abilities
 
 ## Stamina Abilities
@@ -2261,10 +2286,6 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Verbal** | "I'm coming with you." |
 | **Description** | Tagalong allows a character to force their way into an active Rift-type ability, even if that ability would not normally allow others to be brought along, such as Limited Teleport or Reposition. The character must declare the incant and make contact with the original Rift character and complete the count with the original caster, making at minimum a 3 count, for this ability to work. If either you or the original caster fail to complete the count, you do not rift. The tagalong character follows the original caster through the rift. The Rift character may still refuse the Tagalong, which they would accomplish by stating Refused. |
 
-# Universal Spells
-
----
-
 # Arcane Spells
 ---
 
@@ -2275,7 +2296,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 2 | Disrupt Aether | _With arcane forces I disrupt your aether._ |
 | 2 | Stop | _With arcane forces I stop you._ |
 | 3 | Control: Minor Elemental | _With arcane forces I control you._ |
-| 3 | Elemental Blade | _I grant you the power of an Enchanted Blade._ |
+| 3 | Elemental Blade | _I grant you the power of an Elemental Blade._ |
 | 4 | Barrier: Magic | _I call forth mystic force to barrier magic_ |
 | 4 | Conjure Weapon | _I conjure an arcane \<weapon>._ |
 | 4 | Enchanted Blade | _I grant you the power of an Enchanted Blade._ |
@@ -2332,7 +2353,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 |:---|---|
 | **Level** | 3 |
 | **Duration** | Rest |
-| **Incant** | _I grant you the power of an Enchanted Blade._ |
+| **Incant** | _I grant you the power of an Elemental Blade._ |
 | **Description** | This spell will grant the target the ability to strike with a chosen element aura against a single opponent of the target's choice. To use the Elemental Blade, the target must state I invoke an [Element] Blade, where Element is one of Flame, Frost, Shock, or Stone, at which point they will have to choose the opponent that they may use the aura against. Acts as per Critical Effect. Effect is lost if the target dies and requires a LIFE effect, or if the target rests.  This is an AURA effect.  |
 
 | | **Barrier: Magic** |
@@ -2464,7 +2485,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 4 | Entangle Arms | _I call upon Nature to entangle your arms._ |
 | 5 | Command: Silence | _I command you to be silent._ |
 | 6 | Command: Sleep | _I command you to sleep._ |
-| 6 | Command: Focus | _I grant you the power of enhanced focus._ |
+| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
 | 7 | Command: Calm | _I command you to be calm._ |
 | 8 | Ricochet Toxin | _I call forth mystic force to ricochet toxin_ |
 | 9 | Confine | _I call upon Nature to confine you._ |
@@ -2549,19 +2570,19 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I command you to sleep._ |
 | **Description** |  This spell will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This is a SLEEP effect. |
 
-| | **Command: Focus** |
+| | **Enhanced Focus** |
 |:---|---|
 | **Level** | 6 |
-| **Duration** | 20 seconds |
+| **Duration** | Indefinite |
 | **Incant** | _I grant you the power of enhanced focus._ |
-| **Description** | Enhanced Focus allows the target to maintain Concentration despite taking damage. If the target has an active turret-style spell (such as Arcane Torrent, or Spiderwebs), that target may immediately take up to 10 steps without interrupting the turret spell. Status effects that interrupt concentration (such as Stun) will still do so. A character may not be affected by Enhanced Focus for at least 1 minute after being affected by a previous Enhanced Focus effect. |
+| **Description** | The next time the target's concentration would be interrupted, the effect of this spell is consumed instead. Alternatively, the effect may be consumed to allow the target to immediately take up to 10 steps without interrupting an active turret-style spell (such as Arcane Torrent, Spiderwebs, Paralytic Plague, etc.).<br><br>This spell may be self-cast while concentrating without interrupting the caster's concentration. A character may be affected by Enhanced Focus only if they are already concentrating. A character may not have more than one instance of Enhanced Focus at any time. The effect ends when it is consumed, the current concentration has completed or been interrupted, or the target has been affected by a Dispel Magic, Nullify, Suppress Magic, or similar effect. A character may not benefit from Enhanced Focus more than once per concentration. |
 
 | | **Command: Calm** |
 |:---|---|
 | **Level** | 7 |
-| **Duration** | 20 seconds |
+| **Duration** | 5 minutes |
 | **Incant** | _I command you to be calm._ |
-| **Description** |  This spell causes the target to become severely disoriented, confusing allies for enemies and enemies for allies. This spell does not necessarily cause the target to attack, but the target should act as the new situation dictates. This spell is a CONFUSE effect |
+| **Description** | The target of this spell is unable to take aggressive or violent action against the caster. The target is still free to say or do anything else they like, so long as it is not an attack against the caster. It does not force any changes to what the target thinks or feels of the target. The effect ends immediately if the caster attempts to use any ability or effect on the target. |
 
 | | **Ricochet Toxin** |
 |:---|---|
@@ -2608,7 +2629,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | 2 | Harm Undead | _I call upon the spirits to harm undead 20._ |
 | 2 | Heal Light Wounds | _I call upon the spirits to heal light wounds 10._ |
 | 2 | Preserve Corpse | _I call upon the spirits to preserve your corpse._ |
-| 3 | Blinding Light | _I curse you with blindness._ |
+| 3 | Blindness | _I curse you with blindness._ |
 | 3 | Weakness | _I curse you with weakness_ |
 | 4 | Barrier: Toxin | _I call forth mystic force to barrier toxin_ |
 | 4 | Disable Limb | _I curse you with a disabled \<limb>_ |
@@ -2659,7 +2680,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Incant** | _I call upon the spirits to preserve your corpse._ |
 | **Description** | This spell will halt the death count of a dead body as long as the spirit is still tethered to the corpse. Once this spell has ended, the original death count resumes from where it stopped. A corpse may only be preserved once before it must be healed, or revived. May not be dispelled.  This is a PRESERVE effect.  |
 
-| | **Blinding Light** |
+| | **Blindness** |
 |:---|---|
 | **Level** | 3 |
 | **Duration** | 20 seconds |
@@ -2692,7 +2713,7 @@ The Agility Point cost of each ability is equal to its level.  Characters may "m
 | **Level** | 5 |
 | **Duration** | Instant |
 | **Incant** | _I call upon the spirits to cleanse you._ |
-| **Description** | This spell removes a single lingering effect of the target's choice. This may not remove DRAIN, DEAD, UNCONSCIOUS or INFECT.  |
+| **Description** | This spell removes a single lingering effect of the target's choice. This may not remove DEAD, UNCONSCIOUS or INFECT.  |
 
 | | **Entrap Spirit** |
 |:---|---|
@@ -4276,18 +4297,18 @@ Goblin Points can be spent on a variety of options that may change over time to 
  ## Reference Charts
 
 ### Spells
-| Level | Arcane | Nature | Spirit | Universal |
-|---|---|---|---|---|
-| 1 |Glowing Light<br>Mana Bolt|Command: Slow<br>Hot Foot|Control: Minor Undead||
-| 2 |Disrupt Aether<br>Stop|Command: Disarm<br>Entangle Foot|Harm Undead<br>Heal Light Wounds<br>Preserve Corpse||
-| 3 |Control: Minor Elemental<br>Elemental Blade|Freedom<br>Repel|Blinding Light<br>Weakness||
-| 4 |Barrier: Magic<br>Conjure Weapon<br>Enchanted Blade|Barrier: Physical<br>Command: Kneel<br>Entangle Arms|Barrier: Toxin<br>Disable Limb||
-| 5 |Conjure Shield<br>Limited Teleport†|Command: Silence|Cleanse<br>Entrap Spirit<br>Field Resurrection<br>Revivify||
-| 6 |Nullify<br>Stasis†|Command: Sleep<br>Command: Focus|Fear<br>Solidify||
-| 7 |Destroy<br>Rift Lock|Command: Calm|Curse<br>Vampiric Touch||
-| 8 |Ricochet Physical<br>Bag of Holding|Ricochet Toxin|Heal Mortal Wounds<br>Destroy Undead<br>Limited Phylactery†<br>Ricochet Magic||
-| 9 |Circle of Power<br>Dispel Magic|Confine|Create Undead<br>Enervate||
-| 10 |Arcane Torrent<br>Doom<br>Suppress Magic|Command: Stun<br>Sanctuary<br>Spider Web|Life<br>Paralytic Plague<br>Regenerate<br>Storm of Curses||
+| Level | Arcane | Nature | Spirit |
+|---|---|---|---|
+| 1 |Glowing Light<br>Mana Bolt|Command: Slow<br>Hot Foot|Control: Minor Undead|
+| 2 |Disrupt Aether<br>Stop|Command: Disarm<br>Entangle Foot|Harm Undead<br>Heal Light Wounds<br>Preserve Corpse|
+| 3 |Control: Minor Elemental<br>Elemental Blade|Freedom<br>Repel|Blinding Light<br>Weakness|
+| 4 |Barrier: Magic<br>Conjure Weapon<br>Enchanted Blade|Barrier: Physical<br>Command: Kneel<br>Entangle Arms|Barrier: Toxin<br>Disable Limb|
+| 5 |Conjure Shield<br>Limited Teleport†|Command: Silence|Cleanse<br>Entrap Spirit<br>Field Resurrection<br>Revivify|
+| 6 |Nullify<br>Stasis†|Command: Sleep<br>Enhanced Focus|Fear<br>Solidify|
+| 7 |Destroy<br>Rift Lock|Command: Calm|Curse<br>Vampiric Touch|
+| 8 |Ricochet Physical<br>Bag of Holding|Ricochet Toxin|Heal Mortal Wounds<br>Destroy Undead<br>Limited Phylactery†<br>Ricochet Magic|
+| 9 |Circle of Power<br>Dispel Magic|Confine|Create Undead<br>Enervate|
+| 10 |Arcane Torrent<br>Doom<br>Suppress Magic|Command: Stun<br>Sanctuary<br>Spider Web|Life<br>Paralytic Plague<br>Regenerate<br>Storm of Curses|
 
 
 #### Arcane Spells
@@ -4298,7 +4319,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 2 | Disrupt Aether | _With arcane forces I disrupt your aether._ |
 | 2 | Stop | _With arcane forces I stop you._ |
 | 3 | Control: Minor Elemental | _With arcane forces I control you._ |
-| 3 | Elemental Blade | _I grant you the power of an Enchanted Blade._ |
+| 3 | Elemental Blade | _I grant you the power of an Elemental Blade._ |
 | 4 | Barrier: Magic | _I call forth mystic force to barrier magic_ |
 | 4 | Conjure Weapon | _I conjure an arcane \<weapon>._ |
 | 4 | Enchanted Blade | _I grant you the power of an Enchanted Blade._ |
@@ -4332,7 +4353,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 4 | Entangle Arms | _I call upon Nature to entangle your arms._ |
 | 5 | Command: Silence | _I command you to be silent._ |
 | 6 | Command: Sleep | _I command you to sleep._ |
-| 6 | Command: Focus | _I grant you the power of enhanced focus._ |
+| 6 | Enhanced Focus | _I grant you the power of enhanced focus._ |
 | 7 | Command: Calm | _I command you to be calm._ |
 | 8 | Ricochet Toxin | _I call forth mystic force to ricochet toxin_ |
 | 9 | Confine | _I call upon Nature to confine you._ |
@@ -4369,14 +4390,6 @@ Goblin Points can be spent on a variety of options that may change over time to 
 | 10 | Paralytic Plague | _I call upon the spirits to paralyze you all!... Magic Disable Limb, Magic Disable Limb, Magic Disable Limb..._ |
 | 10 | Regenerate | _I call upon Nature to regenerate you._ |
 | 10 | Storm of Curses | _I call upon the spirits to curse you all!... Magic Curse, Magic Curse, Magic Curse..._ |
-
-#### Universal Spells
-| Level | Spell | Incant |
-|---:|---|:---|
-| 1 | Glowing Light | _I conjure a glowing light._ |
-| 4 | Barrier | _I call forth mystic force to barrier \<Delivery Type>_ |
-| 5 | Entrap Spirit | _I call forth mystic force to entrap your spirit._ |
-| 9 | Dispel Magic | _I call forth mystic force to to dispel magic_ |
 
 ### Abilities
 | Level | Agility | Stamina |
