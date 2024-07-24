@@ -197,7 +197,7 @@
         "school": "Spirit",
         "level": "10",
         "duration": "1 minute",
-        "incant": "I call upon Nature to regenerate you.",
+        "incant": "I call upon the spirits to regenerate you.",
         "description": "This spell allows the target to spend 1 minute in concentration to regenerate their maximum body. If the concentration is interrupted, no body is restored. While in concentration a character may walk, but may not talk or use game skills.  This is a REGENERATE effect."
     },
     {
