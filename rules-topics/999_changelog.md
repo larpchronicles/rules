@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.1.0 [2024-07-23]
+
+### Introduction
+* Updated link for registration
+
+### Check In
+* Added information for Loud Thunder
+
 ## 4.0.5 [2024-04-22]
 
 * Moved Enhanced Focus from Spirit to Nature
