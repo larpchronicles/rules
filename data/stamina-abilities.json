@@ -51,7 +51,7 @@
         "name": "Parry",
         "pool": "Stamina",
         "level": "4",
-        "duration": "20 Seconds",
+        "duration": "Rest",
         "verbal": "I focus my defenses against weapons.",
         "description": "This skill allows the character to Resist Physical once.  This is a RESIST effect."
     },
@@ -59,7 +59,7 @@
         "name": "Spell Parry",
         "pool": "Stamina",
         "level": "4",
-        "duration": "20 Seconds",
+        "duration": "Rest",
         "verbal": "I focus my defenses against magic.",
         "description": "This skill allows the character to Resist Spell once. This is a RESIST effect."
     },

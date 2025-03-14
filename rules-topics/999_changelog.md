@@ -1,4 +1,60 @@
 # Changelog
+## 5.0.0 [2025-03-12]
+
+### Introduction
+* Updated links for all forms, calculators, and registration.
+
+### Setting
+* Updated Religion
+
+### Check In
+* Updated information for Loud Thunder and cabins at Eastman
+
+### Life and Death
+* Updated No Metabolism and Undead Metabolism
+* Corrected Alive to Conscious
+* Updated spirit bottle charges
+
+### Effects
+* Added Pain and Vertigo
+
+### Thaumaturgy
+* Updated Last Rites to denote mana gained from undead targets.
+
+### Spirit Magic
+* Added Pain spell
+* Updated Create Undead to no longer be a Curse of Transformation
+
+### Ritual Magic
+* Updated formatting
+
+### General Skills
+* Updated description for Tracking
+* Added Meditate
+
+### Alchemy
+* Added Vertigo Toxin
+
+### Smithing
+* Added Thrown Weapon recipe
+
+### Artificing
+* Updated description for Hearthstone, Bloodhound's Nose Ring, Mage's Folly, and Mending Mallet
+* Removed Turtle's Torc
+* Added Create Anima Gem
+* Updated all mentions of spirit gems to include anima gems.
+
+### Knowledge Skills
+* Added Anthropology, Cosmology, and Thanatology
+* Removed Theology
+* Updated descriptions for Historical, Political, and Survivalist
+
+### Glossary
+* Updated lists for Spirit, General Skills, Alchemy, Smithing, Knowledge, and Effects.
+* Added list for Artificing
+
+### Json files
+* Updated Agility Abilities, General Skills, Mage Skills, Knowledge Skills, Spirit Spells, and Stamina Abilities.
 
 ## 4.1.0 [2024-07-23]
 

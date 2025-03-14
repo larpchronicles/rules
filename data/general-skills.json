@@ -42,6 +42,15 @@
     }
   },
   {
+    "name": "Meditate",
+    "description": "A character may spend 1 minute in deep concentration (any interaction, including moving or speaking, will interrupt this concentration) to regain any Mana Points, Agility Points, or Stamina Points expended on any ability that failed to connect with their intended target since their last Rest or Meditate. This only applies to abilities where the attack missed, and not does not apply to abilities that the target defended against or was immune to. This ability does not allow a character to exceed their maximum pool points.",
+    "spCosts": {
+      "base": {
+        "primary": "0"
+      }
+    }
+  },
+  {
     "name": "Parrying Dagger",
     "description": "This skill allows the character to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12\"-18\" in length, the handle is a maximum of 6\", and the tips of the weapon must be red for easy identification.",
     "spCosts": {
