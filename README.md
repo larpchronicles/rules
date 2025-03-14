@@ -1,11 +1,11 @@
-# LARP Chronicles Ruleset v4.1.0-5
+# LARP Chronicles Ruleset v5.0.0
 
 Welcome to the Chronicles rules repo! The main branch of this repo is always the currently-used rules for our game.
 
 If you would like to make any corrections or contributions to the rules documents, please see our section below for detailed steps on how to make edits.
 
 **Contact Information**
-[Discord](https://discord.com/invite/Za6eT7sfkV)
+[Discord](http://larpchronicles.com/discord)
 [Facebook](https://www.facebook.com/groups/545002000131502)  
 Email [plot@larpchronicles.com](mailto:plot@larpchronicles.com)
 
