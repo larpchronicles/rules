@@ -25,7 +25,7 @@
   },
   {
     "name": "First Aid",
-    "description": "First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say \"Performing First Aid\". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.",
+    "description": "First Aid allows the character to provide emergency aid to a dying character and grants knowledge of anatomy. The character using First Aid will touch the downed character and say \"Performing First Aid\". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.",
     "spCosts": {
       "base": {
         "primary": "4"
@@ -106,7 +106,7 @@
   },
   {
     "name": "Foraging",
-    "description": "This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, reagents, or catalysts for use with the Alchemy skill.",
+    "description": "This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, reagents, or catalysts for use with the Alchemy skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.",
     "spCosts": {
       "base": {
         "primary": "1",
@@ -122,7 +122,7 @@
   },
   {
     "name": "Logging",
-    "description": "This skill is the is used to gather the materials for the Rune Carving Skill. Logging represents the character collecting pieces of wood for use with the Rune Carving skill.",
+    "description": "This skill is the is used to gather the materials for the Rune Carving Skill. Logging represents the character collecting pieces of wood for use with the Rune Carving skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.",
     "spCosts": {
       "base": {
         "primary": "1",
@@ -138,7 +138,7 @@
   },
   {
     "name": "Mining",
-    "description": "This skill is the is used to gather the materials for the Smithing Skill. Mining represents the character collecting raw ore for use with the Smithing skill.",
+    "description": "This skill is the is used to gather the materials for the Smithing Skill. Mining represents the character collecting raw ore for use with the Smithing skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.",
     "spCosts": {
       "base": {
         "primary": "1",

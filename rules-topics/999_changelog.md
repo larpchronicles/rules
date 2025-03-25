@@ -1,14 +1,25 @@
 # Changelog
-## 5.0.0 [2025-03-12]
+## 5.0.0 [2025-03-24]
 
 ### Introduction
 * Updated links for all forms, calculators, and registration.
 
 ### Setting
 * Updated Religion
+* Added Wizards' Guild and Crafters' Guild
 
 ### Check In
 * Updated information for Loud Thunder and cabins at Eastman
+
+### Melee Weapons
+* Added clarification for swing and stab attacks.
+
+### Ranged Weapons
+* Added specification table.
+* Added Thrown Weapons.
+
+### Combat
+* Removed mention of Dual Wield and corrected weapon skill names to proficiencies.
 
 ### Life and Death
 * Updated No Metabolism and Undead Metabolism
@@ -31,6 +42,8 @@
 ### General Skills
 * Updated description for Tracking
 * Added Meditate
+* Updated First Aid for conveying knowledge of anatomy.
+* Updated Foraging, Mining, and Logging to denote gathering usage.
 
 ### Alchemy
 * Added Vertigo Toxin
@@ -48,6 +61,12 @@
 * Added Anthropology, Cosmology, and Thanatology
 * Removed Theology
 * Updated descriptions for Historical, Political, and Survivalist
+
+### NPC
+* Updated rewards .
+
+### Goblin Points
+* Updated rewards.
 
 ### Glossary
 * Updated lists for Spirit, General Skills, Alchemy, Smithing, Knowledge, and Effects.
