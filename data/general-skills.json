@@ -25,7 +25,7 @@
   },
   {
     "name": "First Aid",
-    "description": "First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say \"Performing First Aid\". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.",
+    "description": "First Aid allows the character to provide emergency aid to a dying character and grants knowledge of anatomy. The character using First Aid will touch the downed character and say \"Performing First Aid\". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.",
     "spCosts": {
       "base": {
         "primary": "4"
@@ -35,6 +35,15 @@
   {
     "name": "Identify",
     "description": "Identify allows a character to spend 1 minute concentrating while maintaining contact with a person or items to determine what, if any, magical properties the target has.",
+    "spCosts": {
+      "base": {
+        "primary": "0"
+      }
+    }
+  },
+  {
+    "name": "Meditate",
+    "description": "A character may spend 1 minute in deep concentration (any interaction, including moving or speaking, will interrupt this concentration) to regain any Mana Points, Agility Points, or Stamina Points expended on any ability that failed to connect with their intended target since their last Rest or Meditate. This only applies to abilities where the attack missed, and not does not apply to abilities that the target defended against or was immune to. This ability does not allow a character to exceed their maximum pool points.",
     "spCosts": {
       "base": {
         "primary": "0"
@@ -97,7 +106,7 @@
   },
   {
     "name": "Foraging",
-    "description": "This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, reagents, or catalysts for use with the Alchemy skill.",
+    "description": "This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, reagents, or catalysts for use with the Alchemy skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.",
     "spCosts": {
       "base": {
         "primary": "1",
@@ -113,7 +122,7 @@
   },
   {
     "name": "Logging",
-    "description": "This skill is the is used to gather the materials for the Rune Carving Skill. Logging represents the character collecting pieces of wood for use with the Rune Carving skill.",
+    "description": "This skill is the is used to gather the materials for the Rune Carving Skill. Logging represents the character collecting pieces of wood for use with the Rune Carving skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.",
     "spCosts": {
       "base": {
         "primary": "1",
@@ -129,7 +138,7 @@
   },
   {
     "name": "Mining",
-    "description": "This skill is the is used to gather the materials for the Smithing Skill. Mining represents the character collecting raw ore for use with the Smithing skill.",
+    "description": "This skill is the is used to gather the materials for the Smithing Skill. Mining represents the character collecting raw ore for use with the Smithing skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.",
     "spCosts": {
       "base": {
         "primary": "1",

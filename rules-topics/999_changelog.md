@@ -1,4 +1,87 @@
 # Changelog
+## 5.0.0 [2025-03-24]
+
+### Introduction
+* Updated links for all forms, calculators, and registration.
+
+### Setting
+* Updated Religion
+* Added Wizards' Guild and Crafters' Guild
+
+### Check In
+* Updated information for Loud Thunder and cabins at Eastman
+
+### Melee Weapons
+* Added clarification for swing and stab attacks.
+
+### Ranged Weapons
+* Added specification table.
+* Added Thrown Weapons.
+
+### Combat
+* Removed mention of Dual Wield and corrected weapon skill names to proficiencies.
+
+### Life and Death
+* Updated No Metabolism and Undead Metabolism
+* Corrected Alive to Conscious
+* Updated spirit bottle charges
+
+### Effects
+* Added Pain and Vertigo
+
+### Thaumaturgy
+* Updated Last Rites to denote mana gained from undead targets.
+
+### Spirit Magic
+* Added Pain spell
+* Updated Create Undead to no longer be a Curse of Transformation
+
+### Ritual Magic
+* Updated formatting
+
+### General Skills
+* Updated description for Tracking
+* Added Meditate
+* Updated First Aid for conveying knowledge of anatomy.
+* Updated Foraging, Mining, and Logging to denote gathering usage.
+
+### Alchemy
+* Added Vertigo Toxin
+
+### Smithing
+* Added Thrown Weapon recipe
+
+### Artificing
+* Updated description for Hearthstone, Bloodhound's Nose Ring, Mage's Folly, and Mending Mallet
+* Removed Turtle's Torc
+* Added Create Anima Gem
+* Updated all mentions of spirit gems to include anima gems.
+
+### Knowledge Skills
+* Added Anthropology, Cosmology, and Thanatology
+* Removed Theology
+* Updated descriptions for Historical, Political, and Survivalist
+
+### NPC
+* Updated rewards.
+
+### Goblin Points
+* Updated rewards.
+
+### Glossary
+* Updated lists for Spirit, General Skills, Alchemy, Smithing, Knowledge, and Effects.
+* Added list for Artificing
+
+### Json files
+* Updated Agility Abilities, General Skills, Mage Skills, Knowledge Skills, Spirit Spells, and Stamina Abilities.
+
+## 4.1.0 [2024-07-23]
+
+### Introduction
+* Updated link for registration
+
+### Check In
+* Added information for Loud Thunder
 
 ## 4.0.5 [2024-04-22]
 

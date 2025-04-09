@@ -1,11 +1,11 @@
-# LARP Chronicles Ruleset v4.1.0-5
+# LARP Chronicles Ruleset
 
 Welcome to the Chronicles rules repo! The main branch of this repo is always the currently-used rules for our game.
 
 If you would like to make any corrections or contributions to the rules documents, please see our section below for detailed steps on how to make edits.
 
 **Contact Information**
-[Discord](https://discord.com/invite/Za6eT7sfkV)
+[Discord](http://larpchronicles.com/discord)
 [Facebook](https://www.facebook.com/groups/545002000131502)  
 Email [plot@larpchronicles.com](mailto:plot@larpchronicles.com)
 
@@ -118,3 +118,15 @@ Both formats will yield the table below:
 |:---------------------|:----------------:|:----------------:|
 | Left-Aligned Content | Centered Content | Centered Content |
 | Left-Aligned Content | Centered Content | Centered Content |
+
+## How to Generate Rulebook for New Versions
+
+---
+**Pre-Requisites**
+1. Node.js must be installed.  If not already installed, install node.js. https://nodejs.org/en/download/
+2. Clone the repo.
+3. Install dependencies.  `npm install`
+3. In a terminal window, navigate to the project root.  `cd rules`
+4. Create a copy of the existing rulebook.  `node .\utils\copyOldRulebook.js`
+5. Ensure version.json is updated with new version.
+6. Generate new rulebook.  `node .\utils\createRulebook.js`

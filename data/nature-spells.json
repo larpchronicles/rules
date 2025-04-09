@@ -45,7 +45,7 @@
         "school": "Nature",
         "level": "3",
         "duration": "5 minutes",
-        "incant": "I call forth mystic force to repel you",
+        "incant": "I call upon Nature to repel you.",
         "description": "The target of this spell must maintain a distance of at least 20 steps from the caster. The caster cannot push the target with this spell, and also may not close within the 20 step distance. If the target is physically unable to move 20 steps away, then they must move as far as is safely possible. The caster must hold their arm outstretched, palm facing the target, with fingers upwards for the duration of this spell. If the caster lowers their arm for any reason, the effect ends. If the target breaks lines of sight with the caster for 20 seconds, the effect ends. Any effect which would cause the caster to break concentration causes the effect to end."
     },
     {
