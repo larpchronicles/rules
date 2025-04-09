@@ -1,4 +1,4 @@
-**Rules Version: 5.0.0**  _Fri Mar 14 2025_
+**Rules Version: 5.0.0**  _Tue Apr 08 2025_
 
 
 # Chronicles Game Rules
@@ -217,6 +217,24 @@ In game politics are part of life. Whether a character wishes to serve the king 
 
 ### Necromancy
 Evren as a whole does not view necromancy as an inherently evil or bad thing, though most people find it at least distasteful. There are laws against it in nearly all kingdoms, and for those where it isn't, there are guilds that regulate and oversee its use.
+
+### Wizards' Guild of Varos
+The Wizards' Guild, sometimes referred to as the mage's guild, is located in Varos.  Joining the guild costs 1 gold per year, payable to Logistics.
+
+Member Benefits
+* Roleplay benefits such as titled positions, research requests, access to rare books and artifacts, or augmentation of a Knowledge Skill.
+* Access to select limited use, special, or rare ritual scrolls and production recipes. 
+
+Benefits Available To Everyone
+* Access to the Standard Library of Ritual Scrolls.
+* May purchase a Rune of Warding, which can be used to create a Greater Ward, for 3 gold.
+
+### Crafters' Guild of Varos
+The Crafters' Guild is a place where characters may rent fully equipped workshops, allowing them to begin their journey as a producer of goods.  This guild does not have any annual membership fees and provides the following benefits:
+* Roleplay benefits such as titled positions, research requests, or augmentation of a Knowledge Skill.
+* May purchase Anima Gems for 1 gold each.
+* May rent the tools and space required for producing goods for 1 silver per item, up to 10 total items.
+  * Crafting in excess of this limit requires a character to invest in their own space and tools.  A character may purchase their own workshop for 1 year at the cost of 5 gold, payable to Logistics.  Character workshops may only be used by the character that purchased it.
 
 # Who You Will Encounter:  Staff, Players, Trust
 
@@ -467,28 +485,34 @@ A Note on Disguises:  PCs will always recognize PCs despite disguises.
 # NPC-Garb
 Those who are NPCing often wear tabards that allude to what they are playing. It may be hard to tell what is going on in the dark. A player can always wear their headband and ask, "Are you there?/ Are you in game?" or as their character, ask, "Who goes there?"	If an answer is given without full information, the PC has the option to move & inspect them closer at their own peril and asking, "What do I see?"
 # Melee Weapons
-
-
 ---
-* All combat reps must be certified as safe. Safety checks for all combat reps may be performed at check-in.  Safety checks MUST be performed EVERY EVENT; they do not carry over from prior events.  A marshal may request to inspect your reps at any time during the event, and, if deemed unsafe, may lose their safety certification.
-* Claws / Bites must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.
-
 
 | WEAPON               | STRIKING SURFACE | HANDLE LENGTH | TOTAL LENGTH | HEAD REQUIRED |
 |:---------------------|:----------------:|:-------------:|:------------:|:-------------:|
 | Short Sword / Claws  |    18" - 24"     |   5" - 14"    |   24" - 36"  |      No       |
-| * Short Blunt / Axe  |    18" - 24"     |   5" - 14"    |   24" - 36"  |      Yes      |
+| Short Blunt / Axe    |    18" - 24"     |   5" - 14"    |   24" - 36"  |      Yes      |
 | Long Sword / Bites   |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      No       |
-| * Long Blunt / Axe   |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      Yes      |
+| Long Blunt / Axe     |    18" - 36"     |   5" - 14"    |  >36" - 48"  |      Yes      |
 | Two-Handed Sword     |    40" - 48"     |   5" - 30"    |  >48" - 60"  |      No       |
 | Two-Handed Blunt     |    40" - 48"     |   5" - 30"    |  >48" - 60"  |      Yes      |
-| ** Spear (One-Handed)|    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
-| * Polearm            |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
+| Spear (One-Handed)   |    30" - 45"     |   5" - 30"    |   48" - 60"  |      No       |
+| Polearm              |    40" - 48"     |   5" - 30"    |   60" - 72"  |      Yes      |
 | Parrying Dagger      |    7"  - 13"     |   5" - 6"     |   12" - 18"  |      No       |
 
-&#42; You can only swing (Cannot stab) with a Polearm or a blunt weapon.
-<BR>
-** You can only stab (cannot swing) with a spear.
+### Weapon Specific Rules ###
+| WEAPON | RULE |
+|:---|:---|
+| All Weapons | All combat reps must be certified as safe. Safety checks for all combat reps may be performed at check-in.  Safety checks MUST be performed EVERY EVENT; they do not carry over from prior events.  A marshal may request to inspect your reps at any time during the event, and, if deemed unsafe, may lose their safety certification.|
+| Bites | Must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.|
+| Blunt Weapons | Attacks must be swings.  May not stab with any of these weapon types.|
+| Claws | Must be made to normal weapon specs, including approved core materials and must have more than a 4" striking surface.|
+| Polearm | Attacks must be swings.  May not stab with this weapon type.|
+| Spear (One-Handed) | Attacks must be stabs.  May not swing this weapon type.|
+
+### Stab and Swing Attacks ###
+Stabbing is defined as an attack where the weapon is thrust toward and/or into the target such that the head or end of the weapon will connect with the target's body.
+
+Swinging is defined as an attack where the weapon is swung with a sweeping movement toward the target such that the striking surface of the weapon will connect with the target's body.  Swinging must be done with the weapon's head pointed to the ground.
 
 ### Striking Surface ### 
 The striking surface specifies the minimum and maximum amount of padded striking surface the weapon *must* have. _Any weapon that has less padding than the specified minimums will not pass inspection, even if it falls within the Total Length requirements!_
@@ -502,22 +526,33 @@ The handle length specifies the minimum and maximum length of the handle by whic
 Axes, blunt weapons, and polearms are required to have an open cell foam "head" that clearly conveys what the weapon represents. The minimum size of a weapon head is 4"x2"x2".
 
 # Ranged Weapons
+---
 
+|  WEAPON  |    LIMB LENGTH   |  TOTAL WIDTH  | TOTAL LENGTH |
+|:---------|:----------------:|:-------------:|:------------:|
+| Bow      |    17" - 29"     |    1" - 12"   |   34" - 58"  |
+| Crossbow |    >6" - 12"     |  >12" - 24"   |   12" - 24"  |
+| Thrown   |       N/A        |    2" - 12"   |   6" - 18"   |
+
+### Weapon Specific Rules ###
 * Real archery reps are disallowed.  Packet Bows are allowed on a case-by-case basis.
+* All combat reps must be certified as safe. Safety checks for all combat reps may be performed at check-in.  Safety checks MUST be performed EVERY EVENT; they do not carry over from prior events.  A marshal may request to inspect your reps at any time during the event and, if deemed unsafe, may lose their safety certification.
 
-### Bows
-A Bow must be curved and formed in the shape of a bow. Overall length in a straight line from tip to tip must be between 34 and 58 inches and the curve of the bow can be a maximum of 12 inches.  A bow must pass all standard safety checks.
+#### Bow ####
+* Must be curved and formed in the shape of a bow.
+* Total length refers to the measurement of a straight line between tip to tip.
+* Total width refers to the measurement of the curve.
 
+#### Crossbow #### 
+* Limb length refers to the distance in which each limb extends from the stock.
+* If you wrap a string around the perimeter of the rep, the area it encloses must be at least 72 sq. in. (A 12" base, 12" height isosceles triangle).
+* If attached to your arm, you cannot use the bow while holding anything else in that hand, you cannot use the crossbow to block attacks, and you cannot attack with any melee weapons in either hand. If you want to be able to block with a shield, a weapon, or attack with a weapon, you must first remove the crossbow from your arm (or securely fold the limbs to the stock).
+* If you are struck by any weapon, even if it does not strike the bow, you must spend at least 3 seconds roleplaying restringing the bow before you may fire it again.
+* Subject to more rigorous safety inspection.  It is **strongly** advised that you run your design idea past the staff before you begin construction; we would hate to see someone put a lot of time, effort, and resources into something that won't meet safety expectations.
 
-### Crossbows
-The stock must be at least 12" long, and each limb must extend at least 6" from the stock (making the whole thing at least 12" wide).  The maximum dimensions of a crossbow can be 24" x 24".
-
-If you wrap a string around the perimeter of the rep, the area it encloses must be at least 72 sq. in. (A 12" base, 12" height isosceles triangle).
-
-If attached to your arm, you cannot use the bow while holding anything else in that hand, you cannot use the crossbow to block attacks, and you cannot attack with any melee weapons in either hand. If you want to be able to block with a shield, a weapon, or attack with a weapon, you must first remove the crossbow from your arm (or securely fold the limbs to the stock). If you are struck by any weapon, even if it does not strike the bow, you must spend at least 3 seconds roleplaying restringing the bow before you may fire it again.
-
-The rep will be subject to a more rigorous safety inspection than a typical melee rep. It is **strongly** advised that you run your design idea past the staff before you begin construction; we would hate to see someone put a lot of time, effort, and resources into something that won't meet safety expectations.
-
+#### Thrown ####
+* If made of open cell foam, may be covered with a suitable material such as fabric, duct tape, kite tape, or plastidip.
+* If made from closed cell foam, may not have a core and should be shaped into the type of object it is intended to be a rep for.
 # Shields
 
 ---
@@ -643,30 +678,26 @@ Altogether, Spurt is wearing a total of 40 Armor Points, and has an Armor Cap of
 # Combat Rules
 
 ## Armor: Immunities
-
 In the event that the player are hit by an ability that they are immune to, their armor does not take the damage.
 
 ## Armor: Receiving Damage
-
 During combat, when damage is taken by a character, it is first deducted from the Armor Point total, unless otherwise stated by a specific spell or skill. If the player still has Armor Points remaining, it does not matter which location is covered by armor, they will still deduct the damage from their remaining points.
 
 ## Bows and Crossbows: Blocking
-
-Bows may be used to block attacks.  Bows may also be used to block attacks while wielding a One-Handed Weapon, so long as the skills One-Handed Weapons, Ranged Weapons, and Dual Wield are purchased.  If struck by an attack, the player must spend a 3 count to restring the bow before they may fire with it again _(See: Warbow)_.  
+Bows may be used to block attacks.  Bows may also be used to block attacks while wielding a One-Handed Weapon, so long as the skills One-Handed Proficiency, Ranged Proficiency, and Off-Hand Proficiency are purchased.  If struck by an attack, the player must spend a 3 count to restring the bow before they may fire with it again _(See: Warbow)_.  
 
 ## Casting Spells
-
 Casting a spell is an act of will and physical effort combined, gathering the energy that the caster has prepared in their memory and then throwing it out into the world. In LARP Chronicles, a spell's energy is represented by a "spell packet", a small bundle of cloth, usually filled with bird seed, that is thrown at, or touched against other participants, in order to use magic.
 
-When casting a spell, first a player must have a spell packet in a free hand. Then, they cast the spell by speaking the entire incant or verbal (as specified by each spell), then throwing the packet, swinging their weapon (in the case of Spell Strikes), or touching the packet to their target (in the case of touch casting). If the spell packet or weapon strikes a target successfully, they are affected as per the spell's description, unless they are capable of resisting the magic. 
+When casting a spell, first a player must have a spell packet in a free hand. Then, they cast the spell by speaking the entire incant or verbal (as specified by each spell), then throwing the packet, swinging their weapon (in the case of spellstrikes), or touching the packet to their target (in the case of touch casting). If the spell packet or weapon strikes a target successfully, they are affected as per the spell's description, unless they are capable of resisting the magic. 
 
-A spell or magic ability delivered via packet or Spell Strike successfully lands on the target if the packet or weapon phys rep makes contact with any part of the target's body, clothing, held items, or possessions.
+A spell or magic ability delivered via packet or spellstrike successfully lands on the target if the packet or weapon phys rep makes contact with any part of the target's body, clothing, held items, or possessions.
 
 A "Free Hand" in this instance means that the hand holding the spell packet may not be holding any other items. I.E., no swords, shields, potions, sticks, bedrolls, snack cakes, and such. A player may hold multiple spell packets in the same hand and still cast.
 
-If a caster's spell incant or throw is disrupted, the Mana Points (or ability) used to cast the spell are lost the same as though it were successfully cast.  Taking damage does not interrupt a cast, however, effects that would prevent spellcasting (such as Stun, or being dead) can interrupt the casting of a spell. 
+If a caster's spell incant or throw is disrupted, the mana points (or ability) used to cast the spell are lost the same as though it were successfully cast.  Taking damage does not interrupt a cast, however, effects that would prevent spellcasting (such as stun, or being dead) can interrupt the casting of a spell. 
 
-If a player accidentally or mistakenly fails to correctly incant a spell or ability, the spell or ability does not work. The Mana Points or ability used to cast the spell are not expended, and the caster simply has to start over with casting the spell. This is a "good faith" policy, and intentional abuse of this policy may be met with disciplinary action as per the Chronicles Code of Conduct.   
+If a player accidentally or mistakenly fails to correctly incant a spell or ability, the spell or ability does not work. The mana points or ability used to cast the spell are not expended, and the caster simply has to start over with casting the spell. This is a "good faith" policy, and intentional abuse of this policy may be met with disciplinary action as per the Chronicles Code of Conduct.   
 
 Some spells require a "X count" to cast where X may be three or five.  This is always intended to be X number of seconds.
 
@@ -686,7 +717,7 @@ Delivery Methods are one of:
 - Potion Physrep
 - Voice Radius†
 
-It is possible for abilities and weapon blows to be delivered via any Delivery Method (as specified by the skills of the character using the ability).
+It is possible for abilities and weapon blows to be delivered via any delivery method (as specified by the skills of the character using the ability).
 
 _† Not strictly a physical object, but you get the idea_
 
@@ -697,7 +728,7 @@ Delivery Types can be:
 - Physical
 - Physical Strike
 - Magic (or spell incant)
-- Spell Strike
+- Spellstrike
 - Toxin
 - Toxin Strike
 - Aether
@@ -730,7 +761,7 @@ Aether is an exceptionally rare damage type. Active defenses cannot be used to d
 
 By default, all weapons use the Normal damage type. However, _Aura_ abilities may grant characters or specific items the ability to utilize other damage types. 
 
-Items that have an aura property _must_ swing for that damage type, unless superceded by another explicitly-stated effect (such as a character with a Monstrous Aura ability).
+Items that have an aura property _must_ swing for that damage type, unless superseded by another explicitly-stated effect (such as a character with an Aura ability).
 
 #### Carriers
 Carriers impart the named effect to the target is the weapon blow successfully reduces the target's current body points. 
@@ -764,8 +795,7 @@ Note: Abilities and effects that cause damage can never function as Damage Carri
 
 
 ## Defense Slots
-
-Using any skill, ability, or effect that grants a Resist or Dodge requires a Defense Slot to be prepared.  All characters have one Defense Slot by default and may purchase additional slots with Skill Points.  Each Defense Slot a character may prepare and consider active.  A character may only have as many Active Defenses as they have Defense Slots.  Once prepared, any Active Defense may be used to defend against the appropriate type of attack, allowing them to call Resist or Dodge respectively.
+Using any skill, ability, or effect that grants a Resist or Dodge requires a Defense Slot to be prepared.  All characters have one defense slot by default and may purchase additional slots with Skill Points.  Each Defense Slot a character may prepare and consider active.  A character may only have as many Active Defenses as they have Defense Slots.  Once prepared, any Active Defense may be used to defend against the appropriate type of attack, allowing them to call "Resist" or "Dodge" respectively.
 
 ### Healed By [Effect]
 When you have an ability or active effect that makes you take Healed By an effect. For example: Shock, Stone, Flame, or Frost.  Creatures with this ability cannot be healed by weapon attacks (except Spellstrikes), but can be healed by packet attacks. 
@@ -778,7 +808,6 @@ You are healed by Frost.
 
 
 ### Immunities
-
 When you have an inherent ability or active effect that makes you explicitly immune to an effect you call "No Effect" if you are hit by a spell or weapon carrier using that effect.  If you are immune to part of the weapon damage call then you are immune to all of it.  The exception to this would Stasis or other abilities that explicitly state the things to which you become immune (and that call should always be, "No effect; Visibly in Stasis").
 
 Examples:
@@ -792,7 +821,6 @@ Examples:
 * If you are Dead, and you get hit by a Heal Wounds, Confine, etc., you would call "Got it"
 
 ## Killing Blows
-
 Killing Blow is a 3-count that can be interrupted. When Killing Blowed, the target becomes Dead. Killing Blow 1, Killing Blow 2, Killing Blow 3 <Damage Type or Spell>.
 
 A weapon or other object is not required to perform a Killing Blow _(it is possible to deliver a Killing Blow barehanded)_. The damage type of a Killing Blow is always "Normal", unless delivered with a weapon or character that is capable of swinging a different damage type.
@@ -803,19 +831,16 @@ In lieu of a damage type, a character may also use a spell to perform a Killing 
 The target of a killing blow may refuse it, so long as they are capable of movement.  Any killing blow is assumed to automatically be refused by a target capable of movement, unless explicitly accepted by the target.
 
 ## Magic Deliverance, Voice Radius, and Aether
-
-Rarely, one may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply Magic followed by the spell name, for example, Magic Fear. This is still an effective spell and needs to be reacted to as such.  Casting via magic deliverance is still subject to all other casting requirements such as utilizing packets, finishing the call before throwing their packet, etc.  Magic deliverance does not grant immunity to the silence effect.
+Rarely, one may encounter entities that are capable of delivering magic quicker than normal, skipping the incantation and abridging it to simply magic followed by the spell name, for example, "Magic Fear." This is still an effective spell and needs to be reacted to as such.  Casting via magic deliverance is still subject to all other casting requirements such as utilizing packets, finishing the call before throwing their packet, etc.  Magic deliverance does not grant immunity to the silence effect.
 
 Similarly, some entities may deliver a spell via "Voice Radius," at which time anyone who can hear the declared spell, whether enemy or ally, is subject to it as if they'd been struck by the spell directly. This ability does not require the caster to have a spell packet in hand.
 
 Finally, powerful creatures can sometimes deliver a spell as an Aether spell. If a player is struck by an Aether spell, no resistances can prevent the effect, and they are affected by it immediately.
 
 ## Physical Strikes
-
 Physical strikes are weapon delivered combat effects used by characters. A physical strike is delivered once using a weapon attack, and must strike the target character successfully without being blocked in order to be a successful attack. Physical strikes are considered used whether the attack was successful or not. Physical strikes that are blocked by shields or weapons, have been blocked and are considered unsuccessful attacks. Unsuccessful physical strikes and physical strikes that have been resisted can be regained by the character resting. Physical strike effects are not magical in nature; therefore, they cannot be removed by the Dispel Magic spell or any removal skill that is limited to effects of magical origin only.
 
 ## Shields
-
 The maximum surface area of a shield is 720 square inches. The longest dimension a shield may have is 36".
 
 As long as the character has either hand on a shield, any physical type attack that comes into contact with the shield is considered effectively blocked.
@@ -827,16 +852,13 @@ Limitations:
 * Shields are not capable of blocking spell packets or toxins without the use of an ability.
 
 ## Spell Packets
-
 Anything in a player's possession being struck by a spell causes them to take the effect of the spell, even if it is an illegal strike zone.  If illegal strike zones are being targeted repeatedly, inform Plot or a member of Staff immediately.
 
 
 ### Spellstrikes
-
 Spellstrikes are spells cast upon a target via a physically represented weapon.  Spellstrikes may not be refused in the way touch casts can.  Active defenses that apply to packet-delivered spells may also apply to Spell Strike-delivered spells (such as Resist Magic).  The Parry skill will not defend against the effect of a Spellstrike.  If a player physically parries a Spellstrike, they take the effect of the spell. An individual capable of using Spellstrike may treat a wielded weapon as a spell packet for the purposes of touch-casting. Packets may not be used to Spellstrike.
 	
 ### Touch-Casting
-
 Touch-casting does not require physical contact, but it does require the proximity that physical contact could be established.  Be sure to gain a player's consent prior to physically touching them.   If a player is touch-casting, they are either touching the target directly with a spell packet or pointing at the target while holding a spell packet. 
 
 The target has the ability to "refuse your touch-cast", causing the player to expend the magic to no effect.  Any spell may be touch-cast. The target of a touch-cast spell may refuse the touch-cast, so long as they are capable of movement. Any and every offensive or negative touch-cast spell is assumed to automatically be refused unless explicitly accepted by the target.
@@ -1096,15 +1118,6 @@ When initially created, a Spirit Bottle has 5 charges. If, at any time, the Spir
 
 Spirit Bottles may have their charges replenished. Doing so requires the casting of the Spirit Bottle ritual. A Spirit Bottle cannot have more than 5 charges.
 
-# Combat Mechanics
-
-## Melee Combat Mechanics
-
-## Ranged Combat Mechanics
-
-## Caster Combat Mechanics
-
-## Health and Armor Mechanics
 # Races
 
 ## Brood
@@ -3113,7 +3126,7 @@ This skill grants an additional Defense Slot which may be used to activate addit
 This skill adds 5 points of Dexterity Armor to the character for each purchase of the skill. Dexterity armor does not require a physrep.  Dexterity armor does not stack with any other source of armor.  This armor exists independently of and does not interact with the character's Armor Cap, and does not require the Armor Training skill. Refitting Dexterity Armor requires 1 minute of concentration, during which player must roleplay stretching, yoga, shadowboxing, etc..
 
 ## First Aid  
-First Aid allows the character to provide emergency aid to a dying character. The character using First Aid will touch the downed character and say "Performing First Aid". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.
+First Aid allows the character to provide emergency aid to a dying character and grants knowledge of anatomy. The character using First Aid will touch the downed character and say "Performing First Aid". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.
 
 ## Meditate
 A character may spend 1 minute in deep concentration (any interaction, including moving or speaking, will interrupt this concentration) to regain any Mana Points, Agility Points, or Stamina Points expended on any ability that failed to connect with their intended target since their last Rest or Meditate. This only applies to abilities where the attack missed, and not does not apply to abilities that the target defended against or was immune to. This ability does not allow a character to exceed their maximum pool points.
@@ -3130,7 +3143,7 @@ This skill allows the character to access the standard ritual magic library.  Mo
 ## Specialization  
 When purchased, the character must specify which skillset they have mastery over. This skill allows that character to access level 10 abilities or spells.  This skill may be purchased only once.
 
-## Spell Strike  
+## Spellstrike  
 All characters choose between being able to packet-deliver their spells, or spellstrike their spells. This choice cannot be changed during an event.
 
 ## Tap Reserves  
@@ -3140,13 +3153,13 @@ All characters have the ability to summon reserve energy when necessary. Tap Res
 This skill is purchased once. Using this skill, the character can attempt to track a target. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number.  When a player asks to track something/someone a marshal will determine if the tracking succeeds and how much information a player gets. PCs cannot track other PCs.  Tracking can be augmented by some Knowledges, which may grant a character additional information or lower a difficulty.  Some examples of this:  Survivalist Knowledge may give a bonus in the wild.  Criminal Knowledge may give a bonus in a city or if criminal knowledge may be applicable to the target – such smuggler’s marks.  These are not guaranteed, so it is always best to ask when initially asking to track. 
 
 ## Foraging  
-This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, reagents, or catalysts for use with the Alchemy skill.
+This skill is the is used to gather the materials for the Alchemy Skill. Foraging represents the character collecting herbs, reagents, or catalysts for use with the Alchemy skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.
 
 ## Logging  
-This skill is the is used to gather the materials for the Rune Carving Skill. Logging represents the character collecting pieces of wood for use with the Rune Carving skill.
+This skill is the is used to gather the materials for the Rune Carving Skill. Logging represents the character collecting pieces of wood for use with the Rune Carving skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.
 
 ## Mining  
-This skill is the is used to gather the materials for the Smithing Skill. Mining represents the character collecting raw ore for use with the Smithing skill.
+This skill is the is used to gather the materials for the Smithing Skill. Mining represents the character collecting raw ore for use with the Smithing skill.  Use of the skill is performed at check-in and grants two times the number of ranks purchased in the skill, per day.  E.g. For a two day event, if you have 5 ranks, you will receive 20 tiers of materials.
 
 ## Alchemy  
 This skill allows the character to alchemy carving items of a tier equal to the number of ranks purchased.
@@ -3558,7 +3571,7 @@ Certain enchantments **do not** require attuning to be used:
    >5 Rune Carving Materials, 5 Smithing Materials, 1 Spirit Gem.  
 #### Greater Ward and Ward Key
    >Originally created by Pyramus, a Greater Ward protects a structure the approximate size of a cabin from access.  Accessing a protected structure requires use of a Greater Ward Key with a matching ID to the Greater Ward.  When using a Greater Ward Key, a character must hold the key against the ward and announce, "Ward down," after which, anyone may enter or exit the structure freely.  Anyone within a Warded structure that does not possess a matching key may Concentrate for 5 minutes to leave the structure.  Any number of Greater Ward Keys may be created at the time of the creation of the Greater Ward.  All Greater Ward Keys must have a rep.  A structure may only be under the effects of a single Glyph or Ward at any time, and a Glyph or Ward affects an entire structure, as such, they cannot be "nested" inside one another.  A structure under the effects of a Greater Ward must have each door/entry clearly and obviously display an W for Greater Ward and the Greater Ward tag must be attached to the outside of the structure with the date and time of activation and a unique ID. Greater Wards are not affected by Dispel Magic or Nullify Magic and may not be destroyed via a Destroy effect.  They may be destroyed by Destroy Ritual Magic.  A Greater Ward Key cannot be destroyed by any means.  A Greater Ward/Key lasts 5 days. This item is consumed on use.
-   >10 Foraging Materials, 10 Logging Materials, 10 Smithing Materials, and 1 Spirit/Anima Gem OR 3 Gold Paid to Wizard's Guild, 4 Foraging Materials, 4 Logging Materials, 4 Smithing Materials, and 1 Spirit/Anima Gem
+   >3 Gold Paid to Wizards' Guild
 #### Hearthstone
    >This is a warm stone that when held during Rest, restores the wielder to their Maximum Body at the completion of Rest.  This item cannot heal the holder if the holder is Dying or Dead.<br/>
    >5 Alchemy Materials, 5 Rune Carving Materials, 1 Spirit/Anima Gem.
@@ -3703,7 +3716,7 @@ Certain enchantments **do not** require attuning to be used:
 >Knowledges can be utilized in a variety of ways and may have interactions with other skills and abilities.  Some common ways they are used include Mod Marshals asking for knowledge skills at the beginning of a module to help flesh out what the characters might discover.  Even during a mod, interaction with a Mod Marshal may give a character information about what something specific in that moment.  Knowledges can also enhance other skills and abilities a character knows, which may be applicable when dealing with related things.  For example, the First Aid skill and Spirit Magic Knowledge may give a character greater understanding of the effects of Spirit healing magic on the physical body.  The Tracking skill and the Economic Knowledge may give a character a bonus for tracking in relation to trade routes or goods.  There are many potential combinations, so be sure to ask the Mod Marshal.
 
 ## Anthropology Knowledge
-Covers the past and present behaviors, biology and cultures of the sentient races.  Culture refers to the learned behavior of people, including their languages, belief systems, customs, social structures and institutions, and corporeal, tangible objects that are created, used, kept, and left behind by past and present peoples.  This Knowledge does not provide details on political, historical, or economic topics.  Higher ranks will allow for knowledge of more niche details for what may be a less common race.
+Covers the past and present behaviors, biology, and cultures of the sentient races.  Culture refers to the learned behavior of people, including their languages, belief systems, customs, social structures and institutions, and corporeal, tangible objects that are created, used, kept, and left behind by past and present peoples.  This Knowledge does not provide details on political, historical, or economic topics.  Higher ranks will allow for knowledge of more niche details for what may be a less common race.
 
 ## Arcane Magic Knowledge
 Covers Arcane Magic in all its forms and uses. Higher ranks will provide greater insight to Arcane questions or provide more detailed information on the target of an inquiry.
@@ -4182,7 +4195,7 @@ In general, participating in a double-hook does not count towards a Part-Time NP
 Aside from the shiny feel-good emotions of having helped out their chapter, Chronicles also gives those that volunteer as NPCs rewards in several forms!  <i>(Please note that while Plot and Staff are likely to have water and snacks at NPC camp, meals at the Tavern are not free to NPCs unless specifically stated by the player running the tavern.)</i>
 
 ### Part-Time NPC Rewards
-* The player's pick of either 1 Skill Point OR 100 Goblin Points.  This reward may be claimed only once for each completed shift per event day.  If the event is two days, they may claim this twice for six hours or two completed NPC shifts.  If the event is three days, they may claim this three times for nine hours or three completed NPC shifts.
+* 1 Skill Point and 100 Goblin Points.  This reward may be claimed only once for each completed shift per event day.  If the event is two days, they may claim this twice for six hours or two completed NPC shifts.  If the event is three days, they may claim this three times for nine hours or three completed NPC shifts.
 
 * Mystery Sack.  This is a grab bag reward that will contain one of the following:
   * A bundle of five Tier 1 crafting materials.
@@ -4321,22 +4334,26 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>100 Goblin Point Rewards</u>**
 
-* <u>Crafting Materials</u>.  A player may claim a cumulative 10 Tiers of crafting materials.  They may freely pick from among the types:  Catalyst, Ore, and Wood.  Examples include:
-    * 10 pieces of Tier 1 Wood
-    * 1 piece of Tier 10 Ore
-    * 1 piece of Tier 5 Ore, 2 pieces of Tier 1 Wood, and 2 pieces of Tier 2 Catalyst.
-* <u>Rare Craft Material</u>.  One Spirit Gem.  This is limited to one purchase per event.
-* <u>Currency</u>.  One credit or five mana.  This is limited to one purchase per event.  This will be immediately deposited to a character's bank.
-* <u>Mini-Mod</u>: GREATER IBGA, limit 1 per event.  Mini-mods occur between games and may be done over a voice call or in person depending on the availability of the requester and the plot person.  These must be scheduled with a specific plot person.
+* <u>Copy Cat Racial</u>.  Grants a once ever use of any racial ability.  Limit once per year per character.
+* <u>Currency</u>.  One gold.  This is limited to one purchase per event.  This will be immediately deposited to a character's bank.
+* <u>Off Board Ritual</u>.  This reward is good for the automatic completion of one standard ritual.  Does not negate any material costs of the ritual.  Limit once per event, may not purchase for prior events.
+* <u>Rare Craft Material</u>.  One Spirit Gem or Anima Gem.  Purchased gems expire at the end of the event purchased.
 
 **<u>200 Goblin Point Rewards</u>**
 
 * <u>Debt Relief</u>.  On purchase, this reward will remove a single event's worth of Skill Point Debt.  This reward must be used at the time of purchase and may not be purchased again for twelve months.
-* <u>Goblin Tag.</u>  Did a player miss an event?  This reward will immediately grant them half of the Skill Points they would have earned.  For any two day event, they will receive 3 Skill Points.  For any three day event, they will receive 5 Skill Points. These may be purchased for any event they missed since their first event attendance.  If they have under 200 Skill Points, they will receive 6 Skill Points for a two day event and 9 for a three day event.
+* <u>Goblin Tag</u>.  Did a player miss an event?  This reward will immediately grant them half of the Skill Points they would have earned.  For any two day event, they will receive 3 Skill Points.  For any three day event, they will receive 5 Skill Points. These may be purchased for any event they missed since their first event attendance.  If they have under 200 Skill Points, they will receive 6 Skill Points for a two day event and 9 for a three day event.
+* <u>Mini-Mod</u>. GREATER IBGA, limit 1 per event.  Mini-mods occur between games and may be done over a voice call or in person depending on the availability of the requester and the plot person.  These must be scheduled with a specific plot person.
+* <u>Rendering Pouch</u>.  Lasts for the duration of the event for which it is purchased.  Does not affect expiration date or durability.  May only purchase 1 per event, may not purchase for prior events.
+
+**<u>300 Goblin Point Rewards</u>**
+
+* <u>Book of Esoteric Knowledge: <Topic></u>.  This is a consumable item that allows the character to have deep knowledge of a specific topic for a single encounter or question. The allowed topics are the same as the list of knowledge skills. May only be acquired at Logistics.  May only purchase 1 per event attended, may not purchase for prior events.
+* <u>Vengeance</u>. Grants a once ever 500 Aether Vengeance.  Limit one per event, no stacking.  May not purchase for prior events.
 
 **<u>400 Goblin Point Rewards</u>**
 
-* <u>I Got a Hot Pocket</u>.  This reward is good for a free meal ticket at any event and covers breakfast, lunch, dinner, and three drinks.  Limited to two players per event.   May be purchased and redeemed once per calendar year.
+* <u>I Got a Hot Pocket</u>.  This reward is good for a free meal ticket at any event and covers all tavern provided meals.  Limited to two players per event.   May be purchased and redeemed once per calendar year.
 
 **<u>750 Goblin Point Rewards</u>**
 
@@ -4344,7 +4361,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 
 **<u>1000 Goblin Point Rewards</u>**
 
-* <u>Refreshing Scroll</u>.  This reward will allow a player to "reset" a single use of a consumed TEACH or MEMORIZE of a Ritual Magic scroll or Crafting recipe.  This reward must be redeemed with plot approval, in the case of any scrolls existing that are uniquely limited for plot reasons and should not be reset.  This is limited to one purchase per character per calendar year.
+* <u>Non-Standard Magic Item</u>.  May claim 1 magic item with a non-standard effect.  Limit 1 per year per character.
 
 # Glossary
  ## Reference Charts
@@ -4694,16 +4711,27 @@ For armor, this would allow players to have their full armor points based on the
 
 For make up, this would lift the requirement of full face make up, so long as the character's race is still clearly represented.
 # Changelog
-## 5.0.0 [2025-03-12]
+## 5.0.0 [2025-03-24]
 
 ### Introduction
 * Updated links for all forms, calculators, and registration.
 
 ### Setting
 * Updated Religion
+* Added Wizards' Guild and Crafters' Guild
 
 ### Check In
 * Updated information for Loud Thunder and cabins at Eastman
+
+### Melee Weapons
+* Added clarification for swing and stab attacks.
+
+### Ranged Weapons
+* Added specification table.
+* Added Thrown Weapons.
+
+### Combat
+* Removed mention of Dual Wield and corrected weapon skill names to proficiencies.
 
 ### Life and Death
 * Updated No Metabolism and Undead Metabolism
@@ -4726,6 +4754,8 @@ For make up, this would lift the requirement of full face make up, so long as th
 ### General Skills
 * Updated description for Tracking
 * Added Meditate
+* Updated First Aid for conveying knowledge of anatomy.
+* Updated Foraging, Mining, and Logging to denote gathering usage.
 
 ### Alchemy
 * Added Vertigo Toxin
@@ -4743,6 +4773,12 @@ For make up, this would lift the requirement of full face make up, so long as th
 * Added Anthropology, Cosmology, and Thanatology
 * Removed Theology
 * Updated descriptions for Historical, Political, and Survivalist
+
+### NPC
+* Updated rewards.
+
+### Goblin Points
+* Updated rewards.
 
 ### Glossary
 * Updated lists for Spirit, General Skills, Alchemy, Smithing, Knowledge, and Effects.
