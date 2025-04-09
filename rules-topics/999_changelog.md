@@ -63,7 +63,7 @@
 * Updated descriptions for Historical, Political, and Survivalist
 
 ### NPC
-* Updated rewards .
+* Updated rewards.
 
 ### Goblin Points
 * Updated rewards.
