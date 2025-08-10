@@ -133,7 +133,7 @@
         "school": "Nature",
         "level": "10",
         "duration": "5 Minutes",
-        "incant": "I call upon Nature to grant you Sanctuary",
+        "incant": "I call upon Nature to grant you sanctuary",
         "description": "The caster crosses their arms with their arms pointing down. The caster becomes immune to all weapon blows and physical effects, but may only self-cast spells. This effect lasts 5 minutes, or until the caster suffers body damage, uncrosses their arms, or suffers any effect that would normally prevent spellcasting."
     },
     {

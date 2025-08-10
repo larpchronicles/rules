@@ -1,4 +1,25 @@
 # Changelog
+## 5.1.0 [2025-08-10]
+
+### Setting
+* Updated Wizards Guild benefits
+
+### Story and Goals
+* Corrected wording
+
+### Effects
+* Removed incorrect information
+
+### SKillsets
+* Fixed typo
+
+### General SKills
+* Fixed typo
+
+### Ritual Magic
+* Removed Spirit Link
+
+
 ## 5.0.0 [2025-03-24]
 
 ### Introduction
