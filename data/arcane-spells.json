@@ -61,7 +61,7 @@
         "level": "4",
         "duration": "Rest",
         "incant": "I conjure an arcane <weapon>.",
-        "description": "This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the appropriate weapon skill in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured weapon. The weapon conveys a single, non-stacking Proficiency to the wielder. A weapon summoned by this spell may not be wielded with a conjured shield, but 2 conjured weapons may be wielded (requiring a second casting of Conjure Weapon). "
+        "description": "This spell creates a temporary magical weapon for use by the caster of this spell. The caster does not need the appropriate weapon skill in order to be able to use the conjured weapon. The conjured weapon will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured weapon. The player must attach a white tassel to the hilt of the weapon to indicate that it is a conjured weapon. (Logistics may have extra tassels if needed.) The weapon conveys a single, non-stacking Proficiency to the wielder. A weapon summoned by this spell may not be wielded with a conjured shield, but 2 conjured weapons may be wielded (requiring a second casting of Conjure Weapon)."
     },
     {
         "name": "Enchanted Blade",
@@ -77,7 +77,7 @@
         "level": "5",
         "duration": "Rest",
         "incant": "I conjure an arcane shield.",
-        "description": "This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the Shield skill in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured shield. A shield summoned by this spell may not be wielded with a conjured weapon. "
+        "description": "This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the Shield skill in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured shield. The player must attach a white tassel to the shield to indicate that it has been conjured. (Logistics may have extra tassels if needed.) A shield summoned by this spell may not be wielded with a conjured weapon."
     },
     {
         "name": "Limited Teleport†",
@@ -92,7 +92,7 @@
         "school": "Arcane",
         "level": "6",
         "duration": "Instant",
-        "incant": "I summon a force to nullify your <Effect>.",
+        "incant": "I call forth mystic forces to nullify your <Effect>.",
         "description": "This spell will instantly remove the named spell effect from the character. This spell is considered a kind of dispel magic effect and will affect spells that are affected by a Dispel Magic while on a character. This spell will not affect spells on inanimate objects. "
     },
     {
