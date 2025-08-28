@@ -1,54 +1,54 @@
 [
   {
-    "name": "Anthropology Knowledge",
+    "name": "Anthropology",
     "description": "Covers the past and present behaviors, biology, and cultures of the sentient races.  Culture refers to the learned behavior of people, including their languages, belief systems, customs, social structures and institutions, and corporeal, tangible objects that are created, used, kept, and left behind by past and present peoples.  This Knowledge does not provide details on political, historical, or economic topics.  Higher ranks will allow for knowledge of more niche details for what may be a less common race."
   },
   {
-    "name": "Arcane Magic Knowledge",
+    "name": "Arcane Magic",
     "description": "Covers Arcane Magic in all its forms and uses. Higher ranks will provide greater insight to Arcane questions or provide more detailed information on the target of an inquiry."
   },
   {
-    "name": "Cosmology Knowledge",
+    "name": "Cosmology",
     "description": "Covers the nature of the universe and its various planes, including distinct knowledge of specific planes such as its people, origin, structure, and physical relation to other planes.  Additionally covers the theoretical knowledge of rifting and portals."
   },
   {
-    "name": "Criminal Knowledge",
+    "name": "Criminal",
     "description": "Covers laws (their avoidance and subversion), various criminal organizations and their structure, cons, and illegal activity. Higher ranks will point one to contacts within some of these organizations or reveal information some may regret knowing."
   },
   {
-    "name": "Economic Knowledge",
+    "name": "Economic",
     "description": "Covers trade routes, values of goods, and merchants of specific items. Higher ranks will reveal more hidden information or let someone sniff out particularly good deals."
   },
   {
-    "name": "Engineering Knowledge",
+    "name": "Engineering",
     "description": "Covers civil engineering and infrastructure such as bridges, aqueducts, walls, buildings, roads, cranes, siege weapons, etc.  It cannot be used to affect game mechanics.  Higher ranks will allow for more detailed insights."
   },
   {
-    "name": "Geographical Knowledge",
+    "name": "Geographical",
     "description": "Covers landmarks, terrain, maps, roads, approximate distances, and navigation. Higher ranks will allow for more detailed information or better navigation."
   },
   {
-    "name": "Historical Knowledge",
+    "name": "Historical",
     "description": "Covers recent to far-flung historical events which may include limited information related to other knowledge realms such as historical political, cultural, or economic events.  Higher ranks will allow for knowledge of the distant past or more accurate recollections of events."
   },
   {
-    "name": "Nature Magic Knowledge",
+    "name": "Nature Magic",
     "description": "Covers Nature Magic in all its forms and uses.  Higher ranks will provide greater insight to Nature questions or provide more detailed information on the target of an inquiry."
   },
   {
-    "name": "Political Knowledge",
+    "name": "Political",
     "description": "Covers laws (their enforcement and creation), local and foreign political hierarchy, ideologies, policies and processes, government, strategy, alliances, hostilities, territories, holdings, and war. Higher ranks will reveal well-hidden information or let one find the truth behind malicious rumors."
   },
   {
-    "name": "Spirit Magic Knowledge",
+    "name": "Spirit Magic",
     "description": "Covers Spirit Magic in all its forms and uses. Higher ranks will provide greater insight to Spirit questions or provide more detailed information on the target of an inquiry."
   },
   {
-    "name": "Survivalist Knowledge",
+    "name": "Survivalist",
     "description": "Covers the knowledge of subjects related to outdoor survival and living in the wild, such as how to construct emergency shelter, making fire, securing food (hunting, fishing, foraging), identifying plants and animals, locating and purifying water, and some navigation techniques.  A survivalist may be able to recognize the mark left by a creature, but to truly track them they will need the Tracking skill."
   },
   {
-    "name": "Thanatology Knowledge",
+    "name": "Thanatology",
     "description": "Covers the study of death, dying, necromancy, thaumaturgy, psychopomps, and the undead.  It additionally covers the mechanisms and forensic aspects of death such as the application and use of last rites as well as burial and cremation practices."
   }
 ]
