@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Attunement: Spirit",
+        "description": "Increases the characters Spirit Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
+        "shortDescription": "+10 Spirit Mana per rank",
+        "spCosts": {
+            "base": {
+                "primary": "4",
+                "secondary": "4",
+                "tertiary": "10"
+            },
+            "increment": {
+                "primary": "2",
+                "secondary": "4",
+                "tertiary": "10"
+            }
+        }
+    }
+]
