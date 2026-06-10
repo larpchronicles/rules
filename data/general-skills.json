@@ -36,26 +36,6 @@
     }
   },
   {
-    "name": "Identify",
-    "description": "Identify allows a character to spend 1 minute concentrating while maintaining contact with a person or items to determine what, if any, magical properties the target has.",
-    "shortDescription": "Concentrate 1 min, perceive magical properties",
-    "spCosts": {
-      "base": {
-        "primary": "0"
-      }
-    }
-  },
-  {
-    "name": "Meditate",
-    "description": "A character may spend 1 minute in deep concentration (any interaction, including moving or speaking, will interrupt this concentration) to regain any Mana Points, Agility Points, or Stamina Points expended on any ability that failed to connect with their intended target since their last Rest or Meditate. This only applies to abilities where the attack missed, and not does not apply to abilities that the target defended against or was immune to. This ability does not allow a character to exceed their maximum pool points.",
-    "shortDescription": "Concentrate 1 min, refund points for any missed abilities",
-    "spCosts": {
-      "base": {
-        "primary": "0"
-      }
-    }
-  },
-  {
     "name": "Parrying Dagger",
     "description": "This skill allows the character to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12\"-18\" in length, the handle is a maximum of 6\", and the tips of the weapon must be red for easy identification.",
     "shortDescription": "Allows the use of a Parrying Dagger",
@@ -89,16 +69,6 @@
     "name": "Spell Strike",
     "description": "All characters choose between being able to packet-deliver their spells, or spellstrike their spells. This choice cannot be changed during an event.",
     "shortDescription": "Deliver all spells as Spell Strikes",
-    "spCosts": {
-      "base": {
-        "primary": "0"
-      }
-    }
-  },
-  {
-    "name": "Tap Reserves",
-    "description": "All characters have the ability to summon reserve energy when necessary. Tap Reserves allows a character to spend 1 minute in concentration to set the ability pool associated with their Primary skillset to 5 points. This requires the character to have a maximum of at least 5 points in their primary skillset ability pool. (A Fighter primary character can set their Stamina Points to 5, a Rogue primary character can set their Agility Points to 5, and a Mage primary character can set their Mana Points to 5.) Note: This does NOT increasse their current pool points by 5, it sets the pool to 5 points. If the character had greater than 5 points in their pool prior to using Tap Reserves, they would be effectively losing points in that pool.) A character may never be compelled to use this ability by any means, it is always the choice of the player to use Tap Reserves.",
-    "shortDescription": "Set Primary pool to 5 points",
     "spCosts": {
       "base": {
         "primary": "0"
