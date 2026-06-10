@@ -1,4 +1,9 @@
-#!/usr/bin/env node
+/**
+ * generate-skills-md.js
+ * Project: chronicles-rules
+ * Creator: Justin Doyle <jdoyle@jmdoyle.com>
+ * Date: 6/9/2026
+ */
 'use strict';
 
 const fs = require('fs');
