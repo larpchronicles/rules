@@ -100,20 +100,23 @@ function costLine(spCosts) {
 function prereqText(skill) {
     const prereqs = Array.isArray(skill.prereqs) ? skill.prereqs : [];
     if (prereqs.length === 0) return 'None';
-    return prereqs.map((p) => `${p.ranks}x [[${p.name}]]`).join(', ');
+    return prereqs.map((p) => `${p.name} ${p.ranks}`).join(', ');
 }
 
 const byName = (a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' });
 
+// Escape free text for a markdown table cell.
+const tableCell = (v) => String(v == null ? '' : v).replace(/\|/g, '\\|').replace(/\s*\n+\s*/g, ' ').trim();
+
 function buildTable(skills, title) {
     const lines = [];
-    lines.push(`# ${title}`);
+    lines.push(`## ${title}`);
     lines.push('');
-    lines.push(`| Skill | ${TIERS.map((t) => TIER_HEADERS[t]).join(' | ')} |`);
-    lines.push(`|${'---|'.repeat(TIERS.length + 1)}`);
+    lines.push(`| Skill | ${TIERS.map((t) => TIER_HEADERS[t]).join(' | ')} | Description |`);
+    lines.push(`|${'---|'.repeat(TIERS.length + 2)}`);
     for (const skill of skills) {
         const cells = TIERS.map((t) => costCell(skill.spCosts, t));
-        lines.push(`|${skill.name}|${cells.join('|')}|`);
+        lines.push(`|${tableCell(skill.name)}|${cells.join('|')}|${tableCell(skill.shortDescription)}|`);
     }
     lines.push('');
     return lines.join('\n');
@@ -125,8 +128,8 @@ function buildDescriptions(entries, title, includeCost) {
     //const lines = [`# ${title}`, ''];
     const lines = [];
     for (const { skill, skillset } of entries) {
-        lines.push(`## ${skill.name}`);
-        lines.push(`**Skillset**: [[${skillset}]]${HB}`);
+        lines.push(`### ${skill.name}`);
+        lines.push(`**Skillset**: [${skillset}]${HB}`);
         if (includeCost) {
             const cost = costLine(skill.spCosts);
             if (cost) lines.push(`${cost}${HB}`);
