@@ -137,6 +137,8 @@ function buildDescriptions(entries, title, includeCost) {
         lines.push(`**Prerequisites**: ${prereqText(skill)}${HB}`);
         lines.push((skill.description || '').trim());
         lines.push('');
+        lines.push('---');
+        lines.push('');
     }
     return lines.join('\n');
 }
