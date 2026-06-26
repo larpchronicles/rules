@@ -80,10 +80,11 @@
         "description": "This spell creates a temporary magical shield for use by the caster of this spell. The caster does not need the Shield skill in order to be able to use the conjured shield. The conjured shield will instantly disappear if the weapon leaves the possession of the caster for longer than 10 seconds. The caster is responsible for providing the rep for the conjured shield. The player must attach a white tassel to the shield to indicate that it has been conjured. (Logistics may have extra tassels if needed.) A shield summoned by this spell may not be wielded with a conjured weapon."
     },
     {
-        "name": "Limited Teleport†",
+        "name": "Limited Teleport",
         "school": "Arcane",
         "level": "5",
         "duration": "20 Seconds",
+        "selfOnly": true,
         "incant": "With arcane forces I move across time and space.",
         "description": "This spell will teleport the caster up to 10 steps in any direction. The teleport may not be impeded by walls or other physical barriers. Once this spell is cast, the caster will complete a three second count rifting out, move to a location with 10 steps, and then three count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The caster must immediately move upon completion of the Rift Out three count. The caster must begin their Rift In three count within 20 seconds of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. "
     },
@@ -96,10 +97,11 @@
         "description": "This spell will instantly remove the named spell effect from the character. This spell is considered a kind of dispel magic effect and will affect spells that are affected by a Dispel Magic while on a character. This spell will not affect spells on inanimate objects. "
     },
     {
-        "name": "Stasis†",
+        "name": "Stasis",
         "school": "Arcane",
         "level": "6",
         "duration": "1 minute",
+        "selfOnly": true,
         "incant": "With arcane forces I enter stasis",
         "altincat": "I conjure an arcane stasis",
         "description": "This spell creates a rigid, impenetrable barrier between the caster and the rest of the world. While the character is in stasis, they are immune to all game effects except Dispel Magic, Nullify Magic, and Suppress Magic, which will end the effect immediately. While the spell is active, the character may not move, communicate with others, use any skills, or activate any items. The effect may be ended by the caster at any time. When this spell ends, regardless of its duration running out, being dispelled, or dropped by the caster, the character must immediately announce, \"Stasis Down\". The caster may not cast this spell again for 5 seconds. This is a STASIS effect."
