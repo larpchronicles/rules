@@ -4364,7 +4364,7 @@ Goblin Points can be spent on a variety of options that may change over time to 
 * <u>Non-Standard Magic Item</u>.  May claim 1 magic item with a non-standard effect.  Limit 1 per year per character.
 
 # Glossary
- ## Reference Charts
+## Reference Charts
 
 ### Spells
 | Level | Arcane | Nature | Spirit |
