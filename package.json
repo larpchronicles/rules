@@ -2,7 +2,7 @@
   "name": "rules-topics",
   "version": "2.0.0",
   "scripts": {
-    "build": "node rules-v6/utilities/build-rulebook.js --src rules-v6/chapters --data rules-v6/data --out rules-v6/build/rulebook.md"
+    "build": "node utilities/build-rulebook.js --src chapters --data data --out build/rulebook.md"
   },
   "dependencies": {
     "markdown-it": "^14.2.0"

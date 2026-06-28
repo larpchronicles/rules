@@ -711,6 +711,35 @@ function stripMarkers(body) {
         .replace(/[ \t]*\[!toc-(?:exclude(?:-recursive|-children-only)?|collapse|expand)\]/g, '');
 }
 
+/* --------------------------------------------------------- meta-tag fill-in */
+
+const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'];
+
+function loadVersion() {
+    try {
+        const data = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'version.json'), 'utf8'));
+        return data.version || null;
+    } catch {
+        return null;
+    }
+}
+
+function formatBuildDate() {
+    const d = new Date();
+    return `${MONTHS[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+}
+
+// Replace bare [!Version] and [!Date] lines with their build-time values.
+// Only replaces lines where the tag stands alone (no existing value), so
+// re-running on already-stamped text is safe.
+function substituteMetaTags(text, version, date) {
+    let out = text;
+    if (version) out = out.replace(/^\[!Version\][ \t]*$/m, `[!Version] v${version}`);
+    if (date)    out = out.replace(/^\[!Date\][ \t]*$/m,    `[!Date] ${date}`);
+    return out;
+}
+
 /* -------------------------------------------------------------------- CLI  */
 
 function parseArgs(argv) {
@@ -839,7 +868,8 @@ function main() {
 
     // 2) Stitch all chapters in filename order.
     const chapters = assembleChapters(srcFiles, generated, args.excludes);
-    const body = chapters.map((c) => c.text.replace(/\s+$/, '')).join('\n\n') + '\n';
+    let body = chapters.map((c) => c.text.replace(/\s+$/, '')).join('\n\n') + '\n';
+    body = substituteMetaTags(body, loadVersion(), formatBuildDate());
 
     // 3) Index headings -> flat TOC + nested tree + description slugs.
     const { toc, tree, descSlugs } = indexHeadings(body, { tocDepth: args.tocDepth, collapseDepth: args.collapseDepth });
