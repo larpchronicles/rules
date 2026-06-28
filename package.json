@@ -1,6 +1,6 @@
 {
   "name": "rules-topics",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "dependencies": {
     "markdown-it": "^14.2.0"
   }
