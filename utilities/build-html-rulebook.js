@@ -46,17 +46,6 @@ const escapeHtml = (s) => String(s)
 
 /* ------------------------------------------------------- markdown -> html  */
 
-// Drop the leading "# Table of Contents" section: the page navigates via the
-// sidebar, so the inline list is redundant here. (It stays in the markdown for
-// the eventual print TOC.)
-function stripInlineToc(md) {
-    const lines = md.split('\n');
-    if ((lines[0] || '').trim() !== '# Table of Contents') return md;
-    let i = 1;
-    while (i < lines.length && !/^# /.test(lines[i])) i++;
-    return lines.slice(i).join('\n');
-}
-
 // Render markdown to HTML, assigning each heading the slug id that matches the
 // document's existing anchor links. Also collects the headings encountered.
 function renderContent(md) {
@@ -445,7 +434,7 @@ function main() {
     }
 
     const mdRaw = fs.readFileSync(path.resolve(args.md), 'utf8');
-    const { html: contentHtml, headings } = renderContent(stripInlineToc(mdRaw));
+    const { html: contentHtml, headings } = renderContent(mdRaw);
 
     let tree;
     if (args.toc) {

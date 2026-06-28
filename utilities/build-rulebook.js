@@ -585,12 +585,16 @@ function assembleChapters(srcFiles, generated, excludes) {
 //   [!toc-expand]                present and expanded; force-opens its ancestors
 // "Subtree" = every following heading deeper than this one, until a heading at
 // this level or shallower closes the scope.
+//
+// Block-level placement tag (not a heading tag):
+//   [!toc]   marks where the rendered TOC is inserted in the PDF artifact;
+//            stripped from the web artifact (web navigation comes from .toc.json).
 const TOC_EXCLUDE_SELF = /\[!toc-exclude\]/;
 const TOC_EXCLUDE_RECURSIVE = /\[!toc-exclude-recursive\]/;
 const TOC_EXCLUDE_CHILDREN = /\[!toc-exclude-children-only\]/;
 const TOC_COLLAPSED = /\[!toc-collapse\]/;
 const TOC_EXPANDED = /\[!toc-expand\]/;
-// Matches any of the above for stripping.
+// Matches any of the per-heading tags for stripping from heading text.
 const TOC_TAG_RE = /\[!toc-(?:exclude(?:-recursive|-children-only)?|collapse|expand)\]/g;
 
 // Walk the assembled body once: compute each heading's final slug (fence-aware),
@@ -708,7 +712,8 @@ function resolveLinks(body, linkRefs, descSlugs) {
 function stripMarkers(body) {
     return body
         .replace(/<!--@desc:[^>]*-->/g, '')
-        .replace(/[ \t]*\[!toc-(?:exclude(?:-recursive|-children-only)?|collapse|expand)\]/g, '');
+        .replace(/[ \t]*\[!toc-(?:exclude(?:-recursive|-children-only)?|collapse|expand)\]/g, '')
+        .replace(/^\[!toc\][ \t]*\n?/mg, '');
 }
 
 /* --------------------------------------------------------- meta-tag fill-in */
@@ -816,8 +821,13 @@ function usage() {
         '  [!toc-collapse]               present, collapsed by default (HTML index)',
         '  [!toc-expand]                present, expanded; force-opens its ancestors',
         '',
-        'The markdown TOC is the full expanded view; collapse state is carried in the',
-        'heading-index JSON for the HTML/PDF generator to render.',
+        'Block-level placement tag:',
+        '  [!toc]   marks where the rendered TOC is inserted in the PDF artifact',
+        '           (<out>-pdf.md). Stripped from the web artifact. Allows the',
+        '           metadata chapter (title, credits, dedication) to appear before',
+        '           the TOC in print without special-casing that chapter in the reader.',
+        '',
+        'Collapse state is carried in the heading-index JSON for the web sidebar.',
     ].join('\n');
 }
 
@@ -874,16 +884,32 @@ function main() {
     // 3) Index headings -> flat TOC + nested tree + description slugs.
     const { toc, tree, descSlugs } = indexHeadings(body, { tocDepth: args.tocDepth, collapseDepth: args.collapseDepth });
 
-    // 4) Resolve table links, strip markers, prepend TOC.
-    let compiled = resolveLinks(body, linkRefs, descSlugs);
-    compiled = stripMarkers(compiled);
+    // 4) Resolve table links; build TOC text for both artifact variants.
+    const compiled = resolveLinks(body, linkRefs, descSlugs);
     const tocText = renderToc(toc, { links: args.tocLinks, indent: '\t', title: 'Table of Contents' });
 
-    fs.writeFileSync(outPath, `${tocText}\n${compiled}`);
+    // PDF artifact: replace [!toc] with the rendered bullet list, then strip
+    // remaining markers. This lets the metadata chapter (title, credits,
+    // dedication) appear before the TOC in the print/PDF version.
+    const TOC_PLACEMENT = /^\[!toc\][ \t]*$/m;
+    if (TOC_PLACEMENT.test(compiled)) {
+        const pdfBody = stripMarkers(compiled.replace(TOC_PLACEMENT, tocText.trimEnd()));
+        const ext = path.extname(outPath);
+        const pdfPath = path.join(
+            path.dirname(outPath),
+            `${path.basename(outPath, ext)}-pdf${ext}`,
+        );
+        fs.writeFileSync(pdfPath, pdfBody);
+        console.log(`Wrote PDF artifact -> ${pdfPath}`);
+    }
+
+    // Web artifact: strip [!toc] (and all other markers). The web reader builds
+    // its own navigation from the .toc.json data; no inline TOC is needed.
+    const webBody = stripMarkers(compiled);
+    fs.writeFileSync(outPath, webBody);
     console.log(`\nCompiled ${chapters.length} chapters + TOC (${toc.length} entries) -> ${outPath}`);
 
-    // 5) Write the nested heading index (carries collapse state) for the
-    //    HTML/PDF generator. The markdown TOC above stays fully expanded.
+    // 5) Write the nested heading index (carries collapse state) for the sidebar.
     if (args.tocJson !== false) {
         const jsonPath = typeof args.tocJson === 'string'
             ? path.resolve(args.tocJson)
