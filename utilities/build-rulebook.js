@@ -39,20 +39,22 @@ const TYPES = {
     knowledges: { word: 'Knowledges', groupLabel: null,       kind: 'plain' },
 };
 
-// Which chapter each type renders into. Output filenames sort the generated
-// chapters into their place among the hand-written ones.
-const CHAPTERS = {
-    skills:     { out: '01.04_skills.md',     title: 'Skills' },
-    abilities:  { out: '01.05_abilities.md',  title: 'Ability Reference' },
-    spells:     { out: '01.06_spells.md',     title: 'Spells' },
-    knowledges: { out: '01.07_knowledges.md', title: 'Knowledges' },
-};
+// All data chapters are now placed via inline tags — see DATA_TAG_RE below.
+// CHAPTERS is kept only so GLOSSARY_OUT has a peer constant grouping.
+const CHAPTERS = {};
 
 // A hand-written chapter is any source file matching this. The old hand-written
 // TOC is excluded by name (the generated TOC replaces it).
 const CHAPTER_FILE_RE = /^\d{2}\.\d{2}_.+\.md$/i;
 const DATA_FILE_RE = /\.json$/i;
 const DEFAULT_EXCLUDES = ['00.00_toc.md'];
+
+// Inline data-chapter tags. Must appear on a markdown heading line:
+//   `## Skills [!Skills]`  →  h2 chapter heading, h3 group tables, h4 descriptions
+// The heading text before the tag becomes the chapter title; the heading level
+// determines the depth of every sub-heading in the generated block.
+const DATA_TAG_RE = /^(#{1,6})[ \t]+(.*?)[ \t]+\[!(Skills|Abilities|Spells|Knowledges)\][ \t]*$/gm;
+const TAG_TO_TYPE = { Skills: 'skills', Abilities: 'abilities', Spells: 'spells', Knowledges: 'knowledges' };
 
 // The glossary is generated last and sorts to the end of the book.
 const GLOSSARY_OUT = '08.01_glossary.md';
@@ -146,9 +148,9 @@ const descSentinel = (type, name) => `<!--@desc:${descKey(type, name)}-->`;
 
 /* ----------------------------------------------------- table construction  */
 
-function buildTable(type, items, title, linkRefs) {
+function buildTable(type, items, title, linkRefs, headingLevel = 2) {
     const kind = TYPES[type].kind;
-    const lines = title ? [`## ${title}`, ''] : [];
+    const lines = title ? [`${'#'.repeat(headingLevel)} ${title}`, ''] : [];
 
     // The name cell becomes a link placeholder pointing at this item's block.
     const nameCell = (item) => {
@@ -182,12 +184,12 @@ function buildTable(type, items, title, linkRefs) {
 
 /* ------------------------------------------------ description construction  */
 
-// One H3 description block for a single item. `groups` is every group the item
+// One description block for a single item. `groups` is every group the item
 // appears in (one block is shared across them). The heading carries the sentinel
 // (keyed by clean name) so the assembler can map its slug back to the table link.
-function buildBlock(type, item, groups, includeCost) {
+function buildBlock(type, item, groups, includeCost, headingLevel = 3) {
     const lines = [];
-    lines.push(`### ${displayName(item)}${descSentinel(type, item.name)}`);
+    lines.push(`${'#'.repeat(headingLevel)} ${displayName(item)}${descSentinel(type, item.name)}`);
 
     const groupTag = groups.map((g) => `[${g}]`).join(' ');
     const kind = TYPES[type].kind;
@@ -397,19 +399,21 @@ function collectData(files) {
 
 // Render one data-driven chapter to markdown (tables with link placeholders +
 // alphabetical description blocks). Pushes table link refs onto `linkRefs`.
-function renderDataChapter(type, title, groups, opts, linkRefs) {
-    const parts = [`# ${title}`, ''];
+// `baseLevel` is the heading depth for the chapter title (default 1 = H1); group
+// table headings are baseLevel+1 and description headings are baseLevel+2.
+function renderDataChapter(type, title, groups, opts, linkRefs, baseLevel = 1) {
+    const parts = [`${'#'.repeat(baseLevel)} ${title}`, ''];
 
     if (TYPES[type].kind === 'plain') {
-        // knowledges: one merged, name-sorted index table directly under the H1.
+        // knowledges: one merged, name-sorted index table directly under the title.
         const items = groups.flatMap((g) => g.items);
         const sorted = [...items].sort((a, b) => byName(a.name, b.name));
-        parts.push(buildTable(type, sorted, null, linkRefs));
+        parts.push(buildTable(type, sorted, null, linkRefs, baseLevel + 1));
     } else {
         // Tables, one per group, in collection (alphabetical) order.
         for (const { label, items } of groups) {
             const tableItems = opts.sortTables ? [...items].sort((a, b) => byName(a.name, b.name)) : items;
-            parts.push(buildTable(type, tableItems, `${label} ${TYPES[type].word}`, linkRefs));
+            parts.push(buildTable(type, tableItems, `${label} ${TYPES[type].word}`, linkRefs, baseLevel + 1));
         }
     }
 
@@ -436,7 +440,7 @@ function renderDataChapter(type, title, groups, opts, linkRefs) {
     if (uniq.length) {
         parts.push('---', '');
         for (const { item, groups: gs } of uniq) {
-            parts.push(buildBlock(type, item, gs, opts.cost));
+            parts.push(buildBlock(type, item, gs, opts.cost, baseLevel + 2));
         }
     }
 
@@ -555,25 +559,8 @@ function renderGlossary(buckets) {
 }
 
 /* ------------------------------------------------------- chapter assembly  */
-
-// Return the ordered list of { name, text } chapters: the resolved source files
-// (minus excludes and minus the names we generate) plus the freshly generated
-// data chapters, all sorted by filename.
-function assembleChapters(srcFiles, generated, excludes) {
-    const generatedNames = new Set([...Object.values(CHAPTERS).map((c) => c.out), GLOSSARY_OUT]);
-    const excludeSet = new Set(excludes.map((e) => e.toLowerCase()));
-
-    const handwritten = srcFiles
-        .filter((p) => {
-            const base = path.basename(p);
-            return !excludeSet.has(base.toLowerCase()) && !generatedNames.has(base);
-        })
-        .map((p) => ({ name: path.basename(p), text: fs.readFileSync(p, 'utf8') }));
-
-    const all = [...handwritten, ...generated];
-    all.sort((a, b) => byName(a.name, b.name));
-    return all;
-}
+// Assembly is done inline in main() — chapters are accumulated as { name, text }
+// objects directly, avoiding a second read pass over source files.
 
 /* ------------------------------------------------------------- TOC + links */
 
@@ -713,7 +700,8 @@ function stripMarkers(body) {
     return body
         .replace(/<!--@desc:[^>]*-->/g, '')
         .replace(/[ \t]*\[!toc-(?:exclude(?:-recursive|-children-only)?|collapse|expand)\]/g, '')
-        .replace(/^\[!toc\][ \t]*\n?/mg, '');
+        .replace(/^\[!toc\][ \t]*\n?/mg, '')
+        .replace(/[ \t]*\[!(Skills|Abilities|Spells|Knowledges)\]/g, ''); // stray tags not on valid heading lines
 }
 
 /* --------------------------------------------------------- meta-tag fill-in */
@@ -823,9 +811,18 @@ function usage() {
         '',
         'Block-level placement tag:',
         '  [!toc]   marks where the rendered TOC is inserted in the PDF artifact',
-        '           (<out>-pdf.md). Stripped from the web artifact. Allows the',
-        '           metadata chapter (title, credits, dedication) to appear before',
-        '           the TOC in print without special-casing that chapter in the reader.',
+        '           (<out>-pdf.md). Stripped from the web artifact.',
+        '',
+        'Inline data-chapter tags (must appear on a heading line):',
+        '  [!Skills]      generate the skills tables/descriptions at this heading depth',
+        '  [!Abilities]   generate the abilities tables/descriptions at this heading depth',
+        '  [!Spells]      generate the spells tables/descriptions at this heading depth',
+        '  [!Knowledges]  generate the knowledges index at this heading depth',
+        '',
+        '  Example: `## Skills [!Skills]`',
+        '    → chapter heading h2 "Skills", group tables h3, descriptions h4',
+        '  The heading text before the tag becomes the chapter title; the tag is stripped.',
+        '  Each tag may appear at most once across all source files.',
         '',
         'Collapse state is carried in the heading-index JSON for the web sidebar.',
     ].join('\n');
@@ -851,33 +848,60 @@ function main() {
     const buildDir = args.build ? path.resolve(args.build) : path.dirname(outPath);
     fs.mkdirSync(buildDir, { recursive: true });
 
-    // 1) Render data chapters to temp files, collecting table link refs.
     const buckets = collectData(dataFiles);
     const linkRefs = [];
-    const generated = [];
     const opts = { cost: args.cost, sortTables: args.sortTables };
+    const handledTypes = new Set();
+    const excludeSet = new Set(args.excludes.map((e) => e.toLowerCase()));
 
-    for (const type of Object.keys(CHAPTERS)) {
-        const groups = buckets[type];
-        if (!groups || groups.length === 0) continue;
-        const { out, title } = CHAPTERS[type];
-        const text = renderDataChapter(type, title, groups, opts, linkRefs);
-        const tmpPath = path.join(buildDir, out);
-        fs.writeFileSync(tmpPath, text);
-        generated.push({ name: out, text });
-        console.log(`Generated ${tmpPath}`);
+    // 1a) Read every source chapter. Lines matching a data-type tag pattern
+    //     (`#+ Title [!Skills]` etc.) are replaced in-place with the generated
+    //     content at the matching heading depth. Modified files are written to
+    //     the build dir as intermediate artifacts.
+    const chapters = [];
+    for (const srcPath of srcFiles) {
+        const baseName = path.basename(srcPath);
+        if (excludeSet.has(baseName.toLowerCase())) continue;
+        let text = fs.readFileSync(srcPath, 'utf8');
+        let modified = false;
+
+        text = text.replace(DATA_TAG_RE, (match, hashes, titleRaw, tagWord) => {
+            const type = TAG_TO_TYPE[tagWord];
+            const groups = buckets[type];
+            if (!groups || groups.length === 0) {
+                console.error(`Warning: [!${tagWord}] in ${baseName} — no data loaded for "${type}"; skipping.`);
+                return match;
+            }
+            if (handledTypes.has(type)) {
+                console.error(`Warning: duplicate [!${tagWord}] in ${baseName}; ignoring.`);
+                return match;
+            }
+            handledTypes.add(type);
+            modified = true;
+            const level = hashes.length;
+            const title = titleRaw.trim();
+            console.log(`  [!${tagWord}] → h${level} "${title}" in ${baseName}`);
+            return renderDataChapter(type, title, groups, opts, linkRefs, level);
+        });
+
+        if (modified) {
+            const tmpPath = path.join(buildDir, baseName);
+            fs.writeFileSync(tmpPath, text);
+        }
+        chapters.push({ name: baseName, text });
     }
 
+    // 1b) Glossary.
     if (!args.noGlossary) {
         const text = renderGlossary(buckets);
         const tmpPath = path.join(buildDir, GLOSSARY_OUT);
         fs.writeFileSync(tmpPath, text);
-        generated.push({ name: GLOSSARY_OUT, text });
+        chapters.push({ name: GLOSSARY_OUT, text });
         console.log(`Generated ${tmpPath}`);
     }
 
-    // 2) Stitch all chapters in filename order.
-    const chapters = assembleChapters(srcFiles, generated, args.excludes);
+    // 2) Sort all chapters by filename and stitch.
+    chapters.sort((a, b) => byName(a.name, b.name));
     let body = chapters.map((c) => c.text.replace(/\s+$/, '')).join('\n\n') + '\n';
     body = substituteMetaTags(body, loadVersion(), formatBuildDate());
 
