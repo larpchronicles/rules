@@ -53,8 +53,8 @@ const DEFAULT_EXCLUDES = ['00.00_toc.md'];
 //   `## Skills [!Skills]`  →  h2 chapter heading, h3 group tables, h4 descriptions
 // The heading text before the tag becomes the chapter title; the heading level
 // determines the depth of every sub-heading in the generated block.
-const DATA_TAG_RE = /^(#{1,6})[ \t]+(.*?)[ \t]+\[!(Skills|Abilities|Spells|Knowledges)\][ \t]*$/gm;
-const TAG_TO_TYPE = { Skills: 'skills', Abilities: 'abilities', Spells: 'spells', Knowledges: 'knowledges' };
+const DATA_TAG_RE = /^(#{1,6})[ \t]+(.*?)[ \t]+\[!(Skills|Abilities|Spells|Knowledges|Effects)\][ \t]*$/gm;
+const TAG_TO_TYPE = { Skills: 'skills', Abilities: 'abilities', Spells: 'spells', Knowledges: 'knowledges', Effects: 'effects' };
 
 // The glossary is generated last and sorts to the end of the book.
 const GLOSSARY_OUT = '08.01_glossary.md';
@@ -217,6 +217,28 @@ function buildBlock(type, item, groups, includeCost, headingLevel = 3) {
     return lines.join('\n');
 }
 
+/* ------------------------------------------------- effects chapter render   */
+
+function buildEffectBlock(item, headingLevel = 3) {
+    const lines = [];
+    lines.push(`${'#'.repeat(headingLevel)} ${item.name}`);
+    if (has(item.verbal)) lines.push(`**Verbal**: ${item.verbal}${HB}`);
+    lines.push((item.description || '').trim());
+    lines.push('');
+    lines.push('---');
+    lines.push('');
+    return lines.join('\n');
+}
+
+function renderEffectsChapter(title, items, headingLevel = 1) {
+    const parts = [`${'#'.repeat(headingLevel)} ${title}`, ''];
+    const sorted = [...items].sort((a, b) => byName(a.name, b.name));
+    for (const item of sorted) {
+        parts.push(buildEffectBlock(item, headingLevel + 1));
+    }
+    return parts.join('\n');
+}
+
 /* ---------------------------------------------------------- input resolving */
 //
 // --src and --data each accept one or more tokens; every token may be a
@@ -356,6 +378,7 @@ function classifyInput(filePath) {
         return { type: m[2].toLowerCase(), label };
     }
     if (raw.toLowerCase() === 'knowledges') return { type: 'knowledges', label: null };
+    if (raw.toLowerCase() === 'effects') return { type: 'effects', label: null };
     return { type: null, label: null };
 }
 
@@ -382,7 +405,7 @@ function loadItems(inputPath) {
 // Bucket recognized JSON files by type, sorted by basename so group order is
 // stable (alphabetical) regardless of how the files were specified.
 function collectData(files) {
-    const buckets = { skills: [], abilities: [], spells: [], knowledges: [] };
+    const buckets = { skills: [], abilities: [], spells: [], knowledges: [], effects: [] };
     const sorted = [...files].sort((a, b) => byName(path.basename(a), path.basename(b)));
     for (const full of sorted) {
         const { type, label } = classifyInput(full);
@@ -701,7 +724,7 @@ function stripMarkers(body) {
         .replace(/<!--@desc:[^>]*-->/g, '')
         .replace(/[ \t]*\[!toc-(?:exclude(?:-recursive|-children-only)?|collapse|expand)\]/g, '')
         .replace(/^\[!toc\][ \t]*\n?/mg, '')
-        .replace(/[ \t]*\[!(Skills|Abilities|Spells|Knowledges)\]/g, ''); // stray tags not on valid heading lines
+        .replace(/[ \t]*\[!(Skills|Abilities|Spells|Knowledges|Effects)\]/g, ''); // stray tags not on valid heading lines
 }
 
 /* --------------------------------------------------------- meta-tag fill-in */
@@ -881,6 +904,10 @@ function main() {
             const level = hashes.length;
             const title = titleRaw.trim();
             console.log(`  [!${tagWord}] → h${level} "${title}" in ${baseName}`);
+            if (type === 'effects') {
+                const items = groups.flatMap((g) => g.items);
+                return renderEffectsChapter(title, items, level);
+            }
             return renderDataChapter(type, title, groups, opts, linkRefs, level);
         });
 
