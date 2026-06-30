@@ -18,14 +18,14 @@
             "shortDescription": "+10 Arcane Mana per rank",
             "spCosts": {
                 "base": {
-                    "primary": "4",
-                    "secondary": "7",
+                    "primary": "6",
+                    "secondary": "8",
                     "tertiary": "10"
                 },
                 "increment": {
-                    "primary": "4",
-                    "secondary": "7",
-                    "tertiary": "10"
+                    "primary": "2",
+                    "secondary": "8",
+                    "tertiary": "16"
                 }
             }
         }
