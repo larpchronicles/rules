@@ -448,7 +448,7 @@ function renderDataChapter(type, title, groups, opts, linkRefs, baseLevel = 1) {
     } else {
         // Tables, one per group, in collection (alphabetical) order.
         for (const { label, items } of groups) {
-            const tableItems = opts.sortTables ? [...items].sort((a, b) => byName(a.name, b.name)) : items;
+            const tableItems = (opts.sortTables || type === 'skills') ? [...items].sort((a, b) => byName(a.name, b.name)) : items;
             parts.push(buildTable(type, tableItems, `${label} ${TYPES[type].word}`, linkRefs, baseLevel + 1));
         }
     }
