@@ -85,18 +85,18 @@
         },
         {
             "name": "Armor Training",
-            "description": "This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. To gain benefit from this skill, the character must also wear proper physreps for the armor (see: Armor) . Armor stacks with the 5 points of Armor every character gets by default.",
+            "description": "This skill adds 5 points of maximum armor to the character for each time that this skill is purchased. To gain benefit from this skill, the character must also wear proper physreps for the armor (see: Armor).",
             "shortDescription": "+5 Armor Cap per rank",
             "spCosts": {
                 "base": {
-                    "primary": "3",
-                    "secondary": "3",
-                    "tertiary": "3"
+                    "primary": "1",
+                    "secondary": "1",
+                    "tertiary": "1"
                 },
                 "increment": {
-                    "primary": "1",
-                    "secondary": "2",
-                    "tertiary": "3"
+                    "primary": "2",
+                    "secondary": "5",
+                    "tertiary": "8"
                 }
             }
         },

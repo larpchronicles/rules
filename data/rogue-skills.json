@@ -41,8 +41,8 @@
                 },
                 "increment": {
                     "primary": 5,
-                    "secondary": 7,
-                    "tertiary": 10
+                    "secondary": 10,
+                    "tertiary": 20
                 }
             }
         },
