@@ -382,16 +382,25 @@ function classifyInput(filePath) {
     return { type: null, label: null };
 }
 
+// Returns { jsonLabel, items }. Handles both a flat array (abilities/spells/knowledges)
+// and the { skillsetName, skills } object form used by skill files.
 function loadItems(inputPath) {
-    let items;
+    let parsed;
     try {
-        items = JSON.parse(fs.readFileSync(inputPath, 'utf8'));
+        parsed = JSON.parse(fs.readFileSync(inputPath, 'utf8'));
     } catch (err) {
         console.error(`Error reading/parsing ${inputPath}: ${err.message}`);
         process.exit(1);
     }
-    if (!Array.isArray(items)) {
-        console.error(`${inputPath}: expected the JSON root to be an array of objects.`);
+    let jsonLabel = null;
+    let items;
+    if (Array.isArray(parsed)) {
+        items = parsed;
+    } else if (parsed && typeof parsed === 'object' && Array.isArray(parsed.skills)) {
+        jsonLabel = typeof parsed.skillsetName === 'string' ? parsed.skillsetName : null;
+        items = parsed.skills;
+    } else {
+        console.error(`${inputPath}: expected JSON root to be an array of objects or an object with a "skills" array.`);
         process.exit(1);
     }
     const bad = items.findIndex((s) => !s || typeof s.name !== 'string');
@@ -399,7 +408,7 @@ function loadItems(inputPath) {
         console.error(`${inputPath}: item at index ${bad} is missing a string "name" field.`);
         process.exit(1);
     }
-    return items;
+    return { jsonLabel, items };
 }
 
 // Bucket recognized JSON files by type, sorted by basename so group order is
@@ -408,12 +417,14 @@ function collectData(files) {
     const buckets = { skills: [], abilities: [], spells: [], knowledges: [], effects: [] };
     const sorted = [...files].sort((a, b) => byName(path.basename(a), path.basename(b)));
     for (const full of sorted) {
-        const { type, label } = classifyInput(full);
+        const { type, label: filenameLabel } = classifyInput(full);
         if (!type) {
             console.error(`Note: skipping ${path.basename(full)} (not a *-{skills,abilities,spells}.json or knowledges.json).`);
             continue;
         }
-        buckets[type].push({ label, items: loadItems(full) });
+        const { jsonLabel, items } = loadItems(full);
+        const label = jsonLabel !== null ? jsonLabel : filenameLabel;
+        buckets[type].push({ label, items });
     }
     return buckets;
 }

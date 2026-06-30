@@ -1,75 +1,78 @@
-[
-  {
-    "name": "Additional Defense Slot",
-    "description": "This skill grants an additional Defense Slot which may be used to activate additional defenses.  A character may only have as many Active Defenses as they have Defensive Slots.  Any skill, ability, or effect that grants a Resist or Dodge requires a Defensive Slot to be prepared.  This includes Transforms.  All characters automatically have 1 Defense Slot for free and additional slots may be purchased with Skill Points.",
-    "shortDescription": "+1 Defense Slot per rank",
-    "spCosts": {
-      "base": {
-        "primary": "10"
-      },
-      "increment": {
-        "primary": "30"
-      }
-    }
-  },
-  {
-    "name": "First Aid",
-    "description": "First Aid allows the character to provide emergency aid to a dying character and grants knowledge of anatomy. The character using First Aid will touch the downed character and say \"Performing First Aid\". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.",
-    "shortDescription": "Touch person for 1 minute to restore from Dying",
-    "spCosts": {
-      "base": {
-        "primary": "4"
-      }
-    }
-  },
-  {
-    "name": "Parrying Dagger",
-    "description": "This skill allows the character to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12\"-18\" in length, the handle is a maximum of 6\", and the tips of the weapon must be red for easy identification.",
-    "shortDescription": "Allows the use of a Parrying Dagger",
-    "spCosts": {
-      "base": {
-        "primary": "2"
-      }
-    }
-  },
-  {
-    "name": "Ritual Magic",
-    "description": "This skill allows the character to access the standard ritual magic library.  More information can be found in the Ritual Magic section.",
-    "shortDescription": "Allows casting rituals",
-    "spCosts": {
-      "base": {
-        "primary": "5"
-      }
-    }
-  },
-  {
-    "name": "Specialization",
-    "description": "When purchased, the character must specify which skillset they have mastery over. This skill allows that character to access level 10 abilities or spells.  This skill may be purchased only once.",
-    "shortDescription": "Able to use Tier X abilities of skillset",
-    "spCosts": {
-      "base": {
-        "primary": "10"
-      }
-    }
-  },
-  {
-    "name": "Spell Strike",
-    "description": "All characters choose between being able to packet-deliver their spells, or spellstrike their spells. This choice cannot be changed during an event.",
-    "shortDescription": "Deliver all spells as Spell Strikes",
-    "spCosts": {
-      "base": {
-        "primary": "0"
-      }
-    }
-  },
-  {
-    "name": "Tracking",
-    "description": "This skill is purchased once. Using this skill, the character can attempt to track a target's tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number. Tracking can be combined with the survivalist knowledge skill to gain greater bonuses and be considered master tracker. When a player asks to track something/someone a marshal will determine if the tracking succeeds and how much information a player gets.  PCs cannot track other PCs.",
-    "shortDescription": "The companion skill to Fielding",
-    "spCosts": {
-      "base": {
-        "primary": "20"
-      }
-    }
-  }
-]
+{
+    "skillsetName": "General",
+    "skills": [
+        {
+            "name": "Additional Defense Slot",
+            "description": "This skill grants an additional Defense Slot which may be used to activate additional defenses.  A character may only have as many Active Defenses as they have Defensive Slots.  Any skill, ability, or effect that grants a Resist or Dodge requires a Defensive Slot to be prepared.  This includes Transforms.  All characters automatically have 1 Defense Slot for free and additional slots may be purchased with Skill Points.",
+            "shortDescription": "+1 Defense Slot per rank",
+            "spCosts": {
+                "base": {
+                    "primary": "10"
+                },
+                "increment": {
+                    "primary": "30"
+                }
+            }
+        },
+        {
+            "name": "First Aid",
+            "description": "First Aid allows the character to provide emergency aid to a dying character and grants knowledge of anatomy. The character using First Aid will touch the downed character and say \"Performing First Aid\". While First Aid is being applied, the dying count of the targeted character stops. First Aid takes a base time of 1 minute to apply.  The character rendering First Aid is under concentration while providing the First Aid. Once the 1 minute is complete for First Aid, the downed character's body is restored to 1.",
+            "shortDescription": "Touch person for 1 minute to restore from Dying",
+            "spCosts": {
+                "base": {
+                    "primary": "4"
+                }
+            }
+        },
+        {
+            "name": "Parrying Dagger",
+            "description": "This skill allows the character to wield a parrying dagger used to block attacks.   The parrying dagger may never be used for striking in combat. As long as the character is wielding the parrying dagger in one hand, any physical type attack that comes into contact with the parrying dagger is considered effectively blocked. The parrying dagger meet safety requirements of any other weapon.  The parrying dagger must be between 12\"-18\" in length, the handle is a maximum of 6\", and the tips of the weapon must be red for easy identification.",
+            "shortDescription": "Allows the use of a Parrying Dagger",
+            "spCosts": {
+                "base": {
+                    "primary": "2"
+                }
+            }
+        },
+        {
+            "name": "Ritual Magic",
+            "description": "This skill allows the character to access the standard ritual magic library.  More information can be found in the Ritual Magic section.",
+            "shortDescription": "Allows casting rituals",
+            "spCosts": {
+                "base": {
+                    "primary": "5"
+                }
+            }
+        },
+        {
+            "name": "Specialization",
+            "description": "When purchased, the character must specify which skillset they have mastery over. This skill allows that character to access level 10 abilities or spells.  This skill may be purchased only once.",
+            "shortDescription": "Able to use Tier X abilities of skillset",
+            "spCosts": {
+                "base": {
+                    "primary": "10"
+                }
+            }
+        },
+        {
+            "name": "Spell Strike",
+            "description": "All characters choose between being able to packet-deliver their spells, or spellstrike their spells. This choice cannot be changed during an event.",
+            "shortDescription": "Deliver all spells as Spell Strikes",
+            "spCosts": {
+                "base": {
+                    "primary": "0"
+                }
+            }
+        },
+        {
+            "name": "Tracking",
+            "description": "This skill is purchased once. Using this skill, the character can attempt to track a target's tracks. The target tracks are assigned a value according to weather, ground, recency, and skill of the target hiding their tracks. With all that taken in, the resulting modified track number is compared to the trackers number. Tracking can be combined with the survivalist knowledge skill to gain greater bonuses and be considered master tracker. When a player asks to track something/someone a marshal will determine if the tracking succeeds and how much information a player gets.  PCs cannot track other PCs.",
+            "shortDescription": "The companion skill to Fielding",
+            "spCosts": {
+                "base": {
+                    "primary": "20"
+                }
+            }
+        }
+    ]
+}
