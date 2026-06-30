@@ -61,7 +61,7 @@
             "shortDescription": "The companion skill to Fielding",
             "spCosts": {
                 "base": {
-                    "primary": "20"
+                    "primary": "10"
                 }
             }
         }
