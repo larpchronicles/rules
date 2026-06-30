@@ -136,13 +136,13 @@
             "spCosts": {
                 "base": {
                     "primary": "3",
-                    "secondary": "3",
-                    "tertiary": "3"
+                    "secondary": "6",
+                    "tertiary": "9"
                 },
                 "increment": {
                     "primary": "3",
-                    "secondary": "4",
-                    "tertiary": "5"
+                    "secondary": "6",
+                    "tertiary": "9"
                 }
             }
         }
