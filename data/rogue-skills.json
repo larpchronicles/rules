@@ -34,6 +34,23 @@
         }
     },
     {
+        "name": "Dexterity Armor",
+        "description": "This skill adds 5 points of Dexterity Armor to the character for each purchase of the skill. Dexterity armor does not require a physrep.  Dexterity armor does not stack with any other source of armor.  This armor exists independently of and does not interact with the character's Armor Cap, and does not require the Armor Training skill. Refitting Dexterity Armor requires 1 minute of concentration, during which player must roleplay stretching, yoga, shadowboxing, etc..",
+        "shortDescription": "+5 Dex Armor / rank. 1min refit, must RP stretching",
+        "spCosts": {
+            "base": {
+                "primary": 5,
+                "secondary": 8,
+                "tertiary": 10
+            },
+            "increment": {
+                "primary": 5,
+                "secondary": 8,
+                "tertiary": 10
+            }
+        }
+    },
+    {
         "name": "Escape Artist",
         "description": "This skill is purchased multiple times. Each time this skill is purchased, the character may escape from magical, or non-magical bindings by completing a 3 second count of escaping the bonds. \"1 I escape binding...2 I escape binding…\" This skill is refreshed each Rest.",
         "shortDescription": "",
