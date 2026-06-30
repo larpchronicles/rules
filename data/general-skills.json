@@ -44,16 +44,7 @@
                 }
             }
         },
-        {
-            "name": "Specialization",
-            "description": "When purchased, the character must specify which skillset they have mastery over. This skill allows that character to access level 10 abilities or spells.  This skill may be purchased only once.",
-            "shortDescription": "Able to use Tier X abilities of skillset",
-            "spCosts": {
-                "base": {
-                    "primary": "10"
-                }
-            }
-        },
+
         {
             "name": "Spell Strike",
             "description": "All characters choose between being able to packet-deliver their spells, or spellstrike their spells. This choice cannot be changed during an event.",

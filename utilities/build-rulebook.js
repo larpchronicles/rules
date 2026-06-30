@@ -119,11 +119,13 @@ function costLine(spCosts) {
     return tiers ? `**Cost**: ${tiers}` : null;
 }
 
-// "Alchemy 5, Smithing 5" or "None".
-function prereqText(skill) {
+// "Alchemy 5, Smithing 5" or "None". Prepends "<skillset> Primary" when mustBePrimary is set.
+function prereqText(skill, groups) {
+    const parts = [];
+    if (skill.mustBePrimary && groups && groups.length > 0) parts.push(`${groups[0]} Primary`);
     const prereqs = Array.isArray(skill.prereqs) ? skill.prereqs : [];
-    if (prereqs.length === 0) return 'None';
-    return prereqs.map((p) => `${p.name} ${p.ranks}`).join(', ');
+    parts.push(...prereqs.map((p) => `${p.name} ${p.ranks}`));
+    return parts.length > 0 ? parts.join(', ') : 'None';
 }
 
 /* ------------------------------------------------------- link plumbing     */
@@ -199,7 +201,7 @@ function buildBlock(type, item, groups, includeCost, headingLevel = 3) {
             const cost = costLine(item.spCosts);
             if (cost) lines.push(`${cost}${HB}`);
         }
-        lines.push(`**Prerequisites**: ${prereqText(item)}${HB}`);
+        lines.push(`**Prerequisites**: ${prereqText(item, groups)}${HB}`);
     } else if (kind === 'leveled') {
         lines.push(`**${TYPES[type].groupLabel}**: ${groupTag}${HB}`);
         if (has(item.level)) lines.push(`**Level**: ${item.level}${HB}`);

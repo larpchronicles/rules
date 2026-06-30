@@ -2,6 +2,17 @@
     "skillsetName": "Rogue",
     "skills": [
         {
+            "name": "Specialization: Rogue",
+            "description": "This skill allows the character to use Tier X Agility abilities.",
+            "shortDescription": "Cast Tier X Agility Spells",
+            "mustBePrimary": true,
+            "spCosts": {
+                "base": {
+                    "primary": "10"
+                }
+            }
+        },
+        {
             "name": "Agility Points",
             "description": "Increases the character's Agility Pool by 10 points. Agility Points are expended to perform Agility Abilities (See: Agility). Agility Pool Points are refreshed upon a successful Rest.",
             "shortDescription": "+10 Agility Points",

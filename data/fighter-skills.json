@@ -2,6 +2,17 @@
     "skillsetName": "Fighter",
     "skills": [
         {
+            "name": "Specialization: Fighter",
+            "description": "This skill allows the character to use Tier X Stamina abilities.",
+            "shortDescription": "Cast Tier X Arcane Spells",
+            "mustBePrimary": true,
+            "spCosts": {
+                "base": {
+                    "primary": "10"
+                }
+            }
+        },
+        {
             "name": "One-Handed Proficiency",
             "description": "This skill allows the character to wield a single one-handed weapon in their designated main hand in combat, and increases the amount of damage done with One-Handed Weapons in the main hand by 1 for each purchase.  This applies to any one-handed weapon, including unarmed and claws.",
             "shortDescription": "+1 Damage with One-handed weapons",
