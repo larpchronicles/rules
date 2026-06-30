@@ -19,12 +19,12 @@
             "spCosts": {
                 "base": {
                     "primary": "4",
-                    "secondary": "4",
+                    "secondary": "7",
                     "tertiary": "10"
                 },
                 "increment": {
-                    "primary": "2",
-                    "secondary": "4",
+                    "primary": "4",
+                    "secondary": "7",
                     "tertiary": "10"
                 }
             }
