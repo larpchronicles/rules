@@ -99,18 +99,18 @@
         },
         {
             "name": "Mimicry",
-            "description": "This skill allows the character to use any single Spell or Stamina ability once per purchase of Mimicry.  The character must additionally expend a number of Agility Points equal to double the mimicked ability's Mana or Stamina cost, as appropriate.  Mimicry cannot be used on level 10 Spells.  Use requires the verbal:  My turn!  <ability verbal/incant>",
-            "shortDescription": "Use any skillset ability, pay level*2 AP",
+            "description": "This skill allows the character to use any single Arcane, Nature, Spirit Spell or Stamina ability once per purchase of Mimicry.  Mimicry cannot be used on Tier X Spells or Abilities.  Use requires the verbal:  My turn!  <ability verbal/incant>",
+            "shortDescription": "Use any skillset ability under Tier X",
             "spCosts": {
                 "base": {
-                    "primary": 3,
-                    "secondary": 5,
-                    "tertiary": 20
+                    "primary": 5,
+                    "secondary": 7,
+                    "tertiary": 10
                 },
                 "increment": {
                     "primary": 5,
-                    "secondary": 10,
-                    "tertiary": 10
+                    "secondary": 5,
+                    "tertiary": 5
                 }
             }
         },
