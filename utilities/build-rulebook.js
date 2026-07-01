@@ -119,11 +119,13 @@ function costLine(spCosts) {
     return tiers ? `**Cost**: ${tiers}` : null;
 }
 
-// "Alchemy 5, Smithing 5" or "None".
-function prereqText(skill) {
+// "Alchemy 5, Smithing 5" or "None". Prepends "<skillset> Primary" when mustBePrimary is set.
+function prereqText(skill, groups) {
+    const parts = [];
+    if (skill.mustBePrimary && groups && groups.length > 0) parts.push(`${groups[0]} Primary`);
     const prereqs = Array.isArray(skill.prereqs) ? skill.prereqs : [];
-    if (prereqs.length === 0) return 'None';
-    return prereqs.map((p) => `${p.name} ${p.ranks}`).join(', ');
+    parts.push(...prereqs.map((p) => `${p.name} ${p.ranks}`));
+    return parts.length > 0 ? parts.join(', ') : 'None';
 }
 
 /* ------------------------------------------------------- link plumbing     */
@@ -199,7 +201,7 @@ function buildBlock(type, item, groups, includeCost, headingLevel = 3) {
             const cost = costLine(item.spCosts);
             if (cost) lines.push(`${cost}${HB}`);
         }
-        lines.push(`**Prerequisites**: ${prereqText(item)}${HB}`);
+        lines.push(`**Prerequisites**: ${prereqText(item, groups)}${HB}`);
     } else if (kind === 'leveled') {
         lines.push(`**${TYPES[type].groupLabel}**: ${groupTag}${HB}`);
         if (has(item.level)) lines.push(`**Level**: ${item.level}${HB}`);
@@ -382,16 +384,25 @@ function classifyInput(filePath) {
     return { type: null, label: null };
 }
 
+// Returns { jsonLabel, items }. Handles both a flat array (abilities/spells/knowledges)
+// and the { skillsetName, skills } object form used by skill files.
 function loadItems(inputPath) {
-    let items;
+    let parsed;
     try {
-        items = JSON.parse(fs.readFileSync(inputPath, 'utf8'));
+        parsed = JSON.parse(fs.readFileSync(inputPath, 'utf8'));
     } catch (err) {
         console.error(`Error reading/parsing ${inputPath}: ${err.message}`);
         process.exit(1);
     }
-    if (!Array.isArray(items)) {
-        console.error(`${inputPath}: expected the JSON root to be an array of objects.`);
+    let jsonLabel = null;
+    let items;
+    if (Array.isArray(parsed)) {
+        items = parsed;
+    } else if (parsed && typeof parsed === 'object' && Array.isArray(parsed.skills)) {
+        jsonLabel = typeof parsed.skillsetName === 'string' ? parsed.skillsetName : null;
+        items = parsed.skills;
+    } else {
+        console.error(`${inputPath}: expected JSON root to be an array of objects or an object with a "skills" array.`);
         process.exit(1);
     }
     const bad = items.findIndex((s) => !s || typeof s.name !== 'string');
@@ -399,7 +410,7 @@ function loadItems(inputPath) {
         console.error(`${inputPath}: item at index ${bad} is missing a string "name" field.`);
         process.exit(1);
     }
-    return items;
+    return { jsonLabel, items };
 }
 
 // Bucket recognized JSON files by type, sorted by basename so group order is
@@ -408,12 +419,14 @@ function collectData(files) {
     const buckets = { skills: [], abilities: [], spells: [], knowledges: [], effects: [] };
     const sorted = [...files].sort((a, b) => byName(path.basename(a), path.basename(b)));
     for (const full of sorted) {
-        const { type, label } = classifyInput(full);
+        const { type, label: filenameLabel } = classifyInput(full);
         if (!type) {
             console.error(`Note: skipping ${path.basename(full)} (not a *-{skills,abilities,spells}.json or knowledges.json).`);
             continue;
         }
-        buckets[type].push({ label, items: loadItems(full) });
+        const { jsonLabel, items } = loadItems(full);
+        const label = jsonLabel !== null ? jsonLabel : filenameLabel;
+        buckets[type].push({ label, items });
     }
     return buckets;
 }
@@ -435,7 +448,7 @@ function renderDataChapter(type, title, groups, opts, linkRefs, baseLevel = 1) {
     } else {
         // Tables, one per group, in collection (alphabetical) order.
         for (const { label, items } of groups) {
-            const tableItems = opts.sortTables ? [...items].sort((a, b) => byName(a.name, b.name)) : items;
+            const tableItems = (opts.sortTables || type === 'skills') ? [...items].sort((a, b) => byName(a.name, b.name)) : items;
             parts.push(buildTable(type, tableItems, `${label} ${TYPES[type].word}`, linkRefs, baseLevel + 1));
         }
     }
