@@ -1,0 +1,196 @@
+[
+    {
+        "name": "Aether",
+        "description": "Aether effects and damage cannot be defended against with Resist Physical, Resist Magic, Resist Toxin, or Dodge.",
+        "verbal": "Aether"
+    },
+    {
+        "name": "Aura",
+        "description": "Character may swing the specified type as their damage type"
+    },
+    {
+        "name": "Breach Armor",
+        "description": "Target's armor is reduced to 0.",
+        "verbal": "Breach Armor"
+    },
+    {
+        "name": "Corrosive",
+        "description": "Target's armor and weapons used in this encountered are affected by a Destroy effect."
+    },
+    {
+        "name": "Critical Ability",
+        "description": "See [[Critical Ability]]",
+        "verbal": "I Invoke Critical X"
+    },
+    {
+        "name": "Damage Cap",
+        "description": "All incoming damage is reduced to X.",
+        "verbal": "Damage Cap"
+    },
+    {
+        "name": "Harmed By",
+        "description": "Instead of suffering the named effect, the character takes damage when affected. If no number is specified, then the damage is the level of the spell or ability times ten.",
+        "verbal": "Appears to harm me"
+    },
+    {
+        "name": "Harmed Double",
+        "description": "Character takes twice the stated damage from named type or effect",
+        "verbal": "Harmed double"
+    },
+    {
+        "name": "Gaseous Form",
+        "description": "Character goes into a gaseous state by crossing their arms or weapons over their chest. While gaseous, the character cannot use any game skills or abilities, speak, communicate, or interact with any objects or people in the world, and is immune to all game effects except [[Solidify]]. Uncrossing their arms or being Solidified will cause the character to solidify on a 3-count. While solidifying, the character may not use any game skills or abilities, but is no longer granted immunity.",
+        "verbal": "1 I go gaseous, 2... 3..."
+    },
+    {
+        "name": "Healed By",
+        "description": "Character is healed by x type/effect.",
+        "verbal": "Appears to Heal Me"
+    },
+    {
+        "name": "Immunity",
+        "description": "Character immune to x effect for y time.",
+        "verbal": "No Effect"
+    },
+    {
+        "name": "Incorporeal",
+        "description": "The character gains a free Additional Defense Slot that may only be used for Resist Physical. \nThe character must concentrate for 3 seconds to physically interact with any physical objects. This does not apply to weapon blows, physical abilities, or performing First Aid."
+    },
+    {
+        "name": "Infect",
+        "description": "Target becomings infected. Plot-specific ability.",
+        "verbal": "1 I infect you, 2... 3..."
+    },
+    {
+        "name": "Magic Deliverance",
+        "description": "Character may cast spells by replacing the incant with the word Magic. Still subject to all other normal casting requirements.",
+        "verbal": "Magic X"
+    },
+    {
+        "name": "Minimize",
+        "description": "Character may reduce the duration of an effect to a 3 second count."
+    },
+    {
+        "name": "Natural Armor",
+        "description": "Character has armor that does not have to be physically represented. Does not stack with any other armor source"
+    },
+    {
+        "name": "Vital",
+        "description": "Vital damage cannot be blocked by weapons or shields.",
+        "verbal": "Vital"
+    },
+    {
+        "name": "Possession",
+        "description": "Acts as per [[Enslavement]]",
+        "verbal": "1 I possess you, 2... 3..."
+    },
+    {
+        "name": "Rebound",
+        "description": "The Rebound ability will specify a delivery type, specific effect, or list of effects for which it can defend against. Upon being hit by a matching ability, the character negates the incoming effect, and then may immediately deliver an effect of the outgoing type and effect. Ex: Magic Rebound Magic Fear allows a character who is hit by any Magic, Spell, or Spell Strike effect to negate that effect and immediately deliver a single \"Magic Fear\" packet-delivered effect."
+    },
+    {
+        "name": "Reduced from",
+        "description": "Character takes half damage from the specified type or effect, rounded up. This does not stack with any other damage reduction ability. (If a character has Reduced from Normal and Reduced from Flame and suffers a \"10 Normal Flame\" attack, they will take 5 damage.)",
+        "verbal": "Reduced"
+    },
+    {
+        "name": "Regenerate",
+        "description": "Target must concentrate for 60 seconds, then is restored to max body.",
+        "verbal": "Regenerating / Regenerate Complete"
+    },
+    {
+        "name": "Revive",
+        "description": "Unless target was affected by within 20 seconds of becoming Dead, or was Killing Blowed at any time by , then at 59 seconds of Death count, instead of dissipating, the player announces \"Revive\" and is affected as per a Life spell.",
+        "verbal": "Revive"
+    },
+    {
+        "name": "Rift",
+        "description": "Character teleports to a location specified by the caster. Character must have been physically present in the location previously. Character must move directly to their destination and Rift In immediately upon arrival.",
+        "verbal": "1 I Rift, 2... 3..."
+    },
+    {
+        "name": "Rip Free",
+        "description": "Character may escape Entangle effects on a 3-count.",
+        "verbal": "1 I Rip free, 2.. 3.."
+    },
+    {
+        "name": "Spirit Bottle",
+        "description": "At 0 body, the character crumbles and seeks [[Resurrection]]. If their bottle has charges left, they may consume a charge to reform at their Spirit Bottle."
+    },
+    {
+        "name": "Suicide",
+        "description": "Allows creature to die and dissipate at will regardless of other status effects.",
+        "verbal": "Down"
+    },
+    {
+        "name": "Voice Control",
+        "description": "Target is compelled to follow any instructions given by character",
+        "verbal": "Voice Control"
+    },
+    {
+        "name": "Dodge",
+        "description": "Active defense that may be used as though it were a Resist Toxin, Resist Magic, or Resist Physical.",
+        "verbal": "Dodge"
+    },
+    {
+        "name": "Doom",
+        "description": "Deals X damage to a target. Requires 2 relevant active defenses to defend against."
+    },
+    {
+        "name": "Enervate",
+        "description": "While under the effect of an enervate, a character that is reduced to -1 body immediately dies and requires a Life effect"
+    },
+    {
+        "name": "Mummy Curse",
+        "description": "Target immediately dissipates and seeks resurrection.",
+        "verbal": "Mummy Curse"
+    },
+    {
+        "name": "Resist <Type|Effect>",
+        "description": "Allows the character to negate an effect of the specified delivery type or the specified effect. Takes a Defense Slot.",
+        "verbal": "Resist"
+    },
+    {
+        "name": "Spell Strike",
+        "description": "Character may deliver a spell with a physical weapon.",
+        "verbal": "Spellstrike (Spell Incant)"
+    },
+    {
+        "name": "Berserk",
+        "description": "Target feels compelled to attack the closest visible target for the duration. A character may not retreat while affected by Berserk. A character cannot activate an item, single use effect, any skill or effect that is not renewed with a rest, or use any consumable items (potions, runes, etc.). Non-consumable items like weapons can still be used.",
+        "verbal": "Berserk"
+    },
+    {
+        "name": "Concentration",
+        "description": "Character is unable to communicate, use skills, items, abilities, hold a shield, or move faster than walk for duration of effect. Concentration breaks upon taking damage.",
+        "verbal": "None"
+    },
+    {
+        "name": "Curse",
+        "description": "Target takes double damage from weapons.",
+        "verbal": "Curse"
+    },
+    {
+        "name": "Curse Of Transformation",
+        "description": "Target becomes X creature and is given stats and directions by Marshal or caster upon. Removal methods vary.",
+        "verbal": "Killing Blow 1, 2, 3, Curse of Transformation X"
+    },
+    {
+        "name": "Drain",
+        "description": "Target is skilless. Target may not make active use of skills, granted or purchased. All instances of Drain last 5 minutes.",
+        "verbal": "Drain"
+    },
+    {
+        "name": "Engulf",
+        "description": "Target and possessions are eaten and target must stand to side OOC. Target is reduced to -1 body and takes BLEED OUT status. Target is released upon death of creature.",
+        "verbal": "1 I engulf you, 2... 3..."
+    },
+    {
+        "name": "Enslavement",
+        "description": "Target is compelled to follow any instructions given by character. Target is not Aware they are Enslaved."
+    },
+    {
+        "name": "Vertigo",
+        "description": "The target is unable to remain standing, cannot use any in game skills, and can do no more than slowly crawl and speak due to intense vertigo for 1 minute."
+    }
+]

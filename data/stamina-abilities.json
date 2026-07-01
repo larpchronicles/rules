@@ -116,6 +116,7 @@
         "pool": "Stamina",
         "level": "9",
         "duration": "1 Minute",
+        "selfOnly": true,
         "verbal": "Begin Regenerate...Regenerate Complete",
         "description": "This skill allows the character to Concentrate for 1 Minute and restore to their maximum body.  During Concentration, the character may not do anything else including communicate, use abilities, use or activate items, etc."
     },

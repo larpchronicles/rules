@@ -1,6 +1,10 @@
 {
   "name": "rules-topics",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "scripts": {
+    "build": "node utilities/build-rulebook.js --src chapters --data data --out build/chron-rulebook.md"
+  },
   "dependencies": {
+    "markdown-it": "^14.2.0"
   }
 }

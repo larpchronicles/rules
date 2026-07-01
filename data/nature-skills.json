@@ -1,0 +1,33 @@
+{
+    "skillsetName": "Nature",
+    "skills": [
+        {
+            "name": "Specialization: Nature",
+            "description": "This skill allows the character to cast Tier X Nature spells.",
+            "shortDescription": "Cast Tier X Nature Spells",
+            "mustBePrimary": true,
+            "spCosts": {
+                "base": {
+                    "primary": "10"
+                }
+            }
+        },
+        {
+            "name": "Attunement: Nature",
+            "description": "Increases the characters Nature Mana Pool by 10 points. Mana Points are expended to cast Spells. Mana Pool Points are refreshed upon a successful Rest.",
+            "shortDescription": "+10 Nature Mana per rank",
+            "spCosts": {
+                "base": {
+                    "primary": "6",
+                    "secondary": "8",
+                    "tertiary": "10"
+                },
+                "increment": {
+                    "primary": "2",
+                    "secondary": "8",
+                    "tertiary": "14"
+                }
+            }
+        }
+    ]
+}
