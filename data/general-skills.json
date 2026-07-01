@@ -7,10 +7,10 @@
             "shortDescription": "+1 Defense Slot per rank",
             "spCosts": {
                 "base": {
-                    "primary": "30"
+                    "primary": "10"
                 },
                 "increment": {
-                    "primary": "10"
+                    "primary": "30"
                 }
             }
         },
