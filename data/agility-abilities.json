@@ -11,17 +11,17 @@
         "name": "Blinding Strike",
         "pool": "Agility",
         "level": "1",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "verbal": "Physical Blindness",
-        "description": "This skill is a strike that renders the target blind and unable to attack targets not in melee range of the blind character for 20 seconds. The effect of this skill may not be stacked or extended. This skill is expended on use. This is a BLIND effect."
+        "description": "This skill is a strike that renders the target blind and unable to attack targets not in melee range of the blind character for 1 minute. The effect of this skill may not be stacked or extended. This skill is expended on use. This is a BLIND effect."
     },
     {
         "name": "Slowing Strike",
         "pool": "Agility",
         "level": "1",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "verbal": "Physical Slow",
-        "description": "This is a strike that renders the target unable to move faster than a normal walking speed for 20 seconds. This effect may be affected by the Transfer Malady or Cure Body spells and can be removed by healing the affected character. The effect of this skill may not be stacked or extended.  This is a SLOW effect."
+        "description": "This is a strike that renders the target unable to move faster than a normal walking speed for 1 minute. This effect may be affected by the Transfer Malady or Cure Body spells and can be removed by healing the affected character. The effect of this skill may not be stacked or extended.  This is a SLOW effect."
     },
     {
         "name": "Disarming Strike",
@@ -35,7 +35,7 @@
         "name": "Entangling Strike",
         "pool": "Agility",
         "level": "2",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "verbal": "Physical Entangle Foot",
         "description": "This skill allows the character to throw a single Physical Entangle Foot."
     },
@@ -43,7 +43,7 @@
         "name": "Kneeling Strike",
         "pool": "Agility",
         "level": "3",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "verbal": "Physical Kneel",
         "description": "Allows the character to throw a single Physical Kneel."
     },
@@ -67,9 +67,9 @@
         "name": "Weakening Strike",
         "pool": "Agility",
         "level": "4",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "verbal": "Physical Weakness",
-        "description": "This skill is a strike that makes the target swing for half their normal damage for 20 seconds. The effect of this skill may not be stacked or extended. This skill is expended on use. This is a WEAKNESS effect."
+        "description": "This skill is a strike that makes the target swing for half their normal damage for 1 minute. The effect of this skill may not be stacked or extended. This skill is expended on use. This is a WEAKNESS effect."
     },
     {
         "name": "Breaching Strike",
@@ -91,17 +91,17 @@
         "name": "Fearful Strike",
         "pool": "Agility",
         "level": "6",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "verbal": "Physical Fear",
-        "description": "This is a strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 20 seconds. The fear effect can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended.  This is a FEAR effect."
+        "description": "This is a strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 1 minute. The fear effect can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended.  This is a FEAR effect."
     },
     {
         "name": "Waylay",
         "pool": "Agility",
         "level": "6",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "verbal": "Physical Waylay",
-        "description": "Waylay is a strike renders the target unconscious and helpless for 20 seconds.  The character taps the target on the back (NOT the target's head, neck, or spine) with the striking surface of a melee weapon.  Waylay must be delivered from behind the target (able to see both of the target's shoulder blades).  Any character skilled in Waylay can refresh the effect of a Waylay without expending another use of the skill by announcing, \"Refreshing Waylay\", and gently performing the strike.  Suffering body damage will cause the target to awaken immediately.  This is a SLEEP effect."
+        "description": "Waylay is a strike renders the target unconscious and helpless for 1 minute.  The character taps the target on the back (NOT the target's head, neck, or spine) with the striking surface of a melee weapon.  Waylay must be delivered from behind the target (able to see both of the target's shoulder blades).  Any character skilled in Waylay can refresh the effect of a Waylay without expending another use of the skill by announcing, \"Refreshing Waylay\", and gently performing the strike.  Suffering body damage will cause the target to awaken immediately.  This is a SLEEP effect."
     },
     {
         "name": "Resourceful",
@@ -123,9 +123,9 @@
         "name": "Stunning Strike",
         "pool": "Agility",
         "level": "8",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "verbal": "Physical Stun",
-        "description": "This skill is a strike that renders the target stunned for 20 seconds.  The stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  The effect of this skill may not be stacked or extended. This is a STUN effect."
+        "description": "This skill is a strike that renders the target stunned for 1 minute.  The stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  The effect of this skill may not be stacked or extended. This is a STUN effect."
     },
     {
         "name": "Pernicious Strike",

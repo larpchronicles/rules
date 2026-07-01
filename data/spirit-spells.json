@@ -35,7 +35,7 @@
         "name": "Blindness",
         "school": "Spirit",
         "level": "3",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I curse you with blindness.",
         "description": "This spell will blind the target, preventing the target from using skills and attacks that require a range further than touch. This is a BLIND effect. "
     },
@@ -43,7 +43,7 @@
         "name": "Weakness",
         "school": "Spirit",
         "level": "3",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I curse you with weakness",
         "description": "This spell causes the target's total weapon damage to be reduced to half for the duration of this spell. Total weapon damage includes any weapon proficiencies, critical strikes, spell damage bonus, strength bonus, etc. Effect may not be stacked or extended.  This is a WEAKEN effect. "
     },
@@ -59,7 +59,7 @@
         "name": "Disable Limb",
         "school": "Spirit",
         "level": "4",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I curse you with a disabled <limb>",
         "description": "This spell causes the target's limb to become completely useless. Any items that are held by the rotting limb do not drop to the ground.  This is a DISARM effect. "
     },
@@ -77,7 +77,7 @@
         "level": "5",
         "duration": "Rest",
         "incant": "I call forth mystic force to entrap your spirit.",
-        "description": "This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 20 seconds after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it."
+        "description": "This spell attempts to claim a portion of the target's essence into a Spirit Gem, which is a material used for Ritual Magic and Magic Item creation. This spell may be cast on a target up to 1 minute after it dissipates. This spell only generates a Spirit Gem if the target does dissipate. The Caster should interact with the target if possible to collect their Spirit Gem. If this isn't possible, the Caster should Roleplay the moment as if cast normally, but must see Plot to collect their gems. A caster may only receive a single spirit gem from a target, regardless of how many Entrap Spirits are cast upon it."
     },
     {
         "name": "Field Resurrection",
@@ -99,7 +99,7 @@
         "name": "Fear",
         "school": "Spirit",
         "level": "6",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I curse you with fear.",
         "description": "This spell will cause the target to tremble uncontrollably in fear and be unable to attack. The target may still defend and will attempt to leave the area while the fear is in effect.  This is a FEAR effect. "
     },
@@ -115,7 +115,7 @@
         "name": "Curse",
         "school": "Spirit",
         "level": "7",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "incant": "I curse you with vulnerability.",
         "description": "This spell will cause the target to take double damage from all sources.  Damage doubling effects cannot be stacked.  This is a CURSE effect."
     },
@@ -123,9 +123,9 @@
         "name": "Vampiric Touch",
         "school": "Spirit",
         "level": "7",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I curse you with a vampiric touch.",
-        "description": "This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's body. The caster must cast the spell, then maintain concentration while touching the creature for 20 seconds. At the end of the duration of this spell, the caster's body is fully recovered. This spell will heal either a living or an undead caster. "
+        "description": "This spell allows the caster to touch a living or dead creature whose spirit is still tethered to drain the creature's body. The caster must cast the spell, then maintain concentration while touching the creature for 1 minute. At the end of the duration of this spell, the caster's body is fully recovered. This spell will heal either a living or an undead caster. "
     },
     {
         "name": "Heal Mortal Wounds",
@@ -164,7 +164,7 @@
         "name": "Enervate",
         "school": "Spirit",
         "level": "9",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "incant": "I curse you with enervation",
         "description": "The caster saps the vital force of the target, weakening their connection to life. For the duration of this effect, if any damage causes the target's Body to drop to 0 or Lower, the target immediately dies and enters the Dead state, and they become immune to REVIVIFY effects for their current DEAD count. This is an ENERVATE effect. "
     },

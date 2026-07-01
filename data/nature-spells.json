@@ -3,7 +3,7 @@
         "name": "Command: Slow",
         "school": "Nature",
         "level": "1",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I command you to be slow.",
         "description": "This spell causes the local flora to reach up and seize the target's feet, preventing the target from moving at a faster movement rate than a walk. This spell does not stack with itself, and further castings on an already slowed target will not renew the duration.  This is a SLOW effect."
     },
@@ -11,7 +11,7 @@
         "name": "Hot Foot",
         "school": "Nature",
         "level": "1",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I command you to dance.",
         "description": "The target cannot keep both feet on the ground at the same time. The target may still walk, run, stand on one foot, or shift from one foot to the other, so long as there is motion, as though they are standing barefoot on a very hot surface."
     },
@@ -27,7 +27,7 @@
         "name": "Entangle Foot",
         "school": "Nature",
         "level": "2",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I call upon Nature to entangle your foot.",
         "description": " This spell entangles the target's right foot to the ground. The character is unable to move their foot, except for pivoting on the ball of their foot. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect."
     },
@@ -46,7 +46,7 @@
         "level": "3",
         "duration": "5 minutes",
         "incant": "I call upon Nature to repel you.",
-        "description": "The target of this spell must maintain a distance of at least 20 steps from the caster. The caster cannot push the target with this spell, and also may not close within the 20 step distance. If the target is physically unable to move 20 steps away, then they must move as far as is safely possible. The caster must hold their arm outstretched, palm facing the target, with fingers upwards for the duration of this spell. If the caster lowers their arm for any reason, the effect ends. If the target breaks lines of sight with the caster for 20 seconds, the effect ends. Any effect which would cause the caster to break concentration causes the effect to end."
+        "description": "The target of this spell must maintain a distance of at least 20 steps from the caster. The caster cannot push the target with this spell, and also may not close within the 20 step distance. If the target is physically unable to move 20 steps away, then they must move as far as is safely possible. The caster must hold their arm outstretched, palm facing the target, with fingers upwards for the duration of this spell. If the caster lowers their arm for any reason, the effect ends. If the target breaks lines of sight with the caster for 1 minute, the effect ends. Any effect which would cause the caster to break concentration causes the effect to end."
     },
     {
         "name": "Barrier: Physical",
@@ -62,13 +62,13 @@
         "level": "4",
         "duration": "Instant",
         "incant": "I command you to kneel.",
-        "description": "This spell forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 20 seconds. A kneeling opponent may still otherwise attack or defend normally. The effect of this spell may not be stacked or extended.  This spell is a KNEEL effect."
+        "description": "This spell forces the opponent to take a knee, crouch, and they must cross their dominant arm over their chest for 1 minute. A kneeling opponent may still otherwise attack or defend normally. The effect of this spell may not be stacked or extended.  This spell is a KNEEL effect."
     },
     {
         "name": "Entangle Arms",
         "school": "Nature",
         "level": "4",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I call upon Nature to entangle your arms.",
         "description": " This spell entangles the target's arms to their side, rendering the arms useless. The target cannot be cut free, nor can the entanglement be broken free using extra strength.  This is an ENTANGLE effect."
     },
@@ -76,7 +76,7 @@
         "name": "Command: Silence",
         "school": "Nature",
         "level": "5",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I command you to be silent.",
         "description": " This spell renders the target unable to speak in game. This prevents the character from communicating verbally or speaking verbal incantations. This spell does not stop the player from communicating out of game calls such as melee damage and defenses. This spell is a SILENCE effect."
     },
@@ -84,7 +84,7 @@
         "name": "Command: Sleep",
         "school": "Nature",
         "level": "6",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I command you to sleep.",
         "description": " This spell will render the target unconscious, and asleep. The target cannot use skills, or activate items. The target will awaken instantly if damaged. This is a SLEEP effect."
     },
@@ -116,7 +116,7 @@
         "name": "Confine",
         "school": "Nature",
         "level": "9",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I call upon Nature to confine you.",
         "description": " This spell renders the target completely unable to move while under the effects of this spell. The target may still speak, and may interrupt killing blows against themselves.  This is a CONFINE effect."
     },
@@ -124,7 +124,7 @@
         "name": "Command: Stun",
         "school": "Nature",
         "level": "10",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "I command you to be stunned.",
         "description": " This spell causes the target to be unable to take action (move, attack, defend, speak). This spell is a STUN effect."
     },

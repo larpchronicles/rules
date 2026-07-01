@@ -100,7 +100,7 @@
     },
     {
         "name": "Revive",
-        "description": "Unless target was affected by within 20 seconds of becoming Dead, or was Killing Blowed at any time by , then at 59 seconds of Death count, instead of dissipating, the player announces \"Revive\" and is affected as per a Life spell.",
+        "description": "Unless target was affected by within 1 minute of becoming Dead, or was Killing Blowed at any time by , then at 59 seconds of Death count, instead of dissipating, the player announces \"Revive\" and is affected as per a Life spell.",
         "verbal": "Revive"
     },
     {

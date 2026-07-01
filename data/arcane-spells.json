@@ -19,7 +19,7 @@
         "name": "Disrupt Aether",
         "school": "Arcane",
         "level": "2",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "incant": "With arcane forces I disrupt your aether.",
         "description": "This spell will prevent the target from activating spells from wands, tattoos, the effects of Runes, or using the active effects of any possessed magic items. This is an INERT effect. "
     },
@@ -83,10 +83,10 @@
         "name": "Limited Teleport",
         "school": "Arcane",
         "level": "5",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "selfOnly": true,
         "incant": "With arcane forces I move across time and space.",
-        "description": "This spell will teleport the caster up to 10 steps in any direction. The teleport may not be impeded by walls or other physical barriers. Once this spell is cast, the caster will complete a three second count rifting out, move to a location with 10 steps, and then three count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The caster must immediately move upon completion of the Rift Out three count. The caster must begin their Rift In three count within 20 seconds of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. "
+        "description": "This spell will teleport the caster up to 10 steps in any direction. The teleport may not be impeded by walls or other physical barriers. Once this spell is cast, the caster will complete a three second count rifting out, move to a location with 10 steps, and then three count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The caster must immediately move upon completion of the Rift Out three count. The caster must begin their Rift In three count within 1 minute of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The caster may not cast this spell again within 5 seconds of its completion. "
     },
     {
         "name": "Nullify",
@@ -118,9 +118,9 @@
         "name": "Rift Lock",
         "school": "Arcane",
         "level": "7",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "incant": "I conjure a rift lock.",
-        "description": "This spell prevents the target from moving with any form of magical travel for 20 seconds. This includes but is not limited to, Limited Teleport, Treewalk, Rift, and Rune of Recall.  If this spell hits a target who has begun a Rift Out or similar count, this spell interrupts it. This is a RIFT LOCK effect. "
+        "description": "This spell prevents the target from moving with any form of magical travel for 1 minute. This includes but is not limited to, Limited Teleport, Treewalk, Rift, and Rune of Recall.  If this spell hits a target who has begun a Rift Out or similar count, this spell interrupts it. This is a RIFT LOCK effect. "
     },
     {
         "name": "Ricochet Physical",

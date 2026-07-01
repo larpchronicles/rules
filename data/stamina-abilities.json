@@ -19,7 +19,7 @@
         "name": "Stop Thrust",
         "pool": "Stamina",
         "level": "2",
-        "duration": "20 Seconds",
+        "duration": "1 minute",
         "verbal": "Physical Stop Thrust",
         "description": "This is a strike that prevents the target from advancing for 5 seconds. The effect of this skill may not be stacked or extended. This is a STOP THRUST effect."
     },
@@ -83,7 +83,7 @@
         "name": "Invigorate",
         "pool": "Stamina",
         "level": "6",
-        "duration": "20 seconds",
+        "duration": "1 minute",
         "verbal": "Physical Invigorate",
         "description": "This skill doubles the healing (max 2x) from an effect that would have otherwise healed the character for the duration. This includes all healing effects."
     },
