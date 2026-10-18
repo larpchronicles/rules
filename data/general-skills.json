@@ -47,7 +47,7 @@
 
         {
             "name": "Spell Strike",
-            "description": "All characters choose between being able to packet-deliver their spells, or spellstrike their spells. This choice cannot be changed during an event.",
+            "description": "All characters choose between being able to packet-deliver their spells, or spell strike their spells. This skill may be acquired or removed during a Rest. Doing so requires character sheet sign off by a senior staff member. Spell strikes are delivered as 'Spell strike [Spell Name]'",
             "shortDescription": "Deliver all spells as Spell Strikes",
             "spCosts": {
                 "base": {
