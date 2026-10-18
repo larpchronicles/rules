@@ -153,7 +153,7 @@
     {
         "name": "Spell Strike",
         "description": "Character may deliver a spell with a physical weapon.",
-        "verbal": "Spellstrike (Spell Incant)"
+        "verbal": "Spell Strike (Spell Incant)"
     },
     {
         "name": "Berserk",
@@ -196,5 +196,9 @@
     {
         "name": "Feeblemind",
         "description": "Target is rendered cognitively impaired, as though they have suffered a head injury, a delusional state, drunk, etc. This is purely an RP effect and how it plays out is up to the discretion of the target of the effect."
+    },
+    {
+        "name": "Banish",
+        "description": "Only affects extra-planar creatures. Banish forces them to immediately dissipate and return to the plane of existence from which they came to this plane. The target cannot return to this plane for 1 hour."
     }
 ]
