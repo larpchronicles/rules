@@ -192,5 +192,9 @@
     {
         "name": "Vertigo",
         "description": "The target is unable to remain standing, cannot use any in game skills, and can do no more than slowly crawl and speak due to intense vertigo for 1 minute."
+    },
+    {
+        "name": "Feeblemind",
+        "description": "Target is rendered cognitively impaired, as though they have suffered a head injury, a delusional state, drunk, etc. This is purely an RP effect and how it plays out is up to the discretion of the target of the effect."
     }
 ]
