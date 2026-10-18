@@ -152,14 +152,6 @@
         "description": "Shadow Walk allows a character to teleport up to 30 steps in any direction. The Shadow Walk may not be impeded by walls or other physical barriers. Once this ability is used, the caster will complete a five second count rifting out, move to a location with 30 steps, and then one count Rift In. While in transit, the caster is OOG, and cannot see, be seen, interact with, or have knowledge of the In Game world. The character must immediately move upon completion of the Rift Out five count. The caster must begin their Rift In count within 45 seconds of Rifting Out. Failure to begin their Rift In count within this time results in the character dissipating and their spirit seeking Resurrection. The character may not use this ability again within 5 seconds of a previous use."
     },
     {
-        "name": "Critical Empowerment",
-        "pool": "Agility",
-        "level": "10",
-        "duration": "Instant",
-        "verbal": "I empower my <effect> strike!",
-        "description": "This skill allows character to swing one other agility skill effect against a single target as an aura, as per Critical Ability. Effect ends at rest or when invoking Backstab against a different target. The other skill it is being combined with is used at the same time this skill is. This ability increases the Agility Point cost of the ability by an amount equal to its level (ex: Critical Empowered Weakening Strike costs 8 Agility Points: 4 for the Weakening Strike, and another 4 for the Critical Empowerment.)"
-    },
-    {
         "name": "Murder",
         "pool": "Agility",
         "level": "10",
@@ -173,7 +165,7 @@
         "level": "10",
         "duration": "Instant",
         "verbal": "<Type> Purge",
-        "description": "Purge removes all active defenses that could be used to defend against the declared Delivery Type from the target. This includes Resist, Dodge, Rebound, or any other relevant Active Defense. When delivering this ability, the caster may choose to purge Physical, Toxin, or Magic active defenses by declaring that as the Delivery Type for the Purge."
+        "description": "Purge removes all active defenses that could be used to defend against the declared Delivery Type from the target. This includes Resist, Dodge, Rebound, or any other relevant Active Defense. When delivering this ability, the caster may choose to purge Physical, Toxin, or Magic active defenses by declaring that as the Delivery Type for the Purge. EX: 'Magic Purge', if not defended, will remove all active Resist Magic and/or Dodges the target has."
     },
     {
         "name": "Tagalong",
