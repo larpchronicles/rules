@@ -119,7 +119,7 @@
         "school": "Arcane",
         "level": "7",
         "duration": "1 minute",
-        "incant": "I conjure a rift lock.",
+        "incant": "Magic Rift Lock",
         "description": "This spell prevents the target from moving with any form of magical travel for 1 minute. This includes but is not limited to, Limited Teleport, Treewalk, Rift, and Rune of Recall.  If this spell hits a target who has begun a Rift Out or similar count, this spell interrupts it. This is a RIFT LOCK effect. "
     },
     {
