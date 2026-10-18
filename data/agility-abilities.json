@@ -141,7 +141,7 @@
         "level": "9",
         "duration": "Instant",
         "verbal": "I'm untouchable! ... Dodge",
-        "description": "Dodge allows a character to defend against any single, non-Aether, packet or weapon delivered effect or attack by calling \"Dodge\".  This takes 1 Defense Slot to be active.  Regardless of the number of Defense Slots a character has, they may not have more than one active Dodge at a time.  This is a DODGE effect."
+        "description": "Dodge allows a character to defend against a non-Aether packet or weapon delivered effect or attack by calling \"Dodge\". This counts as a single defense for effects such as Doom. This requires 1 Defense Slot to be active."
     },
     {
         "name": "Shadow Walk",
