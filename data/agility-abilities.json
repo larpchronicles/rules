@@ -128,20 +128,12 @@
         "description": "This skill is a strike that renders the target stunned for 1 minute.  The stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  The effect of this skill may not be stacked or extended. This is a STUN effect."
     },
     {
-        "name": "Pernicious Strike",
-        "pool": "Agility",
-        "level": "8",
-        "duration": "Instant",
-        "verbal": "Toxin Strike <effect>",
-        "description": "Toxin Strike allows the character to expend a toxin ingestible, coating, or dart tag to deliver the effect of that consumable as a Toxin Strike <effect>. This consumes the item, even if the attack is unsuccessful."
-    },
-    {
         "name": "Surprising Proficiency",
         "pool": "Agility",
         "level": "8",
         "duration": "Instant",
         "verbal": "I am not left-handed.",
-        "description": "This skill allows the character to use Ranged Weapon proficiencies with a One-Handed Weapon against a single target without needing to be behind the target. May not be used with Backstab, Waylay, or Murder. Acts as per Critical Ability.,"
+        "description": "This skill allows the character to use their Backstab damage without requiring that they be behind their target. This is a Critical Ability."
     },
     {
         "name": "Dodge",
