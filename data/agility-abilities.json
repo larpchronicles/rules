@@ -88,14 +88,6 @@
         "description": "This is a strike that leaves the opponent cowering in fear, unable to attack, and attempting to leave the area for 1 minute. The fear effect can be affected by the Transfer Malady, Remove Fear, or Cure Body spells. The effect of this skill may not be stacked or extended.  This is a FEAR effect."
     },
     {
-        "name": "Waylay",
-        "pool": "Agility",
-        "level": "6",
-        "duration": "1 minute",
-        "verbal": "Physical Waylay",
-        "description": "Waylay is a strike renders the target unconscious and helpless for 1 minute.  The character taps the target on the back (NOT the target's head, neck, or spine) with the striking surface of a melee weapon.  Waylay must be delivered from behind the target (able to see both of the target's shoulder blades).  Any character skilled in Waylay can refresh the effect of a Waylay without expending another use of the skill by announcing, \"Refreshing Waylay\", and gently performing the strike.  Suffering body damage will cause the target to awaken immediately.  This is a SLEEP effect."
-    },
-    {
         "name": "Resourceful",
         "pool": "Agility",
         "level": "7",
@@ -157,7 +149,7 @@
         "level": "10",
         "duration": "Instant",
         "verbal": "I'm coming with you.",
-        "description": "Tagalong allows a character to force their way into an active Rift-type ability, even if that ability would not normally allow others to be brought along, such as Limited Teleport or Reposition. The character must declare the incant and make contact with the original Rift character and complete the count with the original caster, making at minimum a 3 count, for this ability to work. If either you or the original caster fail to complete the count, you do not rift. The tagalong character follows the original caster through the rift. The Rift character may still refuse the Tagalong, which they would accomplish by stating Refused."
+        "description": "Tagalong allows a character to force their way into an active Rift-type ability, even if that ability would not normally allow others to be brought along, such as Limited Teleport or Reposition. The character must declare the incant and make contact with the original Rift character and complete the count with the original caster, making at minimum a 3 count, for this ability to work. If either you or the original caster fail to complete the count, you do not rift. The tagalong character follows the original caster through the rift. The Rifting character may still refuse the Tagalong, which they would accomplish by stating Refused."
     },
     {
         "name": "Stunning Strike",
