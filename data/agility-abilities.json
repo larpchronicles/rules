@@ -112,14 +112,6 @@
         "description": "The character spends 1 minute roleplaying inspecting their bow and recalling their training, after which, they are able to use to their bow to deliver Agility -strike abilities as Physical. Additionally, this skill also allows the character to block with their bow or crossbow without requiring it to be restrung.  This lasts until rest."
     },
     {
-        "name": "Stunning Strike",
-        "pool": "Agility",
-        "level": "8",
-        "duration": "1 minute",
-        "verbal": "Physical Stun",
-        "description": "This skill is a strike that renders the target stunned for 1 minute.  The stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  The effect of this skill may not be stacked or extended. This is a STUN effect."
-    },
-    {
         "name": "Surprising Proficiency",
         "pool": "Agility",
         "level": "8",
@@ -166,5 +158,13 @@
         "duration": "Instant",
         "verbal": "I'm coming with you.",
         "description": "Tagalong allows a character to force their way into an active Rift-type ability, even if that ability would not normally allow others to be brought along, such as Limited Teleport or Reposition. The character must declare the incant and make contact with the original Rift character and complete the count with the original caster, making at minimum a 3 count, for this ability to work. If either you or the original caster fail to complete the count, you do not rift. The tagalong character follows the original caster through the rift. The Rift character may still refuse the Tagalong, which they would accomplish by stating Refused."
+    },
+    {
+        "name": "Stunning Strike",
+        "pool": "Agility",
+        "level": "10",
+        "duration": "1 minute",
+        "verbal": "Physical Stun",
+        "description": "This skill is a strike that renders the target stunned for 1 minute.  The stunned target may not move, communicate in any manner, activate or use items, or use in-game skills.  The effect of this skill may not be stacked or extended. This is a STUN effect."
     }
 ]
