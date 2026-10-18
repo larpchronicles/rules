@@ -149,7 +149,7 @@
         "level": "10",
         "duration": "Instant",
         "verbal": "Physical Murder 100",
-        "description": "Murder acts as per Physical Strike Doom 100. Defending against this ability requires the target to expend 2 relevant Active Defenses, or take 100 damage. Murder must be performed from behind the target, as per Backstab."
+        "description": "Murder acts as per Physical Strike Doom 100. Defending against this ability requires the target to expend 2 relevant Active Defenses, or take 100 damage. Murder must be performed from behind the target, with a one-handed melee weapon, as per Backstab."
     },
     {
         "name": "Purge",
